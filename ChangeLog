@@ -1,5 +1,12 @@
 2001-11-01  Seth Nickell  <snickell@stanford.edu>
 
+	* autogen.sh:
+
+	Give up and use GNOME2 macros...it works with GnomeVFS2
+	now which is the most important part for now.
+
+2001-11-01  Seth Nickell  <snickell@stanford.edu>
+
 	* .cvsignore:
 
 	Add a cvs ignore file.
