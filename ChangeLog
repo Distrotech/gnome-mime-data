@@ -1,3 +1,9 @@
+2002-06-11  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.keys.in:
+
+	Don't use ogg123 for OGG files, prefer xmms & freeamp.
+
 2002-06-06  Rajeev Karale <rajeev.karale@wipro.com>
 
 	* icons/Makefile.am : Bigfix #84350. Fix for document-icons not 
