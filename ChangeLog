@@ -1,3 +1,9 @@
+2003-08-13  Christian Neumair  <chris@gnome-de.org>
+
+	* gnome-vfs.applications: Use AbiWord 2.0 executable.
+	* gnome-vfs.keys.in: Make Wine the default application for MS DOS
+	executables.
+
 2003-08-07  Bastien Nocera  <hadess@hadess.net>
 
 	* .cvsignore: upd

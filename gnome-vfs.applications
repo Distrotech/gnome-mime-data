@@ -1,5 +1,5 @@
 abiword
-	command=AbiWord
+	command=AbiWord-2.0
 	name=AbiWord
 	can_open_multiple_files=true
 	expects_uris=false

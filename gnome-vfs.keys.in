@@ -786,7 +786,11 @@ application/x-mrproject
 	_category=Documents/Project Management
 
 application/x-ms-dos-executable
+	default_action_type=application
 	_description=DOS/Windows program
+	short_list_application_ids_for_novice_user_level=wine
+	short_list_application_ids_for_intermediate_user_level=wine
+	short_list_application_ids_for_advanced_user_level=wine
 
 application/x-msx-rom
 	_description=MSX ROM
