@@ -1,3 +1,7 @@
+2003-06-29  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
+
+	* configure.in: Added "cy" (Welsh) to ALL_LINGUAS
+
 2003-06-02  Bastien Nocera  <hadess@hadess.net>
 
 	* configure.in: release 2.2.1
