@@ -1,3 +1,11 @@
+2003-07-02  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.mime: only .ram files are playlists, not the others,
+	added rv as a possible extension of Real Media stuff, removed
+	http:// as a possible magic for Real Networks file, too many
+	false positives
+
 2003-06-20  Anders Carlsson  <andersca@codefactory.se>
 
 	* gnome-vfs-mime-magic:

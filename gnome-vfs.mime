@@ -413,8 +413,11 @@ audio/x-mpegurl
 audio/x-ms-asx
 	ext: asx
 
+audio/x-pn-realaudio:
+	ext: ram
+
 audio/x-real-audio
-	ext: rm ra ram
+	ext: rm ra rv
 
 audio/x-s3m
 	ext: S3M s3m
