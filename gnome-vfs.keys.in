@@ -1173,6 +1173,7 @@ audio/x-s3m
 
 audio/x-scpls
 	_description=SHOUTcast playlist
+	_category=Audio
 	icon_filename=i-music
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=xmms-no-uris,freeamp-no-uris
@@ -1361,6 +1362,7 @@ image/x-dpx
 
 image/x-emf
 	_description=StarOffice extended metafile image
+	_category=Images
 	short_list_application_ids_for_novice_user_level=openoffice,staroffice
 	short_list_application_ids_for_intermediate_user_level=openoffice,staroffice
 	short_list_application_ids_for_advanced_user_level=openoffice,staroffice
@@ -1431,18 +1433,21 @@ image/x-palm
 
 image/x-pcx
 	_description=PC Paintbrush image
+	_category=Images
 	short_list_application_ids_for_novice_user_level=openoffice,staroffice,gimp
 	short_list_application_ids_for_intermediate_user_level=openoffice,staroffice,gimp
 	short_list_application_ids_for_advanced_user_level=openoffice,staroffice,gimp
 
 image/x-photo-cd
 	_description=Photo CD image
+	_category=Images
 	short_list_application_ids_for_novice_user_level=openoffice,staroffice
 	short_list_application_ids_for_intermediate_user_level=openoffice,staroffice
 	short_list_application_ids_for_advanced_user_level=openoffice,staroffice
 
 image/x-pict
 	_description=PICT image
+	_category=Images
 	short_list_application_ids_for_novice_user_level=openoffice,staroffice
 	short_list_application_ids_for_intermediate_user_level=openoffice,staroffice
 	short_list_application_ids_for_advanced_user_level=openoffice,staroffice

@@ -1,5 +1,11 @@
 2003-07-22  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.keys.in: Patch from Hidetoshi Tajima
+	<hidetoshi.tajima@sun.com> to avoid duplicate Audio and Images entries
+	in gnome-file-types-properties (Closes: #113938)
+
+2003-07-22  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.keys.in: added application/x-bzip2 mimetype (blame
 	Sourceforge) (Closes: #117087), removed guitar as a possible handler,
 	it's dead
