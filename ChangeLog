@@ -1,5 +1,11 @@
 2003-07-22  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.keys.in: added application/x-bzip2 mimetype (blame
+	Sourceforge) (Closes: #117087), removed guitar as a possible handler,
+	it's dead
+
+2003-07-22  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.mime: added blend and BLEND as possible suffixes for
 	Blender files (Closes: #118024)
 

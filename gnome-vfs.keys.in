@@ -366,9 +366,9 @@ application/x-arj
 	_description=ARJ archive
 	icon_filename=gnome-compressed
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -392,9 +392,9 @@ application/x-bzip
 	_description=Bzip2 compressed file
 	vfs_method=bzip2
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -403,9 +403,20 @@ application/x-bzip-compressed-tar
 	icon_filename=gnome-compressed
 	vfs_method=bzip2
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
+	_category=Packages
+	use_category_default=yes
+
+application/x-bzip2
+	_description=Bzip2 compressed file
+	vfs_method=bzip2
+	icon_filename=gnome-compressed
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -427,9 +438,9 @@ application/x-compress
 	_description=Compress-compressed file
 	icon_filename=gnome-compressed
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -437,9 +448,9 @@ application/x-compressed-tar
 	_description=Tar archive (Gzip-compressed)
 	icon_filename=gnome-package
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -636,9 +647,9 @@ application/x-gtar
 	_description=Gtar archive
 	icon_filename=gnome-package
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -654,9 +665,9 @@ application/x-gzip
 	_description=Gzip-compressed file
 	vfs_method=gzip
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -734,9 +745,9 @@ application/x-lha
 	_description=LHARC archive
 	icon_filename=gnome-compressed
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -744,9 +755,9 @@ application/x-lhz
 	_description=LHA archive
 	icon_filename=gnome-compressed
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -866,9 +877,9 @@ application/x-qw
 application/x-rar
 	_description=RAR archive
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -877,9 +888,9 @@ application/x-rar-compressed
 	_description=RAR archive
 	icon_filename=gnome-package
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -946,9 +957,9 @@ application/x-tar
 	icon_filename=gnome-package
 	vfs_method=tar
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
@@ -1013,9 +1024,9 @@ application/zip
 	icon_filename=gnome-compressed
 	vfs_method=zip
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=file-roller,guitar
-	short_list_application_ids_for_intermediate_user_level=file-roller,guitar
-	short_list_application_ids_for_advanced_user_level=file-roller,guitar
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
 	_category=Packages
 	use_category_default=yes
 
