@@ -448,6 +448,9 @@ image/x-compressed-xcf
 	regex,2: \.xcf\.gz$
 	regex,2: \.xcf\.bz2$
 
+image/x-emf
+	ext: emf
+
 image/x-ico
 	ext: ico
 
@@ -462,6 +465,15 @@ image/x-lwo
 
 image/x-lws
 	ext: lws
+
+image/x-pcx
+	ext: pcx
+
+image/x-photo-cd
+	ext: pcd
+
+image/x-pict
+	ext: pct
 
 image/x-portable-anymap
 	ext: pnm

@@ -1,3 +1,15 @@
+2002-05-31  Alex Graveley  <alex@ximian.com>
+
+	* gnome-vfs.mime: Add image/x-emf, image/x-pcx, image/x-photo-cd,
+	image/x-pict mimetypes.
+
+	* gnome-vfs.applications: Add openoffice application, add new
+	mimetypes as supported by staroffice.
+
+	* gnome-vfs.keys.in: Add openoffice as a supported application
+	wherever staroffice is used.  Add staroffice/openoffice
+	application handlers for added mime types.
+
 2002-05-31  Jakub Steiner <jimmac@ximian.com>
 
 	* icons/i-dvd.png: we can't use the DVD logo I was told. 
