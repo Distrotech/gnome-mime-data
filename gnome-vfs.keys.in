@@ -508,7 +508,7 @@ application/x-dvi
 	short_list_application_ids_for_novice_user_level=xdvi
 	short_list_application_ids_for_intermediate_user_level=xdvi
 	short_list_application_ids_for_advanced_user_level=xdvi
-	_category=Documents/TeX
+	_category=Documents/Published Materials
 	use_category_default=no
 
 application/x-e-theme
@@ -977,7 +977,7 @@ application/x-tar
 application/x-tex
 	_description=TeX document
 	icon_filename=gnome-tex
-	_category=Documents/Text Markup
+	_category=Documents/TeX
 
 application/x-theme
 	_description=Theme
@@ -1859,7 +1859,7 @@ text/tab-separated-values
 # mechanism must be returning it (probably a web server)
 text/tex
 	_description=TeX document
-	_category=Documents/Text Markup
+	_category=Documents/TeX
 
 text/x-asm
 	_description=Assembly source code
@@ -2041,12 +2041,12 @@ text/x-tcl
 # also text/tex
 text/x-tex
 	_description=TeX document
-	_category=Documents/Text Markup
+	_category=Documents/TeX
 	icon_filename=gnome-tex
 
 text/x-texinfo
 	_description=TeXInfo document
-	_category=Documents/Text Markup
+	_category=Documents/TeX
 
 # also application/x-troff
 text/x-troff

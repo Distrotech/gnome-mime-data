@@ -1,5 +1,10 @@
 2003-12-01  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.keys.in: use Documents/TeX for TeX files, and
+	Documents/Published Materials for DVI files (Closes: #119894)
+
+2003-12-01  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.applications: use "gimp-remote" in place of "gimp"
 	to allow the use of an existing instance (Closes: #99272)
 
