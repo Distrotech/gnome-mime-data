@@ -1,3 +1,7 @@
+2003-07-15  Frederic Crozat  <fcrozat@mandrakesoft.com>
+
+	* gnome-vfs.keys.in: use gpdf if available.
+
 2003-07-12  Joël Brich <joel.brich@laposte.net>
 
 	* configure.in: Added "eo" to ALL_LINGUAS.
