@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.2\n"
-"POT-Creation-Date: 2002-02-02 23:08+0100\n"
+"POT-Creation-Date: 2002-02-05 05:44-0800\n"
 "PO-Revision-Date: 2002-02-02 23:08+0100\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@eikonex.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"

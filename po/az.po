@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.0\n"
-"POT-Creation-Date: 2002-01-30 12:02-0800\n"
+"POT-Creation-Date: 2002-02-05 05:44-0800\n"
 "PO-Revision-Date: 2001-12-20 18:41GMT+0200\n"
 "Last-Translator: Vasif İsmayıloğlu MD <azerb_linux@hotmail.com>\n"
 "Language-Team: Azerbaijani Turkic <linuxaz@azerimail.net>\n"

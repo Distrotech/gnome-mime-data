@@ -1,3 +1,9 @@
+2002-02-11  Seth Nickell  <snickell@stanford.edu>
+
+	* configure.in:
+
+	Release 1.0.3.
+
 2002-02-11  Gregory Leblanc  <gleblanc@linuxweasel.com>
 
 	* gnome-mime-data.spec.in: Fixed to make actually work.
