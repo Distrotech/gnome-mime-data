@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs 1.1\n"
-"POT-Creation-Date: 2001-11-01 16:52-0800\n"
+"POT-Creation-Date: 2001-12-01 23:42-0800\n"
 "PO-Revision-Date: 2001-09-10 13:57+0200\n"
 "Last-Translator: Softcatalà <tradgnome@softcatala.org>\n"
 "Language-Team: Catalan <info@softcatala.org>\n"
@@ -112,1195 +112,1091 @@ msgid "CPIO archive (gzip-compressed)"
 msgstr "arxiu CPIO (comprimit amb gzip)"
 
 #: gnome-vfs.keys.in.h:25
+msgid "Commodore 64 Audio"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:26
 msgid "DCL script"
 msgstr "Seqüència DCL"
 
-#: gnome-vfs.keys.in.h:26
+#: gnome-vfs.keys.in.h:27
 msgid "DOS font"
 msgstr "font DOS"
 
-#: gnome-vfs.keys.in.h:27
+#: gnome-vfs.keys.in.h:28
 msgid "DOS/Windows program"
 msgstr "programa DOS/Windows"
 
-#: gnome-vfs.keys.in.h:28
+#: gnome-vfs.keys.in.h:29
 msgid "DSSSL document"
 msgstr "document DSSSL"
 
-#: gnome-vfs.keys.in.h:29
+#: gnome-vfs.keys.in.h:30
 msgid "DXF vector graphic"
 msgstr "gràfic vectorial DXF"
 
-#: gnome-vfs.keys.in.h:30
+#: gnome-vfs.keys.in.h:31
 msgid "Debian package"
 msgstr "paquet Debian"
 
-#: gnome-vfs.keys.in.h:31
+#: gnome-vfs.keys.in.h:32
 msgid "Dia diagram"
 msgstr "diagrama Dia"
 
-#: gnome-vfs.keys.in.h:32
+#: gnome-vfs.keys.in.h:33
 msgid "Dolby Digital audio"
 msgstr "àudio Dolby Digital"
 
-#: gnome-vfs.keys.in.h:33
+#: gnome-vfs.keys.in.h:34
 msgid "Emacs Lisp source code"
 msgstr "codi font Emacs Lisp"
 
-#: gnome-vfs.keys.in.h:34
+#: gnome-vfs.keys.in.h:35
 msgid "Enlightenment theme"
 msgstr "tema Enlightenment"
 
-#: gnome-vfs.keys.in.h:35
+#: gnome-vfs.keys.in.h:36
 msgid "FLC animation"
 msgstr "animació FLC"
 
-#: gnome-vfs.keys.in.h:36
+#: gnome-vfs.keys.in.h:37
 msgid "FLI animation"
 msgstr "animació FLI"
 
-#: gnome-vfs.keys.in.h:37
+#: gnome-vfs.keys.in.h:38
 msgid "FastTracker II audio"
 msgstr "àudio FastTracker II"
 
-#: gnome-vfs.keys.in.h:38
+#: gnome-vfs.keys.in.h:39
 msgid "Fortran source code"
 msgstr "codi font Fortran"
 
-#: gnome-vfs.keys.in.h:39
+#: gnome-vfs.keys.in.h:40
 msgid "FrameMaker interchange document"
 msgstr "document d'intercanvi FrameMaker"
 
-#: gnome-vfs.keys.in.h:40
+#: gnome-vfs.keys.in.h:41
 msgid "G3 fax image"
 msgstr "imatge fax G3"
 
-#: gnome-vfs.keys.in.h:41
+#: gnome-vfs.keys.in.h:42
 msgid "GIF image"
 msgstr "imatge GIF"
 
-#: gnome-vfs.keys.in.h:42
+#: gnome-vfs.keys.in.h:43
 msgid "GIMP document"
 msgstr "document GIMP"
 
-#: gnome-vfs.keys.in.h:43
+#: gnome-vfs.keys.in.h:44
 msgid "GMC link"
 msgstr "enllaç GMC"
 
-#: gnome-vfs.keys.in.h:44
+#: gnome-vfs.keys.in.h:45
 msgid "GNOME application details"
 msgstr "Detalls de l'aplicació GNOME"
 
-#: gnome-vfs.keys.in.h:45
+#: gnome-vfs.keys.in.h:46
 msgid "GNU Oleo Spreadsheet"
 msgstr "full de càlcul GNU Oleo"
 
-#: gnome-vfs.keys.in.h:46
+#: gnome-vfs.keys.in.h:47
 msgid "GNU mail message"
 msgstr "missatge de correu GNU"
 
-#: gnome-vfs.keys.in.h:47
+#: gnome-vfs.keys.in.h:48
 msgid "GTK configuration"
 msgstr "configuració GTK"
 
-#: gnome-vfs.keys.in.h:48
+#: gnome-vfs.keys.in.h:49
 msgid "Glade project"
 msgstr "projecte Glade"
 
-#: gnome-vfs.keys.in.h:49
+#: gnome-vfs.keys.in.h:50
 msgid "GnuCash Workbook"
 msgstr "llibre de treball GnuCash"
 
-#: gnome-vfs.keys.in.h:50
+#: gnome-vfs.keys.in.h:51
 msgid "Gnumeric spreadsheet"
 msgstr "full de càlcul Gnumeric"
 
-#: gnome-vfs.keys.in.h:51
+#: gnome-vfs.keys.in.h:52
 msgid "HDF document"
 msgstr "document HDF"
 
-#: gnome-vfs.keys.in.h:52
+#: gnome-vfs.keys.in.h:53
 msgid "HTML page"
 msgstr "pàgina HTML"
 
-#: gnome-vfs.keys.in.h:53
+#: gnome-vfs.keys.in.h:54
 msgid "IDL document"
 msgstr "document IDL"
 
-#: gnome-vfs.keys.in.h:54
+#: gnome-vfs.keys.in.h:55
 msgid "IEF image"
 msgstr "imatge IEF"
 
-#: gnome-vfs.keys.in.h:55
+#: gnome-vfs.keys.in.h:56
 msgid "IFF image"
 msgstr "imatge IFF"
 
-#: gnome-vfs.keys.in.h:56
+#: gnome-vfs.keys.in.h:57
 msgid "ILBM image"
 msgstr "imatge ILBM"
 
-#: gnome-vfs.keys.in.h:57
+#: gnome-vfs.keys.in.h:58
 msgid "ISI video"
 msgstr "vídeo ISI"
 
-#: gnome-vfs.keys.in.h:58
+#: gnome-vfs.keys.in.h:59
 msgid "Impulse Tracker audio"
 msgstr "àudio Impulse Tracker"
 
-#: gnome-vfs.keys.in.h:59
+#: gnome-vfs.keys.in.h:60
 msgid "JBuilder Project"
 msgstr "projecte JBuilder"
 
-#: gnome-vfs.keys.in.h:60
+#: gnome-vfs.keys.in.h:61
 msgid "JPEG image"
 msgstr "imatge JPEG"
 
-#: gnome-vfs.keys.in.h:61
+#: gnome-vfs.keys.in.h:62
 msgid "Java byte code"
 msgstr "codi de bytes Java"
 
-#: gnome-vfs.keys.in.h:62
+#: gnome-vfs.keys.in.h:63
 msgid "Java source code"
 msgstr "codi font Java"
 
-#: gnome-vfs.keys.in.h:63
+#: gnome-vfs.keys.in.h:64
 msgid "KDE application details"
 msgstr "Detalls de l'aplicació KDE"
 
-#: gnome-vfs.keys.in.h:64
+#: gnome-vfs.keys.in.h:65
 msgid "KIllustrator document"
 msgstr "document KIllustrator"
 
-#: gnome-vfs.keys.in.h:65
+#: gnome-vfs.keys.in.h:66
 msgid "KPresenter presentation"
 msgstr "presentació KPresenter"
 
-#: gnome-vfs.keys.in.h:66
+#: gnome-vfs.keys.in.h:67
 msgid "KSpread spreadsheet"
 msgstr "full de càlcul KSpread"
 
-#: gnome-vfs.keys.in.h:67
+#: gnome-vfs.keys.in.h:68
 msgid "KWord document"
 msgstr "document KWord"
 
-#: gnome-vfs.keys.in.h:68
+#: gnome-vfs.keys.in.h:69
 msgid "Korn shell script"
 msgstr "seqüència d'intèrpret d'ordres Korn"
 
-#: gnome-vfs.keys.in.h:69
+#: gnome-vfs.keys.in.h:70
 msgid "LHA archive"
 msgstr "arxiu LHA"
 
-#: gnome-vfs.keys.in.h:70
+#: gnome-vfs.keys.in.h:71
 msgid "LHARC archive"
 msgstr "arxiu LHARC"
 
-#: gnome-vfs.keys.in.h:71
+#: gnome-vfs.keys.in.h:72
 msgid "LIBGRX font"
 msgstr "font LIBGRX"
 
-#: gnome-vfs.keys.in.h:72
+#: gnome-vfs.keys.in.h:73
 msgid "LightWave object"
 msgstr "objecte LightWave"
 
-#: gnome-vfs.keys.in.h:73
+#: gnome-vfs.keys.in.h:74
 msgid "LightWave scene"
 msgstr "escena LightWave"
 
-#: gnome-vfs.keys.in.h:74
+#: gnome-vfs.keys.in.h:75
 msgid "Linux PSF console font"
 msgstr "font de consola Linux PSF"
 
-#: gnome-vfs.keys.in.h:75
+#: gnome-vfs.keys.in.h:76
 msgid "Lotus 1-2-3 spreadsheet"
 msgstr "full de càlcul Lotus 1-2-3"
 
-#: gnome-vfs.keys.in.h:76
+#: gnome-vfs.keys.in.h:77
+#, fuzzy
+msgid "LyX Document"
+msgstr "document IDL"
+
+#: gnome-vfs.keys.in.h:78
 msgid "M3 audio URL"
 msgstr "URL d'àudio M3"
 
-#: gnome-vfs.keys.in.h:77
+#: gnome-vfs.keys.in.h:79
 msgid "MIDI audio"
 msgstr "àudio MIDI"
 
-#: gnome-vfs.keys.in.h:78
+#: gnome-vfs.keys.in.h:80
 msgid "MOD audio"
 msgstr "àudio MOD"
 
-#: gnome-vfs.keys.in.h:79
+#: gnome-vfs.keys.in.h:81
 msgid "MP3 audio"
 msgstr "àudio MP3"
 
-#: gnome-vfs.keys.in.h:80
+#: gnome-vfs.keys.in.h:82
 msgid "MP3 audio playlist"
 msgstr "selecció de peces d'àudio MP3"
 
-#: gnome-vfs.keys.in.h:81
+#: gnome-vfs.keys.in.h:83
 msgid "MPEG video"
 msgstr "vídeo MPEG"
 
-#: gnome-vfs.keys.in.h:82
+#: gnome-vfs.keys.in.h:84
 msgid "MS ASF video"
 msgstr "vídeo MS ASF"
 
-#: gnome-vfs.keys.in.h:83
+#: gnome-vfs.keys.in.h:85
 msgid "MS video"
 msgstr "vídeo MS"
 
-#: gnome-vfs.keys.in.h:84
+#: gnome-vfs.keys.in.h:86
 msgid "Macintosh AppleDouble-encoded file"
 msgstr "fitxer codificat Macintosh AppleDouble"
 
-#: gnome-vfs.keys.in.h:85
+#: gnome-vfs.keys.in.h:87
 msgid "Macintosh BinHex-encoded file"
 msgstr "fitxer codificat Macintosh BinHex"
 
-#: gnome-vfs.keys.in.h:86
+#: gnome-vfs.keys.in.h:88
 msgid "Macintosh StuffIt archive"
 msgstr "arxiu Macintosh StuffIt"
 
-#: gnome-vfs.keys.in.h:87
+#: gnome-vfs.keys.in.h:89
 msgid "Macromedia Flash file"
 msgstr "fitxer Macromedia Flash"
 
-#: gnome-vfs.keys.in.h:88
+#: gnome-vfs.keys.in.h:90
 msgid "MathML document"
 msgstr "document MathML"
 
-#: gnome-vfs.keys.in.h:89
+#: gnome-vfs.keys.in.h:91
 msgid "Microsoft Excel spreadsheet"
 msgstr "full de càlcul Microsoft Excel"
 
-#: gnome-vfs.keys.in.h:90
+#: gnome-vfs.keys.in.h:92
 msgid "Microsoft PowerPoint document"
 msgstr "document Microsoft PowerPoint"
 
-#: gnome-vfs.keys.in.h:91
+#: gnome-vfs.keys.in.h:93
 msgid "Microsoft Word document"
 msgstr "document Microsoft Word"
 
-#: gnome-vfs.keys.in.h:92
+#: gnome-vfs.keys.in.h:94
 msgid "Microsoft video"
 msgstr "vídeo Microsoft"
 
-#: gnome-vfs.keys.in.h:93
+#: gnome-vfs.keys.in.h:95
 msgid "Nautilus link"
 msgstr "enllaç Nautilus"
 
-#: gnome-vfs.keys.in.h:94
+#: gnome-vfs.keys.in.h:96
 msgid "ODA document"
 msgstr "document ODA"
 
-#: gnome-vfs.keys.in.h:95
+#: gnome-vfs.keys.in.h:97
 msgid "PBM image"
 msgstr "imatge PBM"
 
-#: gnome-vfs.keys.in.h:96
+#: gnome-vfs.keys.in.h:98
 msgid "PCF font"
 msgstr "font PCF"
 
-#: gnome-vfs.keys.in.h:97
+#: gnome-vfs.keys.in.h:99
 msgid "PDF document"
 msgstr "document PDF"
 
-#: gnome-vfs.keys.in.h:98
+#: gnome-vfs.keys.in.h:100
 msgid "PEF program"
 msgstr "programa PEF"
 
-#: gnome-vfs.keys.in.h:99
+#: gnome-vfs.keys.in.h:101
 msgid "PGM image"
 msgstr "imatge PGM"
 
-#: gnome-vfs.keys.in.h:100
+#: gnome-vfs.keys.in.h:102
 msgid "PGN chess game"
 msgstr "joc d'escacs PGN"
 
-#: gnome-vfs.keys.in.h:101
+#: gnome-vfs.keys.in.h:103
 msgid "PGP keys"
 msgstr "claus PGP"
 
-#: gnome-vfs.keys.in.h:102
+#: gnome-vfs.keys.in.h:104
 msgid "PGP message"
 msgstr "missatge PGP"
 
-#: gnome-vfs.keys.in.h:103
+#: gnome-vfs.keys.in.h:105
 msgid "PGP signature"
 msgstr "signatura PGP"
 
-#: gnome-vfs.keys.in.h:104
+#: gnome-vfs.keys.in.h:106
 msgid "PGP-encrypted file"
 msgstr "fitxer codificat PGP"
 
-#: gnome-vfs.keys.in.h:105
+#: gnome-vfs.keys.in.h:107
 msgid "PHP script"
 msgstr "seqüència PHP"
 
-#: gnome-vfs.keys.in.h:106
+#: gnome-vfs.keys.in.h:108
 msgid "PN RealAudio document"
 msgstr "document PN RealAudio"
 
-#: gnome-vfs.keys.in.h:107
+#: gnome-vfs.keys.in.h:109
 msgid "PNG image"
 msgstr "imatge PNG"
 
-#: gnome-vfs.keys.in.h:108
+#: gnome-vfs.keys.in.h:110
 msgid "PNM image"
 msgstr "imatge PNM"
 
-#: gnome-vfs.keys.in.h:109
+#: gnome-vfs.keys.in.h:111
 msgid "PPM image"
 msgstr "imatge PPM"
 
-#: gnome-vfs.keys.in.h:110
+#: gnome-vfs.keys.in.h:112
 msgid "Palm OS database"
 msgstr "base de dades Palm OS"
 
-#: gnome-vfs.keys.in.h:111
+#: gnome-vfs.keys.in.h:113
 msgid "Perl script"
 msgstr "Seqüència Perl"
 
-#: gnome-vfs.keys.in.h:112
+#: gnome-vfs.keys.in.h:114
 msgid "Photoshop document"
 msgstr "document Photoshop"
 
-#: gnome-vfs.keys.in.h:113
+#: gnome-vfs.keys.in.h:115
 msgid "PostScript Type 1 font"
 msgstr "font PostScript Tipus 1"
 
-#: gnome-vfs.keys.in.h:114
+#: gnome-vfs.keys.in.h:116
 msgid "PostScript document"
 msgstr "document PostScript"
 
-#: gnome-vfs.keys.in.h:115
+#: gnome-vfs.keys.in.h:117
 msgid "Python source code"
 msgstr "codi font Python"
 
-#: gnome-vfs.keys.in.h:116
+#: gnome-vfs.keys.in.h:118
 msgid "QuickTime movie"
 msgstr "pel·lícula QuickTime"
 
-#: gnome-vfs.keys.in.h:117
+#: gnome-vfs.keys.in.h:119
 msgid "Quicken document"
 msgstr "document Quicken"
 
-#: gnome-vfs.keys.in.h:118
+#: gnome-vfs.keys.in.h:120
 msgid "Quicken for Windows document"
 msgstr "Quicken per a document Windows"
 
-#: gnome-vfs.keys.in.h:119
+#: gnome-vfs.keys.in.h:121
 msgid "RAR archive"
 msgstr "arxiu RAR"
 
-#: gnome-vfs.keys.in.h:120
+#: gnome-vfs.keys.in.h:122
 msgid "README document"
 msgstr "document README"
 
-#: gnome-vfs.keys.in.h:121
+#: gnome-vfs.keys.in.h:123
 msgid "RGB image"
 msgstr "imatge RGB"
 
-#: gnome-vfs.keys.in.h:122
+#: gnome-vfs.keys.in.h:124
 msgid "RIFF audio"
 msgstr "àudio RIFF"
 
-#: gnome-vfs.keys.in.h:123
+#: gnome-vfs.keys.in.h:125
 msgid "RPM package"
 msgstr "paquet RPM"
 
-#: gnome-vfs.keys.in.h:124
+#: gnome-vfs.keys.in.h:126
 msgid "RealAudio/Video document"
 msgstr "document RealAudio/Video"
 
-#: gnome-vfs.keys.in.h:125
+#: gnome-vfs.keys.in.h:127
 msgid "RealVideo video"
 msgstr "vídeo RealVideo"
 
-#: gnome-vfs.keys.in.h:126
+#: gnome-vfs.keys.in.h:128
 msgid "S/MIME file"
 msgstr "Fitxer S/MIME"
 
-#: gnome-vfs.keys.in.h:127
+#: gnome-vfs.keys.in.h:129
 msgid "S/MIME signature"
 msgstr "signatura S/MIME"
 
-#: gnome-vfs.keys.in.h:128
+#: gnome-vfs.keys.in.h:130
 msgid "SGI video"
 msgstr "vídeo SGI"
 
-#: gnome-vfs.keys.in.h:129
+#: gnome-vfs.keys.in.h:131
 msgid "SGML document"
 msgstr "document SGML"
 
-#: gnome-vfs.keys.in.h:130
+#: gnome-vfs.keys.in.h:132
 msgid "SMIL script"
 msgstr "seqüència SMIL"
 
-#: gnome-vfs.keys.in.h:131
+#: gnome-vfs.keys.in.h:133
 msgid "SQL code"
 msgstr "codi SQL"
 
-#: gnome-vfs.keys.in.h:132
+#: gnome-vfs.keys.in.h:134
 msgid "SV4 CPIO archive"
 msgstr "arxiu SV4 CPIO"
 
-#: gnome-vfs.keys.in.h:133
+#: gnome-vfs.keys.in.h:135
 msgid "SV4 CPIP archive (with CRC)"
 msgstr "arxiu SV4 CPIP (amb CRC)"
 
-#: gnome-vfs.keys.in.h:134
+#: gnome-vfs.keys.in.h:136
 msgid "SVG art"
 msgstr "art SVG"
 
-#: gnome-vfs.keys.in.h:135
+#: gnome-vfs.keys.in.h:137
 msgid "Scheme source code"
 msgstr "codi font Scheme"
 
-#: gnome-vfs.keys.in.h:136
+#: gnome-vfs.keys.in.h:138
 msgid "Scream Tracker 3 audio"
 msgstr "àudio Scream Tracker 3"
 
-#: gnome-vfs.keys.in.h:137
+#: gnome-vfs.keys.in.h:139
 msgid "Scream Tracker audio"
 msgstr "àudio Scream Tracker"
 
-#: gnome-vfs.keys.in.h:138
+#: gnome-vfs.keys.in.h:140
 msgid "Scream Tracker instrument"
 msgstr "instrument Scream Tracker"
 
-#: gnome-vfs.keys.in.h:139
+#: gnome-vfs.keys.in.h:141
 msgid "Setext document"
 msgstr "document Setext"
 
-#: gnome-vfs.keys.in.h:140
+#: gnome-vfs.keys.in.h:142
 msgid "Speech document"
 msgstr "document Speech"
 
-#: gnome-vfs.keys.in.h:141
+#: gnome-vfs.keys.in.h:143
 msgid "Speedo font"
 msgstr "font Speedo"
 
-#: gnome-vfs.keys.in.h:142
+#: gnome-vfs.keys.in.h:144
 msgid "Spreadsheet Interchange document"
 msgstr "document SpreadSheet Interchange"
 
-#: gnome-vfs.keys.in.h:143
+#: gnome-vfs.keys.in.h:145
 msgid "Stampede package"
 msgstr "paquet Stampede"
 
-#: gnome-vfs.keys.in.h:144
+#: gnome-vfs.keys.in.h:146
 msgid "StarOffice Writer document"
 msgstr "document StarOffice Writer"
 
-#: gnome-vfs.keys.in.h:145
+#: gnome-vfs.keys.in.h:147
 msgid "StarOffice presentation"
 msgstr "presentació StarOffice"
 
-#: gnome-vfs.keys.in.h:146
+#: gnome-vfs.keys.in.h:148
 msgid "StarOffice spreadsheet"
 msgstr "full de càlcul StarOffice"
 
-#: gnome-vfs.keys.in.h:147
+#: gnome-vfs.keys.in.h:149
 msgid "Sun mu-law audio"
 msgstr "àudio Sun µ-law"
 
-#: gnome-vfs.keys.in.h:148
+#: gnome-vfs.keys.in.h:150
 msgid "SunOS News font"
 msgstr "font SunOS News"
 
-#: gnome-vfs.keys.in.h:149
+#: gnome-vfs.keys.in.h:151
 msgid "TIFF image"
 msgstr "imatge TIFF"
 
-#: gnome-vfs.keys.in.h:150
+#: gnome-vfs.keys.in.h:152
 msgid "TarGA image"
 msgstr "imatge TarGA"
 
-#: gnome-vfs.keys.in.h:151
+#: gnome-vfs.keys.in.h:153
 msgid "Tcl script"
 msgstr "seqüència Tcl"
 
-#: gnome-vfs.keys.in.h:152
+#: gnome-vfs.keys.in.h:154
 msgid "TeX document"
 msgstr "document TeX"
 
-#: gnome-vfs.keys.in.h:153
+#: gnome-vfs.keys.in.h:155
 msgid "TeX dvi document"
 msgstr "document TeX dvi"
 
-#: gnome-vfs.keys.in.h:154
+#: gnome-vfs.keys.in.h:156
 msgid "TeX font"
 msgstr "font TeX"
 
-#: gnome-vfs.keys.in.h:155
+#: gnome-vfs.keys.in.h:157
 msgid "TeX font metrics"
 msgstr "mètrica de font TeX"
 
-#: gnome-vfs.keys.in.h:156
+#: gnome-vfs.keys.in.h:158
 msgid "TeXInfo document"
 msgstr "document TeXInfo"
 
-#: gnome-vfs.keys.in.h:157
+#: gnome-vfs.keys.in.h:159
 msgid "ToutDoux document"
 msgstr "document ToutDoux"
 
-#: gnome-vfs.keys.in.h:158
+#: gnome-vfs.keys.in.h:160
 msgid "TrueType font"
 msgstr "font TrueType"
 
-#: gnome-vfs.keys.in.h:159
+#: gnome-vfs.keys.in.h:161
 msgid "USENET news message"
 msgstr "missatge USENET"
 
-#: gnome-vfs.keys.in.h:160
+#: gnome-vfs.keys.in.h:162
 msgid "Unidata netCDF document"
 msgstr "document netCDF Unidata"
 
-#: gnome-vfs.keys.in.h:161
+#: gnome-vfs.keys.in.h:163
 msgid "V font"
 msgstr "font V"
 
-#: gnome-vfs.keys.in.h:162
+#: gnome-vfs.keys.in.h:164
 msgid "VOC audio"
 msgstr "àudio VOC"
 
-#: gnome-vfs.keys.in.h:163
+#: gnome-vfs.keys.in.h:165
 msgid "VRML document"
 msgstr "document VRML"
 
-#: gnome-vfs.keys.in.h:164
+#: gnome-vfs.keys.in.h:166
 msgid "Vivo video"
 msgstr "vídeo Vivo"
 
-#: gnome-vfs.keys.in.h:165
+#: gnome-vfs.keys.in.h:167
 msgid "WAIS source code"
 msgstr "codi font WAIS"
 
-#: gnome-vfs.keys.in.h:166
+#: gnome-vfs.keys.in.h:168
 msgid "Wavelet video"
 msgstr "vídeo Wavelet"
 
-#: gnome-vfs.keys.in.h:167
+#: gnome-vfs.keys.in.h:169
 msgid "Windows bitmap image"
 msgstr "imatge de mapa de bits Windows"
 
-#: gnome-vfs.keys.in.h:168
+#: gnome-vfs.keys.in.h:170
 msgid "Windows icon image"
 msgstr "imatge d'icona Windows"
 
-#: gnome-vfs.keys.in.h:169
+#: gnome-vfs.keys.in.h:171
 msgid "Windows metafile graphics"
 msgstr "gràfics de metafitxer Windows"
 
-#: gnome-vfs.keys.in.h:170
+#: gnome-vfs.keys.in.h:172
 msgid "WordPerfect document"
 msgstr "document WordPerfect"
 
-#: gnome-vfs.keys.in.h:171
+#: gnome-vfs.keys.in.h:173
 msgid "X bitmap image"
 msgstr "imatge de mapa de bits X"
 
-#: gnome-vfs.keys.in.h:172
+#: gnome-vfs.keys.in.h:174
 msgid "X window image"
 msgstr "imatge X Window"
 
-#: gnome-vfs.keys.in.h:173
+#: gnome-vfs.keys.in.h:175
 msgid "XML document"
 msgstr "document XML"
 
-#: gnome-vfs.keys.in.h:174
+#: gnome-vfs.keys.in.h:176
 msgid "XPM image"
 msgstr "imatge XPM"
 
-#: gnome-vfs.keys.in.h:175
+#: gnome-vfs.keys.in.h:177
 msgid "Xbase database"
 msgstr "base de dades Xbase"
 
-#: gnome-vfs.keys.in.h:176
+#: gnome-vfs.keys.in.h:178
 msgid "active server page"
 msgstr "pàgina del servidor actiu"
 
-#: gnome-vfs.keys.in.h:177
+#: gnome-vfs.keys.in.h:179
 msgid "address card"
 msgstr "targeta d'adreces"
 
-#: gnome-vfs.keys.in.h:178
+#: gnome-vfs.keys.in.h:180
 msgid "ar archive"
 msgstr "arxiu ar"
 
-#: gnome-vfs.keys.in.h:179
+#: gnome-vfs.keys.in.h:181
 msgid "arj archive"
 msgstr "arxiu arj"
 
-#: gnome-vfs.keys.in.h:180
+#: gnome-vfs.keys.in.h:182
 msgid "authors list"
 msgstr "llistat d'autors"
 
-#: gnome-vfs.keys.in.h:181
+#: gnome-vfs.keys.in.h:183
 msgid "backup file"
 msgstr "còpia de seguretat"
 
-#: gnome-vfs.keys.in.h:182
+#: gnome-vfs.keys.in.h:184
 msgid "basic audio"
 msgstr "àudio bàsic"
 
-#: gnome-vfs.keys.in.h:183
+#: gnome-vfs.keys.in.h:185
 msgid "bibliography record"
 msgstr "registre bibliogràfic"
 
-#: gnome-vfs.keys.in.h:184
+#: gnome-vfs.keys.in.h:186
 msgid "binary program"
 msgstr "programa binari"
 
-#: gnome-vfs.keys.in.h:185
+#: gnome-vfs.keys.in.h:187
 msgid "block device"
 msgstr "dispositiu de bloqueig"
 
-#: gnome-vfs.keys.in.h:186
+#: gnome-vfs.keys.in.h:188
 msgid "bzip-compressed file"
 msgstr "fitxer comprimit amb bzip"
 
-#: gnome-vfs.keys.in.h:187
+#: gnome-vfs.keys.in.h:189
 msgid "calendar file"
 msgstr "fitxer calendari"
 
-#: gnome-vfs.keys.in.h:188
+#: gnome-vfs.keys.in.h:190
 msgid "calendar or event document"
 msgstr "document calendari o esdeveniment"
 
-#: gnome-vfs.keys.in.h:189
+#: gnome-vfs.keys.in.h:191
 msgid "character device"
 msgstr "dispositiu de caràcters"
 
-#: gnome-vfs.keys.in.h:190
+#: gnome-vfs.keys.in.h:192
 msgid "comma-separated text document"
 msgstr "document separat per comes"
 
-#: gnome-vfs.keys.in.h:191
+#: gnome-vfs.keys.in.h:193
 msgid "compound document"
 msgstr "document compost"
 
-#: gnome-vfs.keys.in.h:192
+#: gnome-vfs.keys.in.h:194
 msgid "compress-compressed file"
 msgstr "fitxer comprimit amb compress"
 
-#: gnome-vfs.keys.in.h:193
+#: gnome-vfs.keys.in.h:195
 msgid "compressed GIMP document"
 msgstr "document comprimit amb GIMP"
 
-#: gnome-vfs.keys.in.h:194
+#: gnome-vfs.keys.in.h:196
 msgid "directory information file"
 msgstr "fitxer d'informació del directori"
 
-#: gnome-vfs.keys.in.h:195
+#: gnome-vfs.keys.in.h:197
 msgid "document type definition"
 msgstr "definició del tipus de document"
 
-#: gnome-vfs.keys.in.h:196
+#: gnome-vfs.keys.in.h:198
 msgid "email headers"
 msgstr "Capçaleres del correu electrònic"
 
-#: gnome-vfs.keys.in.h:197
+#: gnome-vfs.keys.in.h:199
 msgid "email message"
 msgstr "missatge de correu electrònic"
 
-#: gnome-vfs.keys.in.h:198
+#: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
 msgstr "missatge encriptat"
 
-#: gnome-vfs.keys.in.h:199
+#: gnome-vfs.keys.in.h:201
 msgid "enriched text document"
 msgstr "document de text enriquit"
 
-#: gnome-vfs.keys.in.h:200
+#: gnome-vfs.keys.in.h:202
 msgid "folder"
 msgstr "carpeta"
 
-#: gnome-vfs.keys.in.h:201
+#: gnome-vfs.keys.in.h:203
 msgid "gtar archive"
 msgstr "arxiu gtar"
 
-#: gnome-vfs.keys.in.h:202
+#: gnome-vfs.keys.in.h:204
 msgid "gzip-compressed file"
 msgstr "fitxer comprimit amb gzip"
 
-#: gnome-vfs.keys.in.h:203
+#: gnome-vfs.keys.in.h:205
 msgid "help page"
 msgstr "pàgina d'ajuda"
 
-#: gnome-vfs.keys.in.h:204
+#: gnome-vfs.keys.in.h:206
 msgid "mail delivery report"
 msgstr "informe del lliurament del correu"
 
-#: gnome-vfs.keys.in.h:205
+#: gnome-vfs.keys.in.h:207
 msgid "mail disposition report"
 msgstr "informe de la clasificació del correu"
 
-#: gnome-vfs.keys.in.h:206
+#: gnome-vfs.keys.in.h:208
 msgid "mail system report"
 msgstr "informe de sistema de correu"
 
-#: gnome-vfs.keys.in.h:207
+#: gnome-vfs.keys.in.h:209
 msgid "makefile"
 msgstr "makefile"
 
-#: gnome-vfs.keys.in.h:208
+#: gnome-vfs.keys.in.h:210
 msgid "manual page"
 msgstr "pàgina manual"
 
-#: gnome-vfs.keys.in.h:209
+#: gnome-vfs.keys.in.h:211
 msgid "manual page (compressed)"
 msgstr "pàgina manual (comprimida)"
 
-#: gnome-vfs.keys.in.h:210
+#: gnome-vfs.keys.in.h:212
 msgid "memory dump"
 msgstr "paperera de memòria"
 
-#: gnome-vfs.keys.in.h:211
+#: gnome-vfs.keys.in.h:213
 msgid "message digest"
 msgstr "resum del missatge"
 
-#: gnome-vfs.keys.in.h:212
+#: gnome-vfs.keys.in.h:214
 msgid "message in several formats"
 msgstr "missatge en diferents formats"
 
-#: gnome-vfs.keys.in.h:213
+#: gnome-vfs.keys.in.h:215
 msgid "multi-part message"
 msgstr "missatge multipart"
 
-#: gnome-vfs.keys.in.h:214
+#: gnome-vfs.keys.in.h:216
 msgid "named pipe"
 msgstr "conducte designat"
 
-#: gnome-vfs.keys.in.h:215
+#: gnome-vfs.keys.in.h:217
 msgid "object code"
 msgstr "codi objecte"
 
-#: gnome-vfs.keys.in.h:216
+#: gnome-vfs.keys.in.h:218
 msgid "ogg audio"
 msgstr "àudio ogg"
 
-#: gnome-vfs.keys.in.h:217
+#: gnome-vfs.keys.in.h:219
 msgid "partial email message"
 msgstr "missatge de correu parcial"
 
-#: gnome-vfs.keys.in.h:218
+#: gnome-vfs.keys.in.h:220
 msgid "plain text document"
 msgstr "document de text"
 
-#: gnome-vfs.keys.in.h:219
+#: gnome-vfs.keys.in.h:221
 msgid "profiler results"
 msgstr "resultats del perfilador"
 
-#: gnome-vfs.keys.in.h:220
+#: gnome-vfs.keys.in.h:222
 msgid "reference to remote file"
 msgstr "refèrencia al fitxer remot"
 
-#: gnome-vfs.keys.in.h:221
+#: gnome-vfs.keys.in.h:223
 msgid "rejected patch file"
 msgstr "fitxer pedaç rebutjat"
 
-#: gnome-vfs.keys.in.h:222
+#: gnome-vfs.keys.in.h:224
 msgid "rich text document"
 msgstr "document de text enriquit"
 
-#: gnome-vfs.keys.in.h:223
+#: gnome-vfs.keys.in.h:225
 msgid "search results"
 msgstr "resultats de la cerca"
 
-#: gnome-vfs.keys.in.h:224
+#: gnome-vfs.keys.in.h:226
 msgid "shared library"
 msgstr "biblioteca compartida"
 
-#: gnome-vfs.keys.in.h:225
+#: gnome-vfs.keys.in.h:227
 msgid "shell archive"
 msgstr "arxiu d'intèrpret d'ordres"
 
-#: gnome-vfs.keys.in.h:226
+#: gnome-vfs.keys.in.h:228
 msgid "shell script"
 msgstr "Seqüència de l''intèrpret d'ordres"
 
-#: gnome-vfs.keys.in.h:227
+#: gnome-vfs.keys.in.h:229
 msgid "signed message"
 msgstr "missatge signat"
 
-#: gnome-vfs.keys.in.h:228
+#: gnome-vfs.keys.in.h:230
 msgid "socket"
 msgstr "sòcol"
 
-#: gnome-vfs.keys.in.h:229
+#: gnome-vfs.keys.in.h:231
 msgid "software author credits"
 msgstr "crèdits d'autoria del programari"
 
-#: gnome-vfs.keys.in.h:230
+#: gnome-vfs.keys.in.h:232
 msgid "software installation instructions"
 msgstr "instruccions d'instal·lació del programari"
 
-#: gnome-vfs.keys.in.h:231
+#: gnome-vfs.keys.in.h:233
 msgid "software license terms"
 msgstr "condicions de la llicència del programari"
 
-#: gnome-vfs.keys.in.h:232
+#: gnome-vfs.keys.in.h:234
 msgid "source code patch"
 msgstr "pedaç de codi font"
 
-#: gnome-vfs.keys.in.h:233
+#: gnome-vfs.keys.in.h:235
 msgid "style sheet"
 msgstr "full d'estil"
 
-#: gnome-vfs.keys.in.h:234
+#: gnome-vfs.keys.in.h:236
 msgid "symbolic link"
 msgstr "enllaç simbòlic"
 
-#: gnome-vfs.keys.in.h:235
+#: gnome-vfs.keys.in.h:237
 msgid "tab-separated text document"
 msgstr "document de text separat per tabulació"
 
-#: gnome-vfs.keys.in.h:236
+#: gnome-vfs.keys.in.h:238
 msgid "tar archive"
 msgstr "arxiu tar"
 
-#: gnome-vfs.keys.in.h:237
+#: gnome-vfs.keys.in.h:239
 msgid "tar archive (bzip2-compressed)"
 msgstr "arxiu tar (comprimit amb bzip2)"
 
-#: gnome-vfs.keys.in.h:238
+#: gnome-vfs.keys.in.h:240
 msgid "tar archive (gzip-compressed)"
 msgstr "arxiu tar (comprimit amb gzip)"
 
-#: gnome-vfs.keys.in.h:239
+#: gnome-vfs.keys.in.h:241
 msgid "theme"
 msgstr "tema"
 
-#: gnome-vfs.keys.in.h:240
+#: gnome-vfs.keys.in.h:242
 msgid "troff document"
 msgstr "document troff"
 
-#: gnome-vfs.keys.in.h:241
+#: gnome-vfs.keys.in.h:243
 msgid "troff me input document"
 msgstr "document d'entrada troff me"
 
-#: gnome-vfs.keys.in.h:242
+#: gnome-vfs.keys.in.h:244
 msgid "troff mm input document"
 msgstr "document d'entrada troff mm"
 
-#: gnome-vfs.keys.in.h:243
+#: gnome-vfs.keys.in.h:245
 msgid "troff ms input document"
 msgstr "document d'entrada troff ms"
 
-#: gnome-vfs.keys.in.h:244
+#: gnome-vfs.keys.in.h:246
 msgid "unknown type"
 msgstr "tipus desconegut"
 
-#: gnome-vfs.keys.in.h:245
+#: gnome-vfs.keys.in.h:247
 msgid "ustar archive"
 msgstr "arxiu ustar"
 
-#: gnome-vfs.keys.in.h:246
+#: gnome-vfs.keys.in.h:248
 msgid "wave audio"
 msgstr "àudio wave"
 
-#: gnome-vfs.keys.in.h:247
+#: gnome-vfs.keys.in.h:249
 msgid "web folder"
 msgstr "carpeta web"
 
-#: gnome-vfs.keys.in.h:248
+#: gnome-vfs.keys.in.h:250
 msgid "xfig vector graphic"
 msgstr "gràfic vectorial xfig"
 
-#: gnome-vfs.keys.in.h:249
+#: gnome-vfs.keys.in.h:251
 msgid "zip archive"
 msgstr "arxiu zip"
 
-#: gnome-vfs.keys.in.h:250
+#: gnome-vfs.keys.in.h:252
 msgid "zoo archive"
 msgstr "arxiu zoo"
 
-#: libgnomevfs/gnome-vfs-configuration.c:223
-#, c-format
-msgid "%s:%d contains NUL characters."
-msgstr "%s:%d conté caràcters NULS."
+#~ msgid "%s:%d contains NUL characters."
+#~ msgstr "%s:%d conté caràcters NULS."
 
-#: libgnomevfs/gnome-vfs-configuration.c:240
-#, c-format
-msgid "%s:%d contains no method name."
-msgstr "%s:%d no conté cap nom de mètode."
+#~ msgid "%s:%d contains no method name."
+#~ msgstr "%s:%d no conté cap nom de mètode."
 
-#: libgnomevfs/gnome-vfs-configuration.c:269
-#, c-format
-msgid "%s:%d contains no module name."
-msgstr "%s:%d no conté cap nom de mòdul."
+#~ msgid "%s:%d contains no module name."
+#~ msgstr "%s:%d no conté cap nom de mòdul."
 
-#: libgnomevfs/gnome-vfs-configuration.c:322
-#, c-format
-msgid "Configuration file `%s' was not found: %s"
-msgstr "El fitxer de configuració `%s' no ha estat trobat: %s"
+#~ msgid "Configuration file `%s' was not found: %s"
+#~ msgstr "El fitxer de configuració `%s' no ha estat trobat: %s"
 
-#: libgnomevfs/gnome-vfs-parse-ls.c:652
-#, c-format
-msgid "Could not parse: %s"
-msgstr "No s'ha pogut analitzar: %s"
+#~ msgid "Could not parse: %s"
+#~ msgstr "No s'ha pogut analitzar: %s"
 
-#: libgnomevfs/gnome-vfs-parse-ls.c:654
-msgid "More parsing errors will be ignored."
-msgstr "Els següent errors d'anàlisi seran ignorats"
+#~ msgid "More parsing errors will be ignored."
+#~ msgstr "Els següent errors d'anàlisi seran ignorats"
 
-#. GNOME_VFS_OK
-#: libgnomevfs/gnome-vfs-result.c:35
-msgid "No error"
-msgstr "Cap error"
+#~ msgid "No error"
+#~ msgstr "Cap error"
 
-#. GNOME_VFS_ERROR_NOT_FOUND
-#: libgnomevfs/gnome-vfs-result.c:36
-msgid "File not found"
-msgstr "Fitxer no trobat"
+#~ msgid "File not found"
+#~ msgstr "Fitxer no trobat"
 
-#. GNOME_VFS_ERROR_GENERIC
-#: libgnomevfs/gnome-vfs-result.c:37
-msgid "Generic error"
-msgstr "Error genèric"
+#~ msgid "Generic error"
+#~ msgstr "Error genèric"
 
-#. GNOME_VFS_ERROR_INTERNAL
-#: libgnomevfs/gnome-vfs-result.c:38
-msgid "Internal error"
-msgstr "Error intern"
+#~ msgid "Internal error"
+#~ msgstr "Error intern"
 
-#. GNOME_VFS_ERROR_BAD_PARAMETERS
-#: libgnomevfs/gnome-vfs-result.c:39
-msgid "Invalid parameters"
-msgstr "Paràmetres no vàlids"
+#~ msgid "Invalid parameters"
+#~ msgstr "Paràmetres no vàlids"
 
-#. GNOME_VFS_ERROR_NOT_SUPPORTED
-#: libgnomevfs/gnome-vfs-result.c:40
-msgid "Unsupported operation"
-msgstr "Operació no suportada"
+#~ msgid "Unsupported operation"
+#~ msgstr "Operació no suportada"
 
-#. GNOME_VFS_ERROR_IO
-#: libgnomevfs/gnome-vfs-result.c:41
-msgid "I/O error"
-msgstr "Error E/S"
+#~ msgid "I/O error"
+#~ msgstr "Error E/S"
 
-#. GNOME_VFS_ERROR_CORRUPTED_DATA
-#: libgnomevfs/gnome-vfs-result.c:42
-msgid "Data corrupted"
-msgstr "Dades corruptes"
+#~ msgid "Data corrupted"
+#~ msgstr "Dades corruptes"
 
-#. GNOME_VFS_ERROR_WRONG_FORMAT
-#: libgnomevfs/gnome-vfs-result.c:43
-msgid "Format not valid"
-msgstr "Format no vàlid"
+#~ msgid "Format not valid"
+#~ msgstr "Format no vàlid"
 
-#. GNOME_VFS_ERROR_BAD_FILE
-#: libgnomevfs/gnome-vfs-result.c:44
-msgid "Bad file handle"
-msgstr "Fitxer associat incorrecte"
+#~ msgid "Bad file handle"
+#~ msgstr "Fitxer associat incorrecte"
 
-#. GNOME_VFS_ERROR_TOO_BIG
-#: libgnomevfs/gnome-vfs-result.c:45
-msgid "File too big"
-msgstr "Fitxer massa gran"
+#~ msgid "File too big"
+#~ msgstr "Fitxer massa gran"
 
-#. GNOME_VFS_ERROR_NO_SPACE
-#: libgnomevfs/gnome-vfs-result.c:46
-msgid "No space left on device"
-msgstr "No hi ha prou espai en el dispositiu"
+#~ msgid "No space left on device"
+#~ msgstr "No hi ha prou espai en el dispositiu"
 
-#. GNOME_VFS_ERROR_READ_ONLY
-#: libgnomevfs/gnome-vfs-result.c:47
-msgid "Read-only file system"
-msgstr "Sistema de fitxers de només lectura"
+#~ msgid "Read-only file system"
+#~ msgstr "Sistema de fitxers de només lectura"
 
-#. GNOME_VFS_ERROR_INVALID_URI
-#: libgnomevfs/gnome-vfs-result.c:48
-msgid "Invalid URI"
-msgstr "URI no vàlid"
+#~ msgid "Invalid URI"
+#~ msgstr "URI no vàlid"
 
-#. GNOME_VFS_ERROR_NOT_OPEN
-#: libgnomevfs/gnome-vfs-result.c:49
-msgid "File not open"
-msgstr "Fitxer no obert"
+#~ msgid "File not open"
+#~ msgstr "Fitxer no obert"
 
-#. GNOME_VFS_ERROR_INVALID_OPEN_MODE
-#: libgnomevfs/gnome-vfs-result.c:50
-msgid "Open mode not valid"
-msgstr "Mode d'obertura no vàlid"
+#~ msgid "Open mode not valid"
+#~ msgstr "Mode d'obertura no vàlid"
 
-#. GNOME_VFS_ERROR_ACCESS_DENIED
-#: libgnomevfs/gnome-vfs-result.c:51
-msgid "Access denied"
-msgstr "Accés denegat"
+#~ msgid "Access denied"
+#~ msgstr "Accés denegat"
 
-#. GNOME_VFS_ERROR_TOO_MANY_OPEN_FILES
-#: libgnomevfs/gnome-vfs-result.c:52
-msgid "Too many open files"
-msgstr "Massa fitxers oberts"
+#~ msgid "Too many open files"
+#~ msgstr "Massa fitxers oberts"
 
-#. GNOME_VFS_ERROR_EOF
-#: libgnomevfs/gnome-vfs-result.c:53
-msgid "End of file"
-msgstr "Fi del fitxer"
+#~ msgid "End of file"
+#~ msgstr "Fi del fitxer"
 
-#. GNOME_VFS_ERROR_NOT_A_DIRECTORY
-#: libgnomevfs/gnome-vfs-result.c:54
-msgid "Not a directory"
-msgstr "No és un directori"
+#~ msgid "Not a directory"
+#~ msgstr "No és un directori"
 
-#. GNOME_VFS_ERROR_IN_PROGRESS
-#: libgnomevfs/gnome-vfs-result.c:55
-msgid "Operation in progress"
-msgstr "Operació en progrés"
+#~ msgid "Operation in progress"
+#~ msgstr "Operació en progrés"
 
-#. GNOME_VFS_ERROR_INTERRUPTED
-#: libgnomevfs/gnome-vfs-result.c:56
-msgid "Operation interrupted"
-msgstr "Operació interrompuda"
+#~ msgid "Operation interrupted"
+#~ msgstr "Operació interrompuda"
 
-#. GNOME_VFS_ERROR_FILE_EXISTS
-#: libgnomevfs/gnome-vfs-result.c:57
-msgid "File exists"
-msgstr "Fitxer ja existent"
+#~ msgid "File exists"
+#~ msgstr "Fitxer ja existent"
 
-#. GNOME_VFS_ERROR_LOOP
-#: libgnomevfs/gnome-vfs-result.c:58
-msgid "Looping links encountered"
-msgstr "Enllaços amb bucles trobats"
+#~ msgid "Looping links encountered"
+#~ msgstr "Enllaços amb bucles trobats"
 
-#. GNOME_VFS_ERROR_NOT_PERMITTED
-#: libgnomevfs/gnome-vfs-result.c:59
-msgid "Operation not permitted"
-msgstr "Operació no permesa"
+#~ msgid "Operation not permitted"
+#~ msgstr "Operació no permesa"
 
-#. GNOME_VFS_ERROR_IS_DIRECTORY
-#: libgnomevfs/gnome-vfs-result.c:60
-msgid "Is a directory"
-msgstr "És un directori"
+#~ msgid "Is a directory"
+#~ msgstr "És un directori"
 
-#. GNOME_VFS_ERROR_NO_MEMMORY
-#: libgnomevfs/gnome-vfs-result.c:61
-msgid "Not enough memory"
-msgstr "No hi ha prou memòria"
+#~ msgid "Not enough memory"
+#~ msgstr "No hi ha prou memòria"
 
-#. GNOME_VFS_ERROR_HOST_NOT_FOUND
-#: libgnomevfs/gnome-vfs-result.c:62
-msgid "Host not found"
-msgstr "Servidor no trobat"
+#~ msgid "Host not found"
+#~ msgstr "Servidor no trobat"
 
-#. GNOME_VFS_ERROR_INVALID_HOST_NAME
-#: libgnomevfs/gnome-vfs-result.c:63
-msgid "Host name not valid"
-msgstr "Nom de servidor no vàlid"
+#~ msgid "Host name not valid"
+#~ msgstr "Nom de servidor no vàlid"
 
-#. GNOME_VFS_ERROR_HOST_HAS_NO_ADDRESS
-#: libgnomevfs/gnome-vfs-result.c:64
-msgid "Host has no address"
-msgstr "Servidor sense adreça"
+#~ msgid "Host has no address"
+#~ msgstr "Servidor sense adreça"
 
-#. GNOME_VFS_ERROR_LOGIN_FAILED
-#: libgnomevfs/gnome-vfs-result.c:65
-msgid "Login failed"
-msgstr "Entrada fallida"
+#~ msgid "Login failed"
+#~ msgstr "Entrada fallida"
 
-#. GNOME_VFS_ERROR_CANCELLED
-#: libgnomevfs/gnome-vfs-result.c:66
-msgid "Operation cancelled"
-msgstr "Operació cancel·lada"
+#~ msgid "Operation cancelled"
+#~ msgstr "Operació cancel·lada"
 
-#. GNOME_VFS_ERROR_DIRECTORY_BUSY
-#: libgnomevfs/gnome-vfs-result.c:67
-msgid "Directory busy"
-msgstr "Directori ocupat"
+#~ msgid "Directory busy"
+#~ msgstr "Directori ocupat"
 
-#. GNOME_VFS_ERROR_DIRECTORY_NOT_EMPTY
-#: libgnomevfs/gnome-vfs-result.c:68
-msgid "Directory not empty"
-msgstr "Directori no buit"
+#~ msgid "Directory not empty"
+#~ msgstr "Directori no buit"
 
-#. GNOME_VFS_ERROR_TOO_MANY_LINKS
-#: libgnomevfs/gnome-vfs-result.c:69
-msgid "Too many links"
-msgstr "Massa enllaços"
+#~ msgid "Too many links"
+#~ msgstr "Massa enllaços"
 
-#. GNOME_VFS_ERROR_READ_ONLY_FILE_SYSTEM
-#: libgnomevfs/gnome-vfs-result.c:70
-msgid "Read only file system"
-msgstr "Sistema de fitxers de només lectura"
+#~ msgid "Read only file system"
+#~ msgstr "Sistema de fitxers de només lectura"
 
-#. GNOME_VFS_ERROR_NOT_SAME_FILE_SYSTEM
-#: libgnomevfs/gnome-vfs-result.c:71
-msgid "Not on the same file system"
-msgstr "No és del mateix sistema de fitxers"
+#~ msgid "Not on the same file system"
+#~ msgstr "No és del mateix sistema de fitxers"
 
-#. GNOME_VFS_ERROR_NAME_TOO_LONG
-#: libgnomevfs/gnome-vfs-result.c:72
-msgid "Name too long"
-msgstr "Nom massa llarg"
+#~ msgid "Name too long"
+#~ msgstr "Nom massa llarg"
 
-#. GNOME_VFS_ERROR_SERVICE_NOT_AVAILABLE
-#: libgnomevfs/gnome-vfs-result.c:73
-msgid "Service not available"
-msgstr "El servei no està disponible"
+#~ msgid "Service not available"
+#~ msgstr "El servei no està disponible"
 
-#. GNOME_VFS_ERROR_SERVICE_OBSOLETE
-#: libgnomevfs/gnome-vfs-result.c:74
-msgid "Request obsoletes service's data"
-msgstr "Sol·licita les dades de serveis obsolets"
+#~ msgid "Request obsoletes service's data"
+#~ msgstr "Sol·licita les dades de serveis obsolets"
 
-#. GNOME_VFS_ERROR_PROTOCOL_ERROR
-#: libgnomevfs/gnome-vfs-result.c:75
-msgid "Protocol error"
-msgstr "Error de protocol"
+#~ msgid "Protocol error"
+#~ msgstr "Error de protocol"
 
-#: libgnomevfs/gnome-vfs-result.c:137
-msgid "Unknown error"
-msgstr "Error desconegut"
+#~ msgid "Unknown error"
+#~ msgstr "Error desconegut"
 
-#: libgnomevfs/gnome-vfs-utils.c:65
-msgid "1 byte"
-msgstr "1 byte"
+#~ msgid "1 byte"
+#~ msgstr "1 byte"
 
-#: libgnomevfs/gnome-vfs-utils.c:67
-#, c-format
-msgid "%u bytes"
-msgstr "%u bytes"
+#~ msgid "%u bytes"
+#~ msgstr "%u bytes"
 
-#: libgnomevfs/gnome-vfs-utils.c:74
-#, c-format
-msgid "%.1f K"
-msgstr "%.1f K"
+#~ msgid "%.1f K"
+#~ msgstr "%.1f K"
 
-#: libgnomevfs/gnome-vfs-utils.c:78
-#, c-format
-msgid "%.1f MB"
-msgstr "%.1f MB"
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
 
-#: libgnomevfs/gnome-vfs-utils.c:82
-#, c-format
-msgid "%.1f GB"
-msgstr "%.1f GB"
+#~ msgid "%.1f GB"
+#~ msgstr "%.1f GB"
 
-#: libgnomevfs-pthread/gnome-vfs-job.c:714
-#, c-format
-msgid "Unknown op type %u"
-msgstr "Tipus d'op %u desconegut"
+#~ msgid "Unknown op type %u"
+#~ msgstr "Tipus d'op %u desconegut"
 
-#: libgnomevfs-pthread/gnome-vfs-job.c:1005
-#: libgnomevfs-pthread/gnome-vfs-job.c:1150
-#, c-format
-msgid "Cannot create pipe for open GIOChannel: %s"
-msgstr "No es pot crear la connexió per obrir GIOChannel: %s"
+#~ msgid "Cannot create pipe for open GIOChannel: %s"
+#~ msgstr "No es pot crear la connexió per obrir GIOChannel: %s"
 
-#: libgnomevfs-pthread/gnome-vfs-job.c:1596
-#, c-format
-msgid "Unknown job kind %u"
-msgstr "Tipus de feina %u desconegut"
+#~ msgid "Unknown job kind %u"
+#~ msgstr "Tipus de feina %u desconegut"
 
-#: libgnomevfs-pthread/gnome-vfs-job.c:1632
-msgid "Operation stopped"
-msgstr "Operació aturada"
+#~ msgid "Operation stopped"
+#~ msgstr "Operació aturada"
 
-#: modules/file-method.c:387
-#, c-format
-msgid "Unknown GnomeVFSSeekPosition %d"
-msgstr "Desconeguda GnomeVFSSeekPosition %d"
+#~ msgid "Unknown GnomeVFSSeekPosition %d"
+#~ msgstr "Desconeguda GnomeVFSSeekPosition %d"
 
 #~ msgid "GNOME VFS already initialized."
 #~ msgstr "GNOME VFS ja està inicialitzat."
