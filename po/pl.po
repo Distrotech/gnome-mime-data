@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-02-23 19:28+0100\n"
-"PO-Revision-Date: 2002-02-23 19:33+0100\n"
+"POT-Creation-Date: 2002-02-28 17:42+0100\n"
+"PO-Revision-Date: 2002-02-28 17:42+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -150,6 +150,10 @@ msgid "Dolby Digital audio"
 msgstr "Plik d¼wiêkowy Dolby Digital"
 
 #: gnome-vfs.keys.in.h:1
+msgid "Dreamcast rom"
+msgstr "Dreamcast - plik z ROM-em"
+
+#: gnome-vfs.keys.in.h:1
 msgid "Emacs Lisp source code"
 msgstr "Plik ¼ród³owy Emacs Lisp"
 
@@ -206,6 +210,14 @@ msgid "GTK configuration"
 msgstr "Konfiguracja GTK"
 
 #: gnome-vfs.keys.in.h:1
+msgid "Game Boy rom"
+msgstr "Game Boy - plik z ROM-em"
+
+#: gnome-vfs.keys.in.h:1
+msgid "Genesis rom"
+msgstr "Genesis - plik z ROM-em"
+
+#: gnome-vfs.keys.in.h:1
 msgid "Glade project"
 msgstr "Projekt Glade"
 
@@ -216,6 +228,10 @@ msgstr "Zeszyt GnuCash"
 #: gnome-vfs.keys.in.h:1
 msgid "Gnumeric spreadsheet"
 msgstr "Arkusz kalkulacyjny Gnumeric"
+
+#: gnome-vfs.keys.in.h:1
+msgid "Gtktalog Catalogue"
+msgstr "Katalog programu Gtktalog"
 
 #: gnome-vfs.keys.in.h:1
 msgid "HDF document"
@@ -354,6 +370,10 @@ msgid "MS video"
 msgstr "Plik wideo MS"
 
 #: gnome-vfs.keys.in.h:1
+msgid "MSX rom"
+msgstr "MSX - plik z ROM-em"
+
+#: gnome-vfs.keys.in.h:1
 msgid "Macintosh AppleDouble-encoded file"
 msgstr "Zakodowany w AppleDouble plik Macintosha"
 
@@ -390,8 +410,16 @@ msgid "Microsoft video"
 msgstr "Plik wideo Microsoftu"
 
 #: gnome-vfs.keys.in.h:1
+msgid "NES rom"
+msgstr "NES - plik z ROM-em"
+
+#: gnome-vfs.keys.in.h:1
 msgid "Nautilus link"
 msgstr "Odno¶nik Nautilusa"
+
+#: gnome-vfs.keys.in.h:1
+msgid "Nintendo64 rom"
+msgstr "Nintendo64 - plik z ROM-em"
 
 #: gnome-vfs.keys.in.h:1
 msgid "ODA document"
@@ -580,6 +608,10 @@ msgstr "Dokument SGML"
 #: gnome-vfs.keys.in.h:1
 msgid "SMIL script"
 msgstr "Skrypt SMIL"
+
+#: gnome-vfs.keys.in.h:1
+msgid "SMS or Game Gear rom"
+msgstr "SMS lub Game Gear - plik z ROM-em"
 
 #: gnome-vfs.keys.in.h:1
 msgid "SQL code"
@@ -776,6 +808,10 @@ msgstr "Obraz XPM"
 #: gnome-vfs.keys.in.h:1
 msgid "Xbase database"
 msgstr "Baza danych Xbase"
+
+#: gnome-vfs.keys.in.h:1
+msgid "Z shell script"
+msgstr "Skrypt pow³oki Z"
 
 #: gnome-vfs.keys.in.h:1
 msgid "active server page"
