@@ -318,7 +318,7 @@ msgstr "የHDF ሰነድ"
 
 #: gnome-vfs.keys.in.h:76
 msgid "HTML page"
-msgstr ""
+msgstr "የHTML ገጽ"
 
 #: gnome-vfs.keys.in.h:77
 msgid "Haskell source code"
