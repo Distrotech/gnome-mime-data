@@ -1,5 +1,31 @@
 2002-01-21  Seth Nickell  <snickell@stanford.edu>
 
+	* check-mime.pl:
+
+	Update to look for icons in ./icons.
+	
+	* gnome-vfs.keys.in:
+
+	Change a few weird icon_filename entries.
+	
+	* icons/Makefile.am:
+	* icons/gnome-application-x-generic-spreadsheet.png:
+	* icons/gnome-application-x-gnumeric.png:
+	* icons/i-cdrom-192.png:
+	* icons/i-fifo.png:
+	* icons/i-harddisk-72.png:
+	* icons/i-manual.png:
+	* icons/i-music-12.png:
+	* icons/i-music-24.png:
+	* icons/i-music-36.png:
+	* icons/i-nfs.png:
+	* icons/i-sock.png:
+	* icons/i-spreadsheet.png:
+
+	Move more icons out of Nautilus.
+
+2002-01-21  Seth Nickell  <snickell@stanford.edu>
+
 	* Makefile.am:
 	* configure.in:
 	* gnome-vfs.keys.in:

@@ -63,7 +63,7 @@ sub complain ($)
     $exit_status = 1;
   }
 
-my $check_icons = -d "../nautilus/icons";
+my $check_icons = -d "./icons";
 if ($check_icons)
   {
     print "Found Nautilus icon directory, checking icons.\n";
@@ -182,9 +182,9 @@ while (<KEYS>)
               }
             elsif ($check_icons)
               {
-                if (not -f "../nautilus/icons/$2" and not -f "../nautilus/icons/$2.png")
+                if (not -f "./icons/$2" and not -f "./icons/$2.png")
                   {
-                    complain "$2 specified for $type, but not in nautilus/icons directory";
+                    complain "$2 specified for $type, but not in ./icons directory";
                   }
               }
           }

@@ -309,7 +309,6 @@ application/x-gnucash
 
 application/x-gnumeric
 	_description=Gnumeric spreadsheet
-	icon_filename=i-spreadsheet
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
@@ -549,7 +548,7 @@ application/x-troff
 
 application/x-troff-man-compressed
 	_description=manual page (compressed)
-	icon_filename=manual
+	icon_filename=i-manual
 
 application/x-unix-archive
 	_description=ar archive
@@ -825,10 +824,10 @@ image/x-cmu-raster
 
 image/x-compressed-xcf
 	_description=compressed GIMP document
-	icon_filename=gnome-gimp
 	short_list_application_ids_for_novice_user_level=gimp
 	short_list_application_ids_for_intermediate_user_level=gimp
 	short_list_application_ids_for_advanced_user_level=gimp
+	icon_filename=gnome-image-xcf
 
 image/x-ico
 	_description=Windows icon image
@@ -1228,6 +1227,7 @@ text/x-troff
 
 text/x-troff-man
 	_description=manual page
+	icon_filename=i-manual
 
 # the acronym is not capitalized, per common usage
 text/x-troff-me

@@ -26,8 +26,8 @@ icon_DATA =\
 	gnome-application-x-dia-diagram.png \
 	gnome-application-x-e-theme.png \
 	gnome-application-x-font-sunos-news.png \
-	gnome-application-x-generic-spreadsheet.png \
 	gnome-application-x-gnome-app-info.png \
+	gnome-application-x-gnumeric.png \
 	gnome-application-x-gzip.png \
 	gnome-application-x-jar.png \
 	gnome-application-x-java-source.png \
@@ -119,14 +119,22 @@ icon_DATA =\
 	i-chardev.png \
 	i-core.png \
 	i-executable.png \
+	i-fifo.png \
 	i-floppy.png \
 	i-harddisk.png \
+	i-manual.png \
+	i-music-12.png \
+	i-music-24.png \
+	i-music-36.png \
 	i-music.png \
+	i-nfs.png
 	i-printer.png \
 	i-regular-72.png \
 	i-regular-96.png \
 	i-regular.png \
 	i-regular.xml \
+	i-sock.png
+	i-spreadsheet.png \
 	i-zipdisk.png \
 	$(NULL)
 
