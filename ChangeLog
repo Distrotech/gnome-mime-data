@@ -1,3 +1,8 @@
+2002-02-18  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: added mpeg transport stream from
+	movieshaker files, as video/mpeg
+
 2002-02-14  Tõivo Leedjärv  <leedjarv@interest.ee>
 
 	* configure.in: Added et to ALL_LINGUAS.

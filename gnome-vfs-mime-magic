@@ -40,6 +40,8 @@
 0	string		\004%!					application/postscript
 0	string		\000\000\001\272			video/mpeg
 0	string		\000\000\001\263			video/mpeg
+# .mmv, mpeg transport stream created by movieshaker
+0       string          \x47\x3f\xff\x10                        video/mpeg
 0	string		\377\330\377				image/jpeg
 # The below ignores the details available (architecture, type, version)
 0	string		\xed\xab\xee\xdb			application/x-rpm
