@@ -213,6 +213,12 @@ application/x-font-type1
 application/x-gameboy-rom
 	ext: gb
 
+application/x-gchempaint
+	ext: gchempaint
+
+application/x-gcrystal
+	ext: gcrystal
+
 application/x-genesis-rom
 	ext: gen md
 

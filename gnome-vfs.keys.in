@@ -599,6 +599,14 @@ application/x-gameboy-rom
 	_category=Software Development/ROM Images
 	use_category_default=yes
 
+application/x-gchempaint
+	_description=2D chemical structure
+	_category=Documents
+
+application/x-gcrystal
+	_description=Crystalline structure model
+	_category=Documents
+
 application/x-genesis-rom
 	_description=Genesis ROM
 	_category=Software Development/ROM Images

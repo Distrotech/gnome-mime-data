@@ -131,6 +131,8 @@
 # svg rules need to go before html
 0:256	string		\<!DOCTYPE\ svg				image/svg
 0:64	string		\<svg					image/svg
+0:64	string		\<chemistry				application/x-gchempaint
+0:64	string		\<crystal				application/x-gcrystal
 # php rules need to go before html
 0:64	string		\<?php					application/x-php
 0:64	string		\<smil\>				application/x-smil
