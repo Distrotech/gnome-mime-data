@@ -1,3 +1,8 @@
+2003-08-07  Bastien Nocera  <hadess@hadess.net>
+
+	* .cvsignore: upd
+	* configure.in: 2.3.1 is out
+
 2003-07-28  Mark McLoughlin  <mark@skynet.ie>
 
 	* gnome-vfs.keys.in: make the default action for pdf to use
