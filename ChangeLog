@@ -1,3 +1,7 @@
+2003-04-24  Abel Cheung  <maddog@linux.org.hk>
+
+	* configure.in: Added "ar" "cs" to ALL_LINGUAS.
+
 2003-04-16  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: added more magic for ASF and ASX files, and
