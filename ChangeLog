@@ -1,3 +1,7 @@
+2002-05-29  Jody Goldberg <jody@gnome.org>
+
+	* gnome-vfs.keys.in : Add more categories.
+
 2002-05-24  Alex Graveley  <alex@ximian.com>
 
 	* gnome-vfs-mime-magic: Move audio/x-wav matchers above
