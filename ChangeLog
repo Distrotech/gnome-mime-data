@@ -1,3 +1,8 @@
+2003-11-05  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: added type audio/x-ms-asf (seems to be used
+	for audio-only ASF streams)
+
 2003-10-27  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic:

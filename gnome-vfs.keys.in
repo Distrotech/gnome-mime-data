@@ -1157,6 +1157,10 @@ audio/x-mpegurl
 	short_list_application_ids_for_advanced_user_level=xmms-no-uris,freeamp-no-uris
 	_category=Audio
 
+audio/x-ms-asf
+	description=MS ASF audio
+	_category=Video
+
 audio/x-ms-asx
 	_description=Playlist
 	_category=Audio
