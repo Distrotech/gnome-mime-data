@@ -1,3 +1,8 @@
+2002-11-09  Thomas Vander Stichele <thomas at apestaart dot org>
+
+        * branched gnome-2-0
+	* backed out FLAC changes on gnome-2-0 branch
+
 2002-11-08  Thomas Vander Stichele <thomas at apestaart dot org>
 
         * gnome-vfs-mime-magic:
