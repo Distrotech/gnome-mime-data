@@ -1,3 +1,7 @@
+2002-08-14  jacob berkman  <jacob@ximian.com>
+
+	* zh_CN.po: fix launcher translation
+
 2002-08-14  He Qiangqiang  <carton@linux.net.cn>
 
 	* zh_CN.po: fixed "laucher" translation.
