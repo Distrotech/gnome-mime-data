@@ -226,7 +226,7 @@ gv
 
 gvim
 	command=gvim
-	name=gvim
+	name=gvim -c ":cd %:p:h"
 	can_open_multiple_files=false
 	expects_uris=false
 	requires_terminal=false
@@ -461,6 +461,14 @@ staroffice
 vi
 	command=vi
 	name=vi
+	can_open_multiple_files=false
+	expects_uris=false
+	requires_terminal=true
+	mime_types=text/*,text/plain,text/x-c,text/x-c-header,text/x-c++,text/x-perl
+
+vim
+	command=vim -c ":cd %:p:h"
+	name=vim
 	can_open_multiple_files=false
 	expects_uris=false
 	requires_terminal=true

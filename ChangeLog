@@ -1,5 +1,13 @@
 2003-07-22  Bastien Nocera  <hadess@hadess.net>
 
+	* AUTHORS: spell my name properly
+	* gnome-vfs.applications: added a vim application, changed the default
+	command for gvim and vim to set the current directory to the directory
+	the file is in (Closes: #114792)
+	* gnome-vfs.keys.in: added vim as an option before plain vi
+
+2003-07-22  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.keys.in: Patch from Hidetoshi Tajima
 	<hidetoshi.tajima@sun.com> to avoid duplicate Audio and Images entries
 	in gnome-file-types-properties (Closes: #113938)
