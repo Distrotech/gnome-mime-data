@@ -577,7 +577,11 @@ application/x-gnome-app-info
 	_category=User Interface
 
 application/x-gnome-theme
-	_description=Gnome theme
+	_description=GNOME desktop theme
+	_category=User Interface
+
+application/x-gnome-theme-installed
+	_description=Installed GNOME desktop theme
 	_category=User Interface
 
 application/x-gnucash

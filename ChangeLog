@@ -1,3 +1,9 @@
+2003-03-29  Andrew Sobala  <aes@gnome.org>
+
+	* gnome-vfs.keys.in: add descriptions for application/x-gnome-theme
+	and application/x-gnome-theme-installed, from themus, as HEAD is no
+	longer string-frozen.
+
 2003-03-29  Christian Schaller <uraeus@gnome.org>
 	* Added pascal, asembler, yacc and ape mimetypes
 	* Removed icons dir from build
