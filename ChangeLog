@@ -1,3 +1,9 @@
+2003-02-02  Andrew Sobala  <aes@gnome.org>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in:
+          add x-gnome-theme and x-gnome-theme-installed
+
 2003-02-01  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.mime: added iso as a possible extension for ISO images
