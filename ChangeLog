@@ -1,3 +1,10 @@
+2003-06-17  Bastien Nocera  <hadess@hadess.net>
+
+	* .cvsignore: cleanup
+	* check-mime.pl: don't warn on now expected startup_notify entry
+	* gnome-vfs.keys.in: added MagicPoint presentations
+	* gnome-vfs.mime: added as well
+
 2003-06-11  Alexander Larsson  <alexl@redhat.com>
 
 	* gnome-vfs.keys.in:

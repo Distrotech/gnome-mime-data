@@ -750,6 +750,15 @@ application/x-macbinary
 	_category=Packages
 	_description=MacBinary file
 
+application/x-magicpoint
+	_description=MagicPoint presentation
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=mgp
+	short_list_application_ids_for_intermediate_user_level=mgp
+	short_list_application_ids_for_advanced_user_level=mgp
+	_category=Documents/Presentation
+	use_category_default=yes
+
 application/x-mif
 	_description=FrameMaker interchange document
 	_category=Documents/Word Processor
