@@ -117,7 +117,9 @@ icon_DATA =\
 	gnome-text-x-c.png \
 	gnome-text-x-copying.png \
 	gnome-text-x-credits.png \
+	gnome-text-x-haskell.png \
 	gnome-text-x-install.png \
+	gnome-text-x-literate-haskell.png \
 	gnome-text-x-makefile.png \
 	gnome-text-x-patch.png \
 	gnome-text-x-perl.png \
@@ -130,6 +132,7 @@ icon_DATA =\
 	gnome-video-quicktime.png \
 	gnome-video-x-ms-asf.png \
 	gnome-video-x-msvideo.png \
+	gnome-video-x-ms-wmv.png
 	gnome-x-font-afm.png \
 	gnome-x-troff-man.png \
 	i-blockdev.png \

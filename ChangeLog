@@ -1,3 +1,20 @@
+2002-04-21  Anders Carlsson  <andersca@gnu.org>
+
+	* gnome-vfs.keys.in:
+	Fix the component id mess, we now use 
+	"short_list_component_iids" for gnome-vfs 2
+	and "short_list_component_iids_<userlevel>" for
+	gnome-vfs 1. Also add Haskell and WMV definitions.
+	
+	* gnome-vfs.mime:
+	Add haskell and WMV extensions.
+	
+	* icons/Makefile.am:
+	* icons/gnome-text-x-haskell.png:
+	* icons/gnome-text-x-literate-haskell.png:
+	* icons/gnome-video-x-ms-wmv.png:
+	Add Haskell and WMV icons.
+	
 2002-04-18  Michael Meeks  <michael@ximian.com>
 
 	* gnome-vfs.keys.in: update all the OAFIIDs

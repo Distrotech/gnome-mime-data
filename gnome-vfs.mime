@@ -580,6 +580,9 @@ text/x-fortran
 text/x-gtkrc
 	regex: [.|]gtkrc
 
+text/x-haskell
+	ext: hs
+
 text/x-idl
 	ext: idl
 
@@ -588,6 +591,9 @@ text/x-install
 
 text/x-java
 	ext: java
+
+text/x-literate-haskell
+	ext: lhs
 
 text/x-lyx
 	ext: lyx
@@ -669,6 +675,9 @@ video/x-fli
 
 video/x-ms-asf
 	ext: asf asx
+
+video/x-ms-wmv
+	ext: wmv
 
 video/x-msvideo
 	ext: avi
