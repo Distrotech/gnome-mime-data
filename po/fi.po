@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
-"POT-Creation-Date: 2002-05-07 23:18-0700\n"
-"PO-Revision-Date: 2002-04-24 23:20+0300\n"
+"POT-Creation-Date: 2002-05-14 14:14+0300\n"
+"PO-Revision-Date: 2002-04-26 22:39+0300\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -553,7 +553,7 @@ msgstr "PostScript-asiakirja"
 
 #: gnome-vfs.keys.in.h:135
 msgid "Project Plan"
-msgstr ""
+msgstr "Projektisuunnitelma"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Python source code"
@@ -1008,9 +1008,8 @@ msgid "profiler results"
 msgstr "profilointitulokset"
 
 #: gnome-vfs.keys.in.h:249
-#, fuzzy
 msgid "python byte code"
-msgstr "Python-lähdekoodi"
+msgstr "Python-tavukoodi"
 
 #: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
