@@ -1,3 +1,8 @@
+2003-03-29  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: fix up the usage of Caps in the descriptions
+	* gnome-vfs.mime: tabs not spaces
+
 2003-03-27  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: added application/x-ipod-firmware that

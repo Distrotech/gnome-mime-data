@@ -729,7 +729,7 @@ text/x-vcard
 	ext: gcrd
 
 text/x-yacc
-        ext: yacc y
+	ext: yacc y
 
 text/xml
 	ext: xml
