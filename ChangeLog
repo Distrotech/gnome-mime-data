@@ -1,3 +1,7 @@
+2001-11-18  Carlos Perelló Marín <carlos@gnome-db.org>
+
+	* configure.in (ALL_LINGUAS): Added pt
+
 2001-11-12  jacob berkman  <jacob@ximian.com>
 
 	* configure.in: use the gnome 2 gettext macro, as the gnu one
