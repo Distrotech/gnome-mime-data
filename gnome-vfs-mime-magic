@@ -61,6 +61,7 @@
 0	belong		0x3026b275				video/x-ms-asf
 0	string		ASF\ 					audio/x-ms-asx
 0	string		\<ASX					audio/x-ms-asx
+0	string		\<asx					audio/x-ms-asx
 0	string		MThd					audio/x-midi
 0	string		IMPM					audio/x-it
 2	string		-lh0-					application/x-lha
