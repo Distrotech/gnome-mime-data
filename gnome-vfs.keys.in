@@ -380,13 +380,13 @@ application/x-backup
 	_description=Backup file
 	_category=Packages
 
-application/x-blender
-	_description=Blender file
-	_category=Images
-
 application/x-bcpio
 	_description=BCPIO document
 	_category=Packages
+
+application/x-blender
+	_description=Blender file
+	_category=Images
 
 application/x-bzip
 	_description=Bzip2 compressed file
