@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-06-01 12:57+0200\n"
+"POT-Creation-Date: 2002-06-12 00:45-0700\n"
 "PO-Revision-Date: 2002-06-01 12:58+0200\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"

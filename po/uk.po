@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs\n"
-"POT-Creation-Date: 2002-06-03 11:34+0300\n"
+"POT-Creation-Date: 2002-06-12 00:45-0700\n"
 "PO-Revision-Date: 2002-06-03 10:48+0200\n"
 "Last-Translator: Yuriy Syrota <yuri@renome.rovno.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -1148,4 +1148,3 @@ msgstr "архів zip"
 #: gnome-vfs.keys.in.h:284
 msgid "zoo archive"
 msgstr "архів zoo"
-

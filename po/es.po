@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
-"POT-Creation-Date: 2002-06-01 17:20+0200\n"
+"POT-Creation-Date: 2002-06-12 00:45-0700\n"
 "PO-Revision-Date: 2002-06-01 16:37GMT -03:00\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: español <traductores@es.gnome.org>\n"
@@ -1155,4 +1155,3 @@ msgstr "Archivo zoo"
 
 #~ msgid "M3 audio URL"
 #~ msgstr "URL para audio M3"
-

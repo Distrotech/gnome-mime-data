@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-06-01 21:16+0200\n"
+"POT-Creation-Date: 2002-06-12 00:45-0700\n"
 "PO-Revision-Date: 2002-06-02 23:33+0200\n"
 "Last-Translator: Jesús Bravo Álvarez <suso@trasno.net>\n"
 "Language-Team: Galician <proxecto@trasno.net>\n"

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
-"POT-Creation-Date: 2002-06-03 14:25+0300\n"
+"POT-Creation-Date: 2002-06-12 00:45-0700\n"
 "PO-Revision-Date: 2002-06-03 19:08+0300\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <fi@li.org>\n"
@@ -1150,4 +1150,3 @@ msgstr "zip-paketti"
 #: gnome-vfs.keys.in.h:284
 msgid "zoo archive"
 msgstr "zoo-paketti"
-

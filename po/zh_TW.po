@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.8\n"
-"POT-Creation-Date: 2002-06-11 01:11+0800\n"
+"POT-Creation-Date: 2002-06-12 00:45-0700\n"
 "PO-Revision-Date: 2002-06-11 01:57+0800\n"
 "Last-Translator: Joe Man <trmetal@yahoo.com.hk>\n"
 "Language-Team: traditional Chinese <zh-l10n@linux.org.tw>\n"
