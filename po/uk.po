@@ -93,7 +93,7 @@ msgstr "архів у форматі ar"
 
 #: gnome-vfs.keys.in.h:20
 msgid "Assembly source code"
-msgstr "вихідний код на мові асемблер"
+msgstr "програмний код на мові асемблер"
 
 #: gnome-vfs.keys.in.h:21
 msgid "Audio"
@@ -129,7 +129,7 @@ msgstr "бібліографічний запис"
 
 #: gnome-vfs.keys.in.h:29
 msgid "Binary program"
-msgstr "виконувана програма"
+msgstr "двійкова програма"
 
 #: gnome-vfs.keys.in.h:30
 msgid "BitTorrent seed file"
@@ -557,11 +557,11 @@ msgstr "архів у форматі Java"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Java source code"
-msgstr "вихідний код на мові Java"
+msgstr "прграмний код на мові Java"
 
 #: gnome-vfs.keys.in.h:137
 msgid "JavaScript source code"
-msgstr "вихідний код на мові JavaScript"
+msgstr "програмний код на мові JavaScript"
 
 #: gnome-vfs.keys.in.h:138
 msgid "KDE application details"
@@ -945,7 +945,7 @@ msgstr "часткове повідомлення ел.пошти"
 
 #: gnome-vfs.keys.in.h:233
 msgid "Pascal source code"
-msgstr "вихідний код на мові Pascal"
+msgstr "програний код на мові Pascal"
 
 #: gnome-vfs.keys.in.h:234
 msgid "Perl script"
