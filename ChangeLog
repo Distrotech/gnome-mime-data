@@ -1,3 +1,7 @@
+2002-07-02  Peteris Krisjanis <pecisk@inbox.lv>
+
+	* configure.in: (ALL_LINGUAS) added Latvian (lv) support.
+
 2002-06-29  Seth Nickell  <snickell@stanford.edu>
 
 	* gnome-vfs.mime:
