@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs 0.6.0.0\n"
-"POT-Creation-Date: 2003-08-21 01:41+0200\n"
-"PO-Revision-Date: 2003-08-21 01:51+0200\n"
+"POT-Creation-Date: 2003-08-21 10:14+0200\n"
+"PO-Revision-Date: 2003-08-21 10:18+0200\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <no@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -658,9 +658,8 @@ msgid "Mail delivery report"
 msgstr "E-postleveranserapport"
 
 #: gnome-vfs.keys.in.h:162
-#, fuzzy
 msgid "Mail disposition report"
-msgstr "e-postdispositionsrapport"
+msgstr "E-postdispositionsrapport"
 
 #: gnome-vfs.keys.in.h:163
 msgid "Mail system report"
@@ -1123,24 +1122,20 @@ msgid "Software Development/Source Code"
 msgstr "Programvareutvikling/Kildekode"
 
 #: gnome-vfs.keys.in.h:278
-#, fuzzy
 msgid "Software author credits"
-msgstr "forfatterliste for programvare"
+msgstr "Forfatterliste for programvare"
 
 #: gnome-vfs.keys.in.h:279
-#, fuzzy
 msgid "Software installation instructions"
-msgstr "installationsinstruksjoner for programvare"
+msgstr "Installationsinstruksjoner for programvare"
 
 #: gnome-vfs.keys.in.h:280
-#, fuzzy
 msgid "Software license terms"
-msgstr "lisensbestemmelser for programvare"
+msgstr "Lisensbestemmelser for programvare"
 
 #: gnome-vfs.keys.in.h:281
-#, fuzzy
 msgid "Source code patch"
-msgstr "kildekodepatch"
+msgstr "Kildekodefiks"
 
 #: gnome-vfs.keys.in.h:282
 msgid "Speech document"
@@ -1227,9 +1222,8 @@ msgid "Tar archive (Bzip2-compressed)"
 msgstr "Tar-arkiv (Bzip2-pakket)"
 
 #: gnome-vfs.keys.in.h:303
-#, fuzzy
 msgid "Tar archive (Gzip-compressed)"
-msgstr "tar-arkiv (gzip-pakket)"
+msgstr "Tar-arkiv (Gzip-pakket)"
 
 #: gnome-vfs.keys.in.h:304
 msgid "TarGA image"
@@ -1260,33 +1254,28 @@ msgid "TeXInfo document"
 msgstr "TeXInfo-dokument"
 
 #: gnome-vfs.keys.in.h:311
-#, fuzzy
 msgid "Theme"
-msgstr "tema"
+msgstr "Tema"
 
 #: gnome-vfs.keys.in.h:312
 msgid "ToutDoux document"
 msgstr "ToutDoux-dokument"
 
 #: gnome-vfs.keys.in.h:313
-#, fuzzy
 msgid "Troff document"
-msgstr "troff-dokument"
+msgstr "Troff-dokument"
 
 #: gnome-vfs.keys.in.h:314
-#, fuzzy
 msgid "Troff me input document"
-msgstr "troff me inndatadokument"
+msgstr "Troff me inndatadokument"
 
 #: gnome-vfs.keys.in.h:315
-#, fuzzy
 msgid "Troff mm input document"
-msgstr "troff mm inndatadokument"
+msgstr "Troff mm inndatadokument"
 
 #: gnome-vfs.keys.in.h:316
-#, fuzzy
 msgid "Troff ms input document"
-msgstr "troff ms inndatadokument"
+msgstr "Troff ms inndatadokument"
 
 #: gnome-vfs.keys.in.h:317
 msgid "TrueType font"
@@ -1305,9 +1294,8 @@ msgid "Unidata netCDF document"
 msgstr "Unidata netCDF-dokument"
 
 #: gnome-vfs.keys.in.h:321
-#, fuzzy
 msgid "Unknown type"
-msgstr "ukjent type"
+msgstr "Ukjent type"
 
 #: gnome-vfs.keys.in.h:322
 msgid "User Interface"
@@ -1318,9 +1306,8 @@ msgid "User Interface/Fonts"
 msgstr "Brukergrensesnitt/Skrifter"
 
 #: gnome-vfs.keys.in.h:324
-#, fuzzy
 msgid "Ustar archive"
-msgstr "ustar-arkiv"
+msgstr "Ustar-arkiv"
 
 #: gnome-vfs.keys.in.h:325
 msgid "V font"
@@ -1347,9 +1334,8 @@ msgid "WAIS source code"
 msgstr "WAIS-kildekode"
 
 #: gnome-vfs.keys.in.h:331
-#, fuzzy
 msgid "Wave audio"
-msgstr "wave-lyd"
+msgstr "Wave-lyd"
 
 #: gnome-vfs.keys.in.h:332
 msgid "Wavelet video"
