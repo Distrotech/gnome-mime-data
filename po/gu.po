@@ -6,16 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD.gu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-18 11:47+0200\n"
-"PO-Revision-Date: 2004-08-23 14:35+0530\n"
+"POT-Creation-Date: 2004-10-26 12:33+0200\n"
+"PO-Revision-Date: 2004-10-26 19:25+0530\n"
 "Last-Translator: Ankit Patel <ankit@redhat.com>\n"
-"<magnet@magnet-i.com>\n"
 "Language-Team: Gujarati\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"<magnet@magnet-i.com>\n"
 "X-Generator: KBabel 1.3.1\n"
 "Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "2D chemical structure"
@@ -59,15 +60,15 @@ msgstr "સરનામાનું કાર્ડ"
 
 #: gnome-vfs.keys.in.h:11
 msgid "Adobe FrameMaker font"
-msgstr "અેડોબ ફ્રેમ-મેકર ફોન્ટ"
+msgstr "એડોબ ફ્રેમ-મેકર ફોન્ટ"
 
 #: gnome-vfs.keys.in.h:12
 msgid "Adobe font metrics"
-msgstr "અેડોબ ફોન્ટ મૈટ્રિક"
+msgstr "એડોબ ફોન્ટ મૈટ્રિક"
 
 #: gnome-vfs.keys.in.h:13
 msgid "Andrew Toolkit inset"
-msgstr "અેન્ડ્રયુ સરસામાનની અંદર ગોઠવાયેલું"
+msgstr "એન્ડ્રયુ સરસામાનની અંદર ગોઠવાયેલું"
 
 #: gnome-vfs.keys.in.h:14
 msgid "Application launcher"
@@ -83,7 +84,7 @@ msgstr "એપ્લિકસવેર વર્ડ દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:17
 msgid "Applixware presentation"
-msgstr "એપ્લિકસવેર રજૂઅાત"
+msgstr "એપ્લિકસવેર રજૂઆત"
 
 #: gnome-vfs.keys.in.h:18
 msgid "Applixware spreadsheet"
@@ -123,7 +124,7 @@ msgstr "બૅક-અપ ફાઈલ"
 
 #: gnome-vfs.keys.in.h:27
 msgid "Basic audio"
-msgstr "આધારભૂૂત અવાજ"
+msgstr "આધારભૂત અવાજ"
 
 #: gnome-vfs.keys.in.h:28
 msgid "Bibliography record"
@@ -239,7 +240,7 @@ msgstr "DOS ફોન્ટ"
 
 #: gnome-vfs.keys.in.h:56
 msgid "DOS/Windows program"
-msgstr "ડોસ/વિન્ડોઝ કાર્યક્રમ"
+msgstr "DOS/Windows કાર્યક્રમ"
 
 #: gnome-vfs.keys.in.h:57
 msgid "DSSSL document"
@@ -263,7 +264,7 @@ msgstr "ઉપકરણ મુક્ત બિટમેપ"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Dia diagram"
-msgstr "ડાયા અાકૃતિ"
+msgstr "ડાયા આકૃતિ"
 
 #: gnome-vfs.keys.in.h:63
 msgid "Digital Imaging and Communications in Medicine image"
@@ -295,11 +296,11 @@ msgstr "દસ્તાવેજો/આકૃતિ"
 
 #: gnome-vfs.keys.in.h:70
 msgid "Documents/Extended Markup Language (XML)"
-msgstr "દસ્તાવેજો/અૅક્ષટેન્ટેડ માર્ક-અપ લૅંગવેજ (XML)"
+msgstr "દસ્તાવેજો/એક્સટેન્ડેડ માર્ક-અપ લૅંગવેજ (XML)"
 
 #: gnome-vfs.keys.in.h:71
 msgid "Documents/Numeric"
-msgstr "દસ્તાવેજો/અાંકડાકીય"
+msgstr "દસ્તાવેજો/આંકડાકીય"
 
 #: gnome-vfs.keys.in.h:72
 msgid "Documents/Plain Text"
@@ -423,7 +424,7 @@ msgstr "GIF ચિત્ર"
 
 #: gnome-vfs.keys.in.h:102
 msgid "GIMP document"
-msgstr "GIMP દસ્તાવેેજ"
+msgstr "GIMP દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:103
 msgid "GMC link"
@@ -471,7 +472,7 @@ msgstr "જીટાર પેટી"
 
 #: gnome-vfs.keys.in.h:114
 msgid "Gtktalog Catalogue"
-msgstr "જીટીકેલૅાગ માહિતીપુસ્તિકા"
+msgstr "જીટીકેલોગ માહિતીપુસ્તિકા"
 
 #: gnome-vfs.keys.in.h:115
 msgid "Gzip-compressed file"
@@ -535,7 +536,7 @@ msgstr "જાણકારી/કેલેન્ડર"
 
 #: gnome-vfs.keys.in.h:130
 msgid "Information/Financial"
-msgstr "જાણકારી/અાર્થિક"
+msgstr "જાણકારી/આર્થિક"
 
 #: gnome-vfs.keys.in.h:131
 msgid "Installed GNOME desktop theme"
@@ -747,27 +748,27 @@ msgstr "સંદેશાના વિભિન્ન રુપો"
 
 #: gnome-vfs.keys.in.h:183
 msgid "Microsoft Excel spreadsheet"
-msgstr "માઈક્રોસોફ્ટ અૅક્સેલ સ્પ્રેડશીટ"
+msgstr "Microsoft એક્સેલ સ્પ્રેડશીટ"
 
 #: gnome-vfs.keys.in.h:184
 msgid "Microsoft PowerPoint document"
-msgstr "માઈક્રોસોફ્ટ પાવરપોઈન્ટ દસ્તાવેજ"
+msgstr "Microsoft પાવરપોઈન્ટ દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:185
 msgid "Microsoft WMV playlist"
-msgstr "માઈક્રોસોફ્ટ WMV વગાડવા માટેની યાદી"
+msgstr "Microsoft WMV વગાડવા માટેની યાદી"
 
 #: gnome-vfs.keys.in.h:186
 msgid "Microsoft WMV video"
-msgstr "માઈક્રોસોફ્ટ WMV વિડિયો"
+msgstr "Microsoft WMV વિડિયો"
 
 #: gnome-vfs.keys.in.h:187
 msgid "Microsoft Word document"
-msgstr "માઈક્રોસોફ્ટ વર્ડ દસ્તાવેજ"
+msgstr "Microsoft વર્ડ દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:188
 msgid "Microsoft video"
-msgstr "માઈક્રોસોફ્ટ વિડિયો"
+msgstr "Microsoft વિડિયો"
 
 #: gnome-vfs.keys.in.h:189
 msgid "Monkey audio"
@@ -811,7 +812,7 @@ msgstr "ODA દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:199
 msgid "Object code"
-msgstr "અૉબ્જેક્ટ કોડ"
+msgstr "ઓબ્જેક્ટ કોડ"
 
 #: gnome-vfs.keys.in.h:200
 msgid "Objective C source code"
@@ -1031,11 +1032,11 @@ msgstr "રો ગ્રે નમૂનો"
 
 #: gnome-vfs.keys.in.h:254
 msgid "RealAudio document"
-msgstr "રીયલઅૉડિયો દસ્તાવેજ"
+msgstr "રીયલઓડિયો દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:255
 msgid "RealAudio/Video document"
-msgstr "રીયલઅૉડિયો/વિડિયો દસ્તાવેજ"
+msgstr "રીયલઓડિયો/વિડિયો દસ્તાવેજ"
 
 #: gnome-vfs.keys.in.h:256
 msgid "RealVideo video"
@@ -1395,7 +1396,7 @@ msgstr "વેવલેટ વિડિયો"
 
 #: gnome-vfs.keys.in.h:345
 msgid "Web folder"
-msgstr "વેબ ફાેલ્ડર"
+msgstr "વેબ ફોલ્ડર"
 
 #: gnome-vfs.keys.in.h:346
 msgid "Windows bitmap image"
