@@ -1,3 +1,9 @@
+2003-07-18  Abel Cheung  <maddog@linux.org.hk>
+
+	* ga.po: This file is announced to be UTF-8 encoded, while actually
+	  it's latin-1 encoded.
+	* ru.po: s/\r//g
+
 2003-07-14  Pablo Gonzalo del Campo  <pablodc@bigfoot.com>
 
         * es.po: Updated Spanish translation by
