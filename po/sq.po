@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-02-20 02:11+0100\n"
-"PO-Revision-Date: 2004-02-20 02:16+0100\n"
+"POT-Creation-Date: 2004-03-01 11:29+0100\n"
+"PO-Revision-Date: 2004-03-01 11:40+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -433,7 +433,7 @@ msgstr "Tema e hapësirës së punës GNOME"
 
 #: gnome-vfs.keys.in.h:105
 msgid "GNU Oleo Spreadsheet"
-msgstr "Fletë llogarish GNU Oleo"
+msgstr "Fletë llogaritjesh GNU Oleo"
 
 #: gnome-vfs.keys.in.h:106
 msgid "GNU mail message"
@@ -517,7 +517,7 @@ msgstr "Figurë ISO"
 
 #: gnome-vfs.keys.in.h:126
 msgid "Images"
-msgstr "Figurat"
+msgstr "Figura"
 
 #: gnome-vfs.keys.in.h:127
 msgid "Impulse Tracker audio"
@@ -689,7 +689,7 @@ msgstr "Prezantim MagicPoint"
 
 #: gnome-vfs.keys.in.h:169
 msgid "Magick image format"
-msgstr "Format imazhi Magick"
+msgstr "Format figure Magick"
 
 #: gnome-vfs.keys.in.h:170
 msgid "Mail delivery report"
@@ -713,7 +713,7 @@ msgstr "Faqe manuali"
 
 #: gnome-vfs.keys.in.h:175
 msgid "Manual page (compressed)"
-msgstr "Faqe manuali ( e kompresuar)"
+msgstr "Faqe manuali (e kompresuar)"
 
 #: gnome-vfs.keys.in.h:176
 msgid "Master System or Game Gear ROM"
@@ -965,7 +965,7 @@ msgstr "Dokument teksti i thjeshtë"
 
 #: gnome-vfs.keys.in.h:238
 msgid "Playlist"
-msgstr "Lista e riprodhimit të titujve"
+msgstr "Lista e riprodhimit të melodive"
 
 #: gnome-vfs.keys.in.h:239
 msgid "PostScript Type 1 font"
@@ -1009,7 +1009,7 @@ msgstr "Arkiv RAR"
 
 #: gnome-vfs.keys.in.h:249
 msgid "README document"
-msgstr "Dokument MË LEXO"
+msgstr "Dokument MËLEXO"
 
 #: gnome-vfs.keys.in.h:250
 msgid "RGB image"
@@ -1289,11 +1289,11 @@ msgstr "Dokument TeX dvi"
 
 #: gnome-vfs.keys.in.h:319
 msgid "TeX font"
-msgstr "TeX font"
+msgstr "Gërma TeX"
 
 #: gnome-vfs.keys.in.h:320
 msgid "TeX font metrics"
-msgstr "TeX font metrics"
+msgstr "Gërma TeX metrics"
 
 #: gnome-vfs.keys.in.h:321
 msgid "TeXInfo document"
@@ -1325,7 +1325,7 @@ msgstr "Dokument input-i Troff ms"
 
 #: gnome-vfs.keys.in.h:328
 msgid "TrueType font"
-msgstr "TrueType font"
+msgstr "Gërma TrueType"
 
 #: gnome-vfs.keys.in.h:329
 msgid "Truevision Targa image"
@@ -1333,7 +1333,7 @@ msgstr "Figurë Truevision Targa"
 
 #: gnome-vfs.keys.in.h:330
 msgid "USENET news message"
-msgstr "Mesazh USENET"
+msgstr "Mesazh lajmesh USENET"
 
 #: gnome-vfs.keys.in.h:331
 msgid "Unidata netCDF document"
@@ -1453,7 +1453,7 @@ msgstr "Arkiv Zoo"
 
 #: gnome-vfs.keys.in.h:360
 msgid "gettext translation"
-msgstr "përkthim i gettext"
+msgstr "përkthim gettext"
 
 #: gnome-vfs.keys.in.h:361
 msgid "iPod software"
@@ -1462,4 +1462,3 @@ msgstr "Software iPod"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Grafik vektorial xfig"
-
