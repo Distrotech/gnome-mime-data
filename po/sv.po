@@ -1,15 +1,15 @@
 # Swedish messages for gnome-mime-data.
-# Copyright (C) 1999, 2000, 2001, 2002 Free Software Foundation, Inc.
+# Copyright (C) 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc.
 # Martin Norbäck <d95mback@dtek.chalmers.se>, 2000, 2001.
-# Christian Rose <menthos@menthos.com>, 2000, 2001, 2002.
+# Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
 #
 # $Id$
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-12-17 20:55+0100\n"
-"PO-Revision-Date: 2002-12-17 20:55+0100\n"
+"POT-Creation-Date: 2003-01-20 02:07+0100\n"
+"PO-Revision-Date: 2003-01-20 02:07+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -738,7 +738,7 @@ msgstr "RPM-paket"
 
 #: gnome-vfs.keys.in.h:181
 msgid "Raw Gray Sample"
-msgstr "Rått grått sampel"
+msgstr "Raw Gray-sampel"
 
 #: gnome-vfs.keys.in.h:182
 msgid "RealAudio document"
