@@ -1,3 +1,9 @@
+2002-12-13  Frederic Crozat  <fcrozat@mandrakesoft.com>
+
+	* gnome-vfs-mime-magic: added OpenType font detection and 
+	some missing Type1 font magic
+	* gnome-vfs.keys.in: added application/x-font-otf
+
 2002-12-05  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: added ISO image detection

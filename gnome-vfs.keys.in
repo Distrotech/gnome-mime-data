@@ -504,6 +504,10 @@ application/x-font-linux-psf
 	_description=Linux PSF console font
 	_category=User Interface/Fonts
 
+application/x-font-otf
+	_description=OpenType font
+	_category=User Interface/Fonts
+
 application/x-font-pcf
 	_description=PCF font
 	icon_filename=gnome-font-x-pcf

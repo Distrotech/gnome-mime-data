@@ -172,6 +172,8 @@
 8	string		\x13\x7A\x2B				application/x-font-sunos-news
 0	string		%!PS-AdobeFont-1.			application/x-font-type1
 6	string		%!PS-AdobeFont-1.			application/x-font-type1
+0	string		%!FontType1-1.				application/x-font-type1
+6	string		%!FontType1-1.				application/x-font-type1
 0	string		STARTFONT\040				application/x-font-bdf
 0	string		\001fcp					application/x-font-pcf
 0	string		D1.0\015				application/x-font-speedo
@@ -207,7 +209,7 @@
 32769	string		CD001					application/x-iso-image
 37633	string		CD001					application/x-iso-image
 32776	string		CDROM					application/x-iso-image
-
+0       string          OTTO                                    application/x-font-otf
 
 
 
