@@ -20,7 +20,7 @@ applix
 	can_open_multiple_files=true
 	expects_uris=false
 	requires_terminal=false
-	mime_types=application/x-applix-spreadsheet,application/x-applix-word,image/x-applix-graphic,application/msword,application/rtf,application/vnd.ms-excel
+	mime_types=application/x-applix-presents,application/x-applix-spreadsheet,application/x-applix-word,image/x-applix-graphic,application/msword,application/rtf,application/vnd.ms-excel
 
 bplay
 	command=bplay

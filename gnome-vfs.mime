@@ -113,6 +113,9 @@ application/x-abiword
 application/x-ape
 	ext: ape
 
+application/x-applix-presents
+	ext: ap
+
 application/x-applix-spreadsheet
 	ext: as
 

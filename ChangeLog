@@ -1,3 +1,10 @@
+2003-05-05  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: added Applix "Presents" presentations
+	(Closes: #78362)
+
 2003-05-05  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
                                                                                 
         * configure.in: Added cy to ALL_LINGUAS

@@ -328,6 +328,15 @@ application/x-ape
 	use_category_default=yes
 	_category=Audio
 
+application/x-applix-presents
+	_description=Applixware presentation
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=applix
+	short_list_application_ids_for_intermediate_user_level=applix
+	short_list_application_ids_for_advanced_user_level=applix
+	_category=Documents/Presentation
+	use_category_default=yes
+
 application/x-applix-spreadsheet
 	_description=Applixware spreadsheet
 	default_action_type=application
@@ -989,7 +998,7 @@ audio/basic
 
 # also audio/x-mpeg
 audio/mpeg
-	_description=MPEG audio
+	_description=MP3 audio
 	icon_filename=i-music
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=xmms,freeamp
@@ -1062,7 +1071,7 @@ audio/x-mp3-playlist
 
 # also audio/mpeg
 audio/x-mpeg
-	_description=MPEG audio
+	_description=MP3 audio
 	icon_filename=i-music
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=xmms,freeamp
