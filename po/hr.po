@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 0\n"
 "POT-Creation-Date: 2003-11-06 18:09+0100\n"
-"PO-Revision-Date: 2003-11-07 18:42+CET\n"
+"PO-Revision-Date: 2003-11-10 16:51+CET\n"
 "Last-Translator: auto\n"
 "Language-Team: Croatian <lokalizacija@linux.hr>\n"
 "MIME-Version: 1.0\n"
@@ -255,7 +255,7 @@ msgstr "Slika sustava izmjene digitalnih pokretnih slika"
 
 #: gnome-vfs.keys.in.h:61
 msgid "Directory information file"
-msgstr "Datoteka s informacijama o mpama"
+msgstr "Datoteka s informacijama o mapama"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Document type definition"
@@ -319,7 +319,7 @@ msgstr "Dokumenti/World Wide Web"
 
 #: gnome-vfs.keys.in.h:77
 msgid "Dolby Digital audio"
-msgstr "Zvuk Dolby Digial"
+msgstr "Zvuk Dolby Digital"
 
 #: gnome-vfs.keys.in.h:78
 msgid "Dreamcast ROM"
@@ -351,7 +351,7 @@ msgstr "Obogaćeni tekst dokument"
 
 #: gnome-vfs.keys.in.h:85
 msgid "Epiphany bookmarks file"
-msgstr "Datoteka s knjiškim oznakama Epiphany"
+msgstr "Datoteka s knjižnim oznakama Epiphany"
 
 #: gnome-vfs.keys.in.h:86
 msgid "FLAC audio"
@@ -375,7 +375,7 @@ msgstr "Slika FlashPix"
 
 #: gnome-vfs.keys.in.h:91
 msgid "Flexible Image Transport System"
-msgstr "Sustav prijenosa fleksibilnih slika"
+msgstr "Sustav prijenosa gipkih slika"
 
 #: gnome-vfs.keys.in.h:92
 msgid "Folder"
@@ -667,7 +667,7 @@ msgstr "Izvještaj isporuke e-pošte"
 
 #: gnome-vfs.keys.in.h:164
 msgid "Mail disposition report"
-msgstr "Izvještaj razmještaja e-pošte"
+msgstr "Izvještaj smještaja e-pošte"
 
 #: gnome-vfs.keys.in.h:165
 msgid "Mail system report"
@@ -739,7 +739,7 @@ msgstr "Zvuk Monkey"
 
 #: gnome-vfs.keys.in.h:182
 msgid "Mozilla bookmarks file"
-msgstr "Datoteka s knjiškim oznakama Mozilla-e"
+msgstr "Datoteka s knjižnim oznakama Mozilla-e"
 
 #: gnome-vfs.keys.in.h:183
 msgid "Multi-part message"
@@ -759,7 +759,7 @@ msgstr "Veza Nautilusa"
 
 #: gnome-vfs.keys.in.h:187
 msgid "Netscape bookmarks file"
-msgstr "Datoteka s knjiškim oznakama Netscape-a"
+msgstr "Datoteka s knjižnim oznakama Netscape-a"
 
 #: gnome-vfs.keys.in.h:188
 msgid "Nintendo64 ROM"
@@ -783,7 +783,7 @@ msgstr "Zvuk Ogg"
 
 #: gnome-vfs.keys.in.h:193
 msgid "OpenOffice.org Impress presentation"
-msgstr "Preznetacija OpenOffice.org Impress-a"
+msgstr "Prezentacija OpenOffice.org Impress-a"
 
 #: gnome-vfs.keys.in.h:194
 msgid "OpenOffice.org Impress presentation template"
