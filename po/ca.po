@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 2.3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-06-25 13:29+0200\n"
+"POT-Creation-Date: 2003-11-13 15:36+0100\n"
 "PO-Revision-Date: 2003-06-25 13:29+0200\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
@@ -269,7 +269,7 @@ msgstr "Documents/Diagrama"
 
 #: gnome-vfs.keys.in.h:64
 msgid "Documents/Extended Markup Language (XML)"
-msgstr "Documents/Llenguatge de marcat extés (XML)"
+msgstr "Documents/Llenguatge de marcat estès (XML)"
 
 #: gnome-vfs.keys.in.h:65
 msgid "Documents/Numeric"
@@ -754,7 +754,7 @@ msgstr "Enllaç de Nautilus"
 
 #: gnome-vfs.keys.in.h:185
 msgid "Netscape bookmarks file"
-msgstr "Fitxer d'adreces d'interés de Netscape"
+msgstr "Fitxer d'adreces d'interès de Netscape"
 
 #: gnome-vfs.keys.in.h:186
 msgid "Nintendo64 ROM"
@@ -1182,7 +1182,7 @@ msgstr "Document d'StarML"
 
 #: gnome-vfs.keys.in.h:292
 msgid "StarOffice extended metafile image"
-msgstr "Imatge de metafitxer extés StarOffice"
+msgstr "Imatge de metafitxer estès StarOffice"
 
 #: gnome-vfs.keys.in.h:293
 msgid "StarWriter document"
