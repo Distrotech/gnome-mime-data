@@ -1,3 +1,9 @@
+2002-05-24  Alex Graveley  <alex@ximian.com>
+
+	* gnome-vfs-mime-magic: Move audio/x-wav matchers above
+	audio/x-riff, as wav files start with RIFF, and were being wrongly
+	identified as audio/x-riff.
+
 2002-05-23  Seth Nickell  <snickell@stanford.edu>
 
 	* gnome-vfs.mime:
