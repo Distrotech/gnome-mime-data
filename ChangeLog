@@ -1,3 +1,8 @@
+2003-12-22  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: matching on "<title" brings too many false
+	positive (HTML vs. XML) (Closes: #111234)
+
 2003-12-09  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in:

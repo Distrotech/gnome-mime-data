@@ -141,8 +141,6 @@
 0:64	string		\<!doctype\ html			text/html
 0:64	string		\<HEAD					text/html
 0:64	string		\<head					text/html
-0:64	string		\<TITLE					text/html
-0:64	string		\<title					text/html
 0:64	string		\<html					text/html
 0:64	string		\<HTML					text/html
 0:64	string		\<dia:diagram				application/x-dia-diagram
