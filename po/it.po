@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-07-09 12:46+0200\n"
-"PO-Revision-Date: 2003-07-09 22:17+0200\n"
+"POT-Creation-Date: 2003-07-27 12:22+0200\n"
+"PO-Revision-Date: 2003-07-27 17:17+0200\n"
 "Last-Translator: Alessio Frusciante <algol@firenze.linux.it>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -44,30 +44,28 @@ msgid "AbiWord document"
 msgstr "Documento AbiWord"
 
 #: gnome-vfs.keys.in.h:8
-#, fuzzy
 msgid "Active Server page"
-msgstr "Documento ASP"
+msgstr "Pagina Active Server (ASP)"
 
 #: gnome-vfs.keys.in.h:9
-#, fuzzy
 msgid "Address card"
-msgstr "biglietto da visita"
+msgstr "Scheda indirizzo"
 
 #: gnome-vfs.keys.in.h:10
 msgid "Adobe FrameMaker font"
-msgstr "font Adobe FrameMaker"
+msgstr "Carattere Adobe FrameMaker"
 
 #: gnome-vfs.keys.in.h:11
 msgid "Adobe font metrics"
-msgstr "metrica font Adobe"
+msgstr "Metrica carattere Adobe"
 
 #: gnome-vfs.keys.in.h:12
 msgid "Andrew Toolkit inset"
-msgstr "inset Andrew Toolkit"
+msgstr "Inset Andrew Toolkit"
 
 #: gnome-vfs.keys.in.h:13
 msgid "Application launcher"
-msgstr ""
+msgstr "Esecutore di applicazioni"
 
 #: gnome-vfs.keys.in.h:14
 msgid "ApplixWare Graphics image"
@@ -111,21 +109,19 @@ msgstr "Documento BCPIO"
 
 #: gnome-vfs.keys.in.h:24
 msgid "BDF font"
-msgstr "Font BDF"
+msgstr "Carattere BDF"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Backup file"
 msgstr "File di backup"
 
 #: gnome-vfs.keys.in.h:26
-#, fuzzy
 msgid "Basic audio"
-msgstr "audio base"
+msgstr "Audio base"
 
 #: gnome-vfs.keys.in.h:27
-#, fuzzy
 msgid "Bibliography record"
-msgstr "Bibliografia"
+msgstr "Voce di bibliografia"
 
 #: gnome-vfs.keys.in.h:28
 msgid "Binary program"
@@ -221,7 +217,7 @@ msgstr "Script DCL"
 
 #: gnome-vfs.keys.in.h:51
 msgid "DOS font"
-msgstr "Font DOS"
+msgstr "Carattere DOS"
 
 #: gnome-vfs.keys.in.h:52
 msgid "DOS/Windows program"
@@ -260,9 +256,8 @@ msgid "Directory information file"
 msgstr "File di informazioni sulla directory"
 
 #: gnome-vfs.keys.in.h:61
-#, fuzzy
 msgid "Document type definition"
-msgstr "Documento DTD"
+msgstr "Definizione tipo documento (DTD)"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Documents"
@@ -282,7 +277,7 @@ msgstr "Documenti/Numerico"
 
 #: gnome-vfs.keys.in.h:66
 msgid "Documents/Plain Text"
-msgstr "Documenti/Testo puro"
+msgstr "Documenti/Testo semplice"
 
 #: gnome-vfs.keys.in.h:67
 msgid "Documents/Presentation"
@@ -306,7 +301,7 @@ msgstr "Documenti/TeX"
 
 #: gnome-vfs.keys.in.h:72
 msgid "Documents/Text Markup"
-msgstr ""
+msgstr "Documenti/Testo marcato"
 
 #: gnome-vfs.keys.in.h:73
 msgid "Documents/Vector Graphics"
@@ -334,7 +329,7 @@ msgstr "Codice sorgente Emacs Lisp"
 
 #: gnome-vfs.keys.in.h:79
 msgid "Email headers"
-msgstr "Header di posta"
+msgstr "Intestazioni posta elettronica"
 
 #: gnome-vfs.keys.in.h:80
 msgid "Email message/mailbox"
@@ -349,13 +344,12 @@ msgid "Enlightenment theme"
 msgstr "Tema Enlightenment"
 
 #: gnome-vfs.keys.in.h:83
-#, fuzzy
 msgid "Enriched text document"
-msgstr "documento testo enriched"
+msgstr "Documento testo arricchito"
 
 #: gnome-vfs.keys.in.h:84
 msgid "Epiphany bookmarks file"
-msgstr "File di segnalibri di Epiphany"
+msgstr "File dei segnalibri di Epiphany"
 
 #: gnome-vfs.keys.in.h:85
 msgid "FLAC audio"
@@ -391,7 +385,7 @@ msgstr "Codice sorgente Fortran"
 
 #: gnome-vfs.keys.in.h:93
 msgid "FrameMaker interchange document"
-msgstr "Documento FrameMaker interchange"
+msgstr "Documento di scambio FrameMaker"
 
 #: gnome-vfs.keys.in.h:94
 msgid "G3 fax image"
@@ -407,7 +401,7 @@ msgstr "Documento GIMP"
 
 #: gnome-vfs.keys.in.h:97
 msgid "GMC link"
-msgstr "Link GMC"
+msgstr "Collegamento di GMC"
 
 #: gnome-vfs.keys.in.h:98
 msgid "GNOME desktop theme"
@@ -438,9 +432,8 @@ msgid "Glade project"
 msgstr "Progetto Glade"
 
 #: gnome-vfs.keys.in.h:105
-#, fuzzy
 msgid "GnuCash workbook"
-msgstr "Foglio di lavoro GnuCash"
+msgstr "Cartella di lavoro GnuCash"
 
 #: gnome-vfs.keys.in.h:106
 msgid "Gnumeric spreadsheet"
@@ -468,7 +461,7 @@ msgstr "Pagina HTML"
 
 #: gnome-vfs.keys.in.h:112
 msgid "Haskell source code"
-msgstr "Codice sorgente haskell"
+msgstr "Codice sorgente Haskell"
 
 #: gnome-vfs.keys.in.h:113
 msgid "Help page"
@@ -544,7 +537,7 @@ msgstr "Codice sorgente Java"
 
 #: gnome-vfs.keys.in.h:131
 msgid "KDE application details"
-msgstr "Dettaggli dell'applicazione KDE"
+msgstr "Dettagli dell'applicazione KDE"
 
 #: gnome-vfs.keys.in.h:132
 msgid "KIllustrator document"
@@ -576,7 +569,7 @@ msgstr "Archivio LHARC"
 
 #: gnome-vfs.keys.in.h:139
 msgid "LIBGRX font"
-msgstr "Font LIBGRX"
+msgstr "Carattere LIBGRX"
 
 #: gnome-vfs.keys.in.h:140
 msgid "LightWave object"
@@ -588,7 +581,7 @@ msgstr "Scena LightWave"
 
 #: gnome-vfs.keys.in.h:142
 msgid "Linux PSF console font"
-msgstr "Font console Linux PSF"
+msgstr "Carattere console Linux PSF"
 
 #: gnome-vfs.keys.in.h:143
 msgid "Literate haskell source code"
@@ -616,7 +609,7 @@ msgstr "Audio MP3"
 
 #: gnome-vfs.keys.in.h:149
 msgid "MP3 audio playlist"
-msgstr "Playlist audio MP3"
+msgstr "Scaletta audio MP3"
 
 #: gnome-vfs.keys.in.h:150
 msgid "MPEG video"
@@ -667,14 +660,12 @@ msgid "Mail delivery report"
 msgstr "Rapporto di consegna posta"
 
 #: gnome-vfs.keys.in.h:162
-#, fuzzy
 msgid "Mail disposition report"
-msgstr "report per le disposizione di posta"
+msgstr "Rapporto di disposizione di posta"
 
 #: gnome-vfs.keys.in.h:163
-#, fuzzy
 msgid "Mail system report"
-msgstr "report del sistema di posta"
+msgstr "Rapporto del sistema di posta"
 
 #: gnome-vfs.keys.in.h:164
 msgid "Makefile"
@@ -709,7 +700,6 @@ msgid "Message digest"
 msgstr "Digest di messaggi"
 
 #: gnome-vfs.keys.in.h:172
-#, fuzzy
 msgid "Message in several formats"
 msgstr "Messaggi in svariati formati"
 
@@ -759,7 +749,7 @@ msgstr "Pipe con nome"
 
 #: gnome-vfs.keys.in.h:184
 msgid "Nautilus link"
-msgstr "Link Nautilus"
+msgstr "Collegamento di Nautilus"
 
 #: gnome-vfs.keys.in.h:185
 msgid "Netscape bookmarks file"
@@ -827,7 +817,7 @@ msgstr "Modello foglio di calcolo OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:201
 msgid "OpenType font"
-msgstr "Font OpenType"
+msgstr "Carattere OpenType"
 
 #: gnome-vfs.keys.in.h:202
 msgid "PBM image"
@@ -839,7 +829,7 @@ msgstr "Immagine PC Paintbrush"
 
 #: gnome-vfs.keys.in.h:204
 msgid "PCF font"
-msgstr "Font PCF"
+msgstr "Carattere PCF"
 
 #: gnome-vfs.keys.in.h:205
 msgid "PDF document"
@@ -871,7 +861,7 @@ msgstr "Firma PGP"
 
 #: gnome-vfs.keys.in.h:212
 msgid "PGP-encrypted file"
-msgstr "File crittato PGP"
+msgstr "File cifrato PGP"
 
 #: gnome-vfs.keys.in.h:213
 msgid "PHP script"
@@ -935,7 +925,7 @@ msgstr "Playlist"
 
 #: gnome-vfs.keys.in.h:228
 msgid "PostScript Type 1 font"
-msgstr "Font PostScript Type 1"
+msgstr "Carattere PostScript Type 1"
 
 #: gnome-vfs.keys.in.h:229
 msgid "PostScript document"
@@ -991,7 +981,7 @@ msgstr "Pacchetto RPM"
 
 #: gnome-vfs.keys.in.h:242
 msgid "Raw Gray Sample"
-msgstr ""
+msgstr "Campione grigio grezzo"
 
 #: gnome-vfs.keys.in.h:243
 msgid "RealAudio document"
@@ -1071,7 +1061,7 @@ msgstr "Codice sorgente Scheme"
 
 #: gnome-vfs.keys.in.h:262
 msgid "Scream Tracker 3 audio"
-msgstr "Audio Screm Tracker 3"
+msgstr "Audio Scream Tracker 3"
 
 #: gnome-vfs.keys.in.h:263
 msgid "Scream Tracker audio"
@@ -1134,9 +1124,8 @@ msgid "Software Development/Source Code"
 msgstr "Sviluppo software/Codice sorgente"
 
 #: gnome-vfs.keys.in.h:278
-#, fuzzy
 msgid "Software author credits"
-msgstr "credits per l'autore del software"
+msgstr "Ringraziamenti agli autori del programma"
 
 #: gnome-vfs.keys.in.h:279
 msgid "Software installation instructions"
@@ -1156,11 +1145,11 @@ msgstr "Documento Speech"
 
 #: gnome-vfs.keys.in.h:283
 msgid "Speedo font"
-msgstr "Font Speedo"
+msgstr "Carattere Speedo"
 
 #: gnome-vfs.keys.in.h:284
 msgid "Spreadsheet Interchange document"
-msgstr "Documento Interchange"
+msgstr "Documento di scambio foglio di calcolo"
 
 #: gnome-vfs.keys.in.h:285
 msgid "Stampede package"
@@ -1204,11 +1193,11 @@ msgstr "Foglio di stile"
 
 #: gnome-vfs.keys.in.h:295
 msgid "Sun mu-law audio"
-msgstr "Audio Sun µ-law "
+msgstr "Audio Sun µ-law"
 
 #: gnome-vfs.keys.in.h:296
 msgid "SunOS News font"
-msgstr "Font SunOS News"
+msgstr "Carattere SunOS News"
 
 #: gnome-vfs.keys.in.h:297
 msgid "Symbolic link"
@@ -1256,11 +1245,11 @@ msgstr "Documento TeX dvi"
 
 #: gnome-vfs.keys.in.h:308
 msgid "TeX font"
-msgstr "Font TeX"
+msgstr "Carattere TeX"
 
 #: gnome-vfs.keys.in.h:309
 msgid "TeX font metrics"
-msgstr "Metrica font TeX"
+msgstr "Metrica carattere TeX"
 
 #: gnome-vfs.keys.in.h:310
 msgid "TeXInfo document"
@@ -1292,7 +1281,7 @@ msgstr "Documento di input troff MS"
 
 #: gnome-vfs.keys.in.h:317
 msgid "TrueType font"
-msgstr "Font TrueType"
+msgstr "Carattere TrueType"
 
 #: gnome-vfs.keys.in.h:318
 msgid "Truevision Targa image"
@@ -1316,7 +1305,7 @@ msgstr "Interfaccia utente"
 
 #: gnome-vfs.keys.in.h:323
 msgid "User Interface/Fonts"
-msgstr "Interfaccia utente/Font"
+msgstr "Interfaccia utente/Carattere"
 
 #: gnome-vfs.keys.in.h:324
 msgid "Ustar archive"
