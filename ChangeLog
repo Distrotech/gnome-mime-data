@@ -1,5 +1,13 @@
 2002-04-23  Jody Goldberg <jody@gnome.org>
 
+	* Release 1.0.7
+
+2002-04-23  Jody Goldberg <jody@gnome.org>
+
+	* configure.in : bump version.
+
+2002-04-23  Jody Goldberg <jody@gnome.org>
+
 	* gnome-vfs.keys.in : gnumeric is now usable as a component
 
 2002-04-21  Anders Carlsson  <andersca@gnu.org>

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs\n"
-"POT-Creation-Date: 2002-03-28 06:24-0800\n"
+"POT-Creation-Date: 2002-04-23 12:45-0400\n"
 "PO-Revision-Date: 2001-08-27 07:53+0800\n"
 "Last-Translator: Joe Man <trmetal@yahoo.com.hk>\n"
 "Language-Team: Chinese <zh@li.org>\n"
@@ -240,896 +240,911 @@ msgid "HTML page"
 msgstr "HTML 檔"
 
 #: gnome-vfs.keys.in.h:57
+#, fuzzy
+msgid "Haskell source code"
+msgstr "C 原始碼"
+
+#: gnome-vfs.keys.in.h:58
 msgid "IDL document"
 msgstr "IDL 文件"
 
-#: gnome-vfs.keys.in.h:58
+#: gnome-vfs.keys.in.h:59
 msgid "IEF image"
 msgstr "IEF 影像"
 
-#: gnome-vfs.keys.in.h:59
+#: gnome-vfs.keys.in.h:60
 msgid "IFF image"
 msgstr "IFF 影像"
 
-#: gnome-vfs.keys.in.h:60
+#: gnome-vfs.keys.in.h:61
 msgid "ILBM image"
 msgstr "ILBM 影像"
 
-#: gnome-vfs.keys.in.h:61
+#: gnome-vfs.keys.in.h:62
 msgid "ISI video"
 msgstr "ISI 影音檔"
 
-#: gnome-vfs.keys.in.h:62
+#: gnome-vfs.keys.in.h:63
 msgid "Impulse Tracker audio"
 msgstr "Impulse Tracker 音效檔"
 
-#: gnome-vfs.keys.in.h:63
+#: gnome-vfs.keys.in.h:64
 msgid "JBuilder Project"
 msgstr "JBuilder 專案"
 
-#: gnome-vfs.keys.in.h:64
+#: gnome-vfs.keys.in.h:65
 msgid "JPEG image"
 msgstr "JPEG 影像"
 
-#: gnome-vfs.keys.in.h:65
+#: gnome-vfs.keys.in.h:66
 msgid "Java byte code"
 msgstr "Java 位元碼"
 
-#: gnome-vfs.keys.in.h:66
+#: gnome-vfs.keys.in.h:67
 msgid "Java source code"
 msgstr "Java 原始碼"
 
-#: gnome-vfs.keys.in.h:67
+#: gnome-vfs.keys.in.h:68
 msgid "KDE application details"
 msgstr "KDE 程式資訊"
 
-#: gnome-vfs.keys.in.h:68
+#: gnome-vfs.keys.in.h:69
 msgid "KIllustrator document"
 msgstr "KIllustrator 文件"
 
-#: gnome-vfs.keys.in.h:69
+#: gnome-vfs.keys.in.h:70
 msgid "KPresenter presentation"
 msgstr "KPresenter 簡報檔"
 
-#: gnome-vfs.keys.in.h:70
+#: gnome-vfs.keys.in.h:71
 msgid "KSpread spreadsheet"
 msgstr "KSpread 試算表"
 
-#: gnome-vfs.keys.in.h:71
+#: gnome-vfs.keys.in.h:72
 msgid "KWord document"
 msgstr "KWord 文件"
 
-#: gnome-vfs.keys.in.h:72
+#: gnome-vfs.keys.in.h:73
 msgid "Korn shell script"
 msgstr "Korn shell 描述語言檔"
 
-#: gnome-vfs.keys.in.h:73
+#: gnome-vfs.keys.in.h:74
 msgid "LHA archive"
 msgstr "LHA 檔"
 
-#: gnome-vfs.keys.in.h:74
+#: gnome-vfs.keys.in.h:75
 msgid "LHARC archive"
 msgstr "LHARC 檔"
 
-#: gnome-vfs.keys.in.h:75
+#: gnome-vfs.keys.in.h:76
 msgid "LIBGRX font"
 msgstr "LIBGRX 字型檔"
 
-#: gnome-vfs.keys.in.h:76
+#: gnome-vfs.keys.in.h:77
 msgid "LightWave object"
 msgstr "LightWave 物件"
 
-#: gnome-vfs.keys.in.h:77
+#: gnome-vfs.keys.in.h:78
 msgid "LightWave scene"
 msgstr "LightWave 場景"
 
-#: gnome-vfs.keys.in.h:78
+#: gnome-vfs.keys.in.h:79
 msgid "Linux PSF console font"
 msgstr "Linux PSF console 字型檔"
 
-#: gnome-vfs.keys.in.h:79
+#: gnome-vfs.keys.in.h:80
+#, fuzzy
+msgid "Literate haskell source code"
+msgstr "Fortran 原始碼"
+
+#: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
 msgstr "Lotus 1-2-3 試算表"
 
-#: gnome-vfs.keys.in.h:80
+#: gnome-vfs.keys.in.h:82
 #, fuzzy
 msgid "LyX Document"
 msgstr "IDL 文件"
 
-#: gnome-vfs.keys.in.h:81
+#: gnome-vfs.keys.in.h:83
 msgid "MIDI audio"
 msgstr "MIDI 音效檔"
 
-#: gnome-vfs.keys.in.h:82
+#: gnome-vfs.keys.in.h:84
 msgid "MOD audio"
 msgstr "MOD 音效檔"
 
-#: gnome-vfs.keys.in.h:83
+#: gnome-vfs.keys.in.h:85
 msgid "MP3 audio"
 msgstr "MP3 音效檔"
 
-#: gnome-vfs.keys.in.h:84
+#: gnome-vfs.keys.in.h:86
 msgid "MP3 audio playlist"
 msgstr "MP3 播放清單"
 
-#: gnome-vfs.keys.in.h:85
+#: gnome-vfs.keys.in.h:87
 msgid "MPEG video"
 msgstr "MPEG 影音檔"
 
-#: gnome-vfs.keys.in.h:86
+#: gnome-vfs.keys.in.h:88
 msgid "MS ASF video"
 msgstr "MS ASF 影音檔"
 
-#: gnome-vfs.keys.in.h:87
+#: gnome-vfs.keys.in.h:89
 msgid "MS video"
 msgstr "MS 影音檔"
 
-#: gnome-vfs.keys.in.h:88
+#: gnome-vfs.keys.in.h:90
 msgid "MSX rom"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:89
+#: gnome-vfs.keys.in.h:91
 msgid "Macintosh AppleDouble-encoded file"
 msgstr "Macintosh AppleDouble 編碼檔"
 
-#: gnome-vfs.keys.in.h:90
+#: gnome-vfs.keys.in.h:92
 msgid "Macintosh BinHex-encoded file"
 msgstr "Macintosh BinHex 編碼檔"
 
-#: gnome-vfs.keys.in.h:91
+#: gnome-vfs.keys.in.h:93
 msgid "Macintosh StuffIt archive"
 msgstr "Macintosh StuffIt 檔"
 
-#: gnome-vfs.keys.in.h:92
+#: gnome-vfs.keys.in.h:94
 msgid "Macromedia Flash file"
 msgstr "Macromedia Flash 檔"
 
-#: gnome-vfs.keys.in.h:93
+#: gnome-vfs.keys.in.h:95
 msgid "MathML document"
 msgstr "MathML 文件"
 
-#: gnome-vfs.keys.in.h:94
+#: gnome-vfs.keys.in.h:96
 msgid "Microsoft Excel spreadsheet"
 msgstr "微軟 Excel 試算表"
 
-#: gnome-vfs.keys.in.h:95
+#: gnome-vfs.keys.in.h:97
 msgid "Microsoft PowerPoint document"
 msgstr "微軟 PowerPoint 文件"
 
-#: gnome-vfs.keys.in.h:96
+#: gnome-vfs.keys.in.h:98
+#, fuzzy
+msgid "Microsoft WMV video"
+msgstr "微軟影音檔"
+
+#: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
 msgstr "Microsoft Word 文件"
 
-#: gnome-vfs.keys.in.h:97
+#: gnome-vfs.keys.in.h:100
 msgid "Microsoft video"
 msgstr "微軟影音檔"
 
-#: gnome-vfs.keys.in.h:98
+#: gnome-vfs.keys.in.h:101
 msgid "NES rom"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:99
+#: gnome-vfs.keys.in.h:102
 msgid "Nautilus link"
 msgstr "Nautilus 連結"
 
-#: gnome-vfs.keys.in.h:100
+#: gnome-vfs.keys.in.h:103
 msgid "Nintendo64 rom"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:101
+#: gnome-vfs.keys.in.h:104
 msgid "ODA document"
 msgstr "ODA 文件"
 
-#: gnome-vfs.keys.in.h:102
+#: gnome-vfs.keys.in.h:105
 #, fuzzy
 msgid "OpenOffice Impress presentation"
 msgstr "StarOffice 簡報檔"
 
-#: gnome-vfs.keys.in.h:103
+#: gnome-vfs.keys.in.h:106
 #, fuzzy
 msgid "OpenOffice Impress presentation template"
 msgstr "StarOffice 簡報檔"
 
-#: gnome-vfs.keys.in.h:104
+#: gnome-vfs.keys.in.h:107
 #, fuzzy
 msgid "OpenOffice Math document"
 msgstr "enriched 文字檔"
 
-#: gnome-vfs.keys.in.h:105
+#: gnome-vfs.keys.in.h:108
 #, fuzzy
 msgid "OpenOffice Writer document"
 msgstr "StarOffice Writer 文件"
 
-#: gnome-vfs.keys.in.h:106
+#: gnome-vfs.keys.in.h:109
 #, fuzzy
 msgid "OpenOffice Writer global document"
 msgstr "StarOffice Writer 文件"
 
-#: gnome-vfs.keys.in.h:107
+#: gnome-vfs.keys.in.h:110
 #, fuzzy
 msgid "OpenOffice Writer template"
 msgstr "StarOffice Writer 文件"
 
-#: gnome-vfs.keys.in.h:108
+#: gnome-vfs.keys.in.h:111
 msgid "OpenOffice drawing"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:109
+#: gnome-vfs.keys.in.h:112
 msgid "OpenOffice drawing template"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:110
+#: gnome-vfs.keys.in.h:113
 #, fuzzy
 msgid "OpenOffice spreadsheet"
 msgstr "StarOffice 試算表"
 
-#: gnome-vfs.keys.in.h:111
+#: gnome-vfs.keys.in.h:114
 #, fuzzy
 msgid "OpenOffice spreadsheet template"
 msgstr "StarOffice 試算表"
 
-#: gnome-vfs.keys.in.h:112
+#: gnome-vfs.keys.in.h:115
 msgid "PBM image"
 msgstr "PBM 影像"
 
-#: gnome-vfs.keys.in.h:113
+#: gnome-vfs.keys.in.h:116
 msgid "PCF font"
 msgstr "PCF 字型檔"
 
-#: gnome-vfs.keys.in.h:114
+#: gnome-vfs.keys.in.h:117
 msgid "PDF document"
 msgstr "PDF 文件"
 
-#: gnome-vfs.keys.in.h:115
+#: gnome-vfs.keys.in.h:118
 msgid "PEF program"
 msgstr "PEF 程式"
 
-#: gnome-vfs.keys.in.h:116
+#: gnome-vfs.keys.in.h:119
 msgid "PGM image"
 msgstr "PGM 影像"
 
-#: gnome-vfs.keys.in.h:117
+#: gnome-vfs.keys.in.h:120
 msgid "PGN chess game"
 msgstr "PGN 象棋檔"
 
-#: gnome-vfs.keys.in.h:118
+#: gnome-vfs.keys.in.h:121
 msgid "PGP keys"
 msgstr "PGP 鑰匙"
 
-#: gnome-vfs.keys.in.h:119
+#: gnome-vfs.keys.in.h:122
 msgid "PGP message"
 msgstr "PGP 訊息"
 
-#: gnome-vfs.keys.in.h:120
+#: gnome-vfs.keys.in.h:123
 msgid "PGP signature"
 msgstr "PGP 簽名檔"
 
-#: gnome-vfs.keys.in.h:121
+#: gnome-vfs.keys.in.h:124
 msgid "PGP-encrypted file"
 msgstr "PGP 加密檔"
 
-#: gnome-vfs.keys.in.h:122
+#: gnome-vfs.keys.in.h:125
 msgid "PHP script"
 msgstr "PHP 描述語言檔"
 
-#: gnome-vfs.keys.in.h:123
+#: gnome-vfs.keys.in.h:126
 msgid "PNG image"
 msgstr "PNG 影像"
 
-#: gnome-vfs.keys.in.h:124
+#: gnome-vfs.keys.in.h:127
 msgid "PNM image"
 msgstr "PNM 影像"
 
-#: gnome-vfs.keys.in.h:125
+#: gnome-vfs.keys.in.h:128
 msgid "PPM image"
 msgstr "PPM 影像"
 
-#: gnome-vfs.keys.in.h:126
+#: gnome-vfs.keys.in.h:129
 msgid "Palm OS database"
 msgstr "Palm OS 資料庫"
 
-#: gnome-vfs.keys.in.h:127
+#: gnome-vfs.keys.in.h:130
 msgid "Perl script"
 msgstr "Perl 描述語言檔"
 
-#: gnome-vfs.keys.in.h:128
+#: gnome-vfs.keys.in.h:131
 msgid "Photoshop document"
 msgstr "Photoshop 文件"
 
-#: gnome-vfs.keys.in.h:129
+#: gnome-vfs.keys.in.h:132
 #, fuzzy
 msgid "Playlist"
 msgstr "MP3 播放清單"
 
-#: gnome-vfs.keys.in.h:130
+#: gnome-vfs.keys.in.h:133
 msgid "PostScript Type 1 font"
 msgstr "PostScript Type 1 字型檔"
 
-#: gnome-vfs.keys.in.h:131
+#: gnome-vfs.keys.in.h:134
 msgid "PostScript document"
 msgstr "PostScript 文件"
 
-#: gnome-vfs.keys.in.h:132
+#: gnome-vfs.keys.in.h:135
 msgid "Python source code"
 msgstr "Python 原始碼"
 
-#: gnome-vfs.keys.in.h:133
+#: gnome-vfs.keys.in.h:136
 msgid "QuickTime movie"
 msgstr "QuickTime 影音檔"
 
-#: gnome-vfs.keys.in.h:134
+#: gnome-vfs.keys.in.h:137
 msgid "Quicken document"
 msgstr "Quicken 文件"
 
-#: gnome-vfs.keys.in.h:135
+#: gnome-vfs.keys.in.h:138
 msgid "Quicken for Windows document"
 msgstr "Quicken for Windows 文件"
 
-#: gnome-vfs.keys.in.h:136
+#: gnome-vfs.keys.in.h:139
 msgid "RAR archive"
 msgstr "RAR 檔"
 
-#: gnome-vfs.keys.in.h:137
+#: gnome-vfs.keys.in.h:140
 msgid "README document"
 msgstr "讀我文件"
 
-#: gnome-vfs.keys.in.h:138
+#: gnome-vfs.keys.in.h:141
 msgid "RGB image"
 msgstr "RGB 影像"
 
-#: gnome-vfs.keys.in.h:139
+#: gnome-vfs.keys.in.h:142
 msgid "RIFF audio"
 msgstr "RIFF 音效檔"
 
-#: gnome-vfs.keys.in.h:140
+#: gnome-vfs.keys.in.h:143
 msgid "RPM package"
 msgstr "RPM 套件檔"
 
-#: gnome-vfs.keys.in.h:141
+#: gnome-vfs.keys.in.h:144
 #, fuzzy
 msgid "RealAudio document"
 msgstr "PN RealAudio 文件"
 
-#: gnome-vfs.keys.in.h:142
+#: gnome-vfs.keys.in.h:145
 msgid "RealAudio/Video document"
 msgstr "RealAudio/Video 文件"
 
-#: gnome-vfs.keys.in.h:143
+#: gnome-vfs.keys.in.h:146
 msgid "RealVideo video"
 msgstr "RealVideo 影音檔"
 
-#: gnome-vfs.keys.in.h:144
+#: gnome-vfs.keys.in.h:147
 msgid "S/MIME file"
 msgstr "S/MIME 檔"
 
-#: gnome-vfs.keys.in.h:145
+#: gnome-vfs.keys.in.h:148
 msgid "S/MIME signature"
 msgstr "S/MIME 數位簽名檔"
 
-#: gnome-vfs.keys.in.h:146
+#: gnome-vfs.keys.in.h:149
 msgid "SGI video"
 msgstr "SGI 影音檔"
 
-#: gnome-vfs.keys.in.h:147
+#: gnome-vfs.keys.in.h:150
 msgid "SGML document"
 msgstr "SGML 文件"
 
-#: gnome-vfs.keys.in.h:148
+#: gnome-vfs.keys.in.h:151
 msgid "SMIL script"
 msgstr "SMIL 描述語言檔"
 
-#: gnome-vfs.keys.in.h:149
+#: gnome-vfs.keys.in.h:152
 msgid "SMS or Game Gear rom"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:150
+#: gnome-vfs.keys.in.h:153
 msgid "SQL code"
 msgstr "SQL 碼"
 
-#: gnome-vfs.keys.in.h:151
+#: gnome-vfs.keys.in.h:154
 msgid "SV4 CPIO archive"
 msgstr "SV4 CPIO 檔"
 
-#: gnome-vfs.keys.in.h:152
+#: gnome-vfs.keys.in.h:155
 msgid "SV4 CPIP archive (with CRC)"
 msgstr "SV4 CPIP 檔 (具有 CRC)"
 
-#: gnome-vfs.keys.in.h:153
+#: gnome-vfs.keys.in.h:156
 msgid "SVG art"
 msgstr "SVG 影像"
 
-#: gnome-vfs.keys.in.h:154
+#: gnome-vfs.keys.in.h:157
 msgid "Scheme source code"
 msgstr "Scheme 原始碼"
 
-#: gnome-vfs.keys.in.h:155
+#: gnome-vfs.keys.in.h:158
 msgid "Scream Tracker 3 audio"
 msgstr "Scream Tracker 3 音效檔"
 
-#: gnome-vfs.keys.in.h:156
+#: gnome-vfs.keys.in.h:159
 msgid "Scream Tracker audio"
 msgstr "Scream Tracker 音效檔"
 
-#: gnome-vfs.keys.in.h:157
+#: gnome-vfs.keys.in.h:160
 msgid "Scream Tracker instrument"
 msgstr "Scream Tracker 樂器檔"
 
-#: gnome-vfs.keys.in.h:158
+#: gnome-vfs.keys.in.h:161
 msgid "Setext document"
 msgstr "Setext 文件"
 
-#: gnome-vfs.keys.in.h:159
+#: gnome-vfs.keys.in.h:162
 msgid "Speech document"
 msgstr "Speech 文件"
 
-#: gnome-vfs.keys.in.h:160
+#: gnome-vfs.keys.in.h:163
 msgid "Speedo font"
 msgstr "Speedo 字型檔"
 
-#: gnome-vfs.keys.in.h:161
+#: gnome-vfs.keys.in.h:164
 msgid "Spreadsheet Interchange document"
 msgstr "Spreadsheet 交換文件"
 
-#: gnome-vfs.keys.in.h:162
+#: gnome-vfs.keys.in.h:165
 msgid "Stampede package"
 msgstr "Stampede 套件檔"
 
-#: gnome-vfs.keys.in.h:163
+#: gnome-vfs.keys.in.h:166
 #, fuzzy
 msgid "StarCalc spreadsheet"
 msgstr "StarOffice 試算表"
 
-#: gnome-vfs.keys.in.h:164
+#: gnome-vfs.keys.in.h:167
 msgid "StarChart chart"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:165
+#: gnome-vfs.keys.in.h:168
 msgid "StarDraw drawing"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:166
+#: gnome-vfs.keys.in.h:169
 #, fuzzy
 msgid "StarImpress presentation"
 msgstr "StarOffice 簡報檔"
 
-#: gnome-vfs.keys.in.h:167
+#: gnome-vfs.keys.in.h:170
 msgid "StarMail file"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:168
+#: gnome-vfs.keys.in.h:171
 #, fuzzy
 msgid "StarMath document"
 msgstr "MathML 文件"
 
-#: gnome-vfs.keys.in.h:169
+#: gnome-vfs.keys.in.h:172
 #, fuzzy
 msgid "StarWriter document"
 msgstr "StarOffice Writer 文件"
 
-#: gnome-vfs.keys.in.h:170
+#: gnome-vfs.keys.in.h:173
 msgid "Sun mu-law audio"
 msgstr "Sun mu-law 音效檔"
 
-#: gnome-vfs.keys.in.h:171
+#: gnome-vfs.keys.in.h:174
 msgid "SunOS News font"
 msgstr "SunOS News 字型檔"
 
-#: gnome-vfs.keys.in.h:172
+#: gnome-vfs.keys.in.h:175
 msgid "TIFF image"
 msgstr "TIFF 影像"
 
-#: gnome-vfs.keys.in.h:173
+#: gnome-vfs.keys.in.h:176
 msgid "TarGA image"
 msgstr "TarGA 影像"
 
-#: gnome-vfs.keys.in.h:174
+#: gnome-vfs.keys.in.h:177
 msgid "Tcl script"
 msgstr "Tcl 描述語言檔"
 
-#: gnome-vfs.keys.in.h:175
+#: gnome-vfs.keys.in.h:178
 msgid "TeX document"
 msgstr "TeX 文件"
 
-#: gnome-vfs.keys.in.h:176
+#: gnome-vfs.keys.in.h:179
 msgid "TeX dvi document"
 msgstr "TeX dvi 文件"
 
-#: gnome-vfs.keys.in.h:177
+#: gnome-vfs.keys.in.h:180
 msgid "TeX font"
 msgstr "TeX 字型檔"
 
-#: gnome-vfs.keys.in.h:178
+#: gnome-vfs.keys.in.h:181
 msgid "TeX font metrics"
 msgstr "TeX metrics 字型檔"
 
-#: gnome-vfs.keys.in.h:179
+#: gnome-vfs.keys.in.h:182
 msgid "TeXInfo document"
 msgstr "TeXInfo 文件"
 
-#: gnome-vfs.keys.in.h:180
+#: gnome-vfs.keys.in.h:183
 msgid "ToutDoux document"
 msgstr "ToutDoux 文件"
 
-#: gnome-vfs.keys.in.h:181
+#: gnome-vfs.keys.in.h:184
 msgid "TrueType font"
 msgstr "TrueType 字型檔"
 
-#: gnome-vfs.keys.in.h:182
+#: gnome-vfs.keys.in.h:185
 msgid "USENET news message"
 msgstr "USENET 新聞訊息"
 
-#: gnome-vfs.keys.in.h:183
+#: gnome-vfs.keys.in.h:186
 msgid "Unidata netCDF document"
 msgstr "Unidata netCDF 文件"
 
-#: gnome-vfs.keys.in.h:184
+#: gnome-vfs.keys.in.h:187
 msgid "V font"
 msgstr "V 字型檔"
 
-#: gnome-vfs.keys.in.h:185
+#: gnome-vfs.keys.in.h:188
 msgid "VOC audio"
 msgstr "VOC 音效檔"
 
-#: gnome-vfs.keys.in.h:186
+#: gnome-vfs.keys.in.h:189
 msgid "VRML document"
 msgstr "VRML 文件"
 
-#: gnome-vfs.keys.in.h:187
+#: gnome-vfs.keys.in.h:190
 msgid "Vivo video"
 msgstr "Vivo 影音檔"
 
-#: gnome-vfs.keys.in.h:188
+#: gnome-vfs.keys.in.h:191
 msgid "WAIS source code"
 msgstr "WAIS 原始碼"
 
-#: gnome-vfs.keys.in.h:189
+#: gnome-vfs.keys.in.h:192
 msgid "Wavelet video"
 msgstr "Wavelet 影音檔"
 
-#: gnome-vfs.keys.in.h:190
+#: gnome-vfs.keys.in.h:193
 msgid "Windows bitmap image"
 msgstr "Windows 點陣圖"
 
-#: gnome-vfs.keys.in.h:191
+#: gnome-vfs.keys.in.h:194
 msgid "Windows icon image"
 msgstr "Windows 圖示"
 
-#: gnome-vfs.keys.in.h:192
+#: gnome-vfs.keys.in.h:195
 msgid "Windows metafile graphics"
 msgstr "Windows metafile 影像"
 
-#: gnome-vfs.keys.in.h:193
+#: gnome-vfs.keys.in.h:196
 msgid "WordPerfect document"
 msgstr "WordPerfect 文件"
 
-#: gnome-vfs.keys.in.h:194
+#: gnome-vfs.keys.in.h:197
 msgid "X bitmap image"
 msgstr "X 點陣圖"
 
-#: gnome-vfs.keys.in.h:195
+#: gnome-vfs.keys.in.h:198
 msgid "X window image"
 msgstr "X window 影像"
 
-#: gnome-vfs.keys.in.h:196
+#: gnome-vfs.keys.in.h:199
 msgid "XML document"
 msgstr "XML 文件"
 
-#: gnome-vfs.keys.in.h:197
+#: gnome-vfs.keys.in.h:200
 msgid "XPM image"
 msgstr "XPM 影像"
 
-#: gnome-vfs.keys.in.h:198
+#: gnome-vfs.keys.in.h:201
 msgid "Xbase database"
 msgstr "Xbase 資料庫"
 
-#: gnome-vfs.keys.in.h:199
+#: gnome-vfs.keys.in.h:202
 #, fuzzy
 msgid "Z shell script"
 msgstr "C shell 描述語言檔"
 
-#: gnome-vfs.keys.in.h:200
+#: gnome-vfs.keys.in.h:203
 msgid "active server page"
 msgstr "ASP 檔"
 
-#: gnome-vfs.keys.in.h:201
+#: gnome-vfs.keys.in.h:204
 msgid "address card"
 msgstr "名片檔"
 
-#: gnome-vfs.keys.in.h:202
+#: gnome-vfs.keys.in.h:205
 #, fuzzy
 msgid "application launcher"
 msgstr "KDE 程式資訊"
 
-#: gnome-vfs.keys.in.h:203
+#: gnome-vfs.keys.in.h:206
 msgid "ar archive"
 msgstr "ar 檔"
 
-#: gnome-vfs.keys.in.h:204
+#: gnome-vfs.keys.in.h:207
 msgid "arj archive"
 msgstr "arj 檔"
 
-#: gnome-vfs.keys.in.h:205
+#: gnome-vfs.keys.in.h:208
 msgid "authors list"
 msgstr "作者清單"
 
-#: gnome-vfs.keys.in.h:206
+#: gnome-vfs.keys.in.h:209
 msgid "backup file"
 msgstr "備份檔"
 
-#: gnome-vfs.keys.in.h:207
+#: gnome-vfs.keys.in.h:210
 msgid "basic audio"
 msgstr "基本音效檔"
 
-#: gnome-vfs.keys.in.h:208
+#: gnome-vfs.keys.in.h:211
 msgid "bibliography record"
 msgstr "參考書目記錄"
 
-#: gnome-vfs.keys.in.h:209
+#: gnome-vfs.keys.in.h:212
 msgid "binary program"
 msgstr "二元碼程式"
 
-#: gnome-vfs.keys.in.h:210
+#: gnome-vfs.keys.in.h:213
 msgid "block device"
 msgstr "區塊裝置"
 
-#: gnome-vfs.keys.in.h:211
+#: gnome-vfs.keys.in.h:214
 msgid "bzip-compressed file"
 msgstr "bzip 壓縮檔"
 
-#: gnome-vfs.keys.in.h:212
+#: gnome-vfs.keys.in.h:215
 msgid "calendar file"
 msgstr "行事曆檔"
 
-#: gnome-vfs.keys.in.h:213
+#: gnome-vfs.keys.in.h:216
 msgid "calendar or event document"
 msgstr "行事曆/事情 文件"
 
-#: gnome-vfs.keys.in.h:214
+#: gnome-vfs.keys.in.h:217
 msgid "character device"
 msgstr "字元裝置"
 
-#: gnome-vfs.keys.in.h:215
+#: gnome-vfs.keys.in.h:218
 msgid "comma-separated text document"
 msgstr "逗號字元分隔文件"
 
-#: gnome-vfs.keys.in.h:216
+#: gnome-vfs.keys.in.h:219
 msgid "compound document"
 msgstr "複合文件"
 
-#: gnome-vfs.keys.in.h:217
+#: gnome-vfs.keys.in.h:220
 msgid "compress-compressed file"
 msgstr "壓縮檔"
 
-#: gnome-vfs.keys.in.h:218
+#: gnome-vfs.keys.in.h:221
 msgid "compressed GIMP document"
 msgstr "壓縮的 GIMP 文件"
 
-#: gnome-vfs.keys.in.h:219
+#: gnome-vfs.keys.in.h:222
 msgid "directory information file"
 msgstr "目錄資訊檔"
 
-#: gnome-vfs.keys.in.h:220
+#: gnome-vfs.keys.in.h:223
 msgid "document type definition"
 msgstr "DTD 文件類別定義"
 
-#: gnome-vfs.keys.in.h:221
+#: gnome-vfs.keys.in.h:224
 msgid "email headers"
 msgstr "郵件檔頭"
 
-#: gnome-vfs.keys.in.h:222
+#: gnome-vfs.keys.in.h:225
 #, fuzzy
 msgid "email message/mailbox"
 msgstr "郵件訊息"
 
-#: gnome-vfs.keys.in.h:223
+#: gnome-vfs.keys.in.h:226
 msgid "encrypted message"
 msgstr "加密的訊息"
 
-#: gnome-vfs.keys.in.h:224
+#: gnome-vfs.keys.in.h:227
 msgid "enriched text document"
 msgstr "enriched 文字檔"
 
-#: gnome-vfs.keys.in.h:225
+#: gnome-vfs.keys.in.h:228
 msgid "folder"
 msgstr "資料夾"
 
-#: gnome-vfs.keys.in.h:226
+#: gnome-vfs.keys.in.h:229
 msgid "gtar archive"
 msgstr "gtar 檔"
 
-#: gnome-vfs.keys.in.h:227
+#: gnome-vfs.keys.in.h:230
 msgid "gzip-compressed file"
 msgstr "gzip 壓縮檔"
 
-#: gnome-vfs.keys.in.h:228
+#: gnome-vfs.keys.in.h:231
 msgid "help page"
 msgstr "求助說明檔"
 
-#: gnome-vfs.keys.in.h:229
+#: gnome-vfs.keys.in.h:232
 msgid "mail delivery report"
 msgstr "郵件傳送報告"
 
-#: gnome-vfs.keys.in.h:230
+#: gnome-vfs.keys.in.h:233
 msgid "mail disposition report"
 msgstr "郵件處理報告"
 
-#: gnome-vfs.keys.in.h:231
+#: gnome-vfs.keys.in.h:234
 msgid "mail system report"
 msgstr "郵件系統報告"
 
-#: gnome-vfs.keys.in.h:232
+#: gnome-vfs.keys.in.h:235
 msgid "makefile"
 msgstr "makefile 檔"
 
-#: gnome-vfs.keys.in.h:233
+#: gnome-vfs.keys.in.h:236
 msgid "manual page"
 msgstr "manual page 說明檔"
 
-#: gnome-vfs.keys.in.h:234
+#: gnome-vfs.keys.in.h:237
 msgid "manual page (compressed)"
 msgstr "manual page 說明檔(已壓縮)"
 
-#: gnome-vfs.keys.in.h:235
+#: gnome-vfs.keys.in.h:238
 msgid "memory dump"
 msgstr "記憶體傾印檔"
 
-#: gnome-vfs.keys.in.h:236
+#: gnome-vfs.keys.in.h:239
 msgid "message digest"
 msgstr "訊息摘要"
 
-#: gnome-vfs.keys.in.h:237
+#: gnome-vfs.keys.in.h:240
 msgid "message in several formats"
 msgstr "多種格式郵件"
 
-#: gnome-vfs.keys.in.h:238
+#: gnome-vfs.keys.in.h:241
 msgid "multi-part message"
 msgstr "多重部份訊息"
 
-#: gnome-vfs.keys.in.h:239
+#: gnome-vfs.keys.in.h:242
 msgid "named pipe"
 msgstr "具名導管(named pipe)"
 
-#: gnome-vfs.keys.in.h:240
+#: gnome-vfs.keys.in.h:243
 msgid "object code"
 msgstr "目的檔"
 
-#: gnome-vfs.keys.in.h:241
+#: gnome-vfs.keys.in.h:244
 msgid "ogg audio"
 msgstr "ogg 音效檔"
 
-#: gnome-vfs.keys.in.h:242
+#: gnome-vfs.keys.in.h:245
 msgid "partial email message"
 msgstr "部份郵件訊息"
 
-#: gnome-vfs.keys.in.h:243
+#: gnome-vfs.keys.in.h:246
 msgid "plain text document"
 msgstr "純文字檔"
 
-#: gnome-vfs.keys.in.h:244
+#: gnome-vfs.keys.in.h:247
 msgid "profiler results"
 msgstr "程式優化報告"
 
-#: gnome-vfs.keys.in.h:245
+#: gnome-vfs.keys.in.h:248
 msgid "reference to remote file"
 msgstr "遠端檔案連結"
 
-#: gnome-vfs.keys.in.h:246
+#: gnome-vfs.keys.in.h:249
 msgid "rejected patch file"
 msgstr "被拒絕的修補檔"
 
-#: gnome-vfs.keys.in.h:247
+#: gnome-vfs.keys.in.h:250
 msgid "rich text document"
 msgstr "RTF 文件"
 
-#: gnome-vfs.keys.in.h:248
+#: gnome-vfs.keys.in.h:251
 msgid "search results"
 msgstr "搜尋結果"
 
-#: gnome-vfs.keys.in.h:249
+#: gnome-vfs.keys.in.h:252
 msgid "shared library"
 msgstr "分享程式庫"
 
-#: gnome-vfs.keys.in.h:250
+#: gnome-vfs.keys.in.h:253
 msgid "shell archive"
 msgstr "shell 檔"
 
-#: gnome-vfs.keys.in.h:251
+#: gnome-vfs.keys.in.h:254
 msgid "shell script"
 msgstr "shell 描述語言檔"
 
-#: gnome-vfs.keys.in.h:252
+#: gnome-vfs.keys.in.h:255
 msgid "signed message"
 msgstr "數位簽名訊息"
 
-#: gnome-vfs.keys.in.h:253
+#: gnome-vfs.keys.in.h:256
 msgid "socket"
 msgstr "套介面"
 
-#: gnome-vfs.keys.in.h:254
+#: gnome-vfs.keys.in.h:257
 msgid "software author credits"
 msgstr "程式作者榮譽"
 
-#: gnome-vfs.keys.in.h:255
+#: gnome-vfs.keys.in.h:258
 msgid "software installation instructions"
 msgstr "程式安裝指引"
 
-#: gnome-vfs.keys.in.h:256
+#: gnome-vfs.keys.in.h:259
 msgid "software license terms"
 msgstr "程式許可證條款"
 
-#: gnome-vfs.keys.in.h:257
+#: gnome-vfs.keys.in.h:260
 msgid "source code patch"
 msgstr "原始碼修補檔"
 
-#: gnome-vfs.keys.in.h:258
+#: gnome-vfs.keys.in.h:261
 msgid "style sheet"
 msgstr "樣式表"
 
-#: gnome-vfs.keys.in.h:259
+#: gnome-vfs.keys.in.h:262
 msgid "symbolic link"
 msgstr "符號連結"
 
-#: gnome-vfs.keys.in.h:260
+#: gnome-vfs.keys.in.h:263
 msgid "tab-separated text document"
 msgstr "定位字元分隔文件"
 
-#: gnome-vfs.keys.in.h:261
+#: gnome-vfs.keys.in.h:264
 msgid "tar archive"
 msgstr "tar 檔"
 
-#: gnome-vfs.keys.in.h:262
+#: gnome-vfs.keys.in.h:265
 msgid "tar archive (bzip2-compressed)"
 msgstr "tar 檔 (bzip2 壓縮)"
 
-#: gnome-vfs.keys.in.h:263
+#: gnome-vfs.keys.in.h:266
 msgid "tar archive (gzip-compressed)"
 msgstr "tar 檔 (gzip 壓縮)"
 
-#: gnome-vfs.keys.in.h:264
+#: gnome-vfs.keys.in.h:267
 msgid "theme"
 msgstr "佈景"
 
-#: gnome-vfs.keys.in.h:265
+#: gnome-vfs.keys.in.h:268
 msgid "troff document"
 msgstr "troff 文件"
 
-#: gnome-vfs.keys.in.h:266
+#: gnome-vfs.keys.in.h:269
 msgid "troff me input document"
 msgstr "troff me 輸入文件"
 
-#: gnome-vfs.keys.in.h:267
+#: gnome-vfs.keys.in.h:270
 msgid "troff mm input document"
 msgstr "troff mm 輸入文件"
 
-#: gnome-vfs.keys.in.h:268
+#: gnome-vfs.keys.in.h:271
 msgid "troff ms input document"
 msgstr "troff ms 輸入文件"
 
-#: gnome-vfs.keys.in.h:269
+#: gnome-vfs.keys.in.h:272
 msgid "unknown type"
 msgstr "不詳的類別"
 
-#: gnome-vfs.keys.in.h:270
+#: gnome-vfs.keys.in.h:273
 msgid "ustar archive"
 msgstr "ustar 檔"
 
-#: gnome-vfs.keys.in.h:271
+#: gnome-vfs.keys.in.h:274
 msgid "wave audio"
 msgstr "wave 音效檔"
 
-#: gnome-vfs.keys.in.h:272
+#: gnome-vfs.keys.in.h:275
 msgid "web folder"
 msgstr "互聯網資料夾"
 
-#: gnome-vfs.keys.in.h:273
+#: gnome-vfs.keys.in.h:276
 msgid "xfig vector graphic"
 msgstr "xfig 向量影像"
 
-#: gnome-vfs.keys.in.h:274
+#: gnome-vfs.keys.in.h:277
 msgid "zip archive"
 msgstr "zip 檔"
 
-#: gnome-vfs.keys.in.h:275
+#: gnome-vfs.keys.in.h:278
 msgid "zoo archive"
 msgstr "zoo 檔"
 
