@@ -1,0 +1,1100 @@
+# Malay Translation for gnome-mime-data 
+#
+# " Jika seorang lelaki mencintai awek orang lain, itu perkara biasa 
+#   dan bukan isu. Tetapi jika seorang lelaki mencintai suami orang, 
+#   maka itu boleh dikatakan tidak normal dan ianya isu besar. "
+#
+#  Hasbullah Bin Pit (sebol) <sebol@ikhlas.com>, 2002.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mime-data\n"
+"POT-Creation-Date: 2002-02-26 03:32+0800\n"
+"PO-Revision-Date: 2002-02-26 03:22+0800\n"
+"Last-Translator: Hasbullah Bin Pit <sebol@ikhlas.com>\n"
+"Language-Team: Projek Gabai <gabai-penyumbang@lists.sourceforge.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gnome-vfs.keys.in.h:1
+msgid "3D Studio image"
+msgstr "Imej 3D Studio"
+
+#: gnome-vfs.keys.in.h:2
+msgid "AIFC audio"
+msgstr "Audio AIFC"
+
+#: gnome-vfs.keys.in.h:3
+msgid "AIFF audio"
+msgstr "Audio AIFF"
+
+#: gnome-vfs.keys.in.h:4
+msgid "ANIM animation"
+msgstr "Animasi ANIM"
+
+#: gnome-vfs.keys.in.h:5
+msgid "AVI video"
+msgstr "Video AVI"
+
+#: gnome-vfs.keys.in.h:6
+msgid "AbiWord document"
+msgstr "Dokumen AbiWord"
+
+#: gnome-vfs.keys.in.h:7
+msgid "Adobe FrameMaker font"
+msgstr "Font Adobe FrameMaker"
+
+#: gnome-vfs.keys.in.h:8
+msgid "Adobe font metrics"
+msgstr "Metrik font Adobe"
+
+#: gnome-vfs.keys.in.h:9
+msgid "Andrew Toolkit inset"
+msgstr "Inset Andrew Toolkit"
+
+#: gnome-vfs.keys.in.h:10
+msgid "ApplixWare Graphics image"
+msgstr "Imej Grafik ApplixWare"
+
+#: gnome-vfs.keys.in.h:11
+msgid "Applixware Words document"
+msgstr "Dokumen Perkataan Applixware"
+
+#: gnome-vfs.keys.in.h:12
+msgid "Applixware spreadsheet"
+msgstr "Hamparan Applixware"
+
+#: gnome-vfs.keys.in.h:13
+msgid "AutoCAD image"
+msgstr "Imej AutoCAD"
+
+#: gnome-vfs.keys.in.h:14
+msgid "BCPIO document"
+msgstr "Dokumen BCPIO"
+
+# src/prefs.c:618
+# ui/galeon.glade.h:140
+#: gnome-vfs.keys.in.h:15
+msgid "BDF font"
+msgstr "Font BDF"
+
+#: gnome-vfs.keys.in.h:16
+msgid "C shell script"
+msgstr "Skrip shell C"
+
+#: gnome-vfs.keys.in.h:17
+msgid "C source code"
+msgstr "Kod sumber C"
+
+#: gnome-vfs.keys.in.h:18
+msgid "C source code header"
+msgstr "Pengepala kod sumber C"
+
+#: gnome-vfs.keys.in.h:19
+msgid "C++ source code"
+msgstr "kod sumber C++"
+
+#: gnome-vfs.keys.in.h:20
+msgid "CGI program"
+msgstr "Program CGI"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:21
+msgid "CGM image"
+msgstr "imej CGM"
+
+#: gnome-vfs.keys.in.h:22
+msgid "CMU raster image"
+msgstr "Imej raster CMU"
+
+#: gnome-vfs.keys.in.h:23
+msgid "CPIO archive"
+msgstr "Arkib CPIO"
+
+#: gnome-vfs.keys.in.h:24
+msgid "CPIO archive (gzip-compressed)"
+msgstr "Arkib CPIO (dimampatkan-gzip)"
+
+#: gnome-vfs.keys.in.h:25
+msgid "Commodore 64 Audio"
+msgstr "Audio Commodore 64"
+
+#: gnome-vfs.keys.in.h:26
+msgid "DCL script"
+msgstr "Skrip DCL"
+
+#: gnome-vfs.keys.in.h:27
+msgid "DOS font"
+msgstr "Font DOS"
+
+#: gnome-vfs.keys.in.h:28
+msgid "DOS/Windows program"
+msgstr "program DOS/Windows"
+
+#: gnome-vfs.keys.in.h:29
+msgid "DSSSL document"
+msgstr "Dokumen DSSSL"
+
+#: gnome-vfs.keys.in.h:30
+msgid "DXF vector graphic"
+msgstr "Grafik vektor DXF"
+
+#: gnome-vfs.keys.in.h:31
+msgid "Debian package"
+msgstr "Pakej Debian"
+
+#: gnome-vfs.keys.in.h:32
+msgid "Dia diagram"
+msgstr "Diagram Dia"
+
+#: gnome-vfs.keys.in.h:33
+msgid "Dolby Digital audio"
+msgstr "Audio Digital Dolby"
+
+#: gnome-vfs.keys.in.h:34
+msgid "Emacs Lisp source code"
+msgstr "Kod sumber Emacs Lisp"
+
+#: gnome-vfs.keys.in.h:35
+msgid "Enlightenment theme"
+msgstr "Tema Enlightenment"
+
+#: gnome-vfs.keys.in.h:36
+msgid "FLC animation"
+msgstr "Animasi FLC"
+
+#: gnome-vfs.keys.in.h:37
+msgid "FLI animation"
+msgstr "Animasi FLI"
+
+#: gnome-vfs.keys.in.h:38
+msgid "FastTracker II audio"
+msgstr "Audio FastTracker II"
+
+#: gnome-vfs.keys.in.h:39
+msgid "Fortran source code"
+msgstr "kod sumber Fortran"
+
+#: gnome-vfs.keys.in.h:40
+msgid "FrameMaker interchange document"
+msgstr "Dokumen penukaran FrameMaker"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:41
+msgid "G3 fax image"
+msgstr "Imej fax G3"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:42
+msgid "GIF image"
+msgstr "Imej GIF"
+
+#: gnome-vfs.keys.in.h:43
+msgid "GIMP document"
+msgstr "Dokumen GIMP"
+
+#: gnome-vfs.keys.in.h:44
+msgid "GMC link"
+msgstr "Pautan GMC"
+
+#: gnome-vfs.keys.in.h:45
+msgid "GNU Oleo Spreadsheet"
+msgstr "Hamparan GNU Oleo"
+
+#: gnome-vfs.keys.in.h:46
+msgid "GNU mail message"
+msgstr "Mesej emel GNU"
+
+#: gnome-vfs.keys.in.h:47
+msgid "GTK configuration"
+msgstr "Konfigurasi  GTK"
+
+#: gnome-vfs.keys.in.h:48
+msgid "Glade project"
+msgstr "Projek Glade"
+
+#: gnome-vfs.keys.in.h:49
+msgid "GnuCash Workbook"
+msgstr "BukuKerja GnuCash"
+
+#: gnome-vfs.keys.in.h:50
+msgid "Gnumeric spreadsheet"
+msgstr "Hamparan Gnumeric"
+
+#: gnome-vfs.keys.in.h:51
+msgid "HDF document"
+msgstr "Dokumen HDF"
+
+#: gnome-vfs.keys.in.h:52
+msgid "HTML page"
+msgstr "Laman HTML"
+
+#: gnome-vfs.keys.in.h:53
+msgid "IDL document"
+msgstr "Dokumen IDL"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:54
+msgid "IEF image"
+msgstr "Imej IEF"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:55
+msgid "IFF image"
+msgstr "Imej IFF"
+
+#: gnome-vfs.keys.in.h:56
+msgid "ILBM image"
+msgstr "Imej ILBM"
+
+#: gnome-vfs.keys.in.h:57
+msgid "ISI video"
+msgstr "Video ISI"
+
+#: gnome-vfs.keys.in.h:58
+msgid "Impulse Tracker audio"
+msgstr "Audio Impulse Tracker"
+
+#: gnome-vfs.keys.in.h:59
+msgid "JBuilder Project"
+msgstr "Projek JBuilder"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:60
+msgid "JPEG image"
+msgstr "Imej JPEG"
+
+#: gnome-vfs.keys.in.h:61
+msgid "Java byte code"
+msgstr "Kod byte Java"
+
+#: gnome-vfs.keys.in.h:62
+msgid "Java source code"
+msgstr "kod sumber Java"
+
+#: gnome-vfs.keys.in.h:63
+msgid "KDE application details"
+msgstr "Perincian aplikasi KDE"
+
+#: gnome-vfs.keys.in.h:64
+msgid "KIllustrator document"
+msgstr "Dokumen KIllustrator"
+
+#: gnome-vfs.keys.in.h:65
+msgid "KPresenter presentation"
+msgstr "Persembahan KPresenter"
+
+#: gnome-vfs.keys.in.h:66
+msgid "KSpread spreadsheet"
+msgstr "Hamparan KSpread"
+
+#: gnome-vfs.keys.in.h:67
+msgid "KWord document"
+msgstr "Dokumen KWord"
+
+#: gnome-vfs.keys.in.h:68
+msgid "Korn shell script"
+msgstr "Skrip shell Korn"
+
+#: gnome-vfs.keys.in.h:69
+msgid "LHA archive"
+msgstr "Arkib LHA"
+
+#: gnome-vfs.keys.in.h:70
+msgid "LHARC archive"
+msgstr "Arkib LHARC"
+
+#: gnome-vfs.keys.in.h:71
+msgid "LIBGRX font"
+msgstr "Fonr LIBGRX"
+
+#: gnome-vfs.keys.in.h:72
+msgid "LightWave object"
+msgstr "Objek LightWave"
+
+#: gnome-vfs.keys.in.h:73
+msgid "LightWave scene"
+msgstr "Scene LightWave"
+
+#: gnome-vfs.keys.in.h:74
+msgid "Linux PSF console font"
+msgstr "Font konsol PSF Linux"
+
+#: gnome-vfs.keys.in.h:75
+msgid "Lotus 1-2-3 spreadsheet"
+msgstr "Hamparan Lotus 1-2-3"
+
+#: gnome-vfs.keys.in.h:76
+msgid "LyX Document"
+msgstr "Dokumen LyX"
+
+#: gnome-vfs.keys.in.h:77
+msgid "M3 audio URL"
+msgstr "URL audio MP3"
+
+#: gnome-vfs.keys.in.h:78
+msgid "MIDI audio"
+msgstr "Audio MIDI"
+
+#: gnome-vfs.keys.in.h:79
+msgid "MOD audio"
+msgstr "Audio MOD"
+
+#: gnome-vfs.keys.in.h:80
+msgid "MP3 audio"
+msgstr "Audio MP3"
+
+#: gnome-vfs.keys.in.h:81
+msgid "MP3 audio playlist"
+msgstr "Senaraimain audio MP3"
+
+#: gnome-vfs.keys.in.h:82
+msgid "MPEG video"
+msgstr "Video MPEG"
+
+#: gnome-vfs.keys.in.h:83
+msgid "MS ASF video"
+msgstr "Video MS ASF"
+
+#: gnome-vfs.keys.in.h:84
+msgid "MS video"
+msgstr "Video MS"
+
+#: gnome-vfs.keys.in.h:85
+msgid "Macintosh AppleDouble-encoded file"
+msgstr "Fail terenkod-AppleDouble Macintosh"
+
+#: gnome-vfs.keys.in.h:86
+msgid "Macintosh BinHex-encoded file"
+msgstr "Fail terenkod-BinHex Macintosh"
+
+#: gnome-vfs.keys.in.h:87
+msgid "Macintosh StuffIt archive"
+msgstr "Arkib StuffIt Macintosh"
+
+#: gnome-vfs.keys.in.h:88
+msgid "Macromedia Flash file"
+msgstr "Fail Macromedia Flash"
+
+#: gnome-vfs.keys.in.h:89
+msgid "MathML document"
+msgstr "Dokumen MathML"
+
+#: gnome-vfs.keys.in.h:90
+msgid "Microsoft Excel spreadsheet"
+msgstr "Hamparan Microsoft Excel"
+
+#: gnome-vfs.keys.in.h:91
+msgid "Microsoft PowerPoint document"
+msgstr "Dokumen Microsoft PowerPoint"
+
+#: gnome-vfs.keys.in.h:92
+msgid "Microsoft Word document"
+msgstr "Dokumen Microsoft Word"
+
+#: gnome-vfs.keys.in.h:93
+msgid "Microsoft video"
+msgstr "Video Microsoft"
+
+#: gnome-vfs.keys.in.h:94
+msgid "Nautilus link"
+msgstr "Pautan Nautilus"
+
+#: gnome-vfs.keys.in.h:95
+msgid "ODA document"
+msgstr "Dokumen ODA"
+
+#: gnome-vfs.keys.in.h:96
+msgid "OpenOffice Impress presentation"
+msgstr "Persembahan OpenOffice Impress"
+
+#: gnome-vfs.keys.in.h:97
+msgid "OpenOffice Impress presentation template"
+msgstr "Templat persembahan OpenOffice Impress"
+
+#: gnome-vfs.keys.in.h:98
+msgid "OpenOffice Math document"
+msgstr "Dokumen OpenOffice Math"
+
+#: gnome-vfs.keys.in.h:99
+msgid "OpenOffice Writer document"
+msgstr "Dokumen OpenOffice Writer"
+
+#: gnome-vfs.keys.in.h:100
+msgid "OpenOffice Writer global document"
+msgstr "Dokumen global OpenOffice Writer"
+
+#: gnome-vfs.keys.in.h:101
+msgid "OpenOffice Writer template"
+msgstr "Templat OpenOffice Writer"
+
+#: gnome-vfs.keys.in.h:102
+msgid "OpenOffice drawing"
+msgstr "Lukisan OpenOffice"
+
+#: gnome-vfs.keys.in.h:103
+msgid "OpenOffice drawing template"
+msgstr "Templat lukisan OpenOffice"
+
+#: gnome-vfs.keys.in.h:104
+msgid "OpenOffice spreadsheet"
+msgstr "Hamparan OpenOffice"
+
+#: gnome-vfs.keys.in.h:105
+msgid "OpenOffice spreadsheet template"
+msgstr "Templat hamparan OpenOffice"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:106
+msgid "PBM image"
+msgstr "Imej PBM"
+
+# src/prefs.c:618
+# ui/galeon.glade.h:140
+#: gnome-vfs.keys.in.h:107
+msgid "PCF font"
+msgstr "Font PCF"
+
+#: gnome-vfs.keys.in.h:108
+msgid "PDF document"
+msgstr "Dokumen PDF"
+
+#: gnome-vfs.keys.in.h:109
+msgid "PEF program"
+msgstr "Program PEF"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:110
+msgid "PGM image"
+msgstr "Imej PGM"
+
+#: gnome-vfs.keys.in.h:111
+msgid "PGN chess game"
+msgstr "Permainan catur PGN"
+
+#: gnome-vfs.keys.in.h:112
+msgid "PGP keys"
+msgstr "Kekunci PGP"
+
+#: gnome-vfs.keys.in.h:113
+msgid "PGP message"
+msgstr "Mesej PGP"
+
+#: gnome-vfs.keys.in.h:114
+msgid "PGP signature"
+msgstr "Tandatangan PGP"
+
+#: gnome-vfs.keys.in.h:115
+msgid "PGP-encrypted file"
+msgstr "Fail terenkripsi-PGP"
+
+#: gnome-vfs.keys.in.h:116
+msgid "PHP script"
+msgstr "Skrip PHP"
+
+#: gnome-vfs.keys.in.h:117
+msgid "PN RealAudio document"
+msgstr "Dokumen PN RealAudio"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:118
+msgid "PNG image"
+msgstr "Imej PNG"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:119
+msgid "PNM image"
+msgstr "Imej PNM"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:120
+msgid "PPM image"
+msgstr "Imej PPM"
+
+#: gnome-vfs.keys.in.h:121
+msgid "Palm OS database"
+msgstr "Pangkalandata PalmOS"
+
+#: gnome-vfs.keys.in.h:122
+msgid "Perl script"
+msgstr "Skrip Perl"
+
+#: gnome-vfs.keys.in.h:123
+msgid "Photoshop document"
+msgstr "Dokumen Photoshop"
+
+#: gnome-vfs.keys.in.h:124
+msgid "PostScript Type 1 font"
+msgstr "Font Type 1 PostScript"
+
+#: gnome-vfs.keys.in.h:125
+msgid "PostScript document"
+msgstr "Dokumen PostScript"
+
+#: gnome-vfs.keys.in.h:126
+msgid "Python source code"
+msgstr "Kod sumber Python"
+
+#: gnome-vfs.keys.in.h:127
+msgid "QuickTime movie"
+msgstr "Cereka QuickTime"
+
+#: gnome-vfs.keys.in.h:128
+msgid "Quicken document"
+msgstr "Dokumen Quicken"
+
+#: gnome-vfs.keys.in.h:129
+msgid "Quicken for Windows document"
+msgstr "Dokumen Quicken untuk Windows"
+
+#: gnome-vfs.keys.in.h:130
+msgid "RAR archive"
+msgstr "Arkib RAR"
+
+#: gnome-vfs.keys.in.h:131
+msgid "README document"
+msgstr "Dokumen README"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:132
+msgid "RGB image"
+msgstr "Imej RGB"
+
+#: gnome-vfs.keys.in.h:133
+msgid "RIFF audio"
+msgstr "Audio RIFF"
+
+#: gnome-vfs.keys.in.h:134
+msgid "RPM package"
+msgstr "Pakej RPM"
+
+#: gnome-vfs.keys.in.h:135
+msgid "RealAudio/Video document"
+msgstr "Dokumen RealAudio/Video"
+
+#: gnome-vfs.keys.in.h:136
+msgid "RealVideo video"
+msgstr "Video RealVideo"
+
+#: gnome-vfs.keys.in.h:137
+msgid "S/MIME file"
+msgstr "Fail S/MIME"
+
+#: gnome-vfs.keys.in.h:138
+msgid "S/MIME signature"
+msgstr "Tandatangan S/MIME"
+
+#: gnome-vfs.keys.in.h:139
+msgid "SGI video"
+msgstr "Video SGI"
+
+#: gnome-vfs.keys.in.h:140
+msgid "SGML document"
+msgstr "Dokumen SGML"
+
+#: gnome-vfs.keys.in.h:141
+msgid "SMIL script"
+msgstr "Skrip SMIL"
+
+#: gnome-vfs.keys.in.h:142
+msgid "SQL code"
+msgstr "Kod SQL"
+
+#: gnome-vfs.keys.in.h:143
+msgid "SV4 CPIO archive"
+msgstr "Arkib CPIO SV4"
+
+#: gnome-vfs.keys.in.h:144
+msgid "SV4 CPIP archive (with CRC)"
+msgstr "Arkib CPIP SV4 (dengan CRC)"
+
+#: gnome-vfs.keys.in.h:145
+msgid "SVG art"
+msgstr "Seni SVG"
+
+#: gnome-vfs.keys.in.h:146
+msgid "Scheme source code"
+msgstr "kod sumber Scheme"
+
+#: gnome-vfs.keys.in.h:147
+msgid "Scream Tracker 3 audio"
+msgstr "Audio Scream Tracker 3"
+
+#: gnome-vfs.keys.in.h:148
+msgid "Scream Tracker audio"
+msgstr "Audio Scream Tracker"
+
+#: gnome-vfs.keys.in.h:149
+msgid "Scream Tracker instrument"
+msgstr "Instrumen Scream Tracker"
+
+#: gnome-vfs.keys.in.h:150
+msgid "Setext document"
+msgstr "Dokumen Setext"
+
+#: gnome-vfs.keys.in.h:151
+msgid "Speech document"
+msgstr "Dokumen Percakapan"
+
+#: gnome-vfs.keys.in.h:152
+msgid "Speedo font"
+msgstr "Font Speedo"
+
+#: gnome-vfs.keys.in.h:153
+msgid "Spreadsheet Interchange document"
+msgstr "Dokumen penukaran Hamparan"
+
+#: gnome-vfs.keys.in.h:154
+msgid "Stampede package"
+msgstr "Pakej Stampede"
+
+#: gnome-vfs.keys.in.h:155
+msgid "StarCalc spreadsheet"
+msgstr "Hamparan StarCalc"
+
+#: gnome-vfs.keys.in.h:156
+msgid "StarChart chart"
+msgstr "Carta StarChart"
+
+#: gnome-vfs.keys.in.h:157
+msgid "StarDraw drawing"
+msgstr "Lukisan StarDraw"
+
+#: gnome-vfs.keys.in.h:158
+msgid "StarImpress presentation"
+msgstr "Persembahan StarImpress"
+
+#: gnome-vfs.keys.in.h:159
+msgid "StarMail file"
+msgstr "Fail StarMail"
+
+#: gnome-vfs.keys.in.h:160
+msgid "StarMath document"
+msgstr "Dokumen StarMath"
+
+#: gnome-vfs.keys.in.h:161
+msgid "StarWriter document"
+msgstr "Dokumen StarWriter"
+
+#: gnome-vfs.keys.in.h:162
+msgid "Sun mu-law audio"
+msgstr "Audio mu-law Sun"
+
+#: gnome-vfs.keys.in.h:163
+msgid "SunOS News font"
+msgstr "Font News SunOS"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:164
+msgid "TIFF image"
+msgstr "Imej TIFF"
+
+#: gnome-vfs.keys.in.h:165
+msgid "TarGA image"
+msgstr "Imej TarGA"
+
+#: gnome-vfs.keys.in.h:166
+msgid "Tcl script"
+msgstr "Sktop Tcl"
+
+#: gnome-vfs.keys.in.h:167
+msgid "TeX document"
+msgstr "Dokumen TeX"
+
+#: gnome-vfs.keys.in.h:168
+msgid "TeX dvi document"
+msgstr "Dokumen dvi"
+
+#: gnome-vfs.keys.in.h:169
+msgid "TeX font"
+msgstr "Font TeX"
+
+#: gnome-vfs.keys.in.h:170
+msgid "TeX font metrics"
+msgstr "Metrik font TeX"
+
+#: gnome-vfs.keys.in.h:171
+msgid "TeXInfo document"
+msgstr "Dokumen TeXInfo"
+
+#: gnome-vfs.keys.in.h:172
+msgid "ToutDoux document"
+msgstr "Dokumen ToutDoux"
+
+#: gnome-vfs.keys.in.h:173
+msgid "TrueType font"
+msgstr "Font TrueType"
+
+#: gnome-vfs.keys.in.h:174
+msgid "USENET news message"
+msgstr "Mesej berita USENET"
+
+#: gnome-vfs.keys.in.h:175
+msgid "Unidata netCDF document"
+msgstr "Dokumen Unidata netCDF"
+
+#: gnome-vfs.keys.in.h:176
+msgid "V font"
+msgstr "Font V"
+
+#: gnome-vfs.keys.in.h:177
+msgid "VOC audio"
+msgstr "Audio VOC"
+
+#: gnome-vfs.keys.in.h:178
+msgid "VRML document"
+msgstr "Dokumen VRML"
+
+#: gnome-vfs.keys.in.h:179
+msgid "Vivo video"
+msgstr "Video Vivo"
+
+#: gnome-vfs.keys.in.h:180
+msgid "WAIS source code"
+msgstr "Kod sumber WAIS"
+
+#: gnome-vfs.keys.in.h:181
+msgid "Wavelet video"
+msgstr "Video Wavelet"
+
+#: gnome-vfs.keys.in.h:182
+msgid "Windows bitmap image"
+msgstr "Imej bitmap windows"
+
+#: gnome-vfs.keys.in.h:183
+msgid "Windows icon image"
+msgstr "Imej ikon windows"
+
+#: gnome-vfs.keys.in.h:184
+msgid "Windows metafile graphics"
+msgstr "Grafik metafail Windows"
+
+#: gnome-vfs.keys.in.h:185
+msgid "WordPerfect document"
+msgstr "Dokumen WordPerfect"
+
+#: gnome-vfs.keys.in.h:186
+msgid "X bitmap image"
+msgstr "Imej bitmap X"
+
+#: gnome-vfs.keys.in.h:187
+msgid "X window image"
+msgstr "Imej tetingkap X"
+
+#: gnome-vfs.keys.in.h:188
+msgid "XML document"
+msgstr "Dokumen XML"
+
+# ui/galeon.glade.h:176
+#: gnome-vfs.keys.in.h:189
+msgid "XPM image"
+msgstr "Imej XPM"
+
+#: gnome-vfs.keys.in.h:190
+msgid "Xbase database"
+msgstr "Pangkalandata Xbase"
+
+#: gnome-vfs.keys.in.h:191
+msgid "active server page"
+msgstr "active server page"
+
+#: gnome-vfs.keys.in.h:192
+msgid "address card"
+msgstr "kad alamat"
+
+#: gnome-vfs.keys.in.h:193
+msgid "application launcher"
+msgstr "Pelancar aplikasi"
+
+#: gnome-vfs.keys.in.h:194
+msgid "ar archive"
+msgstr "arkib ar"
+
+#: gnome-vfs.keys.in.h:195
+msgid "arj archive"
+msgstr "arkib arj"
+
+#: gnome-vfs.keys.in.h:196
+msgid "authors list"
+msgstr "senarai penulis"
+
+#: gnome-vfs.keys.in.h:197
+msgid "backup file"
+msgstr "fail backup"
+
+#: gnome-vfs.keys.in.h:198
+msgid "basic audio"
+msgstr "audio asas"
+
+#: gnome-vfs.keys.in.h:199
+msgid "bibliography record"
+msgstr "kekod biblografi"
+
+#: gnome-vfs.keys.in.h:200
+msgid "binary program"
+msgstr "program binari"
+
+#: gnome-vfs.keys.in.h:201
+msgid "block device"
+msgstr "Peranti blok"
+
+#: gnome-vfs.keys.in.h:202
+msgid "bzip-compressed file"
+msgstr "fail termampat-bzip"
+
+#: gnome-vfs.keys.in.h:203
+msgid "calendar file"
+msgstr "Fail calendar"
+
+#: gnome-vfs.keys.in.h:204
+msgid "calendar or event document"
+msgstr "dokumen kalendar atau acara"
+
+#: gnome-vfs.keys.in.h:205
+msgid "character device"
+msgstr "peranti aksara"
+
+#: gnome-vfs.keys.in.h:206
+msgid "comma-separated text document"
+msgstr "dokumen teks dibahagi-koma"
+
+#: gnome-vfs.keys.in.h:207
+msgid "compound document"
+msgstr "dokumen halaman"
+
+#: gnome-vfs.keys.in.h:208
+msgid "compress-compressed file"
+msgstr "fail termampat-dimampat"
+
+#: gnome-vfs.keys.in.h:209
+msgid "compressed GIMP document"
+msgstr "Dokumen GIMP termampat"
+
+#: gnome-vfs.keys.in.h:210
+msgid "directory information file"
+msgstr "Fail maklumat direktori"
+
+#: gnome-vfs.keys.in.h:211
+msgid "document type definition"
+msgstr "Definisi jenis dokumen"
+
+#: gnome-vfs.keys.in.h:212
+msgid "email headers"
+msgstr "pengepala emel"
+
+#: gnome-vfs.keys.in.h:213
+msgid "email message/mailbox"
+msgstr "mesej/petimel emel"
+
+#: gnome-vfs.keys.in.h:214
+msgid "encrypted message"
+msgstr "mesek terenkripsi"
+
+#: gnome-vfs.keys.in.h:215
+msgid "enriched text document"
+msgstr "dokumen teks diperkaya"
+
+#: gnome-vfs.keys.in.h:216
+msgid "folder"
+msgstr "folder"
+
+#: gnome-vfs.keys.in.h:217
+msgid "gtar archive"
+msgstr "arkib gtar"
+
+#: gnome-vfs.keys.in.h:218
+msgid "gzip-compressed file"
+msgstr "fail termampat-gzip"
+
+#: gnome-vfs.keys.in.h:219
+msgid "help page"
+msgstr "halaman bantuan"
+
+#: gnome-vfs.keys.in.h:220
+msgid "mail delivery report"
+msgstr "laporan penghantaran mel"
+
+#: gnome-vfs.keys.in.h:221
+msgid "mail disposition report"
+msgstr "laporan pelupusan mel"
+
+#: gnome-vfs.keys.in.h:222
+msgid "mail system report"
+msgstr "laporan sistem mel"
+
+# ui/galeon.glade.h:134
+#: gnome-vfs.keys.in.h:223
+msgid "makefile"
+msgstr "makefile"
+
+#: gnome-vfs.keys.in.h:224
+msgid "manual page"
+msgstr "halaman manual"
+
+#: gnome-vfs.keys.in.h:225
+msgid "manual page (compressed)"
+msgstr "halaman manual (termampat)"
+
+#: gnome-vfs.keys.in.h:226
+msgid "memory dump"
+msgstr "longgokan memori"
+
+#: gnome-vfs.keys.in.h:227
+msgid "message digest"
+msgstr "Jilid mesej"
+
+#: gnome-vfs.keys.in.h:228
+msgid "message in several formats"
+msgstr "mesej dalam beberapa format"
+
+#: gnome-vfs.keys.in.h:229
+msgid "multi-part message"
+msgstr "mesej perbagai-bahagian"
+
+#: gnome-vfs.keys.in.h:230
+msgid "named pipe"
+msgstr "paip bernama"
+
+#: gnome-vfs.keys.in.h:231
+msgid "object code"
+msgstr "kod objek"
+
+#: gnome-vfs.keys.in.h:232
+msgid "ogg audio"
+msgstr "audio ogg"
+
+#: gnome-vfs.keys.in.h:233
+msgid "partial email message"
+msgstr "sebahagian mesej emel"
+
+#: gnome-vfs.keys.in.h:234
+msgid "plain text document"
+msgstr "dokumen teks plain"
+
+#: gnome-vfs.keys.in.h:235
+msgid "profiler results"
+msgstr "hasil pemprofail"
+
+#: gnome-vfs.keys.in.h:236
+msgid "reference to remote file"
+msgstr "rujukan ke fail remote"
+
+#: gnome-vfs.keys.in.h:237
+msgid "rejected patch file"
+msgstr "fail tepekan ditolak"
+
+#: gnome-vfs.keys.in.h:238
+msgid "rich text document"
+msgstr "dokumen teks rich"
+
+#: gnome-vfs.keys.in.h:239
+msgid "search results"
+msgstr "hasil carian"
+
+#: gnome-vfs.keys.in.h:240
+msgid "shared library"
+msgstr "pustaka terkongsi"
+
+#: gnome-vfs.keys.in.h:241
+msgid "shell archive"
+msgstr "arkib shell"
+
+#: gnome-vfs.keys.in.h:242
+msgid "shell script"
+msgstr "skrip shell"
+
+#: gnome-vfs.keys.in.h:243
+msgid "signed message"
+msgstr "mesej ditandatangani"
+
+#: gnome-vfs.keys.in.h:244
+msgid "socket"
+msgstr "soket"
+
+#: gnome-vfs.keys.in.h:245
+msgid "software author credits"
+msgstr "kredit penulis perisian"
+
+#: gnome-vfs.keys.in.h:246
+msgid "software installation instructions"
+msgstr "arahan pemasangan perisian"
+
+#: gnome-vfs.keys.in.h:247
+msgid "software license terms"
+msgstr "Syarat lesen perisian"
+
+#: gnome-vfs.keys.in.h:248
+msgid "source code patch"
+msgstr "tepekan kod sumber"
+
+#: gnome-vfs.keys.in.h:249
+msgid "style sheet"
+msgstr "stylesheet"
+
+#: gnome-vfs.keys.in.h:250
+msgid "symbolic link"
+msgstr "pautan simbolik"
+
+#: gnome-vfs.keys.in.h:251
+msgid "tab-separated text document"
+msgstr "dokumen teks dibahagi-tab"
+
+#: gnome-vfs.keys.in.h:252
+msgid "tar archive"
+msgstr "arkib tar"
+
+#: gnome-vfs.keys.in.h:253
+msgid "tar archive (bzip2-compressed)"
+msgstr "arkib tar (dimampat-bzip2)"
+
+#: gnome-vfs.keys.in.h:254
+msgid "tar archive (gzip-compressed)"
+msgstr "arkib tar (dimampat-gzip)"
+
+#: gnome-vfs.keys.in.h:255
+msgid "theme"
+msgstr "tema"
+
+#: gnome-vfs.keys.in.h:256
+msgid "troff document"
+msgstr "dokumen troff"
+
+#: gnome-vfs.keys.in.h:257
+msgid "troff me input document"
+msgstr "dokumen input troff me"
+
+#: gnome-vfs.keys.in.h:258
+msgid "troff mm input document"
+msgstr "dokumen input troff mm"
+
+#: gnome-vfs.keys.in.h:259
+msgid "troff ms input document"
+msgstr "dokumen input troff ms "
+
+#: gnome-vfs.keys.in.h:260
+msgid "unknown type"
+msgstr "Jenis entah"
+
+#: gnome-vfs.keys.in.h:261
+msgid "ustar archive"
+msgstr "arkib ustar"
+
+#: gnome-vfs.keys.in.h:262
+msgid "wave audio"
+msgstr "audio wav"
+
+#: gnome-vfs.keys.in.h:263
+msgid "web folder"
+msgstr "Folder web"
+
+#: gnome-vfs.keys.in.h:264
+msgid "xfig vector graphic"
+msgstr "Grafik vektor Xfig"
+
+#: gnome-vfs.keys.in.h:265
+msgid "zip archive"
+msgstr "arkib zip"
+
+#: gnome-vfs.keys.in.h:266
+msgid "zoo archive"
+msgstr "Arkib zoo"
