@@ -1,17 +1,20 @@
-# Amanpreet Singh Alam <amanliunx@netscapet.net>, 2004
-# 
-# 
+# translation of pa.po to Punjabi
+# Amanpreet Singh Alam <amanliunx@netscapet.net>, 2004.
+# Amanpreet Singh Alam <aalam@redhat.com>, 2004.
+#
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-mime-data\n"
+"Project-Id-Version: pa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-03-04 17:14+0530\n"
-"PO-Revision-Date: 2004-06-18 09:10+0530\n"
-"Last-Translator: Amanpreet Singh Alam <amanlinux@netscape.net>\n"
-"Language-Team: Punjabi <punlinux-i18n@lists.sourceforge.>\n"
+"PO-Revision-Date: 2004-07-22 12:07+0530\n"
+"Last-Translator: Amanpreet Singh Alam <aalam@redhat.com>\n"
+"Language-Team: Punjabi <pa@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "2D chemical structure"
@@ -23,11 +26,11 @@ msgstr "੩ ਆਮੀ ਸੁਟੀਡਿਉ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:3
 msgid "AIFC audio"
-msgstr "AIFC ਆਵਾਜ"
+msgstr "AIFC ਆਵਾਜ਼"
 
 #: gnome-vfs.keys.in.h:4
 msgid "AIFF audio"
-msgstr "AIFF ਆਵਾਜ"
+msgstr "AIFF ਆਵਾਜ਼"
 
 #: gnome-vfs.keys.in.h:5
 msgid "ANIM animation"
@@ -187,7 +190,7 @@ msgstr "ਕੈਲੰਡਰ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:44
 msgid "Calendar or event document"
-msgstr "ਕੈਲੰਡਰ ਜਾਂ ਨਤੀਜਾ ਕਾਗਜਾਤ"
+msgstr "ਕੈਲੰਡਰ ਜਾਂ ਨਤੀਜਾ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:45
 msgid "Character device"
@@ -747,15 +750,15 @@ msgstr "ਮਾਈਕਰੋਸਾਫਟ ਐਕਸ਼ਲ ਸਾਰਨੀ"
 
 #: gnome-vfs.keys.in.h:184
 msgid "Microsoft PowerPoint document"
-msgstr "ਮਾਈਕਰੋਸਾਫਟ ਪਾਵਰਪੁਆਇੰਟ ਕਾਗਜਾਤ"
+msgstr "ਮਾਈਕਰੋਸਾਫਟ ਪਾਵਰਪੁਆਇੰਟ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:185
 msgid "Microsoft WMV playlist"
-msgstr "ਮਾਈਕਰੋਸਾਫਟ ਡਬਿਲਊਐਮਵੀ ਸੰਗੀਤ ਸੂਚੀ"
+msgstr "ਮਾਈਕਰੋਸਾਫਟ WMV ਸੰਗੀਤ ਸੂਚੀ"
 
 #: gnome-vfs.keys.in.h:186
 msgid "Microsoft WMV video"
-msgstr "ਮਾਈਕਰੋਸਾਫਟ ਡਬਿਲਊਐਮਵੀ ਵੀਡਿਉ"
+msgstr "ਮਾਈਕਰੋਸਾਫਟ WMV ਵੀਡਿਉ"
 
 #: gnome-vfs.keys.in.h:187
 msgid "Microsoft Word document"
@@ -771,7 +774,7 @@ msgstr "Monkey ਆਡੀਉ"
 
 #: gnome-vfs.keys.in.h:190
 msgid "Mozilla bookmarks file"
-msgstr "ਮੋਜੀਲਾ ਬੁੱਕਮਾਰਕ ਫਾਇਲ"
+msgstr "ਮੌਜੀਲਾ ਬੁੱਕਮਾਰਕ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:191
 msgid "Multi-part message"
@@ -867,7 +870,7 @@ msgstr "PBM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:214
 msgid "PC Paintbrush image"
-msgstr "PC ਪੇਟਬਰੱਸ਼ ਚਿੱਤਰ"
+msgstr "PC ਪੇਂਟਬਰੱਸ਼ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:215
 msgid "PCF font"
@@ -1007,7 +1010,7 @@ msgstr "ਆਰ ਏ ਆਰ ਅਭਿਲੇਖ"
 
 #: gnome-vfs.keys.in.h:249
 msgid "README document"
-msgstr "README ਕਾਗਜਾਤ"
+msgstr "README ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:250
 msgid "RGB image"
@@ -1460,3 +1463,4 @@ msgstr "iPod ਸਾਫਟਵੇਅਰ"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "xfig ਵੈਕਟਰ ਗਰਾਫਿਕਸ"
+
