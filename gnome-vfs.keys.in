@@ -569,14 +569,6 @@ application/x-gnome-app-info
 	_description=application launcher
 	_category=User Interface
 
-application/x-gnome-theme
-	_description=GNOME theme
-	_category=User Interface
-
-application/x-gnome-theme-installed
-	_description=GNOME theme (installed)
-	_category=User Interface
-
 application/x-gnucash
 	_description=GnuCash Workbook
 	default_action_type=application
