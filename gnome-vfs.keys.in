@@ -821,6 +821,9 @@ image/x-cmu-raster
 image/x-compressed-xcf
 	_description=compressed GIMP document
 	icon_filename=gnome-gimp
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
 
 image/x-ico
 	_description=Windows icon image

@@ -1,3 +1,8 @@
+2001-12-01  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.keys.in:
+	Add GIMP entries to compressed GIMP files.	
+	
 2001-11-18  Carlos Perelló Marín <carlos@gnome-db.org>
 
 	* configure.in (ALL_LINGUAS): Added pt
