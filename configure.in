@@ -1,4 +1,4 @@
-AC_INIT([gnome-mime-data], [2.4.1],
+AC_INIT([gnome-mime-data], [2.4.2],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-mime-data])
 AC_CONFIG_SRCDIR(check-mime.pl)
 
