@@ -1,3 +1,7 @@
+2003-02-21  Roozbeh Pournader  <roozbeh@sharif.edu>
+
+	* configure.in: Added "fa" to ALL_LINGUAS.
+
 2003-02-18  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: detect realaudio playlist files properly
