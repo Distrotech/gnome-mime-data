@@ -138,7 +138,7 @@ application/x-bcpio
 	ext: bcpio
 
 application/x-blender
-	ext: blender
+	ext: blender blend BLEND
 
 application/x-bzip
 	ext: bz2 bz
