@@ -1,3 +1,16 @@
+2002-02-25  Seth Nickell  <snickell@stanford.edu>
+
+	* icons/Makefile.am:
+	* icons/gnome-application-vnd.stardivision.calc.png:
+	* icons/gnome-application-vnd.stardivision.impress.png:
+	* icons/gnome-application-vnd.stardivision.writer.png:
+	* icons/gnome-application-vnd.sun.xml.calc.png:
+	* icons/gnome-application-vnd.sun.xml.impress.png:
+	* icons/gnome-application-vnd.sun.xml.writer.png:
+	* icons/gnome-application-x-staroffice-words.png:
+
+	Add icons for the most common of these document types.
+	
 2002-02-21  Seth Nickell  <snickell@stanford.edu>
 
 	* gnome-vfs.applications:

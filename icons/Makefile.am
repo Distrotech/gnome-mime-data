@@ -15,6 +15,12 @@ icon_DATA =\
 	gnome-application-vnd.ms-excel.png \
 	gnome-application-vnd.ms-powerpoint.png \
 	gnome-application-vnd.rn-realmedia.png \
+	gnome-application-vnd.stardivision.calc.png \
+	gnome-application-vnd.stardivision.writer.png \
+	gnome-application-vnd.stardivision.impress.png \
+	gnome-application-vnd.sun.xml.calc.png \
+	gnome-application-vnd.sun.xml.impress.png \
+	gnome-application-vnd.sun.xml.writer.png \
 	gnome-application-x-abiword.png \
 	gnome-application-x-arj.png \
 	gnome-application-x-backup.png \
@@ -42,8 +48,6 @@ icon_DATA =\
 	gnome-application-x-reject.png \
 	gnome-application-x-scheme-source.png \
 	gnome-application-x-sql.png \
-	gnome-application-x-staroffice-presentation.png \
-	gnome-application-x-staroffice-words.png \
 	gnome-audio-ac3.png \
 	gnome-audio-basic.png \
 	gnome-audio-midi.png \
