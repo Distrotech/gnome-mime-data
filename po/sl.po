@@ -407,7 +407,7 @@ msgstr "video Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
-msgstr "dokument Micrsofot Word"
+msgstr "dokument Microsoft Word"
 
 #: gnome-vfs.keys.in.h:100
 msgid "Microsoft video"
