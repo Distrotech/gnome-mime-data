@@ -2078,7 +2078,7 @@ video/x-msvideo
 	short_list_application_ids_for_advanced_user_level=xmps,omsomi,xanim
 	_category=Video
 
-video/x-nsf
+video/x-nsv
 	_description=Nullsoft video
 	_category=Video
 

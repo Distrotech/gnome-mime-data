@@ -2,6 +2,12 @@
 
 	* gnome-vfs-mime-magic:
 	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: it's video/x-nsv, not video/x-nsf
+
+2003-05-20  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: added video/x-nsf mime-type from Nullsoft, fixed
 	placement of the samba share directory
 
