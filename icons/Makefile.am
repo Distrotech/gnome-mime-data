@@ -155,6 +155,7 @@ icon_DATA =\
 	i-executable.png \
 	i-fifo.png \
 	i-floppy.png \
+	i-ftp.png \
 	i-harddisk.png \
 	i-manual.png \
 	i-music-12.png \
@@ -167,6 +168,7 @@ icon_DATA =\
 	i-regular-96.png \
 	i-regular.png \
 	i-regular.xml \
+	i-smb.png \
 	i-sock.png \
 	i-spreadsheet.png \
 	i-zipdisk.png \

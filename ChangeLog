@@ -1,3 +1,10 @@
+2002-06-26  Bastien Nocera  <hadess@hadess.net>
+
+	* icons/Makefile.am: added 2 files from ximian-south by jimmac
+	* icons/i-ftp.png: added
+	* icons/i-nfs.png: updated
+	* icons/i-smb.png: added
+
 2002-06-19  Jakub Steiner <jimmac@ximian.com>
 
 	* icons/gnome-application-vnd.sun.xml.calc.png:
