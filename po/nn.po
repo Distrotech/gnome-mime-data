@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nn\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-12-25 01:51+0100\n"
-"PO-Revision-Date: 2003-12-26 17:26+0100\n"
+"POT-Creation-Date: 2003-12-27 17:16+0100\n"
+"PO-Revision-Date: 2003-12-28 12:40+0100\n"
 "Last-Translator: Åsmund Skjæveland <aasmunds@fys.uio.no>\n"
 "Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
@@ -1367,94 +1367,98 @@ msgid "VRML document"
 msgstr "VRML-dokument"
 
 #: gnome-vfs.keys.in.h:338
+msgid "Verilog source code"
+msgstr "Verilog-kjeldekode"
+
+#: gnome-vfs.keys.in.h:339
 msgid "Video"
 msgstr "Film"
 
-#: gnome-vfs.keys.in.h:339
+#: gnome-vfs.keys.in.h:340
 msgid "Vivo video"
 msgstr "Vivo-film"
 
-#: gnome-vfs.keys.in.h:340
+#: gnome-vfs.keys.in.h:341
 msgid "WAIS source code"
 msgstr "WAIS-kjeldekode"
 
-#: gnome-vfs.keys.in.h:341
+#: gnome-vfs.keys.in.h:342
 msgid "Wave audio"
 msgstr "lydbølge lyd"
 
-#: gnome-vfs.keys.in.h:342
+#: gnome-vfs.keys.in.h:343
 msgid "Wavelet video"
 msgstr "Wavelet video"
 
-#: gnome-vfs.keys.in.h:343
+#: gnome-vfs.keys.in.h:344
 msgid "Web folder"
 msgstr "Vevmappe"
 
-#: gnome-vfs.keys.in.h:344
+#: gnome-vfs.keys.in.h:345
 msgid "Windows bitmap image"
 msgstr "Windows bitmap-bilete"
 
-#: gnome-vfs.keys.in.h:345
+#: gnome-vfs.keys.in.h:346
 msgid "Windows icon image"
 msgstr "Windows ikonfil"
 
-#: gnome-vfs.keys.in.h:346
+#: gnome-vfs.keys.in.h:347
 msgid "Windows metafile graphics"
 msgstr "Windows metafil grafikk"
 
-#: gnome-vfs.keys.in.h:347
+#: gnome-vfs.keys.in.h:348
 msgid "WordPerfect document"
 msgstr "WordPerfect-dokument"
 
-#: gnome-vfs.keys.in.h:348
+#: gnome-vfs.keys.in.h:349
 msgid "X bitmap image"
 msgstr "Bilete i X Bitmap-format"
 
-#: gnome-vfs.keys.in.h:349
+#: gnome-vfs.keys.in.h:350
 msgid "X window image"
 msgstr "X window bilete"
 
-#: gnome-vfs.keys.in.h:350
+#: gnome-vfs.keys.in.h:351
 msgid "XBEL bookmarks file"
 msgstr "XBEL-bokmerkefil"
 
-#: gnome-vfs.keys.in.h:351
+#: gnome-vfs.keys.in.h:352
 msgid "XML document"
 msgstr "XML-dokument"
 
-#: gnome-vfs.keys.in.h:352
+#: gnome-vfs.keys.in.h:353
 msgid "XPM image"
 msgstr "XPM-bilete"
 
-#: gnome-vfs.keys.in.h:353
+#: gnome-vfs.keys.in.h:354
 msgid "Xbase database"
 msgstr "Xbase-database"
 
-#: gnome-vfs.keys.in.h:354
+#: gnome-vfs.keys.in.h:355
 msgid "Yacc grammar source code"
 msgstr "Kjeldekode for Yacc-gramatikk"
 
-#: gnome-vfs.keys.in.h:355
+#: gnome-vfs.keys.in.h:356
 msgid "Z shell script"
 msgstr "Z-skalskript"
 
-#: gnome-vfs.keys.in.h:356
+#: gnome-vfs.keys.in.h:357
 msgid "Zip archive"
 msgstr "Zip-arkiv"
 
-#: gnome-vfs.keys.in.h:357
+#: gnome-vfs.keys.in.h:358
 msgid "Zoo archive"
 msgstr "Zoo-arkiv"
 
-#: gnome-vfs.keys.in.h:358
+#: gnome-vfs.keys.in.h:359
 msgid "gettext translation"
 msgstr "gettext-omsetjing"
 
-#: gnome-vfs.keys.in.h:359
+#: gnome-vfs.keys.in.h:360
 msgid "iPod software"
 msgstr "iPod-programvare"
 
-#: gnome-vfs.keys.in.h:360
+#: gnome-vfs.keys.in.h:361
 msgid "xfig vector graphic"
 msgstr "xfig vektorgrafikk"
 
