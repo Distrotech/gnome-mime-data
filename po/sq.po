@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-06-23 04:46+0200\n"
+"POT-Creation-Date: 2004-07-05 04:40+0200\n"
 "PO-Revision-Date: 2004-03-01 11:40+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
@@ -247,9 +247,10 @@ msgstr "Dokument DSSSL"
 msgid "DV video"
 msgstr "Video DV"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:59
 msgid "DXF vector graphic"
-msgstr "Grafikë vektoriale DFX"
+msgstr "Grafikë vektorial DFX"
 
 #: gnome-vfs.keys.in.h:60
 msgid "Debian package"
@@ -283,7 +284,6 @@ msgstr "Figurë DjVu"
 msgid "Document type definition"
 msgstr "Përcaktimi i llojit të dokumentit (DTD)"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:68
 msgid "Documents"
 msgstr "Dokumente"
@@ -396,9 +396,10 @@ msgstr "Audio FastTracker II"
 msgid "FlashPix Image"
 msgstr "Figurë FlashPix"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:96
 msgid "Flexible Image Transport System"
-msgstr "Flexible Image Transport System"
+msgstr "Sistemi transportit Flexible Image"
 
 #: gnome-vfs.keys.in.h:97
 msgid "Folder"
@@ -516,7 +517,6 @@ msgstr "Video ISI"
 msgid "ISO image"
 msgstr "Figurë ISO"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:126
 msgid "Images"
 msgstr "Figurat"
@@ -597,9 +597,10 @@ msgstr "Arkiv LHA"
 msgid "LHARC archive"
 msgstr "Arkiv LHARC"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:146
 msgid "LIBGRX font"
-msgstr "LIBGRX font"
+msgstr "Gërma LIBGRX"
 
 #: gnome-vfs.keys.in.h:147
 msgid "LightWave object"
@@ -733,7 +734,6 @@ msgstr "Video Matroska"
 msgid "Memory dump"
 msgstr "Shkarkim i memorjes"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:180
 msgid "Message"
 msgstr "Mesazh"
@@ -774,9 +774,10 @@ msgstr "Video Microsoft"
 msgid "Monkey audio"
 msgstr "Audio Monkey"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:190
 msgid "Mozilla bookmarks file"
-msgstr "File libërshënuesi për Mozilla"
+msgstr "File libërshënues të Mozilla"
 
 #: gnome-vfs.keys.in.h:191
 msgid "Multi-part message"
@@ -1302,7 +1303,6 @@ msgstr "Gërma TeX metrics"
 msgid "TeXInfo document"
 msgstr "Dokument TeXInfo"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:322
 msgid "Theme"
 msgstr "Tema"
