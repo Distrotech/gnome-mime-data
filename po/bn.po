@@ -1,0 +1,1477 @@
+# Bengali translation of the gnome-mime-data package
+# Copyright (C)  2003 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-mime-data package.
+# সায়মিন্দু দাশগুপ্ত <unmadindu@Softhome.net>, ২০০৩। 
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GNOME-mime-data (gnome-2.2 branch)\n"
+"POT-Creation-Date: 2003-05-04 21:43-0700\n"
+"PO-Revision-Date: 2003-04-29 16:34+0530\n"
+"Last-Translator: সায়মিন্দু দাশগুপ্ত <unmadindu@Softhome.net> \n"
+"Language-Team: Bengali (bn) <gnome-translation@bengalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gnome-vfs.keys.in.h:1
+msgid "3D Studio image"
+msgstr "থ্রি-ডি স্টুডিও চিত্র"
+
+#: gnome-vfs.keys.in.h:2
+msgid "AIFC audio"
+msgstr "এ-আই-এফ-সি শব্দ"
+
+#: gnome-vfs.keys.in.h:3
+msgid "AIFF audio"
+msgstr "এ-আই-এফ-এফ শব্দ"
+
+#: gnome-vfs.keys.in.h:4
+msgid "ANIM animation"
+msgstr "এ-এন-আই-এম অ্যানিমেশন"
+
+# msgstr "এ-এন-আই-এম আনিমেশন"
+#: gnome-vfs.keys.in.h:5
+msgid "AVI video"
+msgstr "এ-ভি-আই ভিডিও"
+
+#: gnome-vfs.keys.in.h:6
+msgid "AbiWord document"
+msgstr "এবিওয়ার্ড নথী (ডকুমেন্ট)"
+
+#: gnome-vfs.keys.in.h:7
+msgid "Adobe FrameMaker font"
+msgstr "এডোব ফ্রেমমেকার ফন্ট"
+
+#: gnome-vfs.keys.in.h:8
+msgid "Adobe font metrics"
+msgstr "এডোব ফণ্ট মেট্রিক্সস্"
+
+# msgstr "এডোব ফণ্ট মেট্রিকস্" 
+#: gnome-vfs.keys.in.h:9
+msgid "Andrew Toolkit inset"
+msgstr "এন্ড্রু টুলকিট ইনসেট"
+
+#: gnome-vfs.keys.in.h:10
+msgid "ApplixWare Graphics image"
+msgstr "এপ্লিক্সওয়্যার গ্রাফিক্স চিত্র"
+
+# msgstr "এপ্লিক্সওয়্যার গ্রাফিক্স চিত্র"
+#: gnome-vfs.keys.in.h:11
+msgid "Applixware Words document"
+msgstr "এপ্লিক্সওয়্যার ওয়ার্ডস নথী"
+
+#: gnome-vfs.keys.in.h:12
+msgid "Applixware spreadsheet"
+msgstr "এপ্লিক্সওয়্যার স্প্রেডশিট"
+
+#: gnome-vfs.keys.in.h:13
+msgid "Audio"
+msgstr "শব্দ"
+
+#: gnome-vfs.keys.in.h:14
+msgid "AutoCAD image"
+msgstr "অটোক্যাড চিত্র"
+
+#: gnome-vfs.keys.in.h:15
+msgid "BCPIO document"
+msgstr "বি-সি-পি-আই-ও নথী (ডকুমেন্ট)"
+
+#: gnome-vfs.keys.in.h:16
+msgid "BDF font"
+msgstr "বি-ডি-এফ ফন্ট"
+
+#: gnome-vfs.keys.in.h:17
+msgid "C shell script"
+msgstr "সি শেল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:18
+msgid "C source code"
+msgstr "সি সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:19
+msgid "C source code header"
+msgstr "সি সোর্স কোড হেডার"
+
+#: gnome-vfs.keys.in.h:20
+msgid "C++ source code"
+msgstr "সি++ সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:21
+msgid "CGI program"
+msgstr "সি-জি-আই প্রোগ্রাম"
+
+#: gnome-vfs.keys.in.h:22
+msgid "CGM image"
+msgstr "সি-জি-এম চিত্র"
+
+# msgstr "সি-জি-এম চিত্র"
+#: gnome-vfs.keys.in.h:23
+msgid "CMU raster image"
+msgstr "সি-এম-ইউ রাস্টার চিত্র"
+
+#: gnome-vfs.keys.in.h:24
+msgid "CPIO archive"
+msgstr "সি-পি-আই-ও আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:25
+msgid "CPIO archive (gzip-compressed)"
+msgstr "সি-পি-আই-ও আর্কাইভ (জি-যিপ পদ্ধতিতে কম্প্রেসকৃত)"
+
+# msgstr "সি-পি-আই-ও আর্কাইভ (জি-যিপ পদ্ধতিতে কম্প্রেসকৃতড্)"
+#: gnome-vfs.keys.in.h:26
+msgid "Commodore 64 Audio"
+msgstr "কমোন্ডোর ৬৪ শব্দ (64 Audio)"
+
+# msgstr "কমোডোর ৬৪ শব্দ (64 Audio)"
+#: gnome-vfs.keys.in.h:27
+msgid "DCL script"
+msgstr "ডি-সি-এল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:28
+msgid "DOS font"
+msgstr "ডস ফন্ট"
+
+#: gnome-vfs.keys.in.h:29
+msgid "DOS/Windows program"
+msgstr "ডস/উইন্ডোস প্রোগ্রাম"
+
+#: gnome-vfs.keys.in.h:30
+msgid "DSSSL document"
+msgstr "ডি-এস-এস-এস-এল নথী (ডকুমেন্ট)"
+
+#: gnome-vfs.keys.in.h:31
+msgid "DXF vector graphic"
+msgstr "ডি-এক্স-এফ ভেক্টর চিত্র"
+
+#: gnome-vfs.keys.in.h:32
+msgid "Debian package"
+msgstr "ডেবিয়ান প্যাকেজ"
+
+#: gnome-vfs.keys.in.h:33
+msgid "Device Independant Bitmap"
+msgstr "ডিভাইসের ওপর অনির্ভরশীল বিটম্যাপ"
+
+# msgstr "ডিভাইস ইন্ডিপেন্ডেন্ত বিটম্যাপ"
+#: gnome-vfs.keys.in.h:34
+msgid "Dia diagram"
+msgstr "ডায়া ছবি"
+
+#: gnome-vfs.keys.in.h:35
+msgid "Digital Imaging and Communications in Medicine image"
+msgstr "চিকিত্‍সাবিষয়ক চিত্রে ডিজিটাল চিত্রগ্রহণ ও যোগাযোগ"
+
+# msgstr "ডিজিটাল ইমেজিন্গ এন্ড কমুনিকেশন ইন মেডিসিন চিত্র"
+# ??
+#
+#: gnome-vfs.keys.in.h:36
+msgid "Digital Moving Picture Exchange"
+msgstr "ডিজিটাল চলন্ত চিত্র এক্সচেন্জ"
+
+# msgstr "ডিজিটাল চলচ্চিত্র আদানপ্রদানন্জ"
+# এক্সচেন্জ বোধহয় প্রোগ্রামের নাম
+#: gnome-vfs.keys.in.h:37
+msgid "Documents"
+msgstr "নথীসমূহ (ডকুমেন্টন্ট্স্)"
+
+#: gnome-vfs.keys.in.h:38
+msgid "Documents/Diagram"
+msgstr "নথীসমূহ(documents)/ছবি"
+
+# msgstr "নথীসমূহ(documents)/ছবি"
+#: gnome-vfs.keys.in.h:39
+msgid "Documents/Extended Markup Language (XML)"
+msgstr "নথীসমূহ(documents)/এক্সটেন্ডেড মার্কাআপ ল্যানগুয়েজ (এক্স-এম-এল)"
+
+# msgstr "নথীসমূহ(documents)/এক্সটেন্ডেড মার্কআপ ল্যাঙ্গুয়েজ (এক্স-এম-এল)"
+#: gnome-vfs.keys.in.h:40
+msgid "Documents/Numeric"
+msgstr "নথীসমূহ(documents)/নিউমেরিক"
+
+# msgstr "নথীসমূহ(documents)/সংখ্যাতাত্ত্বিক"
+#: gnome-vfs.keys.in.h:41
+msgid "Documents/Plain Text"
+msgstr "নথীসমূহ(documents)/প্লেন টেকস্ট"
+
+# msgstr "নথীসমূহ(documents)/সাধারণ টেক্সট"
+#: gnome-vfs.keys.in.h:42
+msgid "Documents/Presentation"
+msgstr "নথীসমূহ(documents)/উপস্থাপনা"
+
+# msgstr "নথীসমূহ(documents)/উপস্থাপনা"
+#: gnome-vfs.keys.in.h:43
+msgid "Documents/Project Management"
+msgstr "নথীসমূহ(documents)/প্রকল্প ব্যবস্থাপনা"
+
+# msgstr "নথীসমূহ(documents)/প্রকল্প ব্যবস্থাপনা"
+#: gnome-vfs.keys.in.h:44
+msgid "Documents/Published Materials"
+msgstr "নথীসমূহ(documents)/প্রকাশনা"
+
+# msgstr "নথীসমূহ(documents)/প্রকাশনা"
+# ********* "সমূহ" বানান খেয়াল কর। ********
+# খাইছে - বানান অভিধান-টা না পেলেই নয়
+#: gnome-vfs.keys.in.h:45
+msgid "Documents/Spreadsheet"
+msgstr "নথীসমূহ(documents)/স্প্রেডশিট"
+
+#: gnome-vfs.keys.in.h:46
+msgid "Documents/TeX"
+msgstr "নথীসমূহ(documents)/টেক্"
+
+# msgstr "নথীসমূহ(documents)/টেক্স"
+#: gnome-vfs.keys.in.h:47
+msgid "Documents/Text Markup"
+msgstr "নথীসমূহ(documents)/টেক্সট মার্কাআপ"
+
+# msgstr "নথীসমূহ(documents)/টেক্সটক্স্টমার্কআপ"
+#: gnome-vfs.keys.in.h:48
+msgid "Documents/Vector Graphics"
+msgstr "নথীসমূহ(documents)/ভেক্টর চিত্র"
+
+#: gnome-vfs.keys.in.h:49
+msgid "Documents/Word Processor"
+msgstr "নথীসমূহ(documents)/ওয়ার্ড প্রসেসর"
+
+#: gnome-vfs.keys.in.h:50
+msgid "Documents/World Wide Web"
+msgstr "নথীসমূহ(documents)/ওয়ার্ল্ড ওয়াইড ওয়েব"
+
+#: gnome-vfs.keys.in.h:51
+msgid "Dolby Digital audio"
+msgstr "ডলবি ডিজিটাল অডিও"
+
+#: gnome-vfs.keys.in.h:52
+msgid "Dreamcast rom"
+msgstr "ড্রিমকাস্ট রম"
+
+#: gnome-vfs.keys.in.h:53
+msgid "Emacs Lisp source code"
+msgstr "এম্যাক্স লিস্প সোর্স কোড"
+
+# এম্যাক্স নাকি ইম্যাক্স ? আমি sure না।
+# আমাদের কলকাতা লাগের emacs গুরুকে জিগেশ করব
+#: gnome-vfs.keys.in.h:54
+msgid "Enlightenment theme"
+msgstr "এনলাইটেনমেন্ট থিম"
+
+#: gnome-vfs.keys.in.h:55
+msgid "FLAC audio"
+msgstr "এফ-এল-এ-সি শব্দ"
+
+#: gnome-vfs.keys.in.h:56
+msgid "FLC animation"
+msgstr "এফ-এল-সি আনিমেশন"
+
+# msgstr "এফ-এল-সি অ্যানিমেশন"
+#: gnome-vfs.keys.in.h:57
+msgid "FLI animation"
+msgstr "এফ-এল-আই অ্যানিমেশন"
+
+# msgstr "এফ-এল-আই "
+#: gnome-vfs.keys.in.h:58
+msgid "FastTracker II audio"
+msgstr "ফাস্টট্র্যাকার ২ শব্দ"
+
+#: gnome-vfs.keys.in.h:59
+msgid "FlashPix Image"
+msgstr "ফ্ল্যাশপিক্স চিত্র"
+
+#: gnome-vfs.keys.in.h:60
+msgid "Flexible Image Transport System"
+msgstr "ফ্লেক্সিবল ইমেজ ট্রান্সপোর্ট সিস্টেম"
+
+# msgstr "নমনীয় (flexible) চিত্র স্থানান্তর পদ্ধতি"
+#: gnome-vfs.keys.in.h:61
+msgid "Fortran source code"
+msgstr "ফর্ট্র্যান সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:62
+msgid "FrameMaker interchange document"
+msgstr "ফ্রেম মেকার বিনিময়যোগ্য ডকুমেন্ট"
+
+# msgstr "ফ্রেমমেকারের "
+# ???
+#: gnome-vfs.keys.in.h:63
+msgid "G3 fax image"
+msgstr "জি৩ ফরম্যাটের ফ্যাক্স চিত্র"
+
+# msgstr "জি৩ ফ্য়াক্স চিত্র"
+#: gnome-vfs.keys.in.h:64
+msgid "GIF image"
+msgstr "জিআইএফ চিত্র"
+
+# msgstr "জিআইএফ চিত্র"
+#: gnome-vfs.keys.in.h:65
+msgid "GIMP document"
+msgstr "জিম্প নথী(ডকুমেন্ট)"
+
+#: gnome-vfs.keys.in.h:66
+msgid "GMC link"
+msgstr "জি-এম-সি লিন্ক "
+
+# msgstr "জি-এম-সি লিঙ্ক"
+#: gnome-vfs.keys.in.h:67
+msgid "GNU Oleo Spreadsheet"
+msgstr "গনুহ্ ওলিও স্প্রেডশিট"
+
+# msgstr "গনুহ্‌ (GNU) ওলিও স্প্রেডশিট"
+#: gnome-vfs.keys.in.h:68
+msgid "GNU mail message"
+msgstr "গনুহ্ পত্র মেসেজ"
+
+# msgstr "গনুহ্‌ (GNU) চিঠি"
+#: gnome-vfs.keys.in.h:69
+msgid "GTK configuration"
+msgstr "জি-টি-কে বিন্যাস (কনফিগারেশন)"
+
+#: gnome-vfs.keys.in.h:70
+msgid "Game Boy rom"
+msgstr "গেম বয় রম"
+
+#: gnome-vfs.keys.in.h:71
+msgid "Genesis rom"
+msgstr "জেনেসিস রম"
+
+#: gnome-vfs.keys.in.h:72
+msgid "Glade project"
+msgstr "গ্লেড প্রকল্প"
+
+#: gnome-vfs.keys.in.h:73
+msgid "GnuCash Workbook"
+msgstr "গনুহ্‌ক্যাশ অনুশীলনী (Workbook)"
+
+# msgstr "গ্হ্নুক্যাশ খেরোর খাতা"#CHECK
+# Never used this GnuCash and has no idea what this "workbook" is meaning here.
+# Me too -any way to be on the safe side......
+#: gnome-vfs.keys.in.h:74
+msgid "Gnumeric spreadsheet"
+msgstr "জীনিউমেরিক স্প্রেডশিট"
+
+# msgstr "জিনিউমেরিক স্প্রেডশিট"
+#: gnome-vfs.keys.in.h:75
+msgid "Gtktalog Catalogue"
+msgstr "জিটিকে তালিকা"
+
+#: gnome-vfs.keys.in.h:76
+msgid "HDF document"
+msgstr "এইচ-ডি-এফ নথী (ডকুমেন্ট)"
+
+#: gnome-vfs.keys.in.h:77
+msgid "HTML page"
+msgstr "এইচ-টি-এম-এল পৃষ্ঠা"
+
+# msgstr "এইচ-টি-এম-এল পাতা"
+#: gnome-vfs.keys.in.h:78
+msgid "Haskell source code"
+msgstr "হাস্কেল সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:79
+msgid "IDL document"
+msgstr "আই-ডি-এল নথী (ডকুমেন্ট)"
+
+#: gnome-vfs.keys.in.h:80
+msgid "IEF image"
+msgstr "আই-ই-এফ চিত্র"
+
+#: gnome-vfs.keys.in.h:81
+msgid "IFF image"
+msgstr "আই-এফ-এফ চিত্র"
+
+#: gnome-vfs.keys.in.h:82
+msgid "ILBM image"
+msgstr "আই-এল-বি-এম চিত্র"
+
+#: gnome-vfs.keys.in.h:83
+msgid "ISI video"
+msgstr "আই-এস-আই ভিডিও"
+
+#: gnome-vfs.keys.in.h:84
+msgid "ISO image"
+msgstr "আই-এস-ও চিত্র"
+
+#: gnome-vfs.keys.in.h:85
+msgid "Images"
+msgstr "চিত্রসমূহ"
+
+#: gnome-vfs.keys.in.h:86
+msgid "Impulse Tracker audio"
+msgstr "ইমপাল্স ট্র্যাকার শব্দ"
+
+# msgstr "ইমপালস্‌ল্স ট্র্যাকার শব্দ"
+# বুঝলাম না....
+#: gnome-vfs.keys.in.h:87
+msgid "Information"
+msgstr "তথ্য"
+
+#: gnome-vfs.keys.in.h:88
+msgid "Information/Calendar"
+msgstr "তথ্য/ক্যালেন্ডার"
+
+#: gnome-vfs.keys.in.h:89
+msgid "Information/Financial"
+msgstr "তথ্য/আর্থিক"
+
+# msgstr "তথ্য/অর্থঘটিত"#FIXME
+#: gnome-vfs.keys.in.h:90
+msgid "JBuilder Project"
+msgstr "জে-বিল্ডার প্রকল্প"
+
+#: gnome-vfs.keys.in.h:91
+msgid "JPEG image"
+msgstr "জেপেগ চিত্র"
+
+#: gnome-vfs.keys.in.h:92
+msgid "Java byte code"
+msgstr "জাভা বাইট কোড"
+
+#: gnome-vfs.keys.in.h:93
+msgid "Java source code"
+msgstr "জাভা সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:94
+msgid "KDE application details"
+msgstr "কে-ডি-ই অ্যাপ্লিকেশন সম্পর্কিত বিস্তারিত তথ্য"
+
+# msgstr "কে-ডি-ই এপ্লিকেশন সম্বন্ধে বিস্তারিত তথ্য"
+#: gnome-vfs.keys.in.h:95
+msgid "KIllustrator document"
+msgstr "কে-ইলাস্ট্রেটর নথী"
+
+#: gnome-vfs.keys.in.h:96
+msgid "KPresenter presentation"
+msgstr "কেপ্রেসেন্টার প্রেসেন্টেশন"
+
+#: gnome-vfs.keys.in.h:97
+msgid "KSpread spreadsheet"
+msgstr "কেস্প্রেড স্প্রেডশিট"
+
+#: gnome-vfs.keys.in.h:98
+msgid "KWord document"
+msgstr "কেওয়ার্ড নথী"
+
+#: gnome-vfs.keys.in.h:99
+msgid "Korn shell script"
+msgstr "কর্ন শেল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:100
+msgid "LHA archive"
+msgstr "এল-এইচ-এ আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:101
+msgid "LHARC archive"
+msgstr "এল-এইচ-এ-আর-সি আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:102
+msgid "LIBGRX font"
+msgstr "লিব-জি-আর-এক্স ফন্ট"
+
+# msgstr "লিব-জি-আর-একস ফন্ট"
+#: gnome-vfs.keys.in.h:103
+msgid "LightWave object"
+msgstr "লাইট-ওয়েভ বস্তু (অবজেক্ট)"
+
+#: gnome-vfs.keys.in.h:104
+msgid "LightWave scene"
+msgstr "লাইট-ওয়েভ দৃশ্য"
+
+# msgstr "লাইট-ওয়েভ সিন"
+#
+#: gnome-vfs.keys.in.h:105
+msgid "Linux PSF console font"
+msgstr "লিনাক্স পি-এস-এফ কনসোল ফন্ট"
+
+#: gnome-vfs.keys.in.h:106
+msgid "Literate haskell source code"
+msgstr "লিটারেট হাস্কেল সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:107
+msgid "Lotus 1-2-3 spreadsheet"
+msgstr "লোটাস ১-২-৩ স্প্রেডশিট"
+
+#: gnome-vfs.keys.in.h:108
+msgid "LyX Document"
+msgstr "লিক্ নথী"
+
+# msgstr "লিক্সক্ডকুমেন্ট"
+#: gnome-vfs.keys.in.h:109
+msgid "MIDI audio"
+msgstr "মিডি শব্দ"
+
+#: gnome-vfs.keys.in.h:110
+msgid "MOD audio"
+msgstr "মড শব্দ"
+
+#: gnome-vfs.keys.in.h:111
+msgid "MP3 audio"
+msgstr "এম-পি-৩ শব্দ"
+
+# msgstr "এম-পি-থ্রি শব্দ"
+#: gnome-vfs.keys.in.h:112
+msgid "MP3 audio playlist"
+msgstr "এম-পি-৩ শব্দের তালিকা"
+
+#: gnome-vfs.keys.in.h:113
+msgid "MPEG audio"
+msgstr "এম-পেগ শব্দ"
+
+#: gnome-vfs.keys.in.h:114
+msgid "MPEG video"
+msgstr "এম-পেগ ভিডিও"
+
+#: gnome-vfs.keys.in.h:115
+msgid "MS ASF video"
+msgstr "এম-এস এ-এস-এফ ভিডিও"
+
+#: gnome-vfs.keys.in.h:116
+msgid "MS video"
+msgstr "এম-এস ভিডিও"
+
+#: gnome-vfs.keys.in.h:117
+msgid "MSX rom"
+msgstr "এম-এস-এক্স রম"
+
+#: gnome-vfs.keys.in.h:118
+msgid "MacBinary file"
+msgstr "ম্যাক-বাইনারি ফাইল"
+
+#: gnome-vfs.keys.in.h:119
+msgid "Macintosh AppleDouble-encoded file"
+msgstr "ম্যাকিন্টশ অ্যাপলের দুবার-এনকোডকৃত ফাইল"
+
+# msgstr "ম্যাকিন্টশ এপেলডবল-এনকোড করা ফাইল"
+#: gnome-vfs.keys.in.h:120
+msgid "Macintosh BinHex-encoded file"
+msgstr "ম্যাকিন্টশ বিনহেক্স-এনকোড করা ফাইল"
+
+#: gnome-vfs.keys.in.h:121
+msgid "Macintosh StuffIt archive"
+msgstr "ম্যাকিন্টশ স্টাফইট আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:122
+msgid "Macromedia Flash file"
+msgstr "ম্যাক্রোমিডিয়া ফ্ল্যাশ ফাইল"
+
+#: gnome-vfs.keys.in.h:123
+msgid "Magick image format"
+msgstr "ম্যাজিকক্ চিত্র ফরম্যাট"
+
+# msgstr "ম্যাজিক্ চিত্র ফরম্যাট"
+#: gnome-vfs.keys.in.h:124
+msgid "MathML document"
+msgstr "ম্যাথ-এম-এল নথী"
+
+#: gnome-vfs.keys.in.h:125
+msgid "Message"
+msgstr "বার্তা"
+
+#: gnome-vfs.keys.in.h:126
+msgid "Microsoft Excel spreadsheet"
+msgstr "মাইক্রোসফ্ট এক্সেল স্প্রেডশিট"
+
+# msgstr "মাইক্রোসফট এক্সেল স্প্রেডশিট"
+#: gnome-vfs.keys.in.h:127
+msgid "Microsoft PowerPoint document"
+msgstr "মাইক্রোসফ্ট পাওয়ার-পয়েন্ট নথী"
+
+# msgstr "মাইক্রোসফটফ্ট পাওয়ার-পয়েন্ট নথী"
+#: gnome-vfs.keys.in.h:128
+msgid "Microsoft WMV video"
+msgstr "মাইক্রোসফ্ট ডাব্লু-এম-ভি ভিডিও"
+
+#: gnome-vfs.keys.in.h:129
+msgid "Microsoft Word document"
+msgstr "মাইক্রোসফ্ট ওয়ার্ড নথী"
+
+#: gnome-vfs.keys.in.h:130
+msgid "Microsoft video"
+msgstr "মাইক্রোসফ্ট ভিডিও"
+
+#: gnome-vfs.keys.in.h:131
+msgid "NES rom"
+msgstr "এন-ই-এস রম"
+
+#: gnome-vfs.keys.in.h:132
+msgid "Nautilus link"
+msgstr "নটিল্যাস লিঙ্ক"
+
+# আমি এইভাবে Nautilus লিখতেছি
+# msgstr "ন্যটিলাস লিন্ক"
+# ঠিক - good idea
+#: gnome-vfs.keys.in.h:133
+msgid "Nintendo64 rom"
+msgstr "নিন্টেন্ডো৬৪ রম"
+
+#: gnome-vfs.keys.in.h:134
+msgid "ODA document"
+msgstr "ও-ডি-এ নথী"
+
+#: gnome-vfs.keys.in.h:135
+msgid "OpenOffice.org Impress presentation"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) ইমপ্রেস প্রেসেন্টেশন"
+
+# msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) ইমপ্রেস প্রেসেন্টেশন"
+#
+#: gnome-vfs.keys.in.h:136
+msgid "OpenOffice.org Impress presentation template"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) ইমপ্রেস প্রেসেন্টেশন-এর ছাঁচ"
+
+#: gnome-vfs.keys.in.h:137
+msgid "OpenOffice.org Math document"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) ম্যাথ নথী"
+
+# msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) গণিতবিষয়ক নথী"
+# উহুঁ - Math Proper noun
+#: gnome-vfs.keys.in.h:138
+msgid "OpenOffice.org Writer document"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) রাইটার নথী"
+
+#: gnome-vfs.keys.in.h:139
+msgid "OpenOffice.org Writer global document"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) রাইটার গ্লোবাল নথী"
+
+#: gnome-vfs.keys.in.h:140
+msgid "OpenOffice.org Writer template"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) রাইটার ছাঁচ"
+
+#: gnome-vfs.keys.in.h:141
+msgid "OpenOffice.org drawing"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org)  ছবি"
+
+#: gnome-vfs.keys.in.h:142
+msgid "OpenOffice.org drawing template"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org)  ছবির ছাঁচ"
+
+#: gnome-vfs.keys.in.h:143
+msgid "OpenOffice.org spreadsheet"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) স্প্রেডশিট"
+
+#: gnome-vfs.keys.in.h:144
+msgid "OpenOffice.org spreadsheet template"
+msgstr "ওপেন-অফিস.অর্গ (OpenOffice.org) স্প্রেডশিট ছাঁচ"
+
+#: gnome-vfs.keys.in.h:145
+msgid "OpenType font"
+msgstr "ওপেনটাইপ ফন্ট"
+
+#: gnome-vfs.keys.in.h:146
+msgid "PBM image"
+msgstr "পি-বি-এম চিত্র"
+
+#: gnome-vfs.keys.in.h:147
+msgid "PC Paintbrush image"
+msgstr "পিসি পেইন্টব্রাশ চিত্র"
+
+# msgstr "পিসি পেইন্টব্রাশ চিত্র"
+#: gnome-vfs.keys.in.h:148
+msgid "PCF font"
+msgstr "পি-সি-এফ ফন্ট"
+
+#: gnome-vfs.keys.in.h:149
+msgid "PDF document"
+msgstr "পি-ডি-এফ ডকুমেন্ট"
+
+#: gnome-vfs.keys.in.h:150
+msgid "PEF program"
+msgstr "পি-ই-এফ প্রোগ্রাম"
+
+#: gnome-vfs.keys.in.h:151
+msgid "PGM image"
+msgstr "পি-জি-এম চিত্র"
+
+#: gnome-vfs.keys.in.h:152
+msgid "PGN chess game"
+msgstr "পি-জি-এন দাবা খেলা"
+
+#: gnome-vfs.keys.in.h:153
+msgid "PGP keys"
+msgstr "পি-জি-পি চাবিকাঠি (কি)"
+
+#: gnome-vfs.keys.in.h:154
+msgid "PGP message"
+msgstr "পি-জি-পি বার্তা"
+
+#: gnome-vfs.keys.in.h:155
+msgid "PGP signature"
+msgstr "পি-জি-পি সই"
+
+# msgstr "পি-জি-পি স্বাক্ষর"
+#: gnome-vfs.keys.in.h:156
+msgid "PGP-encrypted file"
+msgstr "পি-জি-পি দ্বারা এনক্রিপ্টকৃত ফাইল"
+
+# msgstr "পি-জি-পি দ্বারা এনক্রিপ্ট করা ফাইল"
+#
+#: gnome-vfs.keys.in.h:157
+msgid "PHP script"
+msgstr "পি-এইচ-পি স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:158
+msgid "PICT image"
+msgstr "পি-আই-সি-টি চিত্র"
+
+#: gnome-vfs.keys.in.h:159
+msgid "PNG image"
+msgstr "পি-এন-জি চিত্র"
+
+#: gnome-vfs.keys.in.h:160
+msgid "PNM image"
+msgstr "পি-এন-এম চিত্র"
+
+#: gnome-vfs.keys.in.h:161
+msgid "PPM image"
+msgstr "পি-পি-এম চিত্র"
+
+#: gnome-vfs.keys.in.h:162
+msgid "Packages"
+msgstr "প্যাকেজ"
+
+#: gnome-vfs.keys.in.h:163
+msgid "Palm OS database"
+msgstr "পাম ও-এস ডাটাবেস"
+
+#: gnome-vfs.keys.in.h:164
+msgid "Palm Pixmap image"
+msgstr "পাম পিক্সম্যাপ চিত্র"
+
+#: gnome-vfs.keys.in.h:165
+msgid "Perl script"
+msgstr "পার্ল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:166
+msgid "Photo CD image"
+msgstr "ফটো সি-ডি চিত্র"
+
+# msgstr "ফটো সি-ডি চিত্র"
+#: gnome-vfs.keys.in.h:167
+msgid "Photoshop document"
+msgstr "ফোটোশপ নথী"
+
+#: gnome-vfs.keys.in.h:168
+msgid "Playlist"
+msgstr "গানের তালিকা"
+
+# msgstr "শব্দ তালিকা"
+#: gnome-vfs.keys.in.h:169
+msgid "PostScript Type 1 font"
+msgstr "পোস্টস্ক্রিপ্ট টাইপ ১ (Type 1) ফন্ট"
+
+#: gnome-vfs.keys.in.h:170
+msgid "PostScript document"
+msgstr "পোস্টস্ক্রিপ্ট নথী"
+
+#: gnome-vfs.keys.in.h:171
+msgid "Project Plan"
+msgstr "প্রকল্প প্রস্তাবনা"
+
+# msgstr "প্রকল্প প্ল্যান" #FIXME
+#: gnome-vfs.keys.in.h:172
+msgid "Python source code"
+msgstr "পাইথন সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:173
+msgid "QuickTime movie"
+msgstr "কুইকটাইম চলচ্চিত্র"
+
+# msgstr "কুইকটাইম মুভি"
+#
+#: gnome-vfs.keys.in.h:174
+msgid "Quicken document"
+msgstr "কুইকেন নথী"
+
+#: gnome-vfs.keys.in.h:175
+msgid "Quicken for Windows document"
+msgstr "উইন্ডোজের জন্য কুইকেন-এর নথী"
+
+# msgstr "উইন্ডোজ ডকুমেন্টের জন্য কুইকেন"
+# এহে - এরা বোধহয় উইন্ডোজে যে কুইকেন চলে - তার কথা বলেছে
+#: gnome-vfs.keys.in.h:176
+msgid "RAR archive"
+msgstr "রার আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:177
+msgid "README document"
+msgstr "রিডমি নথী"
+
+#: gnome-vfs.keys.in.h:178
+msgid "RGB image"
+msgstr "আর-জি-বি চিত্র"
+
+#: gnome-vfs.keys.in.h:179
+msgid "RIFF audio"
+msgstr "আর-আই-এফ-এফ শব্দ"
+
+#: gnome-vfs.keys.in.h:180
+msgid "RPM package"
+msgstr "আর-পি-এম প্যাকেজ"
+
+#: gnome-vfs.keys.in.h:181
+msgid "Raw Gray Sample"
+msgstr "র গ্রে নমুনা"
+
+#: gnome-vfs.keys.in.h:182
+msgid "RealAudio document"
+msgstr "রিয়েলঅডিও নথী"
+
+#: gnome-vfs.keys.in.h:183
+msgid "RealAudio/Video document"
+msgstr "রিয়েলঅডিও/ভিডিও নথী"
+
+#: gnome-vfs.keys.in.h:184
+msgid "RealVideo video"
+msgstr "রিয়েলভিডিও ভিডিও"
+
+#: gnome-vfs.keys.in.h:185
+msgid "S/MIME file"
+msgstr "এস/মাইম ফাইল"
+
+#: gnome-vfs.keys.in.h:186
+msgid "S/MIME signature"
+msgstr "এস/মাইম স্বাক্ষর"
+
+# msgstr "এস/মাইম সই"
+#: gnome-vfs.keys.in.h:187
+msgid "SGI video"
+msgstr "এস-জি-আই ভিডিও"
+
+#: gnome-vfs.keys.in.h:188
+msgid "SGML document"
+msgstr "এস-জি-এম-এল নথী"
+
+#: gnome-vfs.keys.in.h:189
+msgid "SHOUTcast Playlist"
+msgstr "শাউটকাস্ট শব্দ তালিকা (প্লেলিস্ট)"
+
+#: gnome-vfs.keys.in.h:190
+msgid "SMIL script"
+msgstr "এস-এম-আই-এল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:191
+msgid "SMS or Game Gear rom"
+msgstr "এস-এম-এস বা গেম গিয়ার রম"
+
+#: gnome-vfs.keys.in.h:192
+msgid "SQL code"
+msgstr "এস-কিউ-এল কোড"
+
+#: gnome-vfs.keys.in.h:193
+msgid "SUN Rasterfile"
+msgstr "সান রাস্টারফাইল"
+
+#: gnome-vfs.keys.in.h:194
+msgid "SV4 CPIO archive"
+msgstr "এস-ভি-৪ (SV4) সি-পি-আই-ও আর্কাইভ"
+
+# msgstr "এস-ভি-৪ সি-পি-আই-ও আর্কাইভ"
+#: gnome-vfs.keys.in.h:195
+msgid "SV4 CPIP archive (with CRC)"
+msgstr "এস-ভি-৪ সি-পি-আই-ও আর্কাইভ (সি-আর-সি সহ)"
+
+#: gnome-vfs.keys.in.h:196
+msgid "SVG art"
+msgstr "এস-ভি-জি চিত্রকলা"
+
+#: gnome-vfs.keys.in.h:197
+msgid "Scheme source code"
+msgstr "স্কিম সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:198
+msgid "Scream Tracker 3 audio"
+msgstr "স্ক্রিম  ট্র্যাকার ৩ শব্দ"
+
+#: gnome-vfs.keys.in.h:199
+msgid "Scream Tracker audio"
+msgstr "স্ক্রিম  ট্র্যাকার শব্দ"
+
+#: gnome-vfs.keys.in.h:200
+msgid "Scream Tracker instrument"
+msgstr "স্ক্রিম  ট্র্যাকার যন্ত্র"
+
+#: gnome-vfs.keys.in.h:201
+msgid "Security"
+msgstr "নিরাপত্তা"
+
+# msgstr "নিরাপদজনক বিষয়"
+# ??
+#
+#: gnome-vfs.keys.in.h:202
+msgid "Setext document"
+msgstr "সেটেক্সটক্স্টডকুমেন্ট"
+
+# msgstr "সেটেক্সট নথী"
+#
+#: gnome-vfs.keys.in.h:203
+msgid "Silicon Graphics Image"
+msgstr "সিলিকন গ্রাফিক্স চিত্র"
+
+#: gnome-vfs.keys.in.h:204
+msgid "Software Development"
+msgstr "সফটওয়ার তৈরি"
+
+# msgstr "সফ্টওয়্যার তৈরি"
+#
+#: gnome-vfs.keys.in.h:205
+msgid "Software Development/ROM Images"
+msgstr "সফ্টওয়্যার তৈরি/রম ইমেজ"
+
+#: gnome-vfs.keys.in.h:206
+msgid "Software Development/Source Code"
+msgstr "সফ্টওয়্যার তৈরি/সোর্স কোড"
+
+#: gnome-vfs.keys.in.h:207
+msgid "Speech document"
+msgstr "স্পিচ নথী"
+
+#: gnome-vfs.keys.in.h:208
+msgid "Speedo font"
+msgstr "স্পিডো ফন্ট"
+
+#: gnome-vfs.keys.in.h:209
+msgid "Spreadsheet Interchange document"
+msgstr "বিনিময়যোগ্য স্প্রেডশিট ডকুমেন্ট"
+
+# msgstr "স্প্রেডশিট ইন্টারচেন্জ নথী"
+#
+#: gnome-vfs.keys.in.h:210
+msgid "Stampede package"
+msgstr "স্ট্যামপিড প্যাকেজ"
+
+#: gnome-vfs.keys.in.h:211
+msgid "StarCalc spreadsheet"
+msgstr "স্টারক্যাল্ক স্প্রেডশিট"
+
+#: gnome-vfs.keys.in.h:212
+msgid "StarChart chart"
+msgstr "স্টারচার্ট মানচিত্র"
+
+# msgstr "স্টারচার্ট চার্ট"
+#
+#: gnome-vfs.keys.in.h:213
+msgid "StarDraw drawing"
+msgstr "স্টারড্র ছবি"
+
+#: gnome-vfs.keys.in.h:214
+msgid "StarImpress presentation"
+msgstr "স্টারইম্প্রেস উপস্থাপনা"
+
+# msgstr "স্টারইম্প্রেস প্রেসেন্টেশন"
+#
+#: gnome-vfs.keys.in.h:215
+msgid "StarMail file"
+msgstr "স্টারমেইল ফাইল"
+
+#: gnome-vfs.keys.in.h:216
+msgid "StarMath document"
+msgstr "স্টারম্যাথ নথী"
+
+#: gnome-vfs.keys.in.h:217
+msgid "StarOffice extended metafile image"
+msgstr "স্টারঅফিসের বর্ধিত মেটাফাইল চিত্র"
+
+# msgstr "স্টারঅফিস এক্স্টেন্ডেড মেটাফাইল চিত্র"
+#
+#: gnome-vfs.keys.in.h:218
+msgid "StarWriter document"
+msgstr "স্টাররাইটার নথী"
+
+#: gnome-vfs.keys.in.h:219
+msgid "Sun mu-law audio"
+msgstr "সান মু-ল শব্দ"
+
+#: gnome-vfs.keys.in.h:220
+msgid "SunOS News font"
+msgstr "সান-ও-এস নিউজ ফন্ট"
+
+#: gnome-vfs.keys.in.h:221
+msgid "System"
+msgstr "সিস্টেম"
+
+#: gnome-vfs.keys.in.h:222
+msgid "TIFF image"
+msgstr "টিফ চিত্র"
+
+#: gnome-vfs.keys.in.h:223
+msgid "TarGA image"
+msgstr "টার্গা চিত্র"
+
+#: gnome-vfs.keys.in.h:224
+msgid "Tcl script"
+msgstr "টিক্‌ল স্ক্রিপ্ট"
+
+# msgstr "টি-সি-এল স্ক্রিপ্ট"
+#
+#: gnome-vfs.keys.in.h:225
+msgid "TeX document"
+msgstr "টেক নথী"
+
+# msgstr "টেক্সট ডকুমেন্ট"
+#: gnome-vfs.keys.in.h:226
+msgid "TeX dvi document"
+msgstr "টেক ডি-ভি-আই নথী"
+
+#: gnome-vfs.keys.in.h:227
+msgid "TeX font"
+msgstr "টেক ফন্ট"
+
+#: gnome-vfs.keys.in.h:228
+msgid "TeX font metrics"
+msgstr "টেক ফন্ট মেট্রিক্স"
+
+#: gnome-vfs.keys.in.h:229
+msgid "TeXInfo document"
+msgstr "টেক-ইনফো নথী"
+
+#: gnome-vfs.keys.in.h:230
+msgid "ToutDoux document"
+msgstr "টাউট ডাউ নথী"
+
+#: gnome-vfs.keys.in.h:231
+msgid "TrueType font"
+msgstr "ট্রু-টাইপ ফন্ট"
+
+#: gnome-vfs.keys.in.h:232
+msgid "Truevision Targa image"
+msgstr "ট্রুভিসন টার্গা চিত্র"
+
+#: gnome-vfs.keys.in.h:233
+msgid "USENET news message"
+msgstr "ইউজ-নেট বার্তা"
+
+# msgstr "ইউজ-নেট সংবাদ বার্তা"
+#
+#: gnome-vfs.keys.in.h:234
+msgid "Unidata netCDF document"
+msgstr "ইউনিডাটা নেট-সি-ডি-এফ নথী"
+
+#: gnome-vfs.keys.in.h:235
+msgid "User Interface"
+msgstr "ব্যবহারকারীর ইন্টারফেস"
+
+# msgstr "ব্যবহারকারী ইন্টারফেস"
+#
+#: gnome-vfs.keys.in.h:236
+msgid "User Interface/Fonts"
+msgstr "ব্যবহারকারীর ইন্টারফেস/ফন্ট"
+
+#: gnome-vfs.keys.in.h:237
+msgid "V font"
+msgstr "ভি ফন্ট"
+
+#: gnome-vfs.keys.in.h:238
+msgid "VOC audio"
+msgstr "ভি-ও-সি শব্দ"
+
+#: gnome-vfs.keys.in.h:239
+msgid "VRML document"
+msgstr "ভি-আর-এম-এল নথী"
+
+#: gnome-vfs.keys.in.h:240
+msgid "Video"
+msgstr "ভিডিও"
+
+#: gnome-vfs.keys.in.h:241
+msgid "Vivo video"
+msgstr "ভিভো ভিডিও"
+
+#: gnome-vfs.keys.in.h:242
+msgid "WAIS source code"
+msgstr "ডাব্লু-এ-আই-এস (WAIS) সোর্স কোড"
+
+# msgstr "ডাব্লু-এ-আই-এস সোর্স কোড"
+#: gnome-vfs.keys.in.h:243
+msgid "Wavelet video"
+msgstr "ওয়েভ-লেট ভিডিও"
+
+#: gnome-vfs.keys.in.h:244
+msgid "Windows bitmap image"
+msgstr "উইন্ডোজ বিটম্যাপ চিত্র"
+
+#: gnome-vfs.keys.in.h:245
+msgid "Windows icon image"
+msgstr "উইন্ডোজ আইকন চিত্র"
+
+#: gnome-vfs.keys.in.h:246
+msgid "Windows metafile graphics"
+msgstr "উইন্ডোজ মেটাফাইল চিত্র"
+
+#: gnome-vfs.keys.in.h:247
+msgid "WordPerfect document"
+msgstr "ওয়ার্ডপারফেক্ট নথী"
+
+#: gnome-vfs.keys.in.h:248
+msgid "X bitmap image"
+msgstr "এক্স বিটম্যাপ চিত্র"
+
+#: gnome-vfs.keys.in.h:249
+msgid "X window image"
+msgstr "এক্স উইন্ডো চিত্র"
+
+#: gnome-vfs.keys.in.h:250
+msgid "XML document"
+msgstr "এক্স-এম-এল নথী"
+
+#: gnome-vfs.keys.in.h:251
+msgid "XPM image"
+msgstr "এক্স-পি-এম চিত্র"
+
+#: gnome-vfs.keys.in.h:252
+msgid "Xbase database"
+msgstr "এক্স-বেস ডাটাবেস "
+
+#: gnome-vfs.keys.in.h:253
+msgid "Z shell script"
+msgstr "জেড শেল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:254
+msgid "active server page"
+msgstr "একটিভ সার্ভার পেজ"
+
+# msgstr "এক্টিভ সার্ভার পেজ"
+# ASP
+#: gnome-vfs.keys.in.h:255
+msgid "address card"
+msgstr "ঠিকানা প্রদানকারী কার্ড"
+
+# msgstr "ঠিকানা কার্ড"
+#
+#: gnome-vfs.keys.in.h:256
+msgid "application launcher"
+msgstr "এপ্লিকেশন লন্চার"
+
+# msgstr "অ্যাপ্লিকেশন লন্চার"
+#: gnome-vfs.keys.in.h:257
+msgid "ar archive"
+msgstr "এ.আর আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:258
+msgid "arj archive"
+msgstr "এ.আর.জে (arj) আর্কাইভ"
+
+# msgstr "আর্জ আর্কাইভ"
+#: gnome-vfs.keys.in.h:259
+msgid "authors list"
+msgstr "লেখক তালিকা"
+
+#: gnome-vfs.keys.in.h:260
+msgid "backup file"
+msgstr "ব্যাক-আপ ফাইল"
+
+#: gnome-vfs.keys.in.h:261
+msgid "basic audio"
+msgstr "বেসিক শব্দ"
+
+#: gnome-vfs.keys.in.h:262
+msgid "bibliography record"
+msgstr "গ্রন্থবিবরণী"
+
+#: gnome-vfs.keys.in.h:263
+msgid "binary program"
+msgstr "বাইনারি প্রোগ্র্যাম"
+
+#: gnome-vfs.keys.in.h:264
+msgid "block device"
+msgstr "ব্লক ডিভাইস"
+
+#: gnome-vfs.keys.in.h:265
+msgid "bzip-compressed file"
+msgstr "বিজীপ-কম্প্রেসকৃত ফাইল"
+
+# msgstr "বিজিপ-সংকুচিত ফাইল"
+#: gnome-vfs.keys.in.h:266
+msgid "calendar file"
+msgstr "ক্যালেন্ডার ফাইল"
+
+#: gnome-vfs.keys.in.h:267
+msgid "calendar or event document"
+msgstr "ক্যালেন্ডার বা ঘটনাবলী সম্পর্কিত নথী"
+
+#: gnome-vfs.keys.in.h:268
+msgid "character device"
+msgstr "ক্যারেক্টার ডিভাইস"
+
+#: gnome-vfs.keys.in.h:269
+msgid "comma-separated text document"
+msgstr "কমার সাহায্যে পৃথকীকৃত টেক্সট ডকুমেন্ট"
+
+# msgstr "বিরান চিন্হ দিয়ে আলাদা করা টেক্সট নথী"
+#
+#: gnome-vfs.keys.in.h:270
+msgid "compound document"
+msgstr "যৌগিক নথী"
+
+#: gnome-vfs.keys.in.h:271
+msgid "compress-compressed file"
+msgstr "কম্প্রেস-সংকুচিত ফাইল"
+
+#: gnome-vfs.keys.in.h:272
+msgid "compressed GIMP document"
+msgstr "সংকুচিত জিম্প নথী"
+
+#: gnome-vfs.keys.in.h:273
+msgid "directory information file"
+msgstr "ডাইরেক্টরি সম্পর্কিত তথ্য ফাইল"
+
+#: gnome-vfs.keys.in.h:274
+msgid "document type definition"
+msgstr "ডকুমেন্ট টাইপ ডেফিনিশন"
+
+#: gnome-vfs.keys.in.h:275
+msgid "email headers"
+msgstr "ইমেল হেডার"
+
+#: gnome-vfs.keys.in.h:276
+msgid "email message/mailbox"
+msgstr "ইমেল বার্তা/বার্তাবাক্স"
+
+#: gnome-vfs.keys.in.h:277
+msgid "encrypted message"
+msgstr "এনক্রিপ্ট করা বার্তা"
+
+#: gnome-vfs.keys.in.h:278
+msgid "enriched text document"
+msgstr "এনরিচ করা টেকস্ট নথী"
+
+#: gnome-vfs.keys.in.h:279
+msgid "folder"
+msgstr "ফোল্ডার"
+
+#: gnome-vfs.keys.in.h:280
+msgid "gtar archive"
+msgstr "জীটার আর্কাইভ"
+
+# msgstr "জিটার আর্কাইভ"
+#
+#: gnome-vfs.keys.in.h:281
+msgid "gzip-compressed file"
+msgstr "জি-জিপ সংকুচিত ফাইল"
+
+#: gnome-vfs.keys.in.h:282
+msgid "help page"
+msgstr "সহায়িকা"
+
+# msgstr "সাহায্যকারী পাতা"
+#
+#: gnome-vfs.keys.in.h:283
+msgid "mail delivery report"
+msgstr "চিঠি প্রদানের বিবরণ"
+
+# msgstr "পত্র জমা দেওয়ার রিপোর্ট"
+#
+#: gnome-vfs.keys.in.h:284
+msgid "mail disposition report"
+msgstr "চিঠি হস্তান্তরের বিবরণ"
+
+# msgstr "পত্র ডিস্পোসিশন রিপোর্ট"
+#
+#: gnome-vfs.keys.in.h:285
+msgid "mail system report"
+msgstr "মেল সিস্টেমের রিপোর্ট"
+
+#: gnome-vfs.keys.in.h:286
+msgid "makefile"
+msgstr "মেকফাইল"
+
+#: gnome-vfs.keys.in.h:287
+msgid "manual page"
+msgstr "ম্যানুয়াল পাতা"
+
+#: gnome-vfs.keys.in.h:288
+msgid "manual page (compressed)"
+msgstr "ম্যানুয়াল পাতা (সংকুচিত)"
+
+#: gnome-vfs.keys.in.h:289
+msgid "memory dump"
+msgstr "মেমরি ডাম্প"
+
+#: gnome-vfs.keys.in.h:290
+msgid "message digest"
+msgstr "মেসেজ ডাইজেসট"
+
+# msgstr "মেসেজ ডাইজেস্ট"
+#: gnome-vfs.keys.in.h:291
+msgid "message in several formats"
+msgstr "বিভিন্ন ফরম্যাটের বার্তা"
+
+# msgstr "নানা ফর্ম্যাটে বার্তা"
+#: gnome-vfs.keys.in.h:292
+msgid "multi-part message"
+msgstr "বহু-অংশে-বিভক্ত (multi-part) বার্তা"
+
+# msgstr "মাল্টি পার্ট মেসেজ"
+# এটার বাংলা করলে সত্যিই লোকে বুঝবে না
+#
+# এটা কি বোঝা যাচ্ছে না ?
+# ঠিক - মাথায় আসেনি
+#: gnome-vfs.keys.in.h:293
+msgid "named pipe"
+msgstr "নেমড পাইপ"
+
+#: gnome-vfs.keys.in.h:294
+msgid "object code"
+msgstr "অবজেক্ট কোড"
+
+#: gnome-vfs.keys.in.h:295
+msgid "ogg audio"
+msgstr "অগগ্ শব্দ"
+
+# msgstr "অগগ্ শব্দ"
+#: gnome-vfs.keys.in.h:296
+msgid "partial email message"
+msgstr "অসম্পুর্ণ ই-মেল বার্তা"
+
+# msgstr "অসম্পূর্ণ  ই-মেইল"
+#: gnome-vfs.keys.in.h:297
+msgid "plain text document"
+msgstr "প্লেন টেক্সট নথী"
+
+# msgstr "প্লেন টেক্সট নথী"
+#: gnome-vfs.keys.in.h:298
+msgid "profiler results"
+msgstr "প্রোফাইলার-এর ফলাফল"
+
+#: gnome-vfs.keys.in.h:299
+msgid "python byte code"
+msgstr "পাইথন বাইট কোড"
+
+#: gnome-vfs.keys.in.h:300
+msgid "reference to remote file"
+msgstr "দূরবর্তী ফাইলের উল্লেখ"
+
+# msgstr "রিমোট ফাইলের প্রতি রেফারেন্স"
+#: gnome-vfs.keys.in.h:301
+msgid "rejected patch file"
+msgstr "বাতিল হওয়া প্যাচ(patch) ফাইল"
+
+# msgstr "বাতিল হওয়া প্যাচ (patch) ফাইল"
+# এই দুনিয়ায় হাজার রকম "প্যাচ" আছে ;-))))
+# LOL
+#: gnome-vfs.keys.in.h:302
+msgid "rich text document"
+msgstr "রিচ টেক্সট নথী"
+
+# msgstr "রিচ টেক্সট নথী"
+#: gnome-vfs.keys.in.h:303
+msgid "search results"
+msgstr "খোঁজের ফলাফল"
+
+# msgstr "অনুসন্ধানের ফলাফল"
+# বানানটা হল "খঁোজ"
+#: gnome-vfs.keys.in.h:304
+msgid "shared library"
+msgstr "ভাগাভাগি করে ব্যবহৃত মেমরি"
+
+#: gnome-vfs.keys.in.h:305
+msgid "shell archive"
+msgstr "শেল আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:306
+msgid "shell script"
+msgstr "শেল স্ক্রিপ্ট"
+
+#: gnome-vfs.keys.in.h:307
+msgid "signed message"
+msgstr "স্বাক্ষরকৃত বার্তা"
+
+# msgstr "সই করা (সাইন করা) বার্তা"
+#: gnome-vfs.keys.in.h:308
+msgid "socket"
+msgstr "সকেট"
+
+#: gnome-vfs.keys.in.h:309
+msgid "software author credits"
+msgstr "প্রোগ্রামারবৃন্দ"
+
+# msgstr "সফ্টওয়্যারের লেখকদের প্রতি ???? স্বিকার"
+#
+# msgstr "সফটওয়ার প্রস্তুতকারকগণ"
+#: gnome-vfs.keys.in.h:310
+msgid "software installation instructions"
+msgstr "সফটওয়ার ইনস্টলেশনের নির্দেশাবলি"
+
+# msgstr "সফ্টওয়্যারের ইন্স্টলেশন করার জন্য নির্দেশাবলি"
+#
+#: gnome-vfs.keys.in.h:311
+msgid "software license terms"
+msgstr "সফটওয়ার লাইসেন্সের শর্তাবলী"
+
+# msgstr "সফ্টওয়্যারের লাইসেন্স টার্ম"
+#
+#: gnome-vfs.keys.in.h:312
+msgid "source code patch"
+msgstr "সোর্স কোড প্যাচ(patch)"
+
+# msgstr "সোর্স কোড প্যাচ (patch)"
+# আবার "প্যাচ"!!!
+#: gnome-vfs.keys.in.h:313
+msgid "style sheet"
+msgstr "স্টাইল শিট"
+
+#: gnome-vfs.keys.in.h:314
+msgid "symbolic link"
+msgstr "সিম্বলিক লিংক"
+
+#: gnome-vfs.keys.in.h:315
+msgid "tab-separated text document"
+msgstr "ট্যাবের দ্বারা আলাদা করা টেক্সট নথী"
+
+#: gnome-vfs.keys.in.h:316
+msgid "tar archive"
+msgstr "টার আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:317
+msgid "tar archive (bzip2-compressed)"
+msgstr "টার আর্কাইভ (বি-জিপ-এর দ্বারা সংকোচন করা)"
+
+#: gnome-vfs.keys.in.h:318
+msgid "tar archive (gzip-compressed)"
+msgstr "টার আর্কাইভ (জী-জিপ ব্যবহার করে কম্প্রেসকৃত)"
+
+# msgstr "টার আর্কাইভ (জি-জিপ-এর দ্বারা সংকোচন করা)"
+#: gnome-vfs.keys.in.h:319
+msgid "theme"
+msgstr "থিম"
+
+#: gnome-vfs.keys.in.h:320
+msgid "troff document"
+msgstr "ট্রফ নথী"
+
+#: gnome-vfs.keys.in.h:321
+msgid "troff me input document"
+msgstr "ট্রফ এম-ই ইনপুট নথী"
+
+#: gnome-vfs.keys.in.h:322
+msgid "troff mm input document"
+msgstr "ট্রফ এম-এম ইনপুট নথী"
+
+#: gnome-vfs.keys.in.h:323
+msgid "troff ms input document"
+msgstr "ট্রফ এম-স ইনপুট নথী"
+
+#: gnome-vfs.keys.in.h:324
+msgid "unknown type"
+msgstr "অজানা ধরন (টাইপ)"
+
+#: gnome-vfs.keys.in.h:325
+msgid "ustar archive"
+msgstr "উসটার আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:326
+msgid "wave audio"
+msgstr "ওয়েভ শব্দ"
+
+#: gnome-vfs.keys.in.h:327
+msgid "web folder"
+msgstr "ওয়েব ফোল্ডার"
+
+# msgstr "ওয়েব ফোল্ডার"
+#: gnome-vfs.keys.in.h:328
+msgid "xfig vector graphic"
+msgstr "এক্সফিগ ভেক্টর চিত্র "
+
+#: gnome-vfs.keys.in.h:329
+msgid "zip archive"
+msgstr "জিপ আর্কাইভ"
+
+#: gnome-vfs.keys.in.h:330
+msgid "zoo archive"
+msgstr "জু আর্কাইভ"

@@ -1,3 +1,7 @@
+2003-05-04  Taneem Ahmed  <taneem@eyetap.org>
+
+	* configure.in: Added "bn" in ALL_LINGUAS
+
 2003-03-27  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: added application/x-ipod-firmware that
