@@ -246,6 +246,9 @@ application/x-lhz
 application/x-mif
 	ext: mif
 
+application/x-mrproject
+	ext: mrp
+
 application/x-ms-dos-executable
 	ext: exe
 
@@ -275,6 +278,9 @@ application/x-php
 
 application/x-profile
 	regex: gmon\.out$
+
+application/x-python-byte-code
+	ext: pyc
 
 application/x-qw
 	ext: qif

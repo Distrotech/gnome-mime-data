@@ -301,7 +301,6 @@ application/x-abiword
 
 application/x-applix-spreadsheet
 	_description=Applixware spreadsheet
-	icon_filename=i-spreadsheet
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=applix,gnumeric
 	short_list_application_ids_for_intermediate_user_level=applix,gnumeric
@@ -411,7 +410,6 @@ application/x-dc-rom
 
 application/x-deb
 	_description=Debian package
-	icon_filename=gnome-pack-deb
 	short_list_application_ids_for_novice_user_level=dpkg
 	short_list_application_ids_for_intermediate_user_level=dpkg
 	short_list_application_ids_for_advanced_user_level=dpkg
@@ -635,6 +633,9 @@ application/x-lhz
 application/x-mif
 	_description=FrameMaker interchange document
 
+application/x-mrproject
+	_description=Project Plan
+
 application/x-ms-dos-executable
 	_description=DOS/Windows program
 
@@ -693,6 +694,9 @@ application/x-php
 application/x-profile
 	_description=profiler results
 
+application/x-python-byte-code
+	_description=python byte code
+
 application/x-qw
 	_description=Quicken for Windows document
 	default_action_type=application
@@ -728,7 +732,6 @@ application/x-reject
 
 application/x-rpm
 	_description=RPM package
-	icon_filename=gnome-pack-rpm
 	default_action_type=component
 	category=Packages
 	use_category_default=yes
@@ -1380,15 +1383,12 @@ text/x-authors
 
 text/x-c
 	_description=C source code
-	icon_filename=gnome-application-x-c-source
 
 text/x-c++
 	_description=C++ source code
-	icon_filename=gnome-application-x-cc-source
 
 text/x-c-header
 	_description=C source code header
-	icon_filename=gnome-application-x-c-header
 
 text/x-comma-separated-values
 	_description=comma-separated text document
@@ -1441,7 +1441,6 @@ text/x-install
 
 text/x-java
 	_description=Java source code
-	icon_filename=gnome-application-x-java-source
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=jbuilder,javac
 	short_list_application_ids_for_intermediate_user_level=jbuilder,javac
@@ -1622,14 +1621,14 @@ video/x-ms-asf
 	short_list_application_ids_for_intermediate_user_level=xmps
 	short_list_application_ids_for_advanced_user_level=xmps
 
+video/x-ms-wmv
+	_description=Microsoft WMV video
+
 video/x-msvideo
 	_description=Microsoft video
 	short_list_application_ids_for_novice_user_level=xmps,omsomi,xanim
 	short_list_application_ids_for_intermediate_user_level=xmps,omsomi,xanim
 	short_list_application_ids_for_advanced_user_level=xmps,omsomi,xanim
-
-video/x-ms-wmv
-	_description=Microsoft WMV video
 
 video/x-real-video
 	_description=RealVideo video

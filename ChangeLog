@@ -1,3 +1,55 @@
+2002-04-25  Seth Nickell  <snickell@stanford.edu>
+
+	* check-mime.pl:
+
+	Update to handle component keyword change.
+
+	_ALWAYS_ run this script before checking in please.
+
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime:
+
+	Add several new types, change icon names.
+	
+	* icons/Makefile.am:
+	* icons/gnome-application-pdf.png:
+	* icons/gnome-application-pgp-encrypted.png:
+	* icons/gnome-application-pgp-keys.png:
+	* icons/gnome-application-x-applix-spreadsheet.png:
+	* icons/gnome-application-x-applix-word.png:
+	* icons/gnome-application-x-c-header.png:
+	* icons/gnome-application-x-c-source.png:
+	* icons/gnome-application-x-cc-source.png:
+	* icons/gnome-application-x-deb.png:
+	* icons/gnome-application-x-gnome-app-info.png:
+	* icons/gnome-application-x-jar.png:
+	* icons/gnome-application-x-java-byte-code.png:
+	* icons/gnome-application-x-java-source.png:
+	* icons/gnome-application-x-mrproject.png:
+	* icons/gnome-application-x-php.png:
+	* icons/gnome-application-x-python-bytecode.png:
+	* icons/gnome-application-x-rpm.png:
+	* icons/gnome-image-pbm.png:
+	* icons/gnome-image-psd.png:
+	* icons/gnome-image-xwd.png:
+	* icons/gnome-pack-deb.png:
+	* icons/gnome-pack-rpm.png:
+	* icons/gnome-text-css.png:
+	* icons/gnome-text-x-c++.png:
+	* icons/gnome-text-x-c-header.png:
+	* icons/gnome-text-x-c.png:
+	* icons/gnome-text-x-csh.png:
+	* icons/gnome-text-x-install.png:
+	* icons/gnome-text-x-java.png:
+	* icons/gnome-text-x-python.png:
+	* icons/gnome-text-x-sh.png:
+	* icons/gnome-video-quicktime.png:
+	* icons/gnome-video-x-ms-asf.png:
+	* icons/gnome-video-x-msvideo.png:
+
+	Update icons, and add some new ones from Tuomas.
+	
 2002-04-23  Jody Goldberg <jody@gnome.org>
 
 	* configure.in : post release version bump.

@@ -7,6 +7,8 @@ icon_DATA =\
 	gnome-application-msword.png \
 	gnome-application-pdf.png \
 	gnome-application-pgp.png \
+	gnome-application-pgp-encrypted.png \
+	gnome-application-pgp-keys.png \
 	gnome-application-postscript.png \
 	gnome-application-qif.png \
 	gnome-application-rtf.png \
@@ -22,15 +24,15 @@ icon_DATA =\
 	gnome-application-vnd.sun.xml.impress.png \
 	gnome-application-vnd.sun.xml.writer.png \
 	gnome-application-x-abiword.png \
+	gnome-application-x-applix-spreadsheet.png \
+	gnome-application-x-applix-word.png \
 	gnome-application-x-arj.png \
 	gnome-application-x-backup.png \
 	gnome-application-x-blender.png \
 	gnome-application-x-bzip.png \
-	gnome-application-x-c-header.png \
-	gnome-application-x-c-source.png \
-	gnome-application-x-cc-source.png \
 	gnome-application-x-compress.png \
 	gnome-application-x-dc-rom.png \
+	gnome-application-x-deb.png \
 	gnome-application-x-dia-diagram.png \
 	gnome-application-x-e-theme.png \
 	gnome-application-x-font-sunos-news.png \
@@ -41,7 +43,7 @@ icon_DATA =\
 	gnome-application-x-gtktalog.png \
 	gnome-application-x-gzip.png \
 	gnome-application-x-jar.png \
-	gnome-application-x-java-source.png \
+	gnome-application-x-java-byte-code.png \
 	gnome-application-x-kde-app-info.png \
 	gnome-application-x-killustrator.png \
 	gnome-application-x-kpresenter.png \
@@ -52,6 +54,8 @@ icon_DATA =\
 	gnome-application-x-nes-rom.png \
 	gnome-application-x-ogg.png \
 	gnome-application-x-php.png \
+	gnome-application-x-python-bytecode.png \
+	gnome-application-x-rpm.png \
 	gnome-application-x-reject.png \
 	gnome-application-x-scheme-source.png \
 	gnome-application-x-sms-rom.png \
@@ -107,23 +111,28 @@ icon_DATA =\
 	gnome-image-xwd.png \
 	gnome-library.png \
 	gnome-objectfile.png \
-	gnome-pack-deb.png \
-	gnome-pack-rpm.png \
 	gnome-package.png \
 	gnome-tex.png \
 	gnome-text-abiword.png \
+	gnome-text-css.png \
 	gnome-text-html.png \
 	gnome-text-x-authors.png \
 	gnome-text-x-c.png \
+	gnome-text-x-c-header.png \
+	gnome-text-x-c++.png \
+	gnome-text-x-csh.png \
 	gnome-text-x-copying.png \
 	gnome-text-x-credits.png \
 	gnome-text-x-haskell.png \
 	gnome-text-x-install.png \
+	gnome-text-x-java.png \
 	gnome-text-x-literate-haskell.png \
 	gnome-text-x-makefile.png \
 	gnome-text-x-patch.png \
 	gnome-text-x-perl.png \
+	gnome-text-x-python.png \
 	gnome-text-x-readme.png \
+	gnome-text-x-sh.png \
 	gnome-text-x-sql.png \
 	gnome-text-x-zsh.png \
 	gnome-text-xml.png \

@@ -85,6 +85,7 @@ print "Reading gnome-vfs.keys.in.\n";
    "short_list_application_ids_for_advanced_user_level",
    "short_list_application_ids_for_intermediate_user_level",
    "short_list_application_ids_for_novice_user_level",
+   "short_list_component_iids",
    "short_list_component_iids_for_advanced_user_level",
    "short_list_component_iids_for_intermediate_user_level",
    "short_list_component_iids_for_novice_user_level",
