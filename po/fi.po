@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-02-05 22:02+0200\n"
-"PO-Revision-Date: 2004-02-01 03:06+0200\n"
+"POT-Creation-Date: 2004-02-28 18:57+0200\n"
+"PO-Revision-Date: 2004-02-28 18:38+0200\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgstr "ANIM-animaatio"
 
 #: gnome-vfs.keys.in.h:6
 msgid "ARJ archive"
-msgstr "ARJ-paketti"
+msgstr "ARJ-arkisto"
 
 #: gnome-vfs.keys.in.h:7
 msgid "AVI video"
@@ -370,7 +370,7 @@ msgstr "Enlightenment-teema"
 
 #: gnome-vfs.keys.in.h:89
 msgid "Enriched text document"
-msgstr "RTF-teksti"
+msgstr "RTF-asiakirja"
 
 #: gnome-vfs.keys.in.h:90
 msgid "Epiphany bookmarks file"
@@ -554,7 +554,7 @@ msgstr "Java-tavukoodi"
 
 #: gnome-vfs.keys.in.h:135
 msgid "Java code archive"
-msgstr "Javakoodipaketti"
+msgstr "Javakoodiarkisto"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Java source code"
@@ -590,11 +590,11 @@ msgstr "Ksh-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:144
 msgid "LHA archive"
-msgstr "LHA-paketti"
+msgstr "LHA-arkisto"
 
 #: gnome-vfs.keys.in.h:145
 msgid "LHARC archive"
-msgstr "LHARC-paketti"
+msgstr "LHARC-arkisto"
 
 #: gnome-vfs.keys.in.h:146
 msgid "LIBGRX font"
@@ -678,7 +678,7 @@ msgstr "Macintosh BinHex -koodattu tiedosto"
 
 #: gnome-vfs.keys.in.h:166
 msgid "Macintosh StuffIt archive"
-msgstr "Macintosh StuffIt -paketti"
+msgstr "Macintosh StuffIt -arkisto"
 
 #: gnome-vfs.keys.in.h:167
 msgid "Macromedia Flash file"
@@ -738,7 +738,7 @@ msgstr "Viesti"
 
 #: gnome-vfs.keys.in.h:181
 msgid "Message digest"
-msgstr "Viestitiivistelmä"
+msgstr "Viestikokoelma"
 
 #: gnome-vfs.keys.in.h:182
 msgid "Message in several formats"
@@ -830,7 +830,7 @@ msgstr "OpenOffice.org Impress -esitysmalli"
 
 #: gnome-vfs.keys.in.h:204
 msgid "OpenOffice.org Math document"
-msgstr "OpenOffice.org -matematiikka-asiakirja"
+msgstr "OpenOffice.org-matematiikka-asiakirja"
 
 #: gnome-vfs.keys.in.h:205
 msgid "OpenOffice.org Writer document"
@@ -842,7 +842,7 @@ msgstr "OpenOffice.org Writer -yleinen asiakirja"
 
 #: gnome-vfs.keys.in.h:207
 msgid "OpenOffice.org Writer template"
-msgstr "OpenOffice.org -malli"
+msgstr "OpenOffice.org-malli"
 
 #: gnome-vfs.keys.in.h:208
 msgid "OpenOffice.org drawing"
@@ -1006,7 +1006,7 @@ msgstr "Quicken Windowsille -asiakirja"
 
 #: gnome-vfs.keys.in.h:248
 msgid "RAR archive"
-msgstr "RAR-paketti"
+msgstr "RAR-arkisto"
 
 #: gnome-vfs.keys.in.h:249
 msgid "README document"
@@ -1138,7 +1138,7 @@ msgstr "Jaettu kirjasto"
 
 #: gnome-vfs.keys.in.h:281
 msgid "Shell archive"
-msgstr "Shell-paketti"
+msgstr "Shell-arkisto"
 
 #: gnome-vfs.keys.in.h:282
 msgid "Shell script"
@@ -1446,11 +1446,11 @@ msgstr "Zsh-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:358
 msgid "Zip archive"
-msgstr "Zip-paketti"
+msgstr "Zip-arkisto"
 
 #: gnome-vfs.keys.in.h:359
 msgid "Zoo archive"
-msgstr "Zoo-paketti"
+msgstr "Zoo-arkisto"
 
 #: gnome-vfs.keys.in.h:360
 msgid "gettext translation"
