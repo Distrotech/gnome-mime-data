@@ -196,7 +196,7 @@ application/x-font-speedo
 	ext: spd
 
 application/x-font-ttf
-	ext: ttf TTF
+	ext: ttf TTF ttc TTC
 
 application/x-font-type1
 	ext: pfa pfb
