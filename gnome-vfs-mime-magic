@@ -123,6 +123,8 @@
 # php rules need to go before html
 0:64	string		\<?php					application/x-php
 0:64	string		\<?xml					text/xml
+0:64	string		\<smil\>				application/x-smil
+0:64    string		\<SMIL\>				application/x-smil
 0:64	string		\<!DOCTYPE\ HTML			text/html
 0:64	string		\<!doctype\ html			text/html
 0:64	string		\<HEAD					text/html
@@ -161,8 +163,6 @@
 0	string		pnm:\/\/				audio/x-pn-realaudio
 0	string		rtsp:\/\/				audio/x-pn-realaudio
 0	string		http:\/\/				audio/x-pn-realaudio
-0	string		\<smil\>				application/x-smil
-0	string		\<SMIL\>				application/x-smil
 0	string		SIT! 					application/x-stuffit
 0	string		\312\376\272\276			application/x-java-byte-code
 0	string		Joy!					application/x-pef-executable

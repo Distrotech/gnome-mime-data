@@ -1,5 +1,10 @@
 2003-04-04  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs-mime-magic: SMIL playlists could be recognised as HTML,
+	moved tests up the rank
+
+2003-04-04  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic: added more magic for Real playlists files and 
 	SMIL playlists
 
