@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-03-28 06:24-0800\n"
-"PO-Revision-Date: 2002-03-01 20:03+0100\n"
+"POT-Creation-Date: 2002-04-01 23:31+0200\n"
+"PO-Revision-Date: 2002-04-01 23:31+0200\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -529,9 +529,8 @@ msgid "Photoshop document"
 msgstr "Photoshopdokument"
 
 #: gnome-vfs.keys.in.h:129
-#, fuzzy
 msgid "Playlist"
-msgstr "MP3-ljudspellista"
+msgstr "Spellista"
 
 #: gnome-vfs.keys.in.h:130
 msgid "PostScript Type 1 font"
@@ -578,9 +577,8 @@ msgid "RPM package"
 msgstr "RPM-paket"
 
 #: gnome-vfs.keys.in.h:141
-#, fuzzy
 msgid "RealAudio document"
-msgstr "PN RealAudio-dokument"
+msgstr "RealAudio-dokument"
 
 #: gnome-vfs.keys.in.h:142
 msgid "RealAudio/Video document"
