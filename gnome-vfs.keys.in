@@ -1625,7 +1625,7 @@ video/x-msvideo
 	short_list_application_ids_for_intermediate_user_level=xmps,omsomi,xanim
 	short_list_application_ids_for_advanced_user_level=xmps,omsomi,xanim
 
-vidoe/x-ms-wmv
+video/x-ms-wmv
 	_description=Microsoft WMV video
 
 video/x-real-video

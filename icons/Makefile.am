@@ -132,7 +132,7 @@ icon_DATA =\
 	gnome-video-quicktime.png \
 	gnome-video-x-ms-asf.png \
 	gnome-video-x-msvideo.png \
-	gnome-video-x-ms-wmv.png
+	gnome-video-x-ms-wmv.png \
 	gnome-x-font-afm.png \
 	gnome-x-troff-man.png \
 	i-blockdev.png \

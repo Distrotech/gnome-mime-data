@@ -1,6 +1,14 @@
 2002-04-21  Anders Carlsson  <andersca@gnu.org>
 
 	* gnome-vfs.keys.in:
+	Doh, it's "video", not "vidoe".
+	
+	* icons/Makefile.am:
+	Add trailing slash.
+	
+2002-04-21  Anders Carlsson  <andersca@gnu.org>
+
+	* gnome-vfs.keys.in:
 	Fix the component id mess, we now use 
 	"short_list_component_iids" for gnome-vfs 2
 	and "short_list_component_iids_<userlevel>" for
