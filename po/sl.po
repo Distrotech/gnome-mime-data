@@ -280,7 +280,7 @@ msgstr "Dokumenti/Čisto besedilo"
 
 #: gnome-vfs.keys.in.h:67
 msgid "Documents/Presentation"
-msgstr "Dokumenti/Prezentacije"
+msgstr "Dokumenti/Predstavitve"
 
 #: gnome-vfs.keys.in.h:68
 msgid "Documents/Project Management"
