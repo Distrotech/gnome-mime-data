@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-02-28 18:57+0200\n"
-"PO-Revision-Date: 2004-02-28 18:38+0200\n"
+"POT-Creation-Date: 2004-08-18 23:07+0300\n"
+"PO-Revision-Date: 2004-08-03 22:22+0300\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -274,7 +274,7 @@ msgstr "Digital Moving Picture Exchange -kuva"
 
 #: gnome-vfs.keys.in.h:65
 msgid "Directory information file"
-msgstr "Hakemistotietotiedosto"
+msgstr "Kansiotietotiedosto"
 
 #: gnome-vfs.keys.in.h:66
 msgid "DjVu image"
@@ -402,7 +402,7 @@ msgstr "Flexible Image Transport System"
 
 #: gnome-vfs.keys.in.h:97
 msgid "Folder"
-msgstr "Hakemisto"
+msgstr "Kansio"
 
 #: gnome-vfs.keys.in.h:98
 msgid "Fortran source code"
@@ -1394,7 +1394,7 @@ msgstr "Wavelet-video"
 
 #: gnome-vfs.keys.in.h:345
 msgid "Web folder"
-msgstr "WWW-hakemisto"
+msgstr "WWW-kansio"
 
 #: gnome-vfs.keys.in.h:346
 msgid "Windows bitmap image"
