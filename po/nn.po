@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: Roy-Magne Mo <rmo@sunnmore.net>\n"
 "Language-Team: Norwegian/Nynorsk <nn@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -514,7 +514,7 @@ msgstr "PGN-sjakkspel"
 
 #: gnome-vfs.keys.in.h:122
 msgid "PGP keys"
-msgstr "PGP-nøkler"
+msgstr "PGP-nÃ¸kler"
 
 #: gnome-vfs.keys.in.h:123
 msgid "PGP message"
@@ -900,11 +900,11 @@ msgstr "enkel lyd"
 
 #: gnome-vfs.keys.in.h:216
 msgid "bibliography record"
-msgstr "bibliografi oppføring"
+msgstr "bibliografi oppfÃ¸ring"
 
 #: gnome-vfs.keys.in.h:217
 msgid "binary program"
-msgstr "binærprogram"
+msgstr "binÃ¦rprogram"
 
 #: gnome-vfs.keys.in.h:218
 msgid "block device"
@@ -1024,7 +1024,7 @@ msgstr "melding med fleire delar"
 
 #: gnome-vfs.keys.in.h:247
 msgid "named pipe"
-msgstr "namngitt røyr"
+msgstr "namngitt rÃ¸yr"
 
 #: gnome-vfs.keys.in.h:248
 msgid "object code"
@@ -1044,7 +1044,7 @@ msgstr "rein tekst dokument"
 
 #: gnome-vfs.keys.in.h:252
 msgid "profiler results"
-msgstr "resultat frå profiler"
+msgstr "resultat frÃ¥ profiler"
 
 #: gnome-vfs.keys.in.h:253
 #, fuzzy
@@ -1065,7 +1065,7 @@ msgstr "rikt tekst dokument"
 
 #: gnome-vfs.keys.in.h:257
 msgid "search results"
-msgstr "søkeresultat"
+msgstr "sÃ¸keresultat"
 
 #: gnome-vfs.keys.in.h:258
 msgid "shared library"
@@ -1093,7 +1093,7 @@ msgstr "forfattarliste for programvare"
 
 #: gnome-vfs.keys.in.h:264
 msgid "software installation instructions"
-msgstr "instruksjonar for å innstallere programvare"
+msgstr "instruksjonar for Ã¥ innstallere programvare"
 
 #: gnome-vfs.keys.in.h:265
 msgid "software license terms"
@@ -1157,7 +1157,7 @@ msgstr "ustar-arkiv"
 
 #: gnome-vfs.keys.in.h:280
 msgid "wave audio"
-msgstr "lydbølge lyd"
+msgstr "lydbÃ¸lge lyd"
 
 #: gnome-vfs.keys.in.h:281
 msgid "web folder"
