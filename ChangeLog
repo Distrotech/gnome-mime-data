@@ -1,3 +1,7 @@
+2003-03-20  Guntupalli Karunakar  <karunakar@freedomink.org>
+
+	* configure.in: Added "ml" to ALL_LINGUAS
+
 2003-03-04  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: more magic for ASF reference files (->asx)
