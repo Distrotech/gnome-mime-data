@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
-"POT-Creation-Date: 2002-05-14 14:14+0300\n"
-"PO-Revision-Date: 2002-04-26 22:39+0300\n"
+"POT-Creation-Date: 2002-05-23 11:27+0300\n"
+"PO-Revision-Date: 2002-05-21 16:20+0300\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -432,44 +432,44 @@ msgid "ODA document"
 msgstr "ODA-asiakirja"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
-msgstr "OpenOffice Impress -esitys"
+msgid "OpenOffice.org Impress presentation"
+msgstr "OpenOffice.org Impress -esitys"
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
-msgstr "OpenOffice Impress -esitysmalli"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "OpenOffice.org Impress -esitysmalli"
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "OpenOffice-matematiikka-asiakirja"
+msgid "OpenOffice.org Math document"
+msgstr "OpenOffice.org -matematiikka-asiakirja"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "OpenOffice Writer -asiakirja"
+msgid "OpenOffice.org Writer document"
+msgstr "OpenOffice.org Writer -asiakirja"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
-msgstr "OpenOffice Writer -yleinen asiakirja"
+msgid "OpenOffice.org Writer global document"
+msgstr "OpenOffice.org Writer -yleinen asiakirja"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
-msgstr "OpenOffice -malli"
+msgid "OpenOffice.org Writer template"
+msgstr "OpenOffice.org -malli"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
-msgstr "OpenOffice-piirros"
+msgid "OpenOffice.org drawing"
+msgstr "OpenOffice.org-piirros"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
-msgstr "OpenOffice-piirrosmalli"
+msgid "OpenOffice.org drawing template"
+msgstr "OpenOffice.org-piirrosmalli"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
-msgstr "OpenOffice-taulukko"
+msgid "OpenOffice.org spreadsheet"
+msgstr "OpenOffice.org-taulukko"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
-msgstr "OpenOffice-taulukkomalli"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "OpenOffice.org-taulukkomalli"
 
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
