@@ -1,3 +1,7 @@
+*.gmo
+stamp-cat-id
+cat-id-tbl.c
+gnome-mime-data.pot
 Makefile
 Makefile.in
 Makefile.in.in
