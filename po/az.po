@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.0\n"
 "POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-11-11 12:28GMT+0200\n"
+"PO-Revision-Date: 2001-12-20 18:41GMT+0200\n"
 "Last-Translator: Vasif İsmayıloğlu MD <azerb_linux@hotmail.com>\n"
 "Language-Team: Azerbaijani Turkic <linuxaz@azerimail.net>\n"
 "MIME-Version: 1.0\n"
@@ -112,7 +112,7 @@ msgstr "CPIO arxivi (gzip ilə sıxışdırılmış)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Commodore 64 Audio"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
@@ -1022,3 +1022,4 @@ msgstr "zip arxivi"
 #: gnome-vfs.keys.in.h:252
 msgid "zoo archive"
 msgstr "zoo arxivi"
+
