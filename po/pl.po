@@ -1,4 +1,4 @@
-# Copyright (C) 2001-2002 Free Software Foundation, Inc.
+# Copyright (C) 2001-2003 Free Software Foundation, Inc.
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # Aktualną wersję tego pliku możesz odnaleźć w repozytorium cvs.gnome.pl
 # (:pserver:anonymous@cvs.gnome.pl:/home/cvs, puste hasło)
@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-10-06 00:13+0200\n"
-"PO-Revision-Date: 2002-10-06 00:13+0200\n"
+"POT-Creation-Date: 2003-01-02 01:26+0100\n"
+"PO-Revision-Date: 2003-01-02 01:37+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -234,6 +234,10 @@ msgid "Enlightenment theme"
 msgstr "Motyw Enlightenmenta"
 
 #: gnome-vfs.keys.in.h:1
+msgid "FLAC audio"
+msgstr "Plik dźwiękowy FLAC"
+
+#: gnome-vfs.keys.in.h:1
 msgid "FLC animation"
 msgstr "Animacja FLC"
 
@@ -344,6 +348,10 @@ msgstr "Obraz ILBM"
 #: gnome-vfs.keys.in.h:1
 msgid "ISI video"
 msgstr "Plik wideo ISI"
+
+#: gnome-vfs.keys.in.h:1
+msgid "ISO image"
+msgstr "Obraz ISO"
 
 #: gnome-vfs.keys.in.h:1
 msgid "Images"
@@ -584,6 +592,10 @@ msgstr "Arkusz kalkulacyjny OpenOffice.org"
 #: gnome-vfs.keys.in.h:1
 msgid "OpenOffice.org spreadsheet template"
 msgstr "Szablon arkusza kalkulacyjnego OpenOffice.org"
+
+#: gnome-vfs.keys.in.h:1
+msgid "OpenType font"
+msgstr "Czcionka OpenType"
 
 #: gnome-vfs.keys.in.h:1
 msgid "PBM image"
