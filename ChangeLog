@@ -1,3 +1,8 @@
+2003-10-12  Christophe Fergeau  <teuf@gnome.org>
+
+	* gnome-vfs-mime-magic: made ID3 sniffing more selective (closes
+	  #124335) 
+
 2003-10-05  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic:

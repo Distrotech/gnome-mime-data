@@ -238,6 +238,8 @@
 0       string          OTTO                                    application/x-font-otf
 54	string		S\ T\ O\ P				application/x-ipod-firmware
 0:160	string		fLaC					application/x-flac
-0:160	string		ID3					audio/mpeg
+0:160	string		ID3\x20\x00				audio/mpeg
+0:160	string		ID3\x30\x00				audio/mpeg
+0:160	string		ID3\x40\x00				audio/mpeg
 0:512	string		\x00\x00\x01\xba			video/mpeg
 0	string		BLENDER					application/x-blender
