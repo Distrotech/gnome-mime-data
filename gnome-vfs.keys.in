@@ -7,7 +7,7 @@
 
 */*
 	can_be_executable=TRUE
-	_description=unknown type
+	_description=Unknown type
 
 application/andrew-inset
 	_category=Documents
@@ -111,7 +111,7 @@ application/qif
 	use_category_default=yes
 
 application/rtf
-	_description=rich text document
+	_description=Rich text document
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=abiword,openoffice,staroffice,applix
 	short_list_application_ids_for_intermediate_user_level=abiword,openoffice,staroffice,applix

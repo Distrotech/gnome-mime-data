@@ -1,3 +1,8 @@
+2003-05-19  Christian Neumair  <chris@gnome-de.org>
+
+	* gnome-vfs.keys.in: Reduced number of translatable strings by 1 by
+	assimilating two similar strings.
+
 2003-05-13  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in: added a description for x-directory/smb-share
