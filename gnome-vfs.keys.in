@@ -432,7 +432,7 @@ application/x-chess-pgn
 	_description=PGN chess game
 
 application/x-cinelerra
-	description=Cinelerra editing sheet
+	_description=Cinelerra editing sheet
 
 # also application/x-java-byte-code
 # this one is deprecated
@@ -1108,7 +1108,7 @@ audio/x-it
 	_category=Audio
 
 audio/x-m4a
-	description=MPEG-4 audio
+	_description=MPEG-4 audio
 	icon_filename=i-music
 	_category=Audio
 
@@ -1163,7 +1163,7 @@ audio/x-mpegurl
 	_category=Audio
 
 audio/x-ms-asf
-	description=MS ASF audio
+	_description=MS ASF audio
 	_category=Video
 
 audio/x-ms-asx
@@ -2106,7 +2106,7 @@ text/xml
 	use_category_default=yes
 
 video/dv
-	description=DV video
+	_description=DV video
 	_category=Video
 
 video/isivideo
@@ -2124,20 +2124,14 @@ video/mpeg
 video/msvideo
 	_description=MS video
 	icon_filename=gnome-video-x-msvideo
-	short_list_application_ids_for_novice_user_level=xmps,omsomi,gtv,xanim
-	short_list_application_ids_for_intermediate_user_level=xmps,omsomi,gtv,xanim
-	short_list_application_ids_for_advanced_user_level=xmps,omsomi,gtv,xanim
 	_category=Video
 
 video/quicktime
 	_description=QuickTime movie
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xanim
-	short_list_application_ids_for_intermediate_user_level=xanim
-	short_list_application_ids_for_advanced_user_level=xanim
 	_category=Video
 
-video/vivo
+video/vnd.vivo
 	_description=Vivo video
 	_category=Video
 
@@ -2148,33 +2142,21 @@ video/wavelet
 video/x-anim
 	_description=ANIM animation
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xanim
-	short_list_application_ids_for_intermediate_user_level=xanim
-	short_list_application_ids_for_advanced_user_level=xanim
 	_category=Video
 
 video/x-avi
 	_description=AVI video
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xanim
-	short_list_application_ids_for_intermediate_user_level=xanim
-	short_list_application_ids_for_advanced_user_level=xanim
 	_category=Video
 
 video/x-flc
 	_description=FLC animation
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xanim
-	short_list_application_ids_for_intermediate_user_level=xanim
-	short_list_application_ids_for_advanced_user_level=xanim
 	_category=Video
 
 video/x-fli
 	_description=FLI animation
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xanim
-	short_list_application_ids_for_intermediate_user_level=xanim
-	short_list_application_ids_for_advanced_user_level=xanim
 	_category=Video
 
 video/x-ms-asf
@@ -2194,9 +2176,6 @@ video/x-ms-wvx
 
 video/x-msvideo
 	_description=Microsoft video
-	short_list_application_ids_for_novice_user_level=xmps,omsomi,xanim
-	short_list_application_ids_for_intermediate_user_level=xmps,omsomi,xanim
-	short_list_application_ids_for_advanced_user_level=xmps,omsomi,xanim
 	_category=Video
 
 video/x-nsv
@@ -2214,9 +2193,6 @@ video/x-real-video
 video/x-sgi-movie
 	_description=SGI video
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xanim
-	short_list_application_ids_for_intermediate_user_level=xanim
-	short_list_application_ids_for_advanced_user_level=xanim
 	_category=Video
 
 x-directory/normal

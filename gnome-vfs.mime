@@ -769,6 +769,9 @@ video/mpeg
 video/quicktime
 	ext: mov qt
 
+video/vnd.vivo
+	ext: viv vivo
+
 video/x-anim
 	regex: \.anim[1-9j]$
 
