@@ -1,3 +1,12 @@
+2002-06-28  Damon Chaplin  <damon@ximian.com>
+
+	* gnome-vfs.keys.in: changed default action for text/html to
+	application. We're doing this as nautilus 2.0 doesn't have a decent
+	html component and it currently displays it as ascii text (bad!).
+	Unfortunately this change will also affect nautilus 1.4 users, who
+	may prefer the mozilla component. They'll have to change their default
+	view themselves. Fixes bug #81615. 
+
 2002-06-26  Jakub Steiner <jimmac@ximian.com>
 
 	* icons/Makefile.am: added i-web and i-network
