@@ -1,3 +1,7 @@
+2002-06-03  Jody Goldberg <jody@gnome.org>
+
+	* gnome-vfs.keys.in : Doh! the category should be 'Images' not 'Image'
+
 2002-05-31  Alex Graveley  <alex@ximian.com>
 
 	* gnome-vfs.mime: Add image/x-emf, image/x-pcx, image/x-photo-cd,

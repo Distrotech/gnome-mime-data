@@ -1098,15 +1098,15 @@ image/bmp
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/cgm
 	_description=CGM image
-	category=Image
+	category=Images
 
 image/g3fax
 	_description=G3 fax image
-	category=Image
+	category=Images
 
 image/gif
 	_description=GIF image
@@ -1118,11 +1118,11 @@ image/gif
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/ief
 	_description=IEF image
-	category=Image
+	category=Images
 
 image/jpeg
 	_description=JPEG image
@@ -1134,7 +1134,7 @@ image/jpeg
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 # also image/x-png
 image/png
@@ -1147,7 +1147,7 @@ image/png
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/svg
 	_description=SVG art
@@ -1155,7 +1155,7 @@ image/svg
 	short_list_application_ids_for_novice_user_level=sodipodi
 	short_list_application_ids_for_intermediate_user_level=sodipodi
 	short_list_application_ids_for_advanced_user_level=sodipodi
-	category=Image
+	category=Images
 
 image/tiff
 	_description=TIFF image
@@ -1167,19 +1167,19 @@ image/tiff
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/vnd.dwg
 	_description=AutoCAD image
-	category=Image
+	category=Images
 
 image/vnd.dxf
 	_description=DXF vector graphic
-	category=Image
+	category=Images
 
 image/x-3ds
 	_description=3D Studio image
-	category=Image
+	category=Images
 
 image/x-applix-graphic
 	_description=ApplixWare Graphics image
@@ -1187,7 +1187,7 @@ image/x-applix-graphic
 	short_list_application_ids_for_novice_user_level=applix
 	short_list_application_ids_for_intermediate_user_level=applix
 	short_list_application_ids_for_advanced_user_level=applix
-	category=Image
+	category=Images
 
 # also image/bmp
 image/x-bmp
@@ -1201,11 +1201,11 @@ image/x-bmp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	icon_filename=gnome-image-bmp
-	category=Image
+	category=Images
 
 image/x-cmu-raster
 	_description=CMU raster image
-	category=Image
+	category=Images
 
 image/x-compressed-xcf
 	_description=compressed GIMP document
@@ -1213,7 +1213,7 @@ image/x-compressed-xcf
 	short_list_application_ids_for_intermediate_user_level=gimp
 	short_list_application_ids_for_advanced_user_level=gimp
 	icon_filename=gnome-image-xcf
-	category=Image
+	category=Images
 
 image/x-emf
 	_description=StarOffice extended metafile image
@@ -1223,23 +1223,23 @@ image/x-emf
 
 image/x-ico
 	_description=Windows icon image
-	category=Image
+	category=Images
 
 image/x-iff
 	_description=IFF image
-	category=Image
+	category=Images
 
 image/x-ilbm
 	_description=ILBM image
-	category=Image
+	category=Images
 
 image/x-lwo
 	_description=LightWave object
-	category=Image
+	category=Images
 
 image/x-lws
 	_description=LightWave scene
-	category=Image
+	category=Images
 
 image/x-pcx
 	_description=PC Paintbrush image
@@ -1271,7 +1271,7 @@ image/x-png
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	icon_filename=gnome-image-png
-	category=Image
+	category=Images
 
 image/x-portable-anymap
 	_description=PNM image
@@ -1283,7 +1283,7 @@ image/x-portable-anymap
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/x-portable-bitmap
 	_description=PBM image
@@ -1296,7 +1296,7 @@ image/x-portable-bitmap
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	icon_filename=gnome-image-pbm
-	category=Image
+	category=Images
 
 image/x-portable-graymap
 	_description=PGM image
@@ -1308,7 +1308,7 @@ image/x-portable-graymap
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/x-portable-pixmap
 	_description=PPM image
@@ -1321,7 +1321,7 @@ image/x-portable-pixmap
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	icon_filename=gnome-image-ppm
-	category=Image
+	category=Images
 
 image/x-psd
 	_description=Photoshop document
@@ -1330,17 +1330,17 @@ image/x-psd
 	short_list_application_ids_for_intermediate_user_level=eog,gimp
 	short_list_application_ids_for_advanced_user_level=eog,gimp
 	icon_filename=gnome-image-psd
-	category=Image
+	category=Images
 
 image/x-rgb
 	_description=RGB image
 	icon_filename=gnome-image-rgb
-	category=Image
+	category=Images
 
 image/x-tga
 	_description=TarGA image
 	icon_filename=gnome-image-tga
-	category=Image
+	category=Images
 
 image/x-wmf
 	_description=Windows metafile graphics
@@ -1348,7 +1348,7 @@ image/x-wmf
 	short_list_application_ids_for_novice_user_level=killustrator
 	short_list_application_ids_for_intermediate_user_level=killustrator
 	short_list_application_ids_for_advanced_user_level=killustrator
-	category=Image
+	category=Images
 
 image/x-xbitmap
 	_description=X bitmap image
@@ -1357,7 +1357,7 @@ image/x-xbitmap
 	short_list_application_ids_for_intermediate_user_level=eog,gimp
 	short_list_application_ids_for_advanced_user_level=eog,gimp
 	icon_filename=gnome-image-xbm
-	category=Image
+	category=Images
 
 image/x-xcf
 	_description=GIMP document
@@ -1366,7 +1366,7 @@ image/x-xcf
 	short_list_application_ids_for_intermediate_user_level=gimp
 	short_list_application_ids_for_advanced_user_level=gimp
 	icon_filename=gnome-image-xcf
-	category=Image
+	category=Images
 
 image/x-xfig
 	_description=xfig vector graphic
@@ -1374,7 +1374,7 @@ image/x-xfig
 	short_list_application_ids_for_novice_user_level=xfig
 	short_list_application_ids_for_intermediate_user_level=xfig
 	short_list_application_ids_for_advanced_user_level=xfig
-	category=Image
+	category=Images
 
 image/x-xpixmap
 	_description=XPM image
@@ -1386,12 +1386,12 @@ image/x-xpixmap
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
-	category=Image
+	category=Images
 
 image/x-xwindowdump
 	_description=X window image
 	icon_filename=gnome-image-xwd
-	category=Image
+	category=Images
 
 message/delivery-status
 	_description=mail delivery report
