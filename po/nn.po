@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2001-12-01 23:42-0800\n"
+"POT-Creation-Date: 2001-12-06 14:31+0100\n"
 "PO-Revision-Date: 2001-11-05 06:39+0100\n"
 "Last-Translator: Roy-Magne Mo <rmo@sunnmore.net>\n"
 "Language-Team: Norwegian/Nynorsk <nn@li.org>\n"
@@ -75,7 +75,7 @@ msgstr "BDF-skrifttype"
 
 #: gnome-vfs.keys.in.h:16
 msgid "C shell script"
-msgstr "C-skall skript"
+msgstr "C-skalskript"
 
 #: gnome-vfs.keys.in.h:17
 msgid "C source code"
@@ -111,7 +111,7 @@ msgstr "CPIO-arkiv (gzip-komprimering)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Commodore 64-lyd"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
