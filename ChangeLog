@@ -1,3 +1,9 @@
+2004-10-26  Frederic Crozat  <fcrozat@mandrakesoft.com>
+
+	* gnome-mime-data-2.0.pc.in:
+	Let config.status do substitution for exec_prefix, libdir and
+	includedir.
+
 2004-10-25  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* gnome-vfs.applications: Remove trailing whitespace
