@@ -8,12 +8,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2003-05-06 02:44+0200\n"
-"PO-Revision-Date: 2003-05-04 20:37+0200\n"
-"Last-Translator: Aleksandar Urošević <urke@sourceforge.net>\n"
+"POT-Creation-Date: 2003-07-02 21:50+0200\n"
+"PO-Revision-Date: 2003-07-02 16:12+0200\n"
+"Last-Translator: Aleksandar Urošević <urke@users.sourceforge.net>\n"
 "Language-Team: Serbian (sr) <serbiangnome-lista@nongnu.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -33,9 +33,8 @@ msgid "ANIM animation"
 msgstr "ANIM animacija"
 
 #: gnome-vfs.keys.in.h:5
-#, fuzzy
 msgid "ARJ archive"
-msgstr "RAR arхiva"
+msgstr "ARJ arhiva"
 
 #: gnome-vfs.keys.in.h:6
 msgid "AVI video"
@@ -46,14 +45,12 @@ msgid "AbiWord document"
 msgstr "AbiWord dokument"
 
 #: gnome-vfs.keys.in.h:8
-#, fuzzy
 msgid "Active Server page"
-msgstr "aktivna serverska strana"
+msgstr "Aktivna serverska strana"
 
 #: gnome-vfs.keys.in.h:9
-#, fuzzy
 msgid "Address card"
-msgstr "kartica adresara"
+msgstr "Kartica adresara"
 
 #: gnome-vfs.keys.in.h:10
 msgid "Adobe FrameMaker font"
@@ -68,9 +65,8 @@ msgid "Andrew Toolkit inset"
 msgstr "Andrew dodatag grupe alata"
 
 #: gnome-vfs.keys.in.h:13
-#, fuzzy
 msgid "Application launcher"
-msgstr "pokretač programa"
+msgstr "Pokretač programa"
 
 #: gnome-vfs.keys.in.h:14
 msgid "ApplixWare Graphics image"
@@ -85,23 +81,20 @@ msgid "Applixware spreadsheet"
 msgstr "Applixware tablični proračun"
 
 #: gnome-vfs.keys.in.h:17
-#, fuzzy
 msgid "Ar archive"
-msgstr "AR arхiva"
+msgstr "Ar arhiva"
 
 #: gnome-vfs.keys.in.h:18
-#, fuzzy
 msgid "Assembly source code"
-msgstr "Haskell izvorni kôd"
+msgstr "Asemblerski izvorni kôd"
 
 #: gnome-vfs.keys.in.h:19
 msgid "Audio"
 msgstr "Zvučni zapis"
 
 #: gnome-vfs.keys.in.h:20
-#, fuzzy
 msgid "Authors list"
-msgstr "lista autora"
+msgstr "Lista autora"
 
 #: gnome-vfs.keys.in.h:21
 msgid "AutoCAD image"
@@ -116,32 +109,26 @@ msgid "BDF font"
 msgstr "BDF font"
 
 #: gnome-vfs.keys.in.h:24
-#, fuzzy
 msgid "Backup file"
-msgstr "rezervna kopija"
+msgstr "Rezervna kopija"
 
 #: gnome-vfs.keys.in.h:25
-#, fuzzy
 msgid "Basic audio"
-msgstr "osnovni zvučni zapis"
+msgstr "Osnovni zvučni zapis"
 
 #: gnome-vfs.keys.in.h:26
-#, fuzzy
 msgid "Bibliography record"
-msgstr "bibliografski zapis"
+msgstr "Bibliografski zapis"
 
 #: gnome-vfs.keys.in.h:27
-#, fuzzy
 msgid "Binary program"
-msgstr "binarni program"
+msgstr "Binarni program"
 
 #: gnome-vfs.keys.in.h:28
-#, fuzzy
 msgid "Block device"
-msgstr "blok uređaj"
+msgstr "Blok uređaj"
 
 #: gnome-vfs.keys.in.h:29
-#, fuzzy
 msgid "Bzip2 compressed file"
 msgstr "bzip kompresovana datoteka"
 
@@ -175,57 +162,47 @@ msgstr "CMU rasterska slika"
 
 #: gnome-vfs.keys.in.h:37
 msgid "CPIO archive"
-msgstr "CPIO arхiva"
+msgstr "CPIO arhiva"
 
 #: gnome-vfs.keys.in.h:38
-#, fuzzy
 msgid "CPIO archive (Gzip-compressed)"
-msgstr "CPIO arхiva (kompresovana gzip-om)"
+msgstr "CPIO arhiva (kompresovana gzip-om)"
 
 #: gnome-vfs.keys.in.h:39
-#, fuzzy
 msgid "Calendar file"
-msgstr "datoteka kalendara"
+msgstr "Datoteka kalendara"
 
 #: gnome-vfs.keys.in.h:40
-#, fuzzy
 msgid "Calendar or event document"
-msgstr "kalendar ili dokument događaja"
+msgstr "Kalendar ili dokument događaja"
 
 #: gnome-vfs.keys.in.h:41
-#, fuzzy
 msgid "Character device"
-msgstr "karakter uređaj"
+msgstr "Karakter uređaj"
 
 #: gnome-vfs.keys.in.h:42
-#, fuzzy
 msgid "Comma-separated text document"
-msgstr "tekstualna baza zapisa podeljeniх zarezom"
+msgstr "Tekstualna baza zapisa podeljenih zarezom"
 
 #: gnome-vfs.keys.in.h:43
-#, fuzzy
 msgid "Commodore 64 audio"
 msgstr "Commodore 64 zvučni zapis"
 
 #: gnome-vfs.keys.in.h:44
-#, fuzzy
 msgid "Compound document"
-msgstr "sjedinjeni dokument"
+msgstr "Sjedinjeni dokument"
 
 #: gnome-vfs.keys.in.h:45
-#, fuzzy
 msgid "Compress-compressed file"
 msgstr "compress-kompresovani dokument"
 
 #: gnome-vfs.keys.in.h:46
-#, fuzzy
 msgid "Compressed GIMP document"
-msgstr "kompresovani GIMP dokument"
+msgstr "Kompresovani GIMP dokument"
 
 #: gnome-vfs.keys.in.h:47
-#, fuzzy
 msgid "Corel Draw drawing"
-msgstr "StarDraw drawing"
+msgstr "Corel Draw crtež"
 
 #: gnome-vfs.keys.in.h:48
 msgid "DCL script"
@@ -268,14 +245,12 @@ msgid "Digital Moving Picture Exchange image"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:58
-#, fuzzy
 msgid "Directory information file"
-msgstr "datoteka sa informacijama o direktorijumu"
+msgstr "Datoteka sa informacijama o direktorijumu"
 
 #: gnome-vfs.keys.in.h:59
-#, fuzzy
 msgid "Document type definition"
-msgstr "definicija tipa datoteke"
+msgstr "Definicija tipa datoteke"
 
 #: gnome-vfs.keys.in.h:60
 msgid "Documents"
@@ -338,7 +313,6 @@ msgid "Dolby Digital audio"
 msgstr "Digitalni Dolby zvučni zapis"
 
 #: gnome-vfs.keys.in.h:75
-#, fuzzy
 msgid "Dreamcast ROM"
 msgstr "Dreamcast rom"
 
@@ -347,28 +321,24 @@ msgid "Emacs Lisp source code"
 msgstr "Emaks Lisp izvorni kôd"
 
 #: gnome-vfs.keys.in.h:77
-#, fuzzy
 msgid "Email headers"
-msgstr "zaglavlje e-poruke"
+msgstr "Zaglavlje e-poruke"
 
 #: gnome-vfs.keys.in.h:78
-#, fuzzy
 msgid "Email message/mailbox"
-msgstr "elektronska poruka/sanduče"
+msgstr "Elektronska poruka/sanduče"
 
 #: gnome-vfs.keys.in.h:79
-#, fuzzy
 msgid "Encrypted message"
-msgstr "enkriptovana poruka"
+msgstr "Enkriptovana poruka"
 
 #: gnome-vfs.keys.in.h:80
 msgid "Enlightenment theme"
 msgstr "Enlightenment tema"
 
 #: gnome-vfs.keys.in.h:81
-#, fuzzy
 msgid "Enriched text document"
-msgstr "obogaćeni tekstualni dokument"
+msgstr "Obogaćeni tekstualni dokument"
 
 #: gnome-vfs.keys.in.h:82
 msgid "FLAC audio"
@@ -395,9 +365,8 @@ msgid "Flexible Image Transport System"
 msgstr "Fleksibilni transportni sistem slika"
 
 #: gnome-vfs.keys.in.h:88
-#, fuzzy
 msgid "Folder"
-msgstr "direktorijum"
+msgstr "Direktorijum"
 
 #: gnome-vfs.keys.in.h:89
 msgid "Fortran source code"
@@ -425,7 +394,7 @@ msgstr "GMC veza"
 
 #: gnome-vfs.keys.in.h:95
 msgid "GNOME desktop theme"
-msgstr ""
+msgstr "GNOM tema okruženja"
 
 #: gnome-vfs.keys.in.h:96
 msgid "GNU Oleo Spreadsheet"
@@ -440,12 +409,10 @@ msgid "GTK configuration"
 msgstr "Gtk konfiguracija"
 
 #: gnome-vfs.keys.in.h:99
-#, fuzzy
 msgid "Game Boy ROM"
 msgstr "Game Boy rom"
 
 #: gnome-vfs.keys.in.h:100
-#, fuzzy
 msgid "Genesis ROM"
 msgstr "Genesis rom"
 
@@ -454,7 +421,6 @@ msgid "Glade project"
 msgstr "Glade projekat"
 
 #: gnome-vfs.keys.in.h:102
-#, fuzzy
 msgid "GnuCash workbook"
 msgstr "GnuCash radna sveska"
 
@@ -463,16 +429,14 @@ msgid "Gnumeric spreadsheet"
 msgstr "Gnumeric tabelarni prioračun"
 
 #: gnome-vfs.keys.in.h:104
-#, fuzzy
 msgid "Gtar archive"
-msgstr "tar arхiva"
+msgstr "Gtar arhiva"
 
 #: gnome-vfs.keys.in.h:105
 msgid "Gtktalog Catalogue"
 msgstr "Gtktalog katalog"
 
 #: gnome-vfs.keys.in.h:106
-#, fuzzy
 msgid "Gzip-compressed file"
 msgstr "gzip-kompresovana datoteka"
 
@@ -489,9 +453,8 @@ msgid "Haskell source code"
 msgstr "Haskell izvorni kôd"
 
 #: gnome-vfs.keys.in.h:110
-#, fuzzy
 msgid "Help page"
-msgstr "strana pomoći"
+msgstr "Strana pomoći"
 
 #: gnome-vfs.keys.in.h:111
 msgid "IDL document"
@@ -539,7 +502,7 @@ msgstr "Informacije/Finansije"
 
 #: gnome-vfs.keys.in.h:122
 msgid "Installed GNOME desktop theme"
-msgstr ""
+msgstr "Instalirana tema GNOM okruženja"
 
 #: gnome-vfs.keys.in.h:123
 msgid "JBuilder Project"
@@ -554,9 +517,8 @@ msgid "Java byte code"
 msgstr "Java bajtni kôd"
 
 #: gnome-vfs.keys.in.h:126
-#, fuzzy
 msgid "Java code archive"
-msgstr "AR arхiva"
+msgstr "Arhiva JAVA kôda"
 
 #: gnome-vfs.keys.in.h:127
 msgid "Java source code"
@@ -588,11 +550,11 @@ msgstr "Korn skripta okruženja"
 
 #: gnome-vfs.keys.in.h:134
 msgid "LHA archive"
-msgstr "LHA arхiva"
+msgstr "LHA arhiva"
 
 #: gnome-vfs.keys.in.h:135
 msgid "LHARC archive"
-msgstr "LHARC arхiva"
+msgstr "LHARC arhiva"
 
 #: gnome-vfs.keys.in.h:136
 msgid "LIBGRX font"
@@ -619,7 +581,6 @@ msgid "Lotus 1-2-3 spreadsheet"
 msgstr "Lotus 1-2-3 tabelarni proračun"
 
 #: gnome-vfs.keys.in.h:142
-#, fuzzy
 msgid "LyX document"
 msgstr "LyX dokument"
 
@@ -637,7 +598,7 @@ msgstr "MP3 zvučni zapis"
 
 #: gnome-vfs.keys.in.h:146
 msgid "MP3 audio playlist"
-msgstr "MP3 lista zvučniх zapisa"
+msgstr "MP3 lista zvučnih zapisa"
 
 #: gnome-vfs.keys.in.h:147
 msgid "MPEG audio"
@@ -657,7 +618,7 @@ msgstr "MS video"
 
 #: gnome-vfs.keys.in.h:151
 msgid "MSX ROM"
-msgstr ""
+msgstr "MSX rom"
 
 #: gnome-vfs.keys.in.h:152
 msgid "MacBinary file"
@@ -673,7 +634,7 @@ msgstr "Mekintoš BinHex-encoded datoteka"
 
 #: gnome-vfs.keys.in.h:155
 msgid "Macintosh StuffIt archive"
-msgstr "Mekintoš StuffIt arхiva"
+msgstr "Mekintoš StuffIt arhiva"
 
 #: gnome-vfs.keys.in.h:156
 msgid "Macromedia Flash file"
@@ -684,62 +645,52 @@ msgid "Magick image format"
 msgstr "Magick format slike"
 
 #: gnome-vfs.keys.in.h:158
-#, fuzzy
 msgid "Mail delivery report"
-msgstr "izveštaj dostave poruke"
+msgstr "Izveštaj dostave poruke"
 
 #: gnome-vfs.keys.in.h:159
-#, fuzzy
 msgid "Mail disposition report"
-msgstr "izveštaj razmeštaja poruka"
+msgstr "Izveštaj razmeštaja poruka"
 
 #: gnome-vfs.keys.in.h:160
-#, fuzzy
 msgid "Mail system report"
-msgstr "izveštaj sistema korespodencije"
+msgstr "Izveštaj sistema korespodencije"
 
 #: gnome-vfs.keys.in.h:161
-#, fuzzy
 msgid "Makefile"
-msgstr "proizvodna datoteka"
+msgstr "Proizvodna datoteka"
 
 #: gnome-vfs.keys.in.h:162
-#, fuzzy
 msgid "Manual page"
-msgstr "strana uputstva"
+msgstr "Strana uputstva"
 
 #: gnome-vfs.keys.in.h:163
-#, fuzzy
 msgid "Manual page (compressed)"
-msgstr "strana uputstva (kompresovana)"
+msgstr "Strana uputstva (kompresovana)"
 
 #: gnome-vfs.keys.in.h:164
-#, fuzzy
 msgid "Master System or Game Gear ROM"
-msgstr "SMS ili Game Gear rom"
+msgstr "Master System ili Game Gear rom"
 
 #: gnome-vfs.keys.in.h:165
 msgid "MathML document"
 msgstr "MathML dokument"
 
 #: gnome-vfs.keys.in.h:166
-#, fuzzy
 msgid "Memory dump"
-msgstr "memorijski izveštaj"
+msgstr "Memorijski izveštaj"
 
 #: gnome-vfs.keys.in.h:167
 msgid "Message"
 msgstr "Poruka"
 
 #: gnome-vfs.keys.in.h:168
-#, fuzzy
 msgid "Message digest"
-msgstr "grupisane poruke"
+msgstr "Grupisane poruke"
 
 #: gnome-vfs.keys.in.h:169
-#, fuzzy
 msgid "Message in several formats"
-msgstr "poruke u više formata"
+msgstr "Poruke u više formata"
 
 #: gnome-vfs.keys.in.h:170
 msgid "Microsoft Excel spreadsheet"
@@ -755,25 +706,23 @@ msgstr "Mikrosoft WMV video"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Microsoft Word document"
-msgstr "Mikrosoft Vord dokument"
+msgstr "Mikrosoft Word dokument"
 
 #: gnome-vfs.keys.in.h:174
 msgid "Microsoft video"
 msgstr "Mikrosoft video"
 
 #: gnome-vfs.keys.in.h:175
-#, fuzzy
 msgid "Monkey audio"
-msgstr "ogg zvučni zapis"
+msgstr "Monkey zvučni zapis"
 
 #: gnome-vfs.keys.in.h:176
-#, fuzzy
 msgid "Multi-part message"
-msgstr "višedelna poruka"
+msgstr "Višedelna poruka"
 
 #: gnome-vfs.keys.in.h:177
 msgid "NES ROM"
-msgstr ""
+msgstr "NES rom"
 
 #: gnome-vfs.keys.in.h:178
 msgid "Named pipe"
@@ -784,7 +733,6 @@ msgid "Nautilus link"
 msgstr "Nautilus veza"
 
 #: gnome-vfs.keys.in.h:180
-#, fuzzy
 msgid "Nintendo64 ROM"
 msgstr "Nintendo64 rom"
 
@@ -793,14 +741,12 @@ msgid "ODA document"
 msgstr "ODA dokument"
 
 #: gnome-vfs.keys.in.h:182
-#, fuzzy
 msgid "Object code"
-msgstr "objektni kôd"
+msgstr "Objektni kôd"
 
 #: gnome-vfs.keys.in.h:183
-#, fuzzy
 msgid "Ogg audio"
-msgstr "ogg zvučni zapis"
+msgstr "Ogg zvučni zapis"
 
 #: gnome-vfs.keys.in.h:184
 msgid "OpenOffice.org Impress presentation"
@@ -872,7 +818,7 @@ msgstr "PGM slika"
 
 #: gnome-vfs.keys.in.h:201
 msgid "PGN chess game"
-msgstr "PGN šaхovska igra"
+msgstr "PGN šahovska igra"
 
 #: gnome-vfs.keys.in.h:202
 msgid "PGP keys"
@@ -923,14 +869,12 @@ msgid "Palm Pixmap image"
 msgstr "Palm Pixmap slika"
 
 #: gnome-vfs.keys.in.h:214
-#, fuzzy
 msgid "Partial email message"
-msgstr "parcijalna e-poruka"
+msgstr "Parcijalna e-poruka"
 
 #: gnome-vfs.keys.in.h:215
-#, fuzzy
 msgid "Pascal source code"
-msgstr "Java izvorni kôd"
+msgstr "Pascal izvorni kôd"
 
 #: gnome-vfs.keys.in.h:216
 msgid "Perl script"
@@ -945,9 +889,8 @@ msgid "Photoshop document"
 msgstr "Fotošop dokument"
 
 #: gnome-vfs.keys.in.h:219
-#, fuzzy
 msgid "Plain text document"
-msgstr "običan tekstualni dokument"
+msgstr "Običan tekstualni dokument"
 
 #: gnome-vfs.keys.in.h:220
 msgid "Playlist"
@@ -962,18 +905,16 @@ msgid "PostScript document"
 msgstr "PostSkript dokument"
 
 #: gnome-vfs.keys.in.h:223
-#, fuzzy
 msgid "Profiler results"
-msgstr "rezultati profilatora"
+msgstr "Rezultati profilatora"
 
 #: gnome-vfs.keys.in.h:224
 msgid "Project Plan"
 msgstr "Projektni plan"
 
 #: gnome-vfs.keys.in.h:225
-#, fuzzy
 msgid "Python byte code"
-msgstr "piton bajt kôd"
+msgstr "Python bajt kôd"
 
 #: gnome-vfs.keys.in.h:226
 msgid "Python source code"
@@ -993,7 +934,7 @@ msgstr "Quicken for Windows dokument"
 
 #: gnome-vfs.keys.in.h:230
 msgid "RAR archive"
-msgstr "RAR arхiva"
+msgstr "RAR arhiva"
 
 #: gnome-vfs.keys.in.h:231
 msgid "README document"
@@ -1028,19 +969,16 @@ msgid "RealVideo video"
 msgstr "RealVideo video"
 
 #: gnome-vfs.keys.in.h:239
-#, fuzzy
 msgid "Reference to remote file"
-msgstr "referenca na udaljenu datoteku"
+msgstr "Referenca na udaljenu datoteku"
 
 #: gnome-vfs.keys.in.h:240
-#, fuzzy
 msgid "Rejected patch file"
-msgstr "datoteka odbijene zakrpe"
+msgstr "Datoteka odbijene zakrpe"
 
 #: gnome-vfs.keys.in.h:241
-#, fuzzy
 msgid "Rich text document"
-msgstr "obogaćeni tekstualni dokument"
+msgstr "Obogaćeni tekstualni dokument"
 
 #: gnome-vfs.keys.in.h:242
 msgid "S/MIME file"
@@ -1059,7 +997,6 @@ msgid "SGML document"
 msgstr "SGML dokument"
 
 #: gnome-vfs.keys.in.h:246
-#, fuzzy
 msgid "SHOUTcast playlist"
 msgstr "SHOUTcast lista numera"
 
@@ -1077,11 +1014,11 @@ msgstr "SUN rasterska datoteka"
 
 #: gnome-vfs.keys.in.h:250
 msgid "SV4 CPIO archive"
-msgstr "SV4 CPIO arхiva"
+msgstr "SV4 CPIO arhiva"
 
 #: gnome-vfs.keys.in.h:251
 msgid "SV4 CPIP archive (with CRC)"
-msgstr "SV4 CPIP arхiva (sa CRC-om)"
+msgstr "SV4 CPIP arhiva (sa CRC-om)"
 
 #: gnome-vfs.keys.in.h:252
 msgid "SVG art"
@@ -1104,9 +1041,8 @@ msgid "Scream Tracker instrument"
 msgstr "Scream Tracker instrument"
 
 #: gnome-vfs.keys.in.h:257
-#, fuzzy
 msgid "Search results"
-msgstr "rezultati pretrage"
+msgstr "Rezultati pretrage"
 
 #: gnome-vfs.keys.in.h:258
 msgid "Security"
@@ -1117,34 +1053,28 @@ msgid "Setext document"
 msgstr "Setext dokument"
 
 #: gnome-vfs.keys.in.h:260
-#, fuzzy
 msgid "Shared library"
-msgstr "deljena biblioteka"
+msgstr "Deljena biblioteka"
 
 #: gnome-vfs.keys.in.h:261
-#, fuzzy
 msgid "Shell archive"
-msgstr "arхiva okruženja"
+msgstr "Arhiva okruženja"
 
 #: gnome-vfs.keys.in.h:262
-#, fuzzy
 msgid "Shell script"
-msgstr "skripta okruženja"
+msgstr "Skripta okruženja"
 
 #: gnome-vfs.keys.in.h:263
-#, fuzzy
 msgid "Signed message"
-msgstr "potpisana poruka"
+msgstr "Potpisana poruka"
 
 #: gnome-vfs.keys.in.h:264
-#, fuzzy
 msgid "Silicon Graphics image"
 msgstr "Silicon Graphics slika"
 
 #: gnome-vfs.keys.in.h:265
-#, fuzzy
 msgid "Socket"
-msgstr "soket"
+msgstr "Soket"
 
 #: gnome-vfs.keys.in.h:266
 msgid "Software Development"
@@ -1159,24 +1089,20 @@ msgid "Software Development/Source Code"
 msgstr "Software Development/izvorni kôd"
 
 #: gnome-vfs.keys.in.h:269
-#, fuzzy
 msgid "Software author credits"
-msgstr "zaхvale autora programa"
+msgstr "Zahvale autora programa"
 
 #: gnome-vfs.keys.in.h:270
-#, fuzzy
 msgid "Software installation instructions"
-msgstr "uputstvo za instalaciju programa"
+msgstr "Uputstvo za instalaciju programa"
 
 #: gnome-vfs.keys.in.h:271
-#, fuzzy
 msgid "Software license terms"
-msgstr "licenca za program"
+msgstr "Licenca za program"
 
 #: gnome-vfs.keys.in.h:272
-#, fuzzy
 msgid "Source code patch"
-msgstr "zakrpa izvornog kôda"
+msgstr "Zakrpa izvornog kôda"
 
 #: gnome-vfs.keys.in.h:273
 msgid "Speech document"
@@ -1227,9 +1153,8 @@ msgid "StarWriter document"
 msgstr "StarWriter dokument"
 
 #: gnome-vfs.keys.in.h:285
-#, fuzzy
 msgid "Style sheet"
-msgstr "stilska strana"
+msgstr "Stilska strana"
 
 #: gnome-vfs.keys.in.h:286
 msgid "Sun mu-law audio"
@@ -1240,9 +1165,8 @@ msgid "SunOS News font"
 msgstr "SunOS News font"
 
 #: gnome-vfs.keys.in.h:288
-#, fuzzy
 msgid "Symbolic link"
-msgstr "simbolička veza"
+msgstr "Simbolička veza"
 
 #: gnome-vfs.keys.in.h:289
 msgid "System"
@@ -1253,24 +1177,20 @@ msgid "TIFF image"
 msgstr "TIFF slika"
 
 #: gnome-vfs.keys.in.h:291
-#, fuzzy
 msgid "Tab-separated text document"
-msgstr "tekstualna baza podataka razdvojeniх tabulatorom"
+msgstr "Tekstualna baza podataka razdvojenih tabulatorom"
 
 #: gnome-vfs.keys.in.h:292
-#, fuzzy
 msgid "Tar archive"
-msgstr "AR arхiva"
+msgstr "Tar arhiva"
 
 #: gnome-vfs.keys.in.h:293
-#, fuzzy
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "tar arхiva (bzip2-kompresovana)"
+msgstr "Tar arhiva (bzip2-kompresovana)"
 
 #: gnome-vfs.keys.in.h:294
-#, fuzzy
 msgid "Tar archive (Gzip-compressed)"
-msgstr "tar arхiva (gzip-kompresovana)"
+msgstr "Tar arhiva (gzip-kompresovana)"
 
 #: gnome-vfs.keys.in.h:295
 msgid "TarGA image"
@@ -1301,31 +1221,26 @@ msgid "TeXInfo document"
 msgstr "TeXInfo dokument"
 
 #: gnome-vfs.keys.in.h:302
-#, fuzzy
 msgid "Theme"
-msgstr "tema"
+msgstr "Tema"
 
 #: gnome-vfs.keys.in.h:303
 msgid "ToutDoux document"
 msgstr "ToutDoux dokument"
 
 #: gnome-vfs.keys.in.h:304
-#, fuzzy
 msgid "Troff document"
-msgstr "troff dokument"
+msgstr "Troff dokument"
 
 #: gnome-vfs.keys.in.h:305
-#, fuzzy
 msgid "Troff me input document"
-msgstr "troff me ulazni dokument"
+msgstr "Troff me ulazni dokument"
 
 #: gnome-vfs.keys.in.h:306
-#, fuzzy
 msgid "Troff mm input document"
-msgstr "troff mm ulazni dokument"
+msgstr "Troff mm ulazni dokument"
 
 #: gnome-vfs.keys.in.h:307
-#, fuzzy
 msgid "Troff ms input document"
 msgstr "troff ms ulazni dokument"
 
@@ -1346,9 +1261,8 @@ msgid "Unidata netCDF document"
 msgstr "Unidata netCDF dokument"
 
 #: gnome-vfs.keys.in.h:312
-#, fuzzy
 msgid "Unknown type"
-msgstr "nepoznati tip"
+msgstr "Nepoznati tip"
 
 #: gnome-vfs.keys.in.h:313
 msgid "User Interface"
@@ -1359,9 +1273,8 @@ msgid "User Interface/Fonts"
 msgstr "Korisničko sučelje/Font"
 
 #: gnome-vfs.keys.in.h:315
-#, fuzzy
 msgid "Ustar archive"
-msgstr "ustar arхiva"
+msgstr "Ustar arhiva"
 
 #: gnome-vfs.keys.in.h:316
 msgid "V font"
@@ -1388,16 +1301,14 @@ msgid "WAIS source code"
 msgstr "WAIS izvorni kôd"
 
 #: gnome-vfs.keys.in.h:322
-#, fuzzy
 msgid "Wave audio"
-msgstr "wave zvučni zapis"
+msgstr "Wave zvučni zapis"
 
 #: gnome-vfs.keys.in.h:323
 msgid "Wavelet video"
 msgstr "Wavelet video"
 
 #: gnome-vfs.keys.in.h:324
-#, fuzzy
 msgid "Web folder"
 msgstr "VEB direktorijum"
 
@@ -1440,29 +1351,27 @@ msgstr "Xbase baza podataka"
 #: gnome-vfs.keys.in.h:334
 #, fuzzy
 msgid "Yacc grammar source code"
-msgstr "Java izvorni kôd"
+msgstr "Yacc izvorni kôd"
 
 #: gnome-vfs.keys.in.h:335
 msgid "Z shell script"
 msgstr "Z skripta okruženja"
 
 #: gnome-vfs.keys.in.h:336
-#, fuzzy
 msgid "Zip archive"
-msgstr "zip arхiva"
+msgstr "Zip arhiva"
 
 #: gnome-vfs.keys.in.h:337
-#, fuzzy
 msgid "Zoo archive"
-msgstr "zoo arхiva"
+msgstr "Zoo arhiva"
 
 #: gnome-vfs.keys.in.h:338
 msgid "gettext translation"
-msgstr ""
+msgstr "gettext prevod"
 
 #: gnome-vfs.keys.in.h:339
 msgid "iPod software"
-msgstr ""
+msgstr "iPod program"
 
 #: gnome-vfs.keys.in.h:340
 msgid "rich text document"
@@ -1476,6 +1385,33 @@ msgstr "nepoznati tip"
 msgid "xfig vector graphic"
 msgstr "xfig vektorska grafika"
 
+#~ msgid "Applixware presentation"
+#~ msgstr "Applixware prezentacija"
+
+#~ msgid "Epiphany bookmarks file"
+#~ msgstr "Epiphany datoteka markera"
+
+#~ msgid "Microsoft WMV playlist"
+#~ msgstr "Mikrosoft WMV lista numera"
+
+#~ msgid "Mozilla bookmarks file"
+#~ msgstr "Mozilla fajl markera"
+
+#~ msgid "Netscape bookmarks file"
+#~ msgstr "Netscape fajl markera"
+
+#~ msgid "Nullsoft video"
+#~ msgstr "Nullsoft video"
+
+#~ msgid "Samba share"
+#~ msgstr "Samba deljeni resurs"
+
+#~ msgid "Shared Printer"
+#~ msgstr "Deljeni štampač"
+
+#~ msgid "XBEL bookmarks file"
+#~ msgstr "XBEL datoteka markera"
+
 #~ msgid "MSX rom"
 #~ msgstr "MSX rom"
 
@@ -1483,7 +1419,7 @@ msgstr "xfig vektorska grafika"
 #~ msgstr "NES rom"
 
 #~ msgid "arj archive"
-#~ msgstr "ARJ arхiva"
+#~ msgstr "ARJ arhiva"
 
 #~ msgid "gtar archive"
-#~ msgstr "gtar arхiva"
+#~ msgstr "gtar arhiva"
