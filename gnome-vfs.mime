@@ -152,6 +152,9 @@ application/x-cgi
 application/x-chess-pgn
 	ext: pgn
 
+application/x-cinelerra
+	ext:
+
 application/x-compress
 	ext: Z
 

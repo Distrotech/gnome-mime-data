@@ -431,6 +431,9 @@ application/x-cgi
 application/x-chess-pgn
 	_description=PGN chess game
 
+application/x-cinelerra
+	description=Cinelerra editing sheet
+
 # also application/x-java-byte-code
 # this one is deprecated
 application/x-class-file

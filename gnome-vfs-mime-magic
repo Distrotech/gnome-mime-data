@@ -232,6 +232,7 @@
 0	string		Received:				message/rfc822
 0	string		[playlist]				audio/x-scpls
 0	string		[Reference]				video/x-ms-asf
+22	string		\<EDL					application/x-cinelerra
 32769	string		CD001					application/x-iso-image
 37633	string		CD001					application/x-iso-image
 32776	string		CDROM					application/x-iso-image
