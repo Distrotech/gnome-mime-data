@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 0.1\n"
-"POT-Creation-Date: 2002-04-23 12:45-0400\n"
+"POT-Creation-Date: 2002-04-23 14:56+0200\n"
 "PO-Revision-Date: 2000-07-07 02:53+0200\n"
 "Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
@@ -238,9 +238,8 @@ msgid "HTML page"
 msgstr "stran HTML"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "izvorna koda C"
+msgstr "izvorna koda Haskell"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -331,9 +330,8 @@ msgid "Linux PSF console font"
 msgstr "konzolska pisava Linux PSF"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "izvorna koda Fortran"
+msgstr "izvorna koda dobesednega haskell"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -404,9 +402,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "dokument Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "video Microsoft"
+msgstr "video Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -541,9 +538,8 @@ msgid "Photoshop document"
 msgstr "dokument Photoshopa"
 
 #: gnome-vfs.keys.in.h:132
-#, fuzzy
 msgid "Playlist"
-msgstr "seznam predvajanja MP3 zvoka"
+msgstr "Seznam predvajanja"
 
 #: gnome-vfs.keys.in.h:133
 msgid "PostScript Type 1 font"
@@ -590,9 +586,8 @@ msgid "RPM package"
 msgstr "paket RPM"
 
 #: gnome-vfs.keys.in.h:144
-#, fuzzy
 msgid "RealAudio document"
-msgstr "dokument PN RealAudio"
+msgstr "dokument RealAudio"
 
 #: gnome-vfs.keys.in.h:145
 msgid "RealAudio/Video document"
