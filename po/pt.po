@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2001-12-02 22:45+0000\n"
-"PO-Revision-Date: 2001-12-02 22:45+GMT\n"
+"POT-Creation-Date: 2001-12-21 01:10+0000\n"
+"PO-Revision-Date: 2001-12-20 22:45+GMT\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: None <none@none.org>\n"
 "MIME-Version: 1.0\n"
@@ -806,8 +806,8 @@ msgid "email headers"
 msgstr "cabeçalho de E-Mail"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "mensagem de E-Mail"
+msgid "email message/mailbox"
+msgstr "mensagem/caixa de email"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
