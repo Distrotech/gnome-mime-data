@@ -5,12 +5,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2002-05-07 23:18-0700\n"
-"PO-Revision-Date: 2002-05-04 02:00+0100\n"
+"POT-Creation-Date: 2002-05-24 03:52+0100\n"
+"PO-Revision-Date: 2002-05-24 03:55+0100\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -27,11 +27,11 @@ msgstr "Audio AIFF"
 
 #: gnome-vfs.keys.in.h:4
 msgid "ANIM animation"
-msgstr "Anima√ß√£o ANIM"
+msgstr "AnimaÁ„o ANIM"
 
 #: gnome-vfs.keys.in.h:5
 msgid "AVI video"
-msgstr "V√≠deo AVI"
+msgstr "VÌdeo AVI"
 
 #: gnome-vfs.keys.in.h:6
 msgid "AbiWord document"
@@ -43,7 +43,7 @@ msgstr "Fonte AdobeFrameMaker"
 
 #: gnome-vfs.keys.in.h:8
 msgid "Adobe font metrics"
-msgstr "M√©trica de Fontes Adobe"
+msgstr "MÈtrica de Fontes Adobe"
 
 #: gnome-vfs.keys.in.h:9
 msgid "Andrew Toolkit inset"
@@ -59,7 +59,7 @@ msgstr "Documento do ApplixWare Words"
 
 #: gnome-vfs.keys.in.h:12
 msgid "Applixware spreadsheet"
-msgstr "Folha de c√°lculo ApplixWare"
+msgstr "Folha de c·lculo ApplixWare"
 
 #: gnome-vfs.keys.in.h:13
 msgid "AutoCAD image"
@@ -79,19 +79,19 @@ msgstr "Script de Consola C"
 
 #: gnome-vfs.keys.in.h:17
 msgid "C source code"
-msgstr "C√≥digo Fonte C"
+msgstr "CÛdigo Fonte C"
 
 #: gnome-vfs.keys.in.h:18
 msgid "C source code header"
-msgstr "Header de c√≥digo fonte C"
+msgstr "Header de cÛdigo fonte C"
 
 #: gnome-vfs.keys.in.h:19
 msgid "C++ source code"
-msgstr "C√≥digo Fonte C++"
+msgstr "CÛdigo Fonte C++"
 
 #: gnome-vfs.keys.in.h:20
 msgid "CGI program"
-msgstr "Aplica√ß√£o CGI"
+msgstr "AplicaÁ„o CGI"
 
 #: gnome-vfs.keys.in.h:21
 msgid "CGM image"
@@ -123,7 +123,7 @@ msgstr "Fonte DOS"
 
 #: gnome-vfs.keys.in.h:28
 msgid "DOS/Windows program"
-msgstr "Aplica√ß√£o DOS/Windows"
+msgstr "AplicaÁ„o DOS/Windows"
 
 #: gnome-vfs.keys.in.h:29
 msgid "DSSSL document"
@@ -131,7 +131,7 @@ msgstr "Documento DSSSL"
 
 #: gnome-vfs.keys.in.h:30
 msgid "DXF vector graphic"
-msgstr "Gr√°fico de vectores DXF"
+msgstr "Gr·fico de vectores DXF"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Debian package"
@@ -151,7 +151,7 @@ msgstr "Rom Dreamcast"
 
 #: gnome-vfs.keys.in.h:35
 msgid "Emacs Lisp source code"
-msgstr "C√≥digo Fonte Emacs Lisp"
+msgstr "CÛdigo Fonte Emacs Lisp"
 
 #: gnome-vfs.keys.in.h:36
 msgid "Enlightenment theme"
@@ -159,11 +159,11 @@ msgstr "Tema para o Enlightenment"
 
 #: gnome-vfs.keys.in.h:37
 msgid "FLC animation"
-msgstr "Anima√ß√£o FLC"
+msgstr "AnimaÁ„o FLC"
 
 #: gnome-vfs.keys.in.h:38
 msgid "FLI animation"
-msgstr "Anima√ß√£o FLI"
+msgstr "AnimaÁ„o FLI"
 
 #: gnome-vfs.keys.in.h:39
 msgid "FastTracker II audio"
@@ -171,7 +171,7 @@ msgstr "Audio FastTracker II"
 
 #: gnome-vfs.keys.in.h:40
 msgid "Fortran source code"
-msgstr "C√≥digo Fonte Fortran"
+msgstr "CÛdigo Fonte Fortran"
 
 #: gnome-vfs.keys.in.h:41
 msgid "FrameMaker interchange document"
@@ -195,7 +195,7 @@ msgstr "Link GMC"
 
 #: gnome-vfs.keys.in.h:46
 msgid "GNU Oleo Spreadsheet"
-msgstr "Folha de C√°lculo GNU Oleo"
+msgstr "Folha de C·lculo GNU Oleo"
 
 #: gnome-vfs.keys.in.h:47
 msgid "GNU mail message"
@@ -203,7 +203,7 @@ msgstr "Mensagem de mail GNU"
 
 #: gnome-vfs.keys.in.h:48
 msgid "GTK configuration"
-msgstr "Configura√ß√£o GTK"
+msgstr "ConfiguraÁ„o GTK"
 
 #: gnome-vfs.keys.in.h:49
 msgid "Game Boy rom"
@@ -223,11 +223,11 @@ msgstr "Livro de Registo GnuCash"
 
 #: gnome-vfs.keys.in.h:53
 msgid "Gnumeric spreadsheet"
-msgstr "Folha de c√°lculo Gnumeric"
+msgstr "Folha de c·lculo Gnumeric"
 
 #: gnome-vfs.keys.in.h:54
 msgid "Gtktalog Catalogue"
-msgstr "Cat√°logo Gtkalog"
+msgstr "Cat·logo Gtkalog"
 
 #: gnome-vfs.keys.in.h:55
 msgid "HDF document"
@@ -235,11 +235,11 @@ msgstr "Documento HDF"
 
 #: gnome-vfs.keys.in.h:56
 msgid "HTML page"
-msgstr "P√°gina HTML"
+msgstr "P·gina HTML"
 
 #: gnome-vfs.keys.in.h:57
 msgid "Haskell source code"
-msgstr "C√≥digo Fonte Haskell"
+msgstr "CÛdigo Fonte Haskell"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -259,7 +259,7 @@ msgstr "Imagem ILBM"
 
 #: gnome-vfs.keys.in.h:62
 msgid "ISI video"
-msgstr "V√≠deo ISI"
+msgstr "VÌdeo ISI"
 
 #: gnome-vfs.keys.in.h:63
 msgid "Impulse Tracker audio"
@@ -279,11 +279,11 @@ msgstr "Byte-code de Java"
 
 #: gnome-vfs.keys.in.h:67
 msgid "Java source code"
-msgstr "C√≥digo Fonte Java"
+msgstr "CÛdigo Fonte Java"
 
 #: gnome-vfs.keys.in.h:68
 msgid "KDE application details"
-msgstr "Detalhes de Aplica√ß√£o KDE"
+msgstr "Detalhes de AplicaÁ„o KDE"
 
 #: gnome-vfs.keys.in.h:69
 msgid "KIllustrator document"
@@ -291,11 +291,11 @@ msgstr "Documento de KIllustrator"
 
 #: gnome-vfs.keys.in.h:70
 msgid "KPresenter presentation"
-msgstr "Apresenta√ß√£o KPresenter"
+msgstr "ApresentaÁ„o KPresenter"
 
 #: gnome-vfs.keys.in.h:71
 msgid "KSpread spreadsheet"
-msgstr "Folha de C√°lculo KSpread"
+msgstr "Folha de C·lculo KSpread"
 
 #: gnome-vfs.keys.in.h:72
 msgid "KWord document"
@@ -323,7 +323,7 @@ msgstr "Objecto LightWave"
 
 #: gnome-vfs.keys.in.h:78
 msgid "LightWave scene"
-msgstr "Cen√°rio LightWave"
+msgstr "Cen·rio LightWave"
 
 #: gnome-vfs.keys.in.h:79
 msgid "Linux PSF console font"
@@ -331,11 +331,11 @@ msgstr "Fonte PSF de consola Linux"
 
 #: gnome-vfs.keys.in.h:80
 msgid "Literate haskell source code"
-msgstr "C√≥digo fonte haskell literado"
+msgstr "CÛdigo fonte haskell literado"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
-msgstr "Folha de c√°lculo Lotus 1-2-3"
+msgstr "Folha de c·lculo Lotus 1-2-3"
 
 #: gnome-vfs.keys.in.h:82
 msgid "LyX Document"
@@ -359,15 +359,15 @@ msgstr "Lista de ficheiros audio MP3"
 
 #: gnome-vfs.keys.in.h:87
 msgid "MPEG video"
-msgstr "V√≠deo MPEG"
+msgstr "VÌdeo MPEG"
 
 #: gnome-vfs.keys.in.h:88
 msgid "MS ASF video"
-msgstr "V√≠deo MS ASF"
+msgstr "VÌdeo MS ASF"
 
 #: gnome-vfs.keys.in.h:89
 msgid "MS video"
-msgstr "V√≠deo MS"
+msgstr "VÌdeo MS"
 
 #: gnome-vfs.keys.in.h:90
 msgid "MSX rom"
@@ -395,7 +395,7 @@ msgstr "Documento MathML"
 
 #: gnome-vfs.keys.in.h:96
 msgid "Microsoft Excel spreadsheet"
-msgstr "Folha de C√°lculo Microsoft Excel"
+msgstr "Folha de C·lculo Microsoft Excel"
 
 #: gnome-vfs.keys.in.h:97
 msgid "Microsoft PowerPoint document"
@@ -403,7 +403,7 @@ msgstr "Documento Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:98
 msgid "Microsoft WMV video"
-msgstr "V√≠deo Microsoft WMV"
+msgstr "VÌdeo Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -411,7 +411,7 @@ msgstr "Documento Miscrosoft Word"
 
 #: gnome-vfs.keys.in.h:100
 msgid "Microsoft video"
-msgstr "V√≠deo Microsoft"
+msgstr "VÌdeo Microsoft"
 
 #: gnome-vfs.keys.in.h:101
 msgid "NES rom"
@@ -430,44 +430,44 @@ msgid "ODA document"
 msgstr "Documento ODA"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
-msgstr "Apresenta√ß√£o Impress OpenOffice"
+msgid "OpenOffice.org Impress presentation"
+msgstr "ApresentaÁ„o Impress OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
-msgstr "Modelo de apresenta√ß√£o Impress OpenOffice"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "Modelo de apresentaÁ„o Impress OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "Documento Math OpenOffice"
+msgid "OpenOffice.org Math document"
+msgstr "Documento Math OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "Documento Writer OpenOffice"
+msgid "OpenOffice.org Writer document"
+msgstr "Documento Writer OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
-msgstr "Documento global Writer OpenOffice"
+msgid "OpenOffice.org Writer global document"
+msgstr "Documento global Writer OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
-msgstr "Modelo Writer OpenOffice"
+msgid "OpenOffice.org Writer template"
+msgstr "Modelo Writer OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
-msgstr "Desenho OpenOffice"
+msgid "OpenOffice.org drawing"
+msgstr "Desenho OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
-msgstr "Modelo de desenho OpenOffice"
+msgid "OpenOffice.org drawing template"
+msgstr "Modelo de desenho OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
-msgstr "Folha de c√°lculo OpenOffice"
+msgid "OpenOffice.org spreadsheet"
+msgstr "Folha de c·lculo OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
-msgstr "Modelo de folha de c√°lculo OpenOffice"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "Modelo de folha de c·lculo OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
@@ -483,7 +483,7 @@ msgstr "Documento PDF"
 
 #: gnome-vfs.keys.in.h:118
 msgid "PEF program"
-msgstr "Aplica√ß√£o PEF"
+msgstr "AplicaÁ„o PEF"
 
 #: gnome-vfs.keys.in.h:119
 msgid "PGM image"
@@ -491,7 +491,7 @@ msgstr "Imagem PGM"
 
 #: gnome-vfs.keys.in.h:120
 msgid "PGN chess game"
-msgstr "Jogo de Xadr√™s PGN"
+msgstr "Jogo de XadrÍs PGN"
 
 #: gnome-vfs.keys.in.h:121
 msgid "PGP keys"
@@ -555,7 +555,7 @@ msgstr "Plano Projecto"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Python source code"
-msgstr "C√≥digo Fonte Python"
+msgstr "CÛdigo Fonte Python"
 
 #: gnome-vfs.keys.in.h:137
 msgid "QuickTime movie"
@@ -599,7 +599,7 @@ msgstr "Documento RealAudio/Video"
 
 #: gnome-vfs.keys.in.h:147
 msgid "RealVideo video"
-msgstr "V√≠deo RealVideo"
+msgstr "VÌdeo RealVideo"
 
 #: gnome-vfs.keys.in.h:148
 msgid "S/MIME file"
@@ -611,7 +611,7 @@ msgstr "Assinatura S/MIME"
 
 #: gnome-vfs.keys.in.h:150
 msgid "SGI video"
-msgstr "V√≠deo SGI"
+msgstr "VÌdeo SGI"
 
 #: gnome-vfs.keys.in.h:151
 msgid "SGML document"
@@ -627,7 +627,7 @@ msgstr "Rom SMS ou Game Gear"
 
 #: gnome-vfs.keys.in.h:154
 msgid "SQL code"
-msgstr "C√≥digo SQL"
+msgstr "CÛdigo SQL"
 
 #: gnome-vfs.keys.in.h:155
 msgid "SV4 CPIO archive"
@@ -643,7 +643,7 @@ msgstr "Arte SVG"
 
 #: gnome-vfs.keys.in.h:158
 msgid "Scheme source code"
-msgstr "C√≥digo Fonte Scheme"
+msgstr "CÛdigo Fonte Scheme"
 
 #: gnome-vfs.keys.in.h:159
 msgid "Scream Tracker 3 audio"
@@ -671,7 +671,7 @@ msgstr "Fonte Speedo"
 
 #: gnome-vfs.keys.in.h:165
 msgid "Spreadsheet Interchange document"
-msgstr "Documento de Folha de C√°lculo Gen√©rica"
+msgstr "Documento de Folha de C·lculo GenÈrica"
 
 #: gnome-vfs.keys.in.h:166
 msgid "Stampede package"
@@ -679,11 +679,11 @@ msgstr "Pacote Stampede"
 
 #: gnome-vfs.keys.in.h:167
 msgid "StarCalc spreadsheet"
-msgstr "Folha de c√°lculo StarCalc"
+msgstr "Folha de c·lculo StarCalc"
 
 #: gnome-vfs.keys.in.h:168
 msgid "StarChart chart"
-msgstr "Gr√°fico StarChart"
+msgstr "Gr·fico StarChart"
 
 #: gnome-vfs.keys.in.h:169
 msgid "StarDraw drawing"
@@ -691,7 +691,7 @@ msgstr "Desenho StarDraw"
 
 #: gnome-vfs.keys.in.h:170
 msgid "StarImpress presentation"
-msgstr "Apresenta√ß√£o StarImpress"
+msgstr "ApresentaÁ„o StarImpress"
 
 #: gnome-vfs.keys.in.h:171
 msgid "StarMail file"
@@ -739,7 +739,7 @@ msgstr "Fonte TeX"
 
 #: gnome-vfs.keys.in.h:182
 msgid "TeX font metrics"
-msgstr "M√©tricas de Fonte TeX"
+msgstr "MÈtricas de Fonte TeX"
 
 #: gnome-vfs.keys.in.h:183
 msgid "TeXInfo document"
@@ -775,15 +775,15 @@ msgstr "Documento VRML"
 
 #: gnome-vfs.keys.in.h:191
 msgid "Vivo video"
-msgstr "V√≠deo Vivo"
+msgstr "VÌdeo Vivo"
 
 #: gnome-vfs.keys.in.h:192
 msgid "WAIS source code"
-msgstr "C√≥digo Fonte WAIS"
+msgstr "CÛdigo Fonte WAIS"
 
 #: gnome-vfs.keys.in.h:193
 msgid "Wavelet video"
-msgstr "V√≠deo Wavelet"
+msgstr "VÌdeo Wavelet"
 
 #: gnome-vfs.keys.in.h:194
 msgid "Windows bitmap image"
@@ -791,11 +791,11 @@ msgstr "Imagem Bitmap Windows"
 
 #: gnome-vfs.keys.in.h:195
 msgid "Windows icon image"
-msgstr "Imagem de √≠con Windows"
+msgstr "Imagem de Ìcon Windows"
 
 #: gnome-vfs.keys.in.h:196
 msgid "Windows metafile graphics"
-msgstr "Gr√°fico Metafile Windows"
+msgstr "Gr·fico Metafile Windows"
 
 #: gnome-vfs.keys.in.h:197
 msgid "WordPerfect document"
@@ -827,15 +827,15 @@ msgstr "Script de Consola Z"
 
 #: gnome-vfs.keys.in.h:204
 msgid "active server page"
-msgstr "p√°gina ASP"
+msgstr "p·gina ASP"
 
 #: gnome-vfs.keys.in.h:205
 msgid "address card"
-msgstr "cart√£o de endere√ßo"
+msgstr "cart„o de endereÁo"
 
 #: gnome-vfs.keys.in.h:206
 msgid "application launcher"
-msgstr "iniciador de aplica√ß√µes"
+msgstr "iniciador de aplicaÁıes"
 
 #: gnome-vfs.keys.in.h:207
 msgid "ar archive"
@@ -863,7 +863,7 @@ msgstr "registo de bibliografia"
 
 #: gnome-vfs.keys.in.h:213
 msgid "binary program"
-msgstr "aplica√ß√£o bin√°ria"
+msgstr "aplicaÁ„o bin·ria"
 
 #: gnome-vfs.keys.in.h:214
 msgid "block device"
@@ -875,11 +875,11 @@ msgstr "ficheiro comprimido bzip"
 
 #: gnome-vfs.keys.in.h:216
 msgid "calendar file"
-msgstr "ficheiro de calend√°rio"
+msgstr "ficheiro de calend·rio"
 
 #: gnome-vfs.keys.in.h:217
 msgid "calendar or event document"
-msgstr "documento de calend√°rio ou evento"
+msgstr "documento de calend·rio ou evento"
 
 #: gnome-vfs.keys.in.h:218
 msgid "character device"
@@ -887,7 +887,7 @@ msgstr "dispositivo de escrita"
 
 #: gnome-vfs.keys.in.h:219
 msgid "comma-separated text document"
-msgstr "documento separado por v√≠rgulas (csv)"
+msgstr "documento separado por vÌrgulas (csv)"
 
 #: gnome-vfs.keys.in.h:220
 msgid "compound document"
@@ -903,15 +903,15 @@ msgstr "documento GIMP comprimido"
 
 #: gnome-vfs.keys.in.h:223
 msgid "directory information file"
-msgstr "ficheiro de informa√ß√£o de direct√≥rio"
+msgstr "ficheiro de informaÁ„o de directÛrio"
 
 #: gnome-vfs.keys.in.h:224
 msgid "document type definition"
-msgstr "defini√ß√£o de tipo de documento"
+msgstr "definiÁ„o de tipo de documento"
 
 #: gnome-vfs.keys.in.h:225
 msgid "email headers"
-msgstr "cabe√ßalho de E-Mail"
+msgstr "cabeÁalho de E-Mail"
 
 #: gnome-vfs.keys.in.h:226
 msgid "email message/mailbox"
@@ -939,19 +939,19 @@ msgstr "ficheiro comprimido gzip"
 
 #: gnome-vfs.keys.in.h:232
 msgid "help page"
-msgstr "p√°gina de ajuda"
+msgstr "p·gina de ajuda"
 
 #: gnome-vfs.keys.in.h:233
 msgid "mail delivery report"
-msgstr "relat√≥rio de entrega de e-mail"
+msgstr "relatÛrio de entrega de e-mail"
 
 #: gnome-vfs.keys.in.h:234
 msgid "mail disposition report"
-msgstr "relat√≥rio de disposi√ß√£o de e-mail"
+msgstr "relatÛrio de disposiÁ„o de e-mail"
 
 #: gnome-vfs.keys.in.h:235
 msgid "mail system report"
-msgstr "relat√≥rio de sistema de e-mail"
+msgstr "relatÛrio de sistema de e-mail"
 
 #: gnome-vfs.keys.in.h:236
 msgid "makefile"
@@ -959,15 +959,15 @@ msgstr "makefile"
 
 #: gnome-vfs.keys.in.h:237
 msgid "manual page"
-msgstr "p√°gina de manual"
+msgstr "p·gina de manual"
 
 #: gnome-vfs.keys.in.h:238
 msgid "manual page (compressed)"
-msgstr "p√°gina de manual (comprimida)"
+msgstr "p·gina de manual (comprimida)"
 
 #: gnome-vfs.keys.in.h:239
 msgid "memory dump"
-msgstr "dump de mem√≥ria"
+msgstr "dump de memÛria"
 
 #: gnome-vfs.keys.in.h:240
 msgid "message digest"
@@ -975,7 +975,7 @@ msgstr "conjunto de mensagens"
 
 #: gnome-vfs.keys.in.h:241
 msgid "message in several formats"
-msgstr "mensagem em v√°rios formatos"
+msgstr "mensagem em v·rios formatos"
 
 #: gnome-vfs.keys.in.h:242
 msgid "multi-part message"
@@ -987,7 +987,7 @@ msgstr "pipe com nome"
 
 #: gnome-vfs.keys.in.h:244
 msgid "object code"
-msgstr "c√≥digo de objecto"
+msgstr "cÛdigo de objecto"
 
 #: gnome-vfs.keys.in.h:245
 msgid "ogg audio"
@@ -1007,11 +1007,11 @@ msgstr "resultados do profiler"
 
 #: gnome-vfs.keys.in.h:249
 msgid "python byte code"
-msgstr "c√≥digo bin√°rio python"
+msgstr "cÛdigo bin·rio python"
 
 #: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
-msgstr "refer√™ncia a ficheiro remoto"
+msgstr "referÍncia a ficheiro remoto"
 
 #: gnome-vfs.keys.in.h:251
 msgid "rejected patch file"
@@ -1047,19 +1047,19 @@ msgstr "socket"
 
 #: gnome-vfs.keys.in.h:259
 msgid "software author credits"
-msgstr "cr√©ditos de autor de aplica√ß√£o"
+msgstr "crÈditos de autor de aplicaÁ„o"
 
 #: gnome-vfs.keys.in.h:260
 msgid "software installation instructions"
-msgstr "instru√ß√µes de instala√ß√£o de aplica√ß√£o"
+msgstr "instruÁıes de instalaÁ„o de aplicaÁ„o"
 
 #: gnome-vfs.keys.in.h:261
 msgid "software license terms"
-msgstr "termos de licen√ßa de aplica√ß√£o"
+msgstr "termos de licenÁa de aplicaÁ„o"
 
 #: gnome-vfs.keys.in.h:262
 msgid "source code patch"
-msgstr "patch de c√≥digo fonte"
+msgstr "patch de cÛdigo fonte"
 
 #: gnome-vfs.keys.in.h:263
 msgid "style sheet"
@@ -1067,7 +1067,7 @@ msgstr "folha de estilo"
 
 #: gnome-vfs.keys.in.h:264
 msgid "symbolic link"
-msgstr "link simb√≥lico"
+msgstr "link simbÛlico"
 
 #: gnome-vfs.keys.in.h:265
 msgid "tab-separated text document"
@@ -1123,7 +1123,7 @@ msgstr "pasta web"
 
 #: gnome-vfs.keys.in.h:278
 msgid "xfig vector graphic"
-msgstr "gr√°fico de vector xfig"
+msgstr "gr·fico de vector xfig"
 
 #: gnome-vfs.keys.in.h:279
 msgid "zip archive"
@@ -1134,46 +1134,46 @@ msgid "zoo archive"
 msgstr "ficheiro zoo"
 
 #~ msgid "M3 audio URL"
-#~ msgstr "Endere√ßo de Audio M3"
+#~ msgstr "EndereÁo de Audio M3"
 
 #~ msgid "GNOME application details"
-#~ msgstr "Detalhes de Aplica√ß√£o GNOME"
+#~ msgstr "Detalhes de AplicaÁ„o GNOME"
 
 #~ msgid "%s:%d contains NUL characters."
-#~ msgstr "%s:%d cont√©m caracteres NULOS."
+#~ msgstr "%s:%d contÈm caracteres NULOS."
 
 #~ msgid "%s:%d contains no method name."
-#~ msgstr "%s:%d n√£o cont√©m nome de m√©todo."
+#~ msgstr "%s:%d n„o contÈm nome de mÈtodo."
 
 #~ msgid "%s:%d contains no module name."
-#~ msgstr "%s:%d n√£o cont√©m nome de m√≥dulo."
+#~ msgstr "%s:%d n„o contÈm nome de mÛdulo."
 
 #~ msgid "Configuration file `%s' was not found: %s"
-#~ msgstr "Ficheiro de configura√ß√£o `%s' n√£o foi encontrado: %s"
+#~ msgstr "Ficheiro de configuraÁ„o `%s' n„o foi encontrado: %s"
 
 #~ msgid "GNOME VFS already initialized."
-#~ msgstr "GNOME VFS j√° inicializado."
+#~ msgstr "GNOME VFS j· inicializado."
 
 #~ msgid "Could not parse: %s"
-#~ msgstr "N√£o foi poss√≠vel parsear: %s"
+#~ msgstr "N„o foi possÌvel parsear: %s"
 
 #~ msgid "More parsing errors will be ignored."
-#~ msgstr "Restantes erros de parseamento ser√£o ignorados."
+#~ msgstr "Restantes erros de parseamento ser„o ignorados."
 
 #~ msgid "No error"
 #~ msgstr "Nenhum erro"
 
 #~ msgid "File not found"
-#~ msgstr "Ficheiro n√£o encontrado"
+#~ msgstr "Ficheiro n„o encontrado"
 
 #~ msgid "Internal error"
 #~ msgstr "Erro interno"
 
 #~ msgid "Invalid parameters"
-#~ msgstr "Par√¢metros inv√°lidos"
+#~ msgstr "Par‚metros inv·lidos"
 
 #~ msgid "Unsupported operation"
-#~ msgstr "Opera√ß√£o n√£o suportada"
+#~ msgstr "OperaÁ„o n„o suportada"
 
 #~ msgid "I/O error"
 #~ msgstr "Erro I/O"
@@ -1182,28 +1182,28 @@ msgstr "ficheiro zoo"
 #~ msgstr "Dados corrompidos"
 
 #~ msgid "Format not valid"
-#~ msgstr "Formato inv√°lido"
+#~ msgstr "Formato inv·lido"
 
 #~ msgid "Bad file handle"
-#~ msgstr "Ponteiro para ficheiro inv√°lido"
+#~ msgstr "Ponteiro para ficheiro inv·lido"
 
 #~ msgid "File too big"
 #~ msgstr "Ficheiro demasiado grande"
 
 #~ msgid "No space left on device"
-#~ msgstr "Dispositivo sem espa√ßo livre"
+#~ msgstr "Dispositivo sem espaÁo livre"
 
 #~ msgid "Read-only file system"
 #~ msgstr "Sistema de ficheiros apenas de leitura"
 
 #~ msgid "Invalid URI"
-#~ msgstr "URI inv√°lido"
+#~ msgstr "URI inv·lido"
 
 #~ msgid "File not open"
-#~ msgstr "Ficheiro n√£o aberto"
+#~ msgstr "Ficheiro n„o aberto"
 
 #~ msgid "Open mode not valid"
-#~ msgstr "Modo de abertura inv√°lido"
+#~ msgstr "Modo de abertura inv·lido"
 
 #~ msgid "Access denied"
 #~ msgstr "Accesso negado"
@@ -1215,13 +1215,13 @@ msgstr "ficheiro zoo"
 #~ msgstr "Fim de ficheiro"
 
 #~ msgid "Not a directory"
-#~ msgstr "N√£o √© um direct√≥rio"
+#~ msgstr "N„o È um directÛrio"
 
 #~ msgid "Operation in progress"
-#~ msgstr "Opera√ß√£o em execu√ß√£o"
+#~ msgstr "OperaÁ„o em execuÁ„o"
 
 #~ msgid "Operation interrupted"
-#~ msgstr "Opera√ß√£o interrompida"
+#~ msgstr "OperaÁ„o interrompida"
 
 #~ msgid "File exists"
 #~ msgstr "Ficheiro existe"
@@ -1230,34 +1230,34 @@ msgstr "ficheiro zoo"
 #~ msgstr "Links em loop encontrados"
 
 #~ msgid "Operation not permitted"
-#~ msgstr "Opera√ß√£o n√£o permitida"
+#~ msgstr "OperaÁ„o n„o permitida"
 
 #~ msgid "Is a directory"
-#~ msgstr "√â um direct√≥rio"
+#~ msgstr "… um directÛrio"
 
 #~ msgid "Not enough memory"
-#~ msgstr "Mem√≥ria n√£o √© suficiente"
+#~ msgstr "MemÛria n„o È suficiente"
 
 #~ msgid "Host not found"
-#~ msgstr "Servidor n√£o encontrado"
+#~ msgstr "Servidor n„o encontrado"
 
 #~ msgid "Host name not valid"
-#~ msgstr "Nome de servidor inv√°lido"
+#~ msgstr "Nome de servidor inv·lido"
 
 #~ msgid "Host has no address"
-#~ msgstr "Servidor n√£o tem endere√ßo"
+#~ msgstr "Servidor n„o tem endereÁo"
 
 #~ msgid "Login failed"
 #~ msgstr "Registo falhou"
 
 #~ msgid "Operation cancelled"
-#~ msgstr "Opera√ß√£o cancelada"
+#~ msgstr "OperaÁ„o cancelada"
 
 #~ msgid "Directory busy"
-#~ msgstr "Direct√≥rio ocupado"
+#~ msgstr "DirectÛrio ocupado"
 
 #~ msgid "Directory not empty"
-#~ msgstr "Direct√≥rio n√£o vazio"
+#~ msgstr "DirectÛrio n„o vazio"
 
 #~ msgid "Too many links"
 #~ msgstr "Demasiados links"
@@ -1266,16 +1266,16 @@ msgstr "ficheiro zoo"
 #~ msgstr "Sistema de ficheiros apenas de leitura"
 
 #~ msgid "Not on the same file system"
-#~ msgstr "N√£o est√° no mesmo sistema de ficheiros"
+#~ msgstr "N„o est· no mesmo sistema de ficheiros"
 
 #~ msgid "Name too long"
 #~ msgstr "Nome demasiado longo"
 
 #~ msgid "Service not available"
-#~ msgstr "Servi√ßo indispon√≠vel"
+#~ msgstr "ServiÁo indisponÌvel"
 
 #~ msgid "Request obsoletes service's data"
-#~ msgstr "Pedido de dados a servi√ßo obsoleto"
+#~ msgstr "Pedido de dados a serviÁo obsoleto"
 
 #~ msgid "Protocol error"
 #~ msgstr "Erro de protocolo"
@@ -1302,13 +1302,13 @@ msgstr "ficheiro zoo"
 #~ msgstr "Tipo op %u desconhecido"
 
 #~ msgid "Cannot create pipe for open GIOChannel: %s"
-#~ msgstr "N√£o √© poss√≠vel abrir pipe para GIOChannel aberto: %s"
+#~ msgstr "N„o È possÌvel abrir pipe para GIOChannel aberto: %s"
 
 #~ msgid "Unknown job kind %u"
 #~ msgstr "Tipo de trabalho %u desconhecido"
 
 #~ msgid "Operation stopped"
-#~ msgstr "Opera√ß√£o parada"
+#~ msgstr "OperaÁ„o parada"
 
 #~ msgid "Unknown GnomeVFSSeekPosition %d"
 #~ msgstr "GnomeVFSSeekPosition %d desconhecida"
