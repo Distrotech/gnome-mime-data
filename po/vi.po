@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: gnome-mime-data VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2003-07-03 12:51+0200\n"
-"PO-Revision-Date: 2003-07-24 15:27+0700\n"
+"PO-Revision-Date: 2004-09-07 13:43+0700\n"
 "Last-Translator: pclouds <pclouds@gmx.net>\n"
 "Language-Team: GnomeVI <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -340,7 +340,7 @@ msgstr "Thông điệp mã hóa"
 
 #: gnome-vfs.keys.in.h:82
 msgid "Enlightenment theme"
-msgstr "Theme Englightenment"
+msgstr "Sắc thái Englightenment"
 
 #: gnome-vfs.keys.in.h:83
 msgid "Enriched text document"
@@ -404,7 +404,7 @@ msgstr "Liên kết GMC"
 
 #: gnome-vfs.keys.in.h:98
 msgid "GNOME desktop theme"
-msgstr ""
+msgstr "Sắc thái GNOME Desktop"
 
 #: gnome-vfs.keys.in.h:99
 msgid "GNU Oleo Spreadsheet"
@@ -512,7 +512,7 @@ msgstr "Thông tin/Tài chính"
 
 #: gnome-vfs.keys.in.h:125
 msgid "Installed GNOME desktop theme"
-msgstr ""
+msgstr "Sắc thái GNOME Desktop đã cài đặt"
 
 #: gnome-vfs.keys.in.h:126
 msgid "JBuilder Project"
@@ -1000,7 +1000,7 @@ msgstr "Tham chiếu đến tập tin ở xa"
 
 #: gnome-vfs.keys.in.h:247
 msgid "Rejected patch file"
-msgstr ""
+msgstr "Tập tin vá bị từ chối"
 
 #: gnome-vfs.keys.in.h:248
 msgid "Rich text document"
@@ -1052,7 +1052,7 @@ msgstr "Ảnh SVG"
 
 #: gnome-vfs.keys.in.h:260
 msgid "Samba share"
-msgstr ""
+msgstr "Chia sẻ Samba"
 
 #: gnome-vfs.keys.in.h:261
 msgid "Scheme source code"
@@ -1136,7 +1136,7 @@ msgstr "Giấy phép dùng phần mềm"
 
 #: gnome-vfs.keys.in.h:281
 msgid "Source code patch"
-msgstr "Patch mã nguồn"
+msgstr "Miếng vá mã nguồn"
 
 #: gnome-vfs.keys.in.h:282
 msgid "Speech document"
@@ -1256,7 +1256,7 @@ msgstr "Văn bản TeXInfo"
 
 #: gnome-vfs.keys.in.h:311
 msgid "Theme"
-msgstr ""
+msgstr "Sắc thái"
 
 #: gnome-vfs.keys.in.h:312
 msgid "ToutDoux document"
@@ -1414,29 +1414,61 @@ msgstr "Phần mềm iPod"
 msgid "xfig vector graphic"
 msgstr "bản vẽ xfig"
 
-#~ msgid "MPEG audio"
-#~ msgstr "Âm thanh MPEG"
+msgid "MPEG audio"
+msgstr "Tiếng MPEG"
 
-#~ msgid "MSX rom"
-#~ msgstr "ROM MSX"
+msgid "MSX rom"
+msgstr "ROM MSX"
 
-#~ msgid "NES rom"
-#~ msgstr "ROM NES"
+msgid "NES rom"
+msgstr "ROM NES"
 
-#~ msgid "Software Development/ROM image"
-#~ msgstr "Phát triển phần mềm/Ảnh ROM"
+msgid "Software Development/ROM image"
+msgstr "Phát triển phần mềm/Ảnh ROM"
 
-#~ msgid "Software Development/Source"
-#~ msgstr "Phát triển phần mềm/Mã nguồn"
+msgid "Software Development/Source"
+msgstr "Phát triển phần mềm/Mã nguồn"
 
-#~ msgid "Yacc source file"
-#~ msgstr "Mã nguồn Yacc"
+msgid "Yacc source file"
+msgstr "Mã nguồn Yacc"
 
-#~ msgid "arj archive"
-#~ msgstr "kho lưu arj"
+msgid "arj archive"
+msgstr "kho lưu arj"
 
-#~ msgid "audio"
-#~ msgstr "Âm thanh"
+msgid "audio"
+msgstr "Âm thanh"
 
-#~ msgid "gtar archive"
-#~ msgstr "kho lưu gtar"
+msgid "gtar archive"
+msgstr "kho lưu gtar"
+
+#, fuzzy
+#~ msgid "BitTorrent seed file"
+#~ msgstr "Tập tin nén bzip2"
+
+#, fuzzy
+#~ msgid "DV video"
+#~ msgstr "Phim AVI"
+
+#, fuzzy
+#~ msgid "DjVu image"
+#~ msgstr "Ảnh 3D Studio"
+
+#, fuzzy
+#~ msgid "JavaScript source code"
+#~ msgstr "Mã nguồn Java"
+
+#, fuzzy
+#~ msgid "MS ASF audio"
+#~ msgstr "Phim MS ASF"
+
+#, fuzzy
+#~ msgid "Matroska video"
+#~ msgstr "Phim MS"
+
+#, fuzzy
+#~ msgid "Objective C source code"
+#~ msgstr "Mã nguồn C"
+
+#, fuzzy
+#~ msgid "Verilog source code"
+#~ msgstr "Mã nguồn C"
