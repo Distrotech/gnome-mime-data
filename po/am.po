@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "POT-Creation-Date: 2003-01-06 05:59+0100\n"
-"PO-Revision-Date: 2003-01-08 19:21+EDT\n"
+"PO-Revision-Date: 2003-01-25 18:41+EDT\n"
 "Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
 "Language-Team: Amharic <locales@geez.org>\n"
 "MIME-Version: 1.0\n"
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:308
 msgid "socket"
-msgstr ""
+msgstr "ሶከት "
 
 #: gnome-vfs.keys.in.h:309
 msgid "software author credits"
