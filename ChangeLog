@@ -1,3 +1,8 @@
+2003-07-28  Mark McLoughlin  <mark@skynet.ie>
+
+	* gnome-vfs.keys.in: make the default action for pdf to use
+	the gpdf embedded viewer.
+
 2003-07-22  Bastien Nocera  <hadess@hadess.net>
 
 	* AUTHORS: spell my name properly
