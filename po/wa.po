@@ -111,7 +111,7 @@ msgstr "årtchive CPIO (gzip-sipotcheye)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Son Commodore 64"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
@@ -207,11 +207,11 @@ msgstr "fitchî d' apontiaedje GTK"
 
 #: gnome-vfs.keys.in.h:49
 msgid "Game Boy rom"
-msgstr ""
+msgstr "ROM Game Boy"
 
 #: gnome-vfs.keys.in.h:50
 msgid "Genesis rom"
-msgstr ""
+msgstr "ROM Genesis"
 
 #: gnome-vfs.keys.in.h:51
 msgid "Glade project"
@@ -430,9 +430,8 @@ msgid "ODA document"
 msgstr "documint ODA"
 
 #: gnome-vfs.keys.in.h:105
-#, fuzzy
 msgid "OpenOffice.org Impress presentation"
-msgstr "prezintåcion StarImpress"
+msgstr "prezintåcion Impress d' OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:106
 #, fuzzy
@@ -440,9 +439,8 @@ msgid "OpenOffice.org Impress presentation template"
 msgstr "prezintåcion StarImpress"
 
 #: gnome-vfs.keys.in.h:107
-#, fuzzy
 msgid "OpenOffice.org Math document"
-msgstr "documint matematike OpenOffice"
+msgstr "documint matematike d' OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:108
 #, fuzzy
@@ -467,9 +465,8 @@ msgid "OpenOffice.org drawing template"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:113
-#, fuzzy
 msgid "OpenOffice.org spreadsheet"
-msgstr "foye tåvleu OpenOffice"
+msgstr "foye tåvleu d' OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:114
 #, fuzzy
@@ -525,9 +522,8 @@ msgid "PHP script"
 msgstr "scripe PHP"
 
 #: gnome-vfs.keys.in.h:127
-#, fuzzy
 msgid "PICT image"
-msgstr "imådje XPM"
+msgstr "imådje PICT"
 
 #: gnome-vfs.keys.in.h:128
 msgid "PNG image"
@@ -550,9 +546,8 @@ msgid "Perl script"
 msgstr "scripe perl"
 
 #: gnome-vfs.keys.in.h:133
-#, fuzzy
 msgid "Photo CD image"
-msgstr "imådje AutoCAD"
+msgstr "imådje foto CD"
 
 #: gnome-vfs.keys.in.h:134
 msgid "Photoshop document"
