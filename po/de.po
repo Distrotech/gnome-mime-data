@@ -1,4 +1,4 @@
-# gnome-vfs German translation.
+# German translation for gnome-mime-data.
 # Copyright (C) 1999, 2000, 2001 Free Software Foundation, Inc.
 # Matthias Warkus <mawa@iname.com>, 2000.
 # Christian Meyer <chrisime@gnome.org>, 2001.
@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0\n"
-"POT-Creation-Date: 2001-12-06 02:07+0100\n"
-"PO-Revision-Date: 2001-07-29 07:48+0200\n"
+"POT-Creation-Date: 2001-12-26 14:45+0100\n"
+"PO-Revision-Date: 2001-12-26 14:43+0100\n"
 "Last-Translator: Christian Meyer <chrisime@gnome.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -807,8 +807,8 @@ msgid "email headers"
 msgstr "E-Mail-Kopfzeilen"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "E-Mail-Nachricht"
+msgid "email message/mailbox"
+msgstr "E-Mail-Nachricht/Postfach"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
