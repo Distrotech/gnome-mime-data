@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-02-29 15:28+0100\n"
-"PO-Revision-Date: 2004-03-01 03:10-0600\n"
+"PO-Revision-Date: 2004-03-06 23:34-0600\n"
 "Last-Translator: Paisa Seeluangsawat <paisa@users.sf.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,7 @@ msgstr "แฟ้มบีบอัด RAR"
 
 #: gnome-vfs.keys.in.h:7
 msgid "AVI video"
-msgstr "วีดีโอ AVI"
+msgstr "วิดีโอ AVI"
 
 #: gnome-vfs.keys.in.h:8
 msgid "AbiWord document"
@@ -247,7 +247,7 @@ msgstr "เอกสาร DSSSL"
 
 #: gnome-vfs.keys.in.h:58
 msgid "DV video"
-msgstr "วีดีโอ DV"
+msgstr "วิดีโอ DV"
 
 #: gnome-vfs.keys.in.h:59
 msgid "DXF vector graphic"
@@ -427,7 +427,7 @@ msgstr "เอกสาร GIMP"
 
 #: gnome-vfs.keys.in.h:103
 msgid "GMC link"
-msgstr "ลิงค์ GMC"
+msgstr "จุดเชื่อมของ GMC"
 
 #: gnome-vfs.keys.in.h:104
 msgid "GNOME desktop theme"
@@ -511,7 +511,7 @@ msgstr "ภาพ ILBM"
 
 #: gnome-vfs.keys.in.h:124
 msgid "ISI video"
-msgstr "วีดีโอ ISI"
+msgstr "วิดีโอ ISI"
 
 #: gnome-vfs.keys.in.h:125
 msgid "ISO image"
@@ -643,7 +643,7 @@ msgstr "รายการเล่นเสียง MP3"
 
 #: gnome-vfs.keys.in.h:157
 msgid "MPEG video"
-msgstr "วีดีโอ MPEG"
+msgstr "วิดีโอ MPEG"
 
 #: gnome-vfs.keys.in.h:158
 msgid "MPEG-4 audio"
@@ -655,11 +655,11 @@ msgstr "เสียง MS ASF"
 
 #: gnome-vfs.keys.in.h:160
 msgid "MS ASF video"
-msgstr "วีดีโอ MS ASF"
+msgstr "วิดีโอ MS ASF"
 
 #: gnome-vfs.keys.in.h:161
 msgid "MS video"
-msgstr "วีดีโอ MS"
+msgstr "วิดีโอ MS"
 
 #: gnome-vfs.keys.in.h:162
 msgid "MSX ROM"
@@ -727,7 +727,7 @@ msgstr "เอกสาร MathML"
 
 #: gnome-vfs.keys.in.h:178
 msgid "Matroska video"
-msgstr "วีดีโอ Matroska"
+msgstr "วิดีโอ Matroska"
 
 #: gnome-vfs.keys.in.h:179
 msgid "Memory dump"
@@ -759,7 +759,7 @@ msgstr "รายการเล่นเสียง Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:186
 msgid "Microsoft WMV video"
-msgstr "วีดีโอ Microsoft WMV"
+msgstr "วิดีโอ Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:187
 msgid "Microsoft Word document"
@@ -767,7 +767,7 @@ msgstr "เอกสาร Microsoft Word"
 
 #: gnome-vfs.keys.in.h:188
 msgid "Microsoft video"
-msgstr "วีดีโอ Microsoft"
+msgstr "วิดีโอ Microsoft"
 
 #: gnome-vfs.keys.in.h:189
 msgid "Monkey audio"
@@ -791,7 +791,7 @@ msgstr "Named pipe"
 
 #: gnome-vfs.keys.in.h:194
 msgid "Nautilus link"
-msgstr "ลิงค์ Nautilus"
+msgstr "จุดเชื่อมของ Nautilus"
 
 #: gnome-vfs.keys.in.h:195
 msgid "Netscape bookmarks file"
@@ -803,7 +803,7 @@ msgstr "Nintendo64 ROM"
 
 #: gnome-vfs.keys.in.h:197
 msgid "Nullsoft video"
-msgstr "วีดีโอ Nullsoft"
+msgstr "วิดีโอ Nullsoft"
 
 #: gnome-vfs.keys.in.h:198
 msgid "ODA document"
@@ -1039,11 +1039,11 @@ msgstr "เอกสาร RealAudio/Video"
 
 #: gnome-vfs.keys.in.h:256
 msgid "RealVideo video"
-msgstr "วีดีโอ RealVideo"
+msgstr "วิดีโอ RealVideo"
 
 #: gnome-vfs.keys.in.h:257
 msgid "Reference to remote file"
-msgstr "ลิงค์ไปแฟ้มนอกเครื่อง"
+msgstr "จุดเชื่อมไปแฟ้มนอกเครื่อง"
 
 #: gnome-vfs.keys.in.h:258
 msgid "Rejected patch file"
@@ -1063,7 +1063,7 @@ msgstr "ลายเซ็น S/MIME"
 
 #: gnome-vfs.keys.in.h:262
 msgid "SGI video"
-msgstr "วีดีโอ SGI"
+msgstr "วิดีโอ SGI"
 
 #: gnome-vfs.keys.in.h:263
 msgid "SGML document"
@@ -1246,10 +1246,10 @@ msgstr "เสียง Sun mu-law"
 msgid "SunOS News font"
 msgstr "แบบอักษร SunOS News"
 
-# FIXME: ลิงค์อ้างอิง?  สัญลักษณ์ เครื่องหมาย?
+# FIXME: อ้างอิง?  สัญลักษณ์? เครื่องหมาย?
 #: gnome-vfs.keys.in.h:308
 msgid "Symbolic link"
-msgstr "ลิงค์เป็นนัย"
+msgstr "จุดเชื่อมเป็นนัย"
 
 #: gnome-vfs.keys.in.h:309
 msgid "System"
@@ -1377,11 +1377,11 @@ msgstr "โค้ดภาษา Verilog"
 
 #: gnome-vfs.keys.in.h:340
 msgid "Video"
-msgstr "วีดีโอ"
+msgstr "วิดีโอ"
 
 #: gnome-vfs.keys.in.h:341
 msgid "Vivo video"
-msgstr "วีดีโอ Vivo"
+msgstr "วิดีโอ Vivo"
 
 #: gnome-vfs.keys.in.h:342
 msgid "WAIS source code"
@@ -1393,7 +1393,7 @@ msgstr "เสียง Wave"
 
 #: gnome-vfs.keys.in.h:344
 msgid "Wavelet video"
-msgstr "วีดีโอ Wavelet"
+msgstr "วิดีโอ Wavelet"
 
 #: gnome-vfs.keys.in.h:345
 msgid "Web folder"
