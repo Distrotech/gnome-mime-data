@@ -1,12 +1,12 @@
 # gnome-mime-data fr.po
-# Copyright (C) 2001 Free Software Foundation, Inc.
-# maintainer: Christophe Merlet (RedFox) <redfox@eikonex.org>, 2001.
+# Copyright (C) 2001-2002 Free Software Foundation, Inc.
+# maintainer: Christophe Merlet (RedFox) <redfox@eikonex.org>, 2001-2002.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-mime-data 1.0.0\n"
-"POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-11-04 21:40+0100\n"
+"Project-Id-Version: gnome-mime-data 1.0.1\n"
+"POT-Creation-Date: 2002-01-05 21:08+0100\n"
+"PO-Revision-Date: 2002-01-05 21:08+0100\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@eikonex.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr "Archive CPIO (comprimé gzip)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Audio Commodore 64"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
@@ -806,8 +806,8 @@ msgid "email headers"
 msgstr "En-têtes de courrier électronique"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "Message de courrier électronique"
+msgid "email message/mailbox"
+msgstr "Courrier/Boîte à lettres électronique"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
