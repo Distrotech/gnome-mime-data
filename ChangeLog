@@ -1,5 +1,12 @@
 2001-11-01  Seth Nickell  <snickell@stanford.edu>
 
+	* configure.in:
+
+	Change version number so people aren't confused...this should
+	end up working with GNOME1.
+
+2001-11-01  Seth Nickell  <snickell@stanford.edu>
+
 	* autogen.sh:
 
 	Give up and use GNOME2 macros...it works with GnomeVFS2
