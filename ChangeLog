@@ -1,3 +1,7 @@
+2003-02-18  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: detect realaudio playlist files properly
+
 2003-02-10  Mohammad DAMT  <mdamt@bisnisweb.com>
 
 	* po/id.po: Added Indonesian translation
