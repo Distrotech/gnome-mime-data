@@ -790,7 +790,7 @@ application/x-magicpoint
 	use_category_default=yes
 
 application/x-matroska
-	_description=Matroska video file
+	_description=Matroska video
 	default_action_type=application
 	_category=Video
 

@@ -1,3 +1,8 @@
+2003-12-30  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: change the label of Matroska video file to
+	Matroska video (thanks Menthos) (Closes: #130178)
+
 2003-12-27  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic:
