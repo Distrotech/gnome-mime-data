@@ -1,3 +1,12 @@
+2003-06-03  Seth Nickell  <snickell@stanford.edu>
+
+	* check-mime.pl:
+	* gnome-vfs.applications:
+
+	Update to use the "use_gnomevfs" flag, which should
+	be set on any applications that support GnomeVFS so
+	Nautilus et al will know that they support "all" URIs.
+
 2003-06-02  Seth Nickell  <snickell@stanford.edu>
 
 	* AUTHORS:

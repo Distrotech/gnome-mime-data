@@ -363,6 +363,7 @@ print "Reading gnome-vfs.applications.\n";
    "name",
    "requires_terminal",
    "supported_uri_schemes",
+   "uses_gnomevfs",
   );
 @expected_keys{@expected_keys} = (1) x @expected_keys;
 
