@@ -618,6 +618,9 @@ application/x-hdf
 	_description=HDF document
 	_category=Documents/Numeric
 
+application/x-iso-image
+	_description=ISO image
+
 # also application/x-class-file
 application/x-java-byte-code
 	_description=Java byte code
