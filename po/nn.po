@@ -1,11 +1,12 @@
 # Norwegian (nynorsk) translation of gnome-mime-data
-# Copyright (C) 2001 Roy-Magne Mo
+# Copyright (C) 2001-2002 Roy-Magne Mo
 # Kjartan Maraas  <kmaraas@gnome.org>, 2001.
+# Roy-Magne Mo <rmo@sunnmore.net>, 2001-2002.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2001-12-06 14:31+0100\n"
+"POT-Creation-Date: 2002-01-15 03:42+0100\n"
 "PO-Revision-Date: 2001-11-05 06:39+0100\n"
 "Last-Translator: Roy-Magne Mo <rmo@sunnmore.net>\n"
 "Language-Team: Norwegian/Nynorsk <nn@li.org>\n"
@@ -199,7 +200,7 @@ msgstr "GNU Oleo-rekneark"
 
 #: gnome-vfs.keys.in.h:47
 msgid "GNU mail message"
-msgstr "GNU e-post melding"
+msgstr "GNU e-postmelding"
 
 #: gnome-vfs.keys.in.h:48
 msgid "GTK configuration"
@@ -211,11 +212,11 @@ msgstr "Glade prosjekt"
 
 #: gnome-vfs.keys.in.h:50
 msgid "GnuCash Workbook"
-msgstr "GnuCash arbeidsbok"
+msgstr "GnuCash-arbeidsbok"
 
 #: gnome-vfs.keys.in.h:51
 msgid "Gnumeric spreadsheet"
-msgstr "Gnumeric reikneark"
+msgstr "Gnumeric rekneark"
 
 #: gnome-vfs.keys.in.h:52
 msgid "HDF document"
@@ -791,7 +792,7 @@ msgstr "compress-komprimert fil"
 
 #: gnome-vfs.keys.in.h:195
 msgid "compressed GIMP document"
-msgstr "komprimert GIMP dokument"
+msgstr "komprimert GIMP-dokument"
 
 #: gnome-vfs.keys.in.h:196
 msgid "directory information file"
@@ -803,11 +804,11 @@ msgstr "dokumenttype definisjon"
 
 #: gnome-vfs.keys.in.h:198
 msgid "email headers"
-msgstr "e-post hovud"
+msgstr "e-post hovudtekster"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "e-post melding"
+msgid "email message/mailbox"
+msgstr "e-post melding/postkasse"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
