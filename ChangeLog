@@ -1,3 +1,7 @@
+2003-04-26  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: add magic for some MPEG program streams
+
 2003-04-24  Abel Cheung  <maddog@linux.org.hk>
 
 	* configure.in: Added "ar" "cs" to ALL_LINGUAS.
