@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-02-29 15:28+0100\n"
-"PO-Revision-Date: 2004-03-06 23:34-0600\n"
+"PO-Revision-Date: 2004-03-07 23:11-0600\n"
 "Last-Translator: Paisa Seeluangsawat <paisa@users.sf.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
@@ -159,7 +159,7 @@ msgstr "โค้ดภาษา C"
 
 #: gnome-vfs.keys.in.h:36
 msgid "C source code header"
-msgstr "รหัส ภาษา C ส่วนหัว"
+msgstr "โค้ดหัวแฟ้มภาษา C"
 
 #: gnome-vfs.keys.in.h:37
 msgid "C++ source code"
@@ -179,11 +179,11 @@ msgstr "ภาพราสเตอร์ CMU"
 
 #: gnome-vfs.keys.in.h:41
 msgid "CPIO archive"
-msgstr "แฟ้ม CPIO"
+msgstr "แฟ้มจัดเก็บ CPIO"
 
 #: gnome-vfs.keys.in.h:42
 msgid "CPIO archive (Gzip-compressed)"
-msgstr "แฟ้ม CPIO (บีบอัดโดย gzip)"
+msgstr "แฟ้มจัดเก็บ CPIO (บีบอัดโดย gzip)"
 
 #: gnome-vfs.keys.in.h:43
 msgid "Calendar file"
@@ -203,7 +203,7 @@ msgstr "แผนแก้ไข Cinelerra"
 
 #: gnome-vfs.keys.in.h:47
 msgid "Comma-separated text document"
-msgstr "เอกสารข้อความแบ่งขั้นด้วยตัวลูกน้ำ"
+msgstr "เอกสารข้อความแบ่งกั้นด้วยตัวลูกน้ำ"
 
 #: gnome-vfs.keys.in.h:48
 msgid "Commodore 64 audio"
@@ -239,7 +239,7 @@ msgstr "แบบอักษร DOS"
 
 #: gnome-vfs.keys.in.h:56
 msgid "DOS/Windows program"
-msgstr "โปรแกรมดอส/วินโดวส์"
+msgstr "โปรแกรมสำหรับ ดอส/วินโดวส์"
 
 #: gnome-vfs.keys.in.h:57
 msgid "DSSSL document"
@@ -281,9 +281,10 @@ msgstr "แฟ้มเก็บข้อมูลโฟลเดอร์"
 msgid "DjVu image"
 msgstr "ภาพ DjVu"
 
+# FIXME: Not sure if we should translate this.  It's for DTD files.
 #: gnome-vfs.keys.in.h:67
 msgid "Document type definition"
-msgstr "นียามชนิดเอกสาร"
+msgstr "นิยามชนิดเอกสาร"
 
 #: gnome-vfs.keys.in.h:68
 msgid "Documents"
@@ -299,7 +300,7 @@ msgstr "เอกสาร/Extended Markup Language (XML)"
 
 #: gnome-vfs.keys.in.h:71
 msgid "Documents/Numeric"
-msgstr "เอกสาร/ตัวเลข"
+msgstr "เอกสาร/คณิต"
 
 #: gnome-vfs.keys.in.h:72
 msgid "Documents/Plain Text"
@@ -391,7 +392,7 @@ msgstr "ภาพเคลื่อนไหว FLI"
 
 #: gnome-vfs.keys.in.h:94
 msgid "FastTracker II audio"
-msgstr "ระบบเสียง FastTracker II"
+msgstr "เสียง FastTracker II"
 
 #: gnome-vfs.keys.in.h:95
 msgid "FlashPix Image"
@@ -435,11 +436,11 @@ msgstr "ชุดตกแต่ง GNOME"
 
 #: gnome-vfs.keys.in.h:105
 msgid "GNU Oleo Spreadsheet"
-msgstr "กระดาษคำนวณ GNU Oleo"
+msgstr "ตารางคำนวณ GNU Oleo"
 
 #: gnome-vfs.keys.in.h:106
 msgid "GNU mail message"
-msgstr "ข้อความจดหมาย GNU"
+msgstr "ข้อความ GNU-เมล์"
 
 #: gnome-vfs.keys.in.h:107
 msgid "GTK configuration"
@@ -639,7 +640,7 @@ msgstr "เสียง MP3"
 
 #: gnome-vfs.keys.in.h:156
 msgid "MP3 audio playlist"
-msgstr "รายการเล่นเสียง MP3"
+msgstr "รายการการเล่น MP3"
 
 #: gnome-vfs.keys.in.h:157
 msgid "MPEG video"
@@ -755,7 +756,7 @@ msgstr "งานนำเสนอ Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:185
 msgid "Microsoft WMV playlist"
-msgstr "รายการเล่นเสียง Microsoft WMV"
+msgstr "รายการการเล่น Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:186
 msgid "Microsoft WMV video"
@@ -819,7 +820,7 @@ msgstr "โค้ดภาษา Objective C"
 
 #: gnome-vfs.keys.in.h:201
 msgid "Ogg audio"
-msgstr "เสียง ogg"
+msgstr "เสียง Ogg"
 
 #: gnome-vfs.keys.in.h:202
 msgid "OpenOffice.org Impress presentation"
@@ -935,7 +936,7 @@ msgstr "แพ็กเกจ"
 
 #: gnome-vfs.keys.in.h:230
 msgid "Palm OS database"
-msgstr "ฐานข้อมูล่จาก Palm OS"
+msgstr "ฐานข้อมูลจาก Palm OS"
 
 #: gnome-vfs.keys.in.h:231
 msgid "Palm Pixmap image"
@@ -967,7 +968,7 @@ msgstr "เอกสารข้อความเปล่าๆ"
 
 #: gnome-vfs.keys.in.h:238
 msgid "Playlist"
-msgstr "รายการเล่น"
+msgstr "รายการการเล่น"
 
 #: gnome-vfs.keys.in.h:239
 msgid "PostScript Type 1 font"
@@ -1045,9 +1046,10 @@ msgstr "วิดีโอ RealVideo"
 msgid "Reference to remote file"
 msgstr "จุดเชื่อมไปแฟ้มนอกเครื่อง"
 
+# .rej files
 #: gnome-vfs.keys.in.h:258
 msgid "Rejected patch file"
-msgstr ""
+msgstr "แฟ้ม patch ที่แปะไม่สำเร็จ"
 
 #: gnome-vfs.keys.in.h:259
 msgid "Rich text document"
@@ -1071,7 +1073,7 @@ msgstr "เอกสาร SGML"
 
 #: gnome-vfs.keys.in.h:264
 msgid "SHOUTcast playlist"
-msgstr "รายการเล่น SHOUTcast"
+msgstr "รายการการเล่น SHOUTcast"
 
 #: gnome-vfs.keys.in.h:265
 msgid "SMIL script"
@@ -1127,7 +1129,7 @@ msgstr "ความปลอดภัย"
 
 #: gnome-vfs.keys.in.h:278
 msgid "Setext document"
-msgstr "เอกสาร Setext"
+msgstr "เอกสาร setext"
 
 #: gnome-vfs.keys.in.h:279
 msgid "Shared Printer"
@@ -1261,19 +1263,19 @@ msgstr "ภาพ TIFF"
 
 #: gnome-vfs.keys.in.h:311
 msgid "Tab-separated text document"
-msgstr "เอกสารข้อความแบ่งขั้นด้วยตัวแท็บ"
+msgstr "เอกสารข้อความแบ่งกั้นด้วยตัวแท็บ"
 
 #: gnome-vfs.keys.in.h:312
 msgid "Tar archive"
-msgstr "แฟ้มจัดรวม tar"
+msgstr "แฟ้มจัดเก็บ tar"
 
 #: gnome-vfs.keys.in.h:313
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "แฟ้มจัดรวม tar (บีบอัดด้วย bzip2)"
+msgstr "แฟ้มจัดเก็บ tar (บีบอัดด้วย bzip2)"
 
 #: gnome-vfs.keys.in.h:314
 msgid "Tar archive (Gzip-compressed)"
-msgstr "แฟ้มจัดรวม tar (บีบอัดด้วย gzip)"
+msgstr "แฟ้มจัดเก็บ tar (บีบอัดด้วย gzip)"
 
 #: gnome-vfs.keys.in.h:315
 msgid "TarGA image"
@@ -1317,15 +1319,15 @@ msgstr "เอกสาร troff"
 
 #: gnome-vfs.keys.in.h:325
 msgid "Troff me input document"
-msgstr ""
+msgstr "เอกสารส่งเข้า troff me"
 
 #: gnome-vfs.keys.in.h:326
 msgid "Troff mm input document"
-msgstr ""
+msgstr "เอกสารส่งเข้า troff mm"
 
 #: gnome-vfs.keys.in.h:327
 msgid "Troff ms input document"
-msgstr ""
+msgstr "เอกสารส่งเข้า troff ms"
 
 #: gnome-vfs.keys.in.h:328
 msgid "TrueType font"
@@ -1409,7 +1411,7 @@ msgstr "ภาพไอคอนจากวินโดวส์"
 
 #: gnome-vfs.keys.in.h:348
 msgid "Windows metafile graphics"
-msgstr "กราฟิค metafile จากวินโดวส์"
+msgstr "กราฟิก metafile จากวินโดวส์"
 
 #: gnome-vfs.keys.in.h:349
 msgid "WordPerfect document"
