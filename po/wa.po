@@ -7,18 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-01-17 04:30+0100\n"
-"PO-Revision-Date: 2004-01-17 16:23+0100\n"
+"POT-Creation-Date: 2004-03-23 03:48+0100\n"
+"PO-Revision-Date: 2004-03-23 10:33+0100\n"
 "Last-Translator: Pablo Saratxaga <pablo@walon.org>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.2\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "2D chemical structure"
-msgstr ""
+msgstr "Sitructeure tchimike e 2D"
 
 #: gnome-vfs.keys.in.h:2
 msgid "3D Studio image"
@@ -134,7 +133,7 @@ msgstr "Programe binaire"
 
 #: gnome-vfs.keys.in.h:30
 msgid "BitTorrent seed file"
-msgstr ""
+msgstr "Fitchî grinne BitTorrent"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Blender file"
@@ -222,7 +221,7 @@ msgstr "Documint GIMP rastrindou"
 
 #: gnome-vfs.keys.in.h:52
 msgid "Corel Draw drawing"
-msgstr ""
+msgstr "Dessinaedje Corel Draw"
 
 #: gnome-vfs.keys.in.h:53
 msgid "Crystalline structure model"
@@ -346,7 +345,7 @@ msgstr "Son dolby digital"
 
 #: gnome-vfs.keys.in.h:83
 msgid "Dreamcast ROM"
-msgstr ""
+msgstr "ROM di conzôle di djeu Dreamcast"
 
 #: gnome-vfs.keys.in.h:84
 msgid "Emacs Lisp source code"
@@ -374,7 +373,7 @@ msgstr "Documint tecse eritchî"
 
 #: gnome-vfs.keys.in.h:90
 msgid "Epiphany bookmarks file"
-msgstr ""
+msgstr "Fitchî di rmåkes d' epiphany"
 
 #: gnome-vfs.keys.in.h:91
 msgid "FLAC audio"
