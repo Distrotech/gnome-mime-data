@@ -1,3 +1,8 @@
+2003-02-10  Mohammad DAMT  <mdamt@bisnisweb.com>
+
+	* po/id.po: Added Indonesian translation
+	* configure.in: Added "id" to ALL_LINGUAS
+
 2003-02-02  Andrew Sobala  <aes@gnome.org>
 
 	* gnome-vfs.keys.in: reverting the string-freeze breaking change
