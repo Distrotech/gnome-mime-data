@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "POT-Creation-Date: 2002-06-03 07:59+0400\n"
-"PO-Revision-Date: 2002-06-03 08:02+0400\n"
+"PO-Revision-Date: 2002-06-04 17:08+0400\n"
 "Last-Translator: Dmitry Mastrukov <dmitry@taurussoft.org>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "метрики шрифта в формате Adobe"
 # gnome-vfs.keys.in.h:9
 #: gnome-vfs.keys.in.h:9
 msgid "Andrew Toolkit inset"
-msgstr ""
+msgstr "вкладка в формате Andrew Toolkit"
 
 # gnome-vfs.keys.in.h:10
 #: gnome-vfs.keys.in.h:10
@@ -700,7 +700,7 @@ msgstr "документ в формате PostScript"
 
 #: gnome-vfs.keys.in.h:138
 msgid "Project Plan"
-msgstr ""
+msgstr "документ в формате Project Plan"
 
 # gnome-vfs.keys.in.h:132
 #: gnome-vfs.keys.in.h:139
