@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "POT-Creation-Date: 2002-10-31 05:39+0100\n"
-"PO-Revision-Date: 2002-12-16 12:40+EDT\n"
+"PO-Revision-Date: 2002-12-29 12:40+EDT\n"
 "Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
 "Language-Team: Amharic <locales@geez.org>\n"
 "MIME-Version: 1.0\n"
@@ -178,7 +178,7 @@ msgstr "ሰነዶች/Numeric"
 
 #: gnome-vfs.keys.in.h:41
 msgid "Documents/Plain Text"
-msgstr "ሰነዶች/Plain Text"
+msgstr "ሰነዶች/ቀላል ጽሑፍ"
 
 #: gnome-vfs.keys.in.h:42
 msgid "Documents/Presentation"
