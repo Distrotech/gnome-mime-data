@@ -293,6 +293,9 @@ audio/ac3
 audio/basic
 	ext: snd
 
+audio/prs.sid
+	ext: sid psid
+
 audio/x-aiff
 	ext: aif aifc aiff
 

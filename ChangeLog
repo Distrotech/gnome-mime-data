@@ -1,5 +1,13 @@
 2001-12-01  Seth Nickell  <snickell@stanford.edu>
 
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime:
+
+	Add PSID data type.
+	
+2001-12-01  Seth Nickell  <snickell@stanford.edu>
+
 	* gnome-vfs.keys.in:
 	Add GIMP entries to compressed GIMP files.	
 	

@@ -594,6 +594,10 @@ audio/basic
 	_description=basic audio
 	icon_filename=gnome-audio
 
+audio/prs.sid
+	_description=Commodore 64 Audio
+	icon_filename=i-music
+
 audio/x-aifc
 	_description=AIFC audio
 
