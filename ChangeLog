@@ -1,3 +1,9 @@
+2003-01-02  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.mime:
+
+	Add entry for application/x-palm-database
+
 2002-12-13  Frederic Crozat  <fcrozat@mandrakesoft.com>
 
 	* gnome-vfs-mime-magic: added OpenType font detection and 

@@ -276,6 +276,9 @@ application/x-ogg
 application/x-oleo
 	ext: oleo
 
+application/x-palm-database
+	ext: pdb
+
 application/x-php
 	ext: php php3 php4
 
