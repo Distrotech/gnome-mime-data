@@ -1,3 +1,8 @@
+2003-09-22  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: added application/x-zip-compressed, the Outlook
+	engineers ("I are one!") can't read either (Closes: #122947)
+
 2003-09-15  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.mime: added "pm" as a possible extension for text/x-perl
