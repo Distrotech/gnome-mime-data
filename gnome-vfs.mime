@@ -65,6 +65,9 @@ application/vnd.ms-excel
 application/vnd.ms-powerpoint
 	ext: ppt
 
+application/x-abiword
+	ext: abw
+
 application/x-applix-spreadsheet
 	ext: as
 
@@ -449,7 +452,7 @@ model/vrml
 
 
 text/abiword
-	ext: abw
+	ext:
 
 text/bib
 	ext: bib

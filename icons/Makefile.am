@@ -15,6 +15,7 @@ icon_DATA =\
 	gnome-application-vnd.ms-excel.png \
 	gnome-application-vnd.ms-powerpoint.png \
 	gnome-application-vnd.rn-realmedia.png \
+	gnome-application-x-abiword.png \
 	gnome-application-x-arj.png \
 	gnome-application-x-backup.png \
 	gnome-application-x-blender.png \

@@ -1,3 +1,15 @@
+2002-02-09  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.mime:
+	* icons/Makefile.am:
+	* icons/gnome-application-x-abiword.png:
+
+	Change abiword's default type to be appliction/x-abiword.
+	This is advised by DV, and seems better to me too
+	(the AbiWord people don't seem to have a preference). Its
+	also what KDE currently uses.
+	
 2002-02-08  Darin Adler  <darin@bentspoon.com>
 
 	* check-mime.pl: Add new keywords so the check doesn't fail.
