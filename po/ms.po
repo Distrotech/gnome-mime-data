@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-05-07 23:18-0700\n"
-"PO-Revision-Date: 2002-03-02 08:34+0800\n"
+"POT-Creation-Date: 2002-05-10 03:11+0800\n"
+"PO-Revision-Date: 2002-05-09 08:34+0800\n"
 "Last-Translator: Hasbullah Bin Pit <sebol@ikhlas.com>\n"
 "Language-Team: Projek Gabai <gabai-penyumbang@lists.sourceforge.org>\n"
 "MIME-Version: 1.0\n"
@@ -246,9 +246,8 @@ msgid "HTML page"
 msgstr "Laman HTML"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "Kod sumber C"
+msgstr "Kod sumber Haskell"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -342,9 +341,8 @@ msgid "Linux PSF console font"
 msgstr "Font konsol PSF Linux"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "kod sumber Fortran"
+msgstr "kod sumber haskell literate "
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -415,9 +413,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Dokumen Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Video Microsoft"
+msgstr "Video WMV Microsoft"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -572,7 +569,7 @@ msgstr "Dokumen PostScript"
 
 #: gnome-vfs.keys.in.h:135
 msgid "Project Plan"
-msgstr ""
+msgstr "Pelan Projek"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Python source code"
@@ -1031,9 +1028,8 @@ msgid "profiler results"
 msgstr "hasil pemprofail"
 
 #: gnome-vfs.keys.in.h:249
-#, fuzzy
 msgid "python byte code"
-msgstr "Kod sumber Python"
+msgstr "Kod byte python"
 
 #: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
