@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2005-01-14 04:20+0100\n"
-"PO-Revision-Date: 2005-01-31 09:30+0200\n"
+"PO-Revision-Date: 2005-02-08 12:43+0200\n"
 "Last-Translator: Canonical Ltd <translations@canonical.com>\n"
 "Language-Team: Xhosa <xh-translate@ubuntu.com>\n"
 "MIME-Version: 1.0\n"
@@ -80,11 +80,9 @@ msgstr "Umfanekiso weegrafiksi ze-ApplixWare"
 msgid "Applixware Words document"
 msgstr "Uxwebhu lwe-Applixware Words"
 
-# Isiyili-mifanekiso se-Applixware
 #: gnome-vfs.keys.in.h:17
-#, fuzzy
 msgid "Applixware presentation"
-msgstr "Isiyili mifanekiso se-Applixware"
+msgstr "Isiyili-mifanekiso se-Applixware"
 
 #: gnome-vfs.keys.in.h:18
 msgid "Applixware spreadsheet"
@@ -102,11 +100,9 @@ msgstr "Ikhowudi ebhaliweyo eyi-Assembly"
 msgid "Audio"
 msgstr "Enesandi"
 
-# Uluhlu lwabaqulunqi
 #: gnome-vfs.keys.in.h:22
-#, fuzzy
 msgid "Authors list"
-msgstr "Uluhlu lomqulunqi"
+msgstr "Uluhlu lwabaqulunqi"
 
 #: gnome-vfs.keys.in.h:23
 msgid "AutoCAD image"
@@ -140,11 +136,9 @@ msgstr "Inkqubo ye-Binary"
 msgid "BitTorrent seed file"
 msgstr "Ifayili yembewu eyi-BitTorrent"
 
-# Ifayili eyi-Blender?
 #: gnome-vfs.keys.in.h:31
-#, fuzzy
 msgid "Blender file"
-msgstr "Ifayili engumxube"
+msgstr "Ifayili eyi-Blender"
 
 #: gnome-vfs.keys.in.h:32
 msgid "Block device"
@@ -310,11 +304,9 @@ msgstr "Amaxwebhu/Amanani"
 msgid "Documents/Plain Text"
 msgstr "Amaxwebhu/isiqendu esicacileyo"
 
-# nesiyili-mifanekiso
 #: gnome-vfs.keys.in.h:73
-#, fuzzy
 msgid "Documents/Presentation"
-msgstr "Amaxwebhu/nesiyili mifanekiso"
+msgstr "Amaxwebhu/Isiyili-mifanekiso"
 
 #: gnome-vfs.keys.in.h:74
 msgid "Documents/Project Management"
@@ -380,11 +372,9 @@ msgstr "Umxholo oyalelayo"
 msgid "Enriched text document"
 msgstr "Uxwebhu lwesiqendu esinolwazi oluthe kratya"
 
-# Ifayili
 #: gnome-vfs.keys.in.h:90
-#, fuzzy
 msgid "Epiphany bookmarks file"
-msgstr "Ifayile i-Epiphany bookmarks"
+msgstr "Ifayili i-Epiphany bookmarks"
 
 #: gnome-vfs.keys.in.h:91
 msgid "FLAC audio"
@@ -482,11 +472,9 @@ msgstr "Uvimba i-Gtar"
 msgid "Gtktalog Catalogue"
 msgstr "Ikhathalokhu i-Gtktalog"
 
-# Ifayili
 #: gnome-vfs.keys.in.h:115
-#, fuzzy
 msgid "Gzip-compressed file"
-msgstr "Ifayile i-Gzip-eshwankathelweyo"
+msgstr "Ifayili i-Gzip-eshwankathelweyo"
 
 #: gnome-vfs.keys.in.h:116
 msgid "HDF document"
@@ -532,11 +520,9 @@ msgstr "Umfanekiso we-ISO"
 msgid "Images"
 msgstr "Imifanekiso"
 
-# I-Impulse 
 #: gnome-vfs.keys.in.h:127
-#, fuzzy
 msgid "Impulse Tracker audio"
-msgstr "i-Impulse Tracker enesandi"
+msgstr "I-Impulse Tracker enesandi"
 
 #: gnome-vfs.keys.in.h:128
 msgid "Information"
@@ -586,11 +572,9 @@ msgstr "Iinkcukacha zenkqubo i-KDE"
 msgid "KIllustrator document"
 msgstr "Uxwebhu i-KIllustrator"
 
-# Isiyili-mifanekiso se-KPresenter
 #: gnome-vfs.keys.in.h:140
-#, fuzzy
 msgid "KPresenter presentation"
-msgstr "Isiyili mifanekiso se-KPresenter"
+msgstr "Isiyili-mifanekiso se-KPresenter"
 
 #: gnome-vfs.keys.in.h:141
 msgid "KSpread spreadsheet"
@@ -616,11 +600,9 @@ msgstr "Uvimba i-LHARC"
 msgid "LIBGRX font"
 msgstr "Ifonti i-LIBGRX"
 
-# Into eyiLightWave
 #: gnome-vfs.keys.in.h:147
-#, fuzzy
 msgid "LightWave object"
-msgstr "Into eyi-LightWave object"
+msgstr "Into eyi-LightWave"
 
 #: gnome-vfs.keys.in.h:148
 msgid "LightWave scene"
@@ -702,11 +684,9 @@ msgstr "Uvimba i-Macintosh StuffIt"
 msgid "Macromedia Flash file"
 msgstr "Ifayili edanyazayo i-Macromedia"
 
-# Isiyili-mifanekiso esiyiMagicPoint
 #: gnome-vfs.keys.in.h:168
-#, fuzzy
 msgid "MagicPoint presentation"
-msgstr "Isiyili mifanekiso esiyi-MagicPoint"
+msgstr "Isiyili-mifanekiso esiyi-MagicPoint"
 
 #: gnome-vfs.keys.in.h:169
 msgid "Magick image format"
@@ -789,15 +769,12 @@ msgid "Microsoft video"
 msgstr "Ividiyo ye-Microsoft"
 
 #: gnome-vfs.keys.in.h:189
-#, fuzzy
 msgid "Monkey audio"
 msgstr "Inkawu enesandi"
 
-# Ifayili
 #: gnome-vfs.keys.in.h:190
-#, fuzzy
 msgid "Mozilla bookmarks file"
-msgstr "Ifayile ye-Mozilla bookmarks"
+msgstr "Ifayili ye-Mozilla bookmarks"
 
 #: gnome-vfs.keys.in.h:191
 msgid "Multi-part message"
@@ -815,17 +792,13 @@ msgstr "Umbhobho onegama"
 msgid "Nautilus link"
 msgstr "Unxibelelwano lwe-Nautilus"
 
-# Ifayili
 #: gnome-vfs.keys.in.h:195
-#, fuzzy
 msgid "Netscape bookmarks file"
-msgstr "Ifayile ye-Netscape egcina ii-website"
+msgstr "Ifayili ye-Netscape egcina ii-website"
 
-# I-Nintendo64 ROM
 #: gnome-vfs.keys.in.h:196
-#, fuzzy
 msgid "Nintendo64 ROM"
-msgstr "i-Nintendo64 ROM"
+msgstr "I-Nintendo64 ROM"
 
 #: gnome-vfs.keys.in.h:197
 msgid "Nullsoft video"
@@ -843,21 +816,17 @@ msgstr "Ikhowudi ye-Object"
 msgid "Objective C source code"
 msgstr "Ikhowudi ebhaliweyo ye-Objective C"
 
-# I-Ogg
 #: gnome-vfs.keys.in.h:201
-#, fuzzy
 msgid "Ogg audio"
-msgstr "i-Ogg enesandi"
+msgstr "I-Ogg enesandi"
 
 #: gnome-vfs.keys.in.h:202
 msgid "OpenOffice.org Impress presentation"
 msgstr "Isiyili mifanekiso se-OpenOffice.org Impress"
 
-# Isikhokelo sesiyili-mifanekiso
 #: gnome-vfs.keys.in.h:203
-#, fuzzy
 msgid "OpenOffice.org Impress presentation template"
-msgstr "Isikhokhelo sesiyili  mifanekiso se-OpenOffice.org Impress"
+msgstr "Isikhokelo sesiyili-mifanekiso se-OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:204
 msgid "OpenOffice.org Math document"
@@ -871,51 +840,37 @@ msgstr "Uxwebhu i-OpenOffice.org Writer"
 msgid "OpenOffice.org Writer global document"
 msgstr "Uxwebhu i-OpenOffice.org Writer global"
 
-# Isikhokelo
 #: gnome-vfs.keys.in.h:207
-#, fuzzy
 msgid "OpenOffice.org Writer template"
-msgstr "Isikhokhelo i-OpenOffice.org Writer"
+msgstr "Isikhokelo i-OpenOffice.org Writer"
 
-# I-OpenOffice.org drawing
 #: gnome-vfs.keys.in.h:208
-#, fuzzy
 msgid "OpenOffice.org drawing"
-msgstr "I-OpenOffice.org yokuzoba"
+msgstr "I-OpenOffice.org drawing"
 
-# Isikhokelo
 #: gnome-vfs.keys.in.h:209
-#, fuzzy
 msgid "OpenOffice.org drawing template"
-msgstr "Iikhokhelo i-OpenOffice.org sokuzoba"
+msgstr "Isikhokelo i-OpenOffice.org drawing template"
 
 #: gnome-vfs.keys.in.h:210
 msgid "OpenOffice.org spreadsheet"
 msgstr "Iprogram yokubala i-OpenOffice.org"
 
-# Isikhokelo
 #: gnome-vfs.keys.in.h:211
-#, fuzzy
 msgid "OpenOffice.org spreadsheet template"
-msgstr "Isikhokhelo seprogram yokubala i-OpenOffice.org"
+msgstr "Isikhokelo seprogram yokubala i-OpenOffice.org"
 
-# Ifonti
 #: gnome-vfs.keys.in.h:212
-#, fuzzy
 msgid "OpenType font"
-msgstr "ifonti i-OpenType"
+msgstr "Ifonti i-OpenType"
 
-# Umfanekiso 
 #: gnome-vfs.keys.in.h:213
-#, fuzzy
 msgid "PBM image"
-msgstr "umfanekiso i-PBM"
+msgstr "Umfanekiso i-PBM"
 
-# Umfanekiso
 #: gnome-vfs.keys.in.h:214
-#, fuzzy
 msgid "PC Paintbrush image"
-msgstr "umfanekiso webhrashi yokupeyinta ekhompyutheni"
+msgstr "Umfanekiso webhrashi yokupeyinta ekhompyutheni"
 
 #: gnome-vfs.keys.in.h:215
 msgid "PCF font"
@@ -933,11 +888,9 @@ msgstr "Inkqubo ye-PEF"
 msgid "PGM image"
 msgstr "Umfanekiso we-PGM"
 
-# Umdlalo
 #: gnome-vfs.keys.in.h:219
-#, fuzzy
 msgid "PGN chess game"
-msgstr "umdlalo we-PGN chess"
+msgstr "Umdlalo we-PGN chess"
 
 #: gnome-vfs.keys.in.h:220
 msgid "PGP keys"
@@ -995,11 +948,9 @@ msgstr "Inxalenye yomyalezo we-imeyili"
 msgid "Pascal source code"
 msgstr "Ikhowudi ebhaliweyo ye-Pascal"
 
-# I-Perl script
 #: gnome-vfs.keys.in.h:234
-#, fuzzy
 msgid "Perl script"
-msgstr "i-Perl script"
+msgstr "I-Perl script"
 
 #: gnome-vfs.keys.in.h:235
 msgid "Photo CD image"
@@ -1009,11 +960,9 @@ msgstr "Umfanekiso kwi-Photo CD"
 msgid "Photoshop document"
 msgstr "Uxwebhu lwe-Photoshop"
 
-# How about umbhalo for text?
 #: gnome-vfs.keys.in.h:237
-#, fuzzy
 msgid "Plain text document"
-msgstr "Uxwebhu lwesiqendu esicacileyo"
+msgstr "Uxwebhu lombhalo ocacileyo"
 
 #: gnome-vfs.keys.in.h:238
 msgid "Playlist"
@@ -1095,11 +1044,9 @@ msgstr "Ungqo wevidiyo"
 msgid "Reference to remote file"
 msgstr "Kubhekiswa kwifayili ekwenye indawo"
 
-# Ifayili
 #: gnome-vfs.keys.in.h:258
-#, fuzzy
 msgid "Rejected patch file"
-msgstr "Ifayile engahoywanga"
+msgstr "Ifayili engahoywanga"
 
 #: gnome-vfs.keys.in.h:259
 msgid "Rich text document"
@@ -1121,11 +1068,9 @@ msgstr "Ividiyo i-SGI"
 msgid "SGML document"
 msgstr "Uxwebhu lwe-SGML"
 
-# Uluhlu
 #: gnome-vfs.keys.in.h:264
-#, fuzzy
 msgid "SHOUTcast playlist"
-msgstr "uluhlu lokudlala lwe-SHOUTcast"
+msgstr "Uluhlu lokudlala lwe-SHOUTcast"
 
 #: gnome-vfs.keys.in.h:265
 msgid "SMIL script"
@@ -1135,11 +1080,9 @@ msgstr "Iskripti i-SMIL"
 msgid "SQL code"
 msgstr "Ikhowudi i-SQL"
 
-# I-SUN Rasterfile
 #: gnome-vfs.keys.in.h:267
-#, fuzzy
 msgid "SUN Rasterfile"
-msgstr "i-SUN Rasterfile"
+msgstr "I-SUN Rasterfile"
 
 #: gnome-vfs.keys.in.h:268
 msgid "SV4 CPIO archive"
@@ -1147,7 +1090,7 @@ msgstr "Uvimba i-SV4 CPIO"
 
 #: gnome-vfs.keys.in.h:269
 msgid "SV4 CPIP archive (with CRC)"
-msgstr "Uvimba i-SV4 CPIP  (ene-CRC)"
+msgstr "Uvimba i-SV4 CPIP (ene-CRC)"
 
 #: gnome-vfs.keys.in.h:270
 msgid "SVG art"
@@ -1169,17 +1112,13 @@ msgstr "I-Scream Tracker 3 enesandi"
 msgid "Scream Tracker audio"
 msgstr "I-Scream Tracker esinesandi"
 
-# Isixhobo iScream Tracker
 #: gnome-vfs.keys.in.h:275
-#, fuzzy
 msgid "Scream Tracker instrument"
-msgstr "I-Scream Tracker instrument"
+msgstr "Isixhobo i-Scream Tracker"
 
-# zokukhangela instead of search
 #: gnome-vfs.keys.in.h:276
-#, fuzzy
 msgid "Search results"
-msgstr "Iziphumo zokusetsha"
+msgstr "Iziphumo zokukhangela"
 
 #: gnome-vfs.keys.in.h:277
 msgid "Security"
@@ -1237,11 +1176,9 @@ msgstr "Ubucukubhede bekhompyutha obuwonga umqulunqi"
 msgid "Software installation instructions"
 msgstr "Imiyalelo yokufaka ubucukubhede bekhompyutha"
 
-# yephepha-mvume
 #: gnome-vfs.keys.in.h:291
-#, fuzzy
 msgid "Software license terms"
-msgstr "Imimiselo yephephamvume lobucukubhede bekhompyutha"
+msgstr "Imimiselo yephepha-mvume lobucukubhede bekhompyutha"
 
 #: gnome-vfs.keys.in.h:292
 msgid "Source code patch"
@@ -1275,11 +1212,9 @@ msgstr "Itshati i-StarChart"
 msgid "StarDraw drawing"
 msgstr "Umzobo i-StarDraw"
 
-# Isiyili-mifanekiso
 #: gnome-vfs.keys.in.h:300
-#, fuzzy
 msgid "StarImpress presentation"
-msgstr "Isiyili mifanekiso se-StarImpress"
+msgstr "Isiyili-mifanekiso se-StarImpress"
 
 #: gnome-vfs.keys.in.h:301
 msgid "StarMail file"
@@ -1321,11 +1256,9 @@ msgstr "Isixokelelwano"
 msgid "TIFF image"
 msgstr "Umfanekiso i-TIFF"
 
-# How about lombhalo for lwesiqendu ?
 #: gnome-vfs.keys.in.h:311
-#, fuzzy
 msgid "Tab-separated text document"
-msgstr "Uxwebhu lwesiqendu esahlukaniswe ngee-Tab"
+msgstr "Uxwebhu lombhalo esahlukaniswe ngee-Tab"
 
 #: gnome-vfs.keys.in.h:312
 msgid "Tar archive"
@@ -1479,11 +1412,9 @@ msgstr "Iigrafiks ngeenkcukacha zee-Windows"
 msgid "WordPerfect document"
 msgstr "Uxwebhu lwe-WordPerfect"
 
-# yamasuntsu instead of amacuntsu
 #: gnome-vfs.keys.in.h:350
-#, fuzzy
 msgid "X bitmap image"
-msgstr "Umfanekiso weengqokelela yamacuntsu e-X"
+msgstr "Umfanekiso weengqokelela yamasuntsu e-X"
 
 #: gnome-vfs.keys.in.h:351
 msgid "X window image"
@@ -1532,3 +1463,4 @@ msgstr "Ubucukubhede bekhompyutha i-iPod"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Ivekta grafik i-xfig"
+
