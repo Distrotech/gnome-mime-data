@@ -186,6 +186,7 @@
 0	string		MZ					application/x-ms-dos-executable
 0	string		%!					application/postscript
 0       string          BZh                                     application/x-bzip
+0	string		\x1f\x8b				application/x-gzip
 0	string		\037\235				application/x-compress
 0	string		\367\002				application/x-dvi
 0	string		\367\203				application/x-font-tex
