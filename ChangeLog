@@ -1,3 +1,7 @@
+2004-08-12  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* configure.in: Added nb to ALL_LINGUAS.
+
 2004-06-24  Frederic Crozat  <fcrozat@mandrakesoft.com>
 
 	* gnome-vfs.applications: fix gvim command and name (were 
