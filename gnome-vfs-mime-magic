@@ -101,7 +101,7 @@
 0	string		/*\ XPM\ */				image/x-xpixmap
 
 # svg rules need to go before html
-0:64	string		\<!DOCTYPE\ svg				image/svg
+0:256	string		\<!DOCTYPE\ svg				image/svg
 0:64	string		\<svg					image/svg
 # php rules need to go before html
 0:64	string		\<?php					application/x-php
