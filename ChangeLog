@@ -1,3 +1,9 @@
+2002-06-26  Jakub Steiner <jimmac@ximian.com>
+
+	* icons/Makefile.am: added i-web and i-network
+	* icons/i-network.png: 
+	* icons/i-web.png: hadess' request
+
 2002-06-26  Bastien Nocera  <hadess@hadess.net>
 
 	* icons/Makefile.am: added 2 files from ximian-south by jimmac

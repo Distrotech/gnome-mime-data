@@ -163,6 +163,7 @@ icon_DATA =\
 	i-music-36.png \
 	i-music.png \
 	i-nfs.png \
+	i-network.png \
 	i-printer.png \
 	i-regular-72.png \
 	i-regular-96.png \
@@ -172,6 +173,7 @@ icon_DATA =\
 	i-sock.png \
 	i-spreadsheet.png \
 	i-zipdisk.png \
+	i-web.png \
 	$(NULL)
 
 EXTRA_DIST = $(icon_DATA)
