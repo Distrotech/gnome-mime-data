@@ -8,14 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "POT-Creation-Date: 2002-10-31 05:39+0100\n"
-"PO-Revision-Date: 2003-01-07 10:33+EDT\n"
+"PO-Revision-Date: 2003-01-14 11:02+EDT\n"
 "Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
 "Language-Team: Amharic <locales@geez.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
 msgstr "የ3D Studio ምስል"
 
@@ -281,7 +280,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:67
 msgid "GNU mail message"
-msgstr "የGNU የኢሜል መልእክት"
+msgstr "የGNU የኢሜይል መልእክት"
 
 #: gnome-vfs.keys.in.h:68
 msgid "GTK configuration"
@@ -769,7 +768,7 @@ msgstr "የSMS ወይስ Game Gear ሮም"
 
 #: gnome-vfs.keys.in.h:189
 msgid "SQL code"
-msgstr ""
+msgstr "የSQL ኮድ"
 
 #: gnome-vfs.keys.in.h:190
 msgid "SUN Rasterfile"
@@ -805,7 +804,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:198
 msgid "Security"
-msgstr ""
+msgstr "ደህነት"
 
 #: gnome-vfs.keys.in.h:199
 msgid "Setext document"
@@ -813,7 +812,7 @@ msgstr "የSetext ሰነድ"
 
 #: gnome-vfs.keys.in.h:200
 msgid "Silicon Graphics Image"
-msgstr ""
+msgstr "የSilicon Graphics ምስል"
 
 #: gnome-vfs.keys.in.h:201
 msgid "Software Development"
