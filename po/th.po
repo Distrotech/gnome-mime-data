@@ -356,11 +356,11 @@ msgstr "โค้ดภาษา Emacs Lisp"
 
 #: gnome-vfs.keys.in.h:85
 msgid "Email headers"
-msgstr "หัวอีเมล์"
+msgstr "หัวอีเมล"
 
 #: gnome-vfs.keys.in.h:86
 msgid "Email message/mailbox"
-msgstr "กล่อง/ข้อความอีเมล์"
+msgstr "กล่อง/ข้อความอีเมล"
 
 #: gnome-vfs.keys.in.h:87
 msgid "Encrypted message"
@@ -440,7 +440,7 @@ msgstr "ตารางคำนวณ GNU Oleo"
 
 #: gnome-vfs.keys.in.h:106
 msgid "GNU mail message"
-msgstr "ข้อความ GNU-เมล์"
+msgstr "ข้อความ GNU-เมล"
 
 #: gnome-vfs.keys.in.h:107
 msgid "GTK configuration"
@@ -696,15 +696,15 @@ msgstr "ภาพ Magick"
 
 #: gnome-vfs.keys.in.h:170
 msgid "Mail delivery report"
-msgstr "รายงานการส่งเมล์"
+msgstr "รายงานการส่งเมล"
 
 #: gnome-vfs.keys.in.h:171
 msgid "Mail disposition report"
-msgstr "รายงานเมล์ถูกรับอ่าน"
+msgstr "รายงานเมลถูกรับอ่าน"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Mail system report"
-msgstr "รายงานระบบเมล์"
+msgstr "รายงานระบบเมล"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Makefile"
@@ -944,7 +944,7 @@ msgstr "ภาพ Palm Pixmap"
 
 #: gnome-vfs.keys.in.h:232
 msgid "Partial email message"
-msgstr "ส่วนข้อความจากอีเมล์"
+msgstr "ส่วนข้อความจากอีเมล"
 
 #: gnome-vfs.keys.in.h:233
 msgid "Pascal source code"
