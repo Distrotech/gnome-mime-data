@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-11-05 00:47+0100\n"
+"POT-Creation-Date: 2001-12-02 13:18+0100\n"
+"PO-Revision-Date: 2001-12-02 13:18+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "CPIO arkiv (gzip-komprimerat)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Commodore 64-ljud"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
