@@ -1,5 +1,10 @@
 2003-12-01  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.applications: use "gimp-remote" in place of "gimp"
+	to allow the use of an existing instance (Closes: #99272)
+
+2003-12-01  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.applications:
 	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: add Objective-C support (patch from PUYDT Julien

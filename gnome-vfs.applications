@@ -154,7 +154,7 @@ ggv
 	mime_types=application/pdf,application/postscript
 
 gimp
-	command=gimp
+	command=gimp-remote --new
 	name=The GIMP
 	can_open_multiple_files=true
 	expects_uris=non-file
