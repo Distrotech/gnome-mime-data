@@ -198,7 +198,7 @@ application/vnd.stardivision.writer
 
 
 application/vnd.sun.xml.calc
-	_description=OpenOffice spreadsheet
+	_description=OpenOffice.org spreadsheet
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -207,7 +207,7 @@ application/vnd.sun.xml.calc
 	use_category_default=yes
 
 application/vnd.sun.xml.calc.template
-	_description=OpenOffice spreadsheet template
+	_description=OpenOffice.org spreadsheet template
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -216,7 +216,7 @@ application/vnd.sun.xml.calc.template
 	use_category_default=yes
 
 application/vnd.sun.xml.draw
-	_description=OpenOffice drawing
+	_description=OpenOffice.org drawing
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -225,7 +225,7 @@ application/vnd.sun.xml.draw
 	use_category_default=no
 
 application/vnd.sun.xml.draw.template
-	_description=OpenOffice drawing template
+	_description=OpenOffice.org drawing template
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -234,7 +234,7 @@ application/vnd.sun.xml.draw.template
 	use_category_default=no
 
 application/vnd.sun.xml.impress
-	_description=OpenOffice Impress presentation
+	_description=OpenOffice.org Impress presentation
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -243,7 +243,7 @@ application/vnd.sun.xml.impress
 	use_category_default=yes
 
 application/vnd.sun.xml.impress.template
-	_description=OpenOffice Impress presentation template
+	_description=OpenOffice.org Impress presentation template
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -252,7 +252,7 @@ application/vnd.sun.xml.impress.template
 	use_category_default=yes
 
 application/vnd.sun.xml.math
-	_description=OpenOffice Math document
+	_description=OpenOffice.org Math document
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -261,7 +261,7 @@ application/vnd.sun.xml.math
 	use_category_default=no
 
 application/vnd.sun.xml.writer
-	_description=OpenOffice Writer document
+	_description=OpenOffice.org Writer document
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -270,7 +270,7 @@ application/vnd.sun.xml.writer
 	use_category_default=yes
 
 application/vnd.sun.xml.writer.global
-	_description=OpenOffice Writer global document
+	_description=OpenOffice.org Writer global document
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
@@ -279,7 +279,7 @@ application/vnd.sun.xml.writer.global
 	use_category_default=yes
 
 application/vnd.sun.xml.writer.template
-	_description=OpenOffice Writer template
+	_description=OpenOffice.org Writer template
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
