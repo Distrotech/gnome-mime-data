@@ -107,6 +107,9 @@ application/vnd.sun.xml.writer.template
 application/x-abiword
 	ext: abw
 
+application/x-ape
+	ext: ape
+
 application/x-applix-spreadsheet
 	ext: as
 
@@ -115,9 +118,6 @@ application/x-applix-word
 
 application/x-arj
 	ext: arj
-
-application/x-ape
-	ext: ape
 
 application/x-asp
 	ext: asp
@@ -722,14 +722,14 @@ text/x-troff-mm
 text/x-troff-ms
 	ext: ms
 
-text/x-yacc
-	ext: yacc y
-
 text/x-vcalendar
 	ext: vcs vcf
 
 text/x-vcard
 	ext: gcrd
+
+text/x-yacc
+        ext: yacc y
 
 text/xml
 	ext: xml

@@ -317,6 +317,14 @@ application/x-abiword
 	_category=Documents/Word Processor
 	use_category_default=yes
 
+application/x-ape
+        _description=Monkey Media lossless codec
+        default_action_type=application
+        short_list_application_ids_for_intermediate_user_level=gst-player
+        _category=audio
+        use_category_default=yes
+
+
 application/x-applix-spreadsheet
 	_description=Applixware spreadsheet
 	default_action_type=application
@@ -569,6 +577,10 @@ application/x-gnome-app-info
 	_description=application launcher
 	_category=User Interface
 
+application/x-gnome-theme
+	_description=GNOME theme package
+	_category=User Interface
+
 application/x-gnucash
 	_description=GnuCash Workbook
 	default_action_type=application
@@ -622,6 +634,10 @@ application/x-hdf
 	_description=HDF document
 	_category=Documents/Numeric
 
+application/x-ipod-firmware
+	_description=Apple ipod firmware
+	_category=Software Development/ROM image
+
 application/x-iso-image
 	_description=ISO image
 
@@ -629,6 +645,10 @@ application/x-iso-image
 application/x-java-byte-code
 	_description=Java byte code
 	_category=Software Development
+
+application/x-java-archive
+        _description=Java jar archive
+        _category=Packages
 
 application/x-jbuilder-project
 	_description=JBuilder Project
@@ -1701,6 +1721,9 @@ text/tab-separated-values
 text/tex
 	_description=TeX document
 	_category=Documents/Text Markup
+text/x-asm
+	_description=Assembler Code
+	_category=Assembler source code
 
 text/x-authors
 	_description=authors list
@@ -1810,6 +1833,10 @@ text/x-makefile
 	_description=makefile
 	_category=Software Development
 
+text/x-pascal
+	_description=Pascal source code
+	_category=Software Development/Source Code
+
 text/x-patch
 	_description=source code patch
 	_category=Software Development
@@ -1907,6 +1934,10 @@ text/x-zsh
 	can_be_executable=TRUE
 	_description=Z shell script
 	_category=Software Development/Source Code
+
+text/x-yacc
+        _description=Yacc source file
+        _category=Software Development/Source
 
 text/xml
 	_description=XML document
