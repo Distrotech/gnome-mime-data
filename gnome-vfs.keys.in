@@ -157,7 +157,6 @@ application/x-bcpio
 application/x-bzip
 	_description=bzip-compressed file
 	vfs_method=bzip2
-	icon_filename=gnome-compressed
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
@@ -326,7 +325,6 @@ application/x-gtar
 
 application/x-gzip
 	_description=gzip-compressed file
-	icon_filename=gnome-compressed
 	vfs_method=gzip
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=guitar
