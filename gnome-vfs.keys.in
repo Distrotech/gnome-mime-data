@@ -1842,6 +1842,7 @@ text/x-tcl
 text/x-tex
 	_description=TeX document
 	_category=Documents/Text Markup
+	icon_filename=gnome-tex
 
 text/x-texinfo
 	_description=TeXInfo document
