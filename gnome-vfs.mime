@@ -41,6 +41,9 @@ application/octet-stream
 application/oda
 	ext: oda
 
+application/ogg
+	ext: ogg
+
 application/pdf
 	ext: pdf
 
@@ -284,9 +287,6 @@ application/x-netcdf
 
 application/x-object-file
 	ext: o
-
-application/x-ogg
-	ext: ogg
 
 application/x-oleo
 	ext: oleo

@@ -5,6 +5,7 @@ icondir = $(datadir)/pixmaps/document-icons/
 icon_DATA =\
 	gnome-application-encapsulated_postscript.png \
 	gnome-application-msword.png \
+	gnome-application-ogg.png \
 	gnome-application-pdf.png \
 	gnome-application-pgp.png \
 	gnome-application-pgp-encrypted.png \
@@ -54,7 +55,6 @@ icon_DATA =\
 	gnome-application-x-msx-rom.png \
 	gnome-application-x-n64-rom.png \
 	gnome-application-x-nes-rom.png \
-	gnome-application-x-ogg.png \
 	gnome-application-x-php.png \
 	gnome-application-x-python-bytecode.png \
 	gnome-application-x-rpm.png \

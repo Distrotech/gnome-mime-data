@@ -1,5 +1,17 @@
 2003-05-05  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime:
+	* icons/Makefile.am:
+	* icons/gnome-application-ogg.png:
+	* icons/gnome-application-x-ogg.png: move application/x-ogg to
+	application/ogg, but leave the description and handlers intact
+	(Closes: #105838)
+
+2003-05-05  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.mime: added TTC extension for True Type fonts
 	(Closes: #99947)
 

@@ -101,7 +101,7 @@ freeamp
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=http,file
-	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,audio/x-wav,audio/mpeg
+	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,application/ogg,audio/x-wav,audio/mpeg
 
 freeamp-no-uris
 	command=freeamp
@@ -385,7 +385,7 @@ ogg123
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=http,ftp,file
-	mime_types=application/x-ogg
+	mime_types=application/x-ogg,application/ogg
 
 omsomi
 	command=omi_gtk
@@ -523,7 +523,7 @@ xmms
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=http,ftp,file
-	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,audio/x-wav,audio/x-riff,audio/mpeg
+	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,application/ogg,audio/x-wav,audio/x-riff,audio/mpeg
 
 xmms-no-uris
 	command=xmms
