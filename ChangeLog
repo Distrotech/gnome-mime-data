@@ -1,3 +1,12 @@
+2002-08-20  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime:
+
+	Add entry for shoutcast playlist (audio/x-scpls)
+	
 2002-08-18  James Willcox  <jwillcox@cs.indiana.edu>
 
 	* gnome-vfs.applications:  gedit expects URIs, not local paths

@@ -1054,6 +1054,14 @@ audio/x-s3m
 	_description=Scream Tracker 3 audio
 	_category=Audio
 
+audio/x-scpls
+	_description=SHOUTcast Playlist
+	icon_filename=i-music
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=xmms-no-uris,freeamp-no-uris
+	short_list_application_ids_for_intermediate_user_level=xmms-no-uris,freeamp-no-uris
+	short_list_application_ids_for_advanced_user_level=xmms-no-uris,freeamp-no-uris
+
 audio/x-stm
 	_description=Scream Tracker audio
 	_category=Audio

@@ -201,3 +201,9 @@
 0	string		From:					message/rfc822
 0	string		Article					message/news
 0	string		Received:				message/rfc822
+0	string		[playlist]				audio/x-scpls
+
+
+
+
+

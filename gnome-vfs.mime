@@ -383,6 +383,9 @@ audio/x-real-audio
 audio/x-s3m
 	ext: S3M s3m
 
+audio/x-scpls
+	ext: pls
+
 audio/x-stm
 	ext: STM stm
 
