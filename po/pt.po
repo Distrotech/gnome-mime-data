@@ -5,10 +5,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2002-03-28 06:24-0800\n"
-"PO-Revision-Date: 2002-02-28 00:49+GMT\n"
+"POT-Creation-Date: 2002-04-01 00:50+0100\n"
+"PO-Revision-Date: 2002-04-01 00:54+GMT\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
-"Language-Team: None <none@none.org>\n"
+"Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -526,9 +526,8 @@ msgid "Photoshop document"
 msgstr "Documento Photoshop"
 
 #: gnome-vfs.keys.in.h:129
-#, fuzzy
 msgid "Playlist"
-msgstr "Lista de ficheiros audio MP3"
+msgstr "Lista de ficheiros audio"
 
 #: gnome-vfs.keys.in.h:130
 msgid "PostScript Type 1 font"
@@ -575,9 +574,8 @@ msgid "RPM package"
 msgstr "Pacote RPM"
 
 #: gnome-vfs.keys.in.h:141
-#, fuzzy
 msgid "RealAudio document"
-msgstr "Documento PN RealAudio"
+msgstr "Documento RealAudio"
 
 #: gnome-vfs.keys.in.h:142
 msgid "RealAudio/Video document"
