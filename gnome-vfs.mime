@@ -116,6 +116,9 @@ application/x-applix-word
 application/x-arj
 	ext: arj
 
+application/x-ape
+	ext: ape
+
 application/x-asp
 	ext: asp
 
@@ -221,6 +224,9 @@ application/x-hdf
 
 application/x-iso-image
 	ext:iso
+
+application/x-java-archive
+	ext: jar
 
 application/x-java-byte-code
 	ext: class
@@ -566,7 +572,7 @@ model/vrml
 
 
 text/abiword
-	ext:
+	ext: abw
 
 text/bib
 	ext: bib
@@ -597,6 +603,9 @@ text/spreadsheet
 
 text/tab-separated-values
 	ext: tsv
+
+text/x-asm
+	ext: s
 
 text/x-authors
 	regex: AUTHORS
@@ -661,6 +670,9 @@ text/x-lyx
 text/x-makefile
 	regex: [Mm]akefile
 
+text/x-pascal
+	ext: p pascal
+
 text/x-perl
 	ext: pl perl
 
@@ -709,6 +721,9 @@ text/x-troff-mm
 
 text/x-troff-ms
 	ext: ms
+
+text/x-yacc
+	ext: yacc y
 
 text/x-vcalendar
 	ext: vcs vcf
