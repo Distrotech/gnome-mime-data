@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-mime-data\n"
-"POT-Creation-Date: 2001-12-18 06:16-0500\n"
-"PO-Revision-Date: 2001-12-18 14:37+0100\n"
+"POT-Creation-Date: 2001-12-21 06:15-0500\n"
+"PO-Revision-Date: 2001-12-22 01:08+0100\n"
 "Last-Translator: Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -725,7 +725,7 @@ msgstr "Xbase database"
 
 #: gnome-vfs.keys.in.h:178
 msgid "active server page"
-msgstr "Actieve ServerPagina"
+msgstr "actieve ServerPagina"
 
 #: gnome-vfs.keys.in.h:179
 msgid "address card"
@@ -769,11 +769,11 @@ msgstr "bzip-gecomprimeerd bestand"
 
 #: gnome-vfs.keys.in.h:189
 msgid "calendar file"
-msgstr "calenderbestand"
+msgstr "kalenderbestand"
 
 #: gnome-vfs.keys.in.h:190
 msgid "calendar or event document"
-msgstr "calender of gebeurtenisbestand"
+msgstr "kalender of gebeurtenisbestand"
 
 #: gnome-vfs.keys.in.h:191
 msgid "character device"
@@ -781,11 +781,11 @@ msgstr "karacter-apparaat"
 
 #: gnome-vfs.keys.in.h:192
 msgid "comma-separated text document"
-msgstr "Komma-gescheiden tekstdocument"
+msgstr "komma-gescheiden tekstdocument"
 
 #: gnome-vfs.keys.in.h:193
 msgid "compound document"
-msgstr "Gecombineerd document"
+msgstr "gecombineerd document"
 
 #: gnome-vfs.keys.in.h:194
 msgid "compress-compressed file"
@@ -808,8 +808,8 @@ msgid "email headers"
 msgstr "e-mail header"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "e-mail bericht"
+msgid "email message/mailbox"
+msgstr "e-mail bericht/postbus bestand"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
