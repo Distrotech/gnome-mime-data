@@ -30,11 +30,15 @@ icon_DATA =\
 	gnome-application-x-c-source.png \
 	gnome-application-x-cc-source.png \
 	gnome-application-x-compress.png \
+	gnome-application-x-dc-rom.png \
 	gnome-application-x-dia-diagram.png \
 	gnome-application-x-e-theme.png \
 	gnome-application-x-font-sunos-news.png \
+	gnome-application-x-gameboy-rom.png \
+	gnome-application-x-genesis-rom.png \
 	gnome-application-x-gnome-app-info.png \
 	gnome-application-x-gnumeric.png \
+	gnome-application-x-gtktalog.png \
 	gnome-application-x-gzip.png \
 	gnome-application-x-jar.png \
 	gnome-application-x-java-source.png \
@@ -43,11 +47,16 @@ icon_DATA =\
 	gnome-application-x-kpresenter.png \
 	gnome-application-x-kspread.png \
 	gnome-application-x-kword.png \
+	gnome-application-x-msx-rom.png \
+	gnome-application-x-n64-rom.png \
+	gnome-application-x-nes-rom.png \
 	gnome-application-x-ogg.png \
 	gnome-application-x-php.png \
 	gnome-application-x-reject.png \
 	gnome-application-x-scheme-source.png \
+	gnome-application-x-sms-rom.png \
 	gnome-application-x-sql.png \
+	gnome-application-x-stuffit.png \
 	gnome-audio-ac3.png \
 	gnome-audio-basic.png \
 	gnome-audio-midi.png \
@@ -111,8 +120,12 @@ icon_DATA =\
 	gnome-text-x-credits.png \
 	gnome-text-x-install.png \
 	gnome-text-x-makefile.png \
+	gnome-text-x-patch.png \
+	gnome-text-x-perl.png \
 	gnome-text-x-readme.png \
 	gnome-text-x-sql.png \
+	gnome-text-x-zsh.png \
+	gnome-text-xml.png \
 	gnome-textfile.png \
 	gnome-video-mpeg.png \
 	gnome-video-quicktime.png \
@@ -139,7 +152,7 @@ icon_DATA =\
 	i-regular-96.png \
 	i-regular.png \
 	i-regular.xml \
-	i-sock.png
+	i-sock.png \
 	i-spreadsheet.png \
 	i-zipdisk.png \
 	$(NULL)

@@ -1,3 +1,7 @@
+2002-03-03  Bastien Nocera  <hadess@hadess.net>
+
+	* icons/Makefile.am: install the icons mentioned underneath there
+
 2002-02-27  Bastien Nocera  <hadess@hadess.net>
 
 	reviewed by: Seth Nickell  <snickell@stanford.edu>
