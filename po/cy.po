@@ -263,61 +263,61 @@ msgstr "Diffiniad math dogfen"
 
 #: gnome-vfs.keys.in.h:61
 msgid "Documents"
-msgstr "Dogfenni"
+msgstr "Dogfennau"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Documents/Diagram"
-msgstr "Dogfenni/Diagram"
+msgstr "Dogfennau/Diagram"
 
 # Efallai
 #: gnome-vfs.keys.in.h:63
 msgid "Documents/Extended Markup Language (XML)"
-msgstr "Dogfenni/XML"
+msgstr "Dogfennau/XML"
 
 #: gnome-vfs.keys.in.h:64
 msgid "Documents/Numeric"
-msgstr "Dogfenni/Rhifyddol"
+msgstr "Dogfennau/Rhifyddol"
 
 #: gnome-vfs.keys.in.h:65
 msgid "Documents/Plain Text"
-msgstr "Dogfenni/Testun Plaen"
+msgstr "Dogfennau/Testun Plaen"
 
 #: gnome-vfs.keys.in.h:66
 msgid "Documents/Presentation"
-msgstr "Dogfenni/Cyflwyniad"
+msgstr "Dogfennau/Cyflwyniad"
 
 #: gnome-vfs.keys.in.h:67
 msgid "Documents/Project Management"
-msgstr "Dogfenni/Rheoli Prosiectau"
+msgstr "Dogfennau/Rheoli Prosiectau"
 
 #: gnome-vfs.keys.in.h:68
 msgid "Documents/Published Materials"
-msgstr "Dogfenni/Deunyddiau wedi eu Cyhoeddi"
+msgstr "Dogfennau/Deunyddiau wedi eu Cyhoeddi"
 
 #: gnome-vfs.keys.in.h:69
 msgid "Documents/Spreadsheet"
-msgstr "Dogfenni/Taenlen"
+msgstr "Dogfennau/Taenlen"
 
 #: gnome-vfs.keys.in.h:70
 msgid "Documents/TeX"
-msgstr "Dogfenni/TeX"
+msgstr "Dogfennau/TeX"
 
 # EFALLAI
 #: gnome-vfs.keys.in.h:71
 msgid "Documents/Text Markup"
-msgstr "Dogfenni/Testun a Thagiau"
+msgstr "Dogfennau/Testun a Thagiau"
 
 #: gnome-vfs.keys.in.h:72
 msgid "Documents/Vector Graphics"
-msgstr "Dogfenni/Delweddau Fector"
+msgstr "Dogfennau/Delweddau Fector"
 
 #: gnome-vfs.keys.in.h:73
 msgid "Documents/Word Processor"
-msgstr "Dogfenni/Prosesydd Geiriau"
+msgstr "Dogfennau/Prosesydd Geiriau"
 
 #: gnome-vfs.keys.in.h:74
 msgid "Documents/World Wide Web"
-msgstr "Dogfenni/Y We Fyd-Eang"
+msgstr "Dogfennau/Y We Fyd-Eang"
 
 #: gnome-vfs.keys.in.h:75
 msgid "Dolby Digital audio"
