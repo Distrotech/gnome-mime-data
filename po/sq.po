@@ -1,15 +1,14 @@
-# translation of sq.po to Albanian
 # Albanian translation of gnome-mime-data
 # This file is distributed under the same license as the gnome-mime-data package
-# Copyright (C) 1999, 2000, 2001, 2002, 2003, 2004 Free Software Foundation, Inc.
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
 # Laurent Dhima <laurenti@alblinux.net>, 2003, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: sq\n"
+"Project-Id-Version: gnome-mime-data.HEAD.sq\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-01-16 00:35+0100\n"
-"PO-Revision-Date: 2004-01-16 00:41+0100\n"
+"POT-Creation-Date: 2004-01-31 17:39+0100\n"
+"PO-Revision-Date: 2004-01-31 17:39+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -143,7 +142,7 @@ msgstr "File Blender"
 
 #: gnome-vfs.keys.in.h:32
 msgid "Block device"
-msgstr "Device në blloqe"
+msgstr "Dispozitiv në blloqe"
 
 #: gnome-vfs.keys.in.h:33
 msgid "Bzip2 compressed file"
@@ -195,7 +194,7 @@ msgstr "Dokument Kalendari o ngjarje"
 
 #: gnome-vfs.keys.in.h:45
 msgid "Character device"
-msgstr "Character device"
+msgstr "Dispozitiv me karaktere"
 
 #: gnome-vfs.keys.in.h:46
 msgid "Cinelerra editing sheet"
@@ -287,7 +286,7 @@ msgstr "Përcaktimi i llojit të dokumentit (DTD)"
 
 #: gnome-vfs.keys.in.h:68
 msgid "Documents"
-msgstr "Dokumente"
+msgstr "Dokumentet"
 
 #: gnome-vfs.keys.in.h:69
 msgid "Documents/Diagram"
@@ -431,7 +430,7 @@ msgstr "Lidhje GMC"
 
 #: gnome-vfs.keys.in.h:104
 msgid "GNOME desktop theme"
-msgstr "Tema e desktop GNOME"
+msgstr "Tema e hapësirës së punës GNOME"
 
 #: gnome-vfs.keys.in.h:105
 msgid "GNU Oleo Spreadsheet"
@@ -735,7 +734,7 @@ msgstr "Shkarkim i memorjes"
 
 #: gnome-vfs.keys.in.h:180
 msgid "Message"
-msgstr "Mesazhi"
+msgstr "Mesazh"
 
 #: gnome-vfs.keys.in.h:181
 msgid "Message digest"
@@ -855,7 +854,7 @@ msgstr "Model vizatimi OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:210
 msgid "OpenOffice.org spreadsheet"
-msgstr "Fletë llogaritëse OpenOffice.org"
+msgstr "Fletë llogaritëse e OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:211
 msgid "OpenOffice.org spreadsheet template"
@@ -1464,4 +1463,3 @@ msgstr "Software iPod"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Grafik vektorial xfig"
-
