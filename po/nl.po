@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-mime-data\n"
-"POT-Creation-Date: 2002-12-21 05:54+0100\n"
+"POT-Creation-Date: 2003-02-18 04:54+0100\n"
 "PO-Revision-Date: 2002-12-21 13:27+0100\n"
 "Last-Translator: V. van Adrighem <V.vanAdrighem@dirck.mine.nu>\n"
 "Language-Team: Dutch <nl@li.org>\n"
@@ -989,7 +989,7 @@ msgstr "Windows bitmap afbeelding"
 
 #: gnome-vfs.keys.in.h:245
 msgid "Windows icon image"
-msgstr "Windows icoontje"
+msgstr "Windows pictogram"
 
 #: gnome-vfs.keys.in.h:246
 msgid "Windows metafile graphics"
