@@ -1,19 +1,19 @@
 # Bulgarian translation of gnome-mime PO file.
 # Copyright (C) 2002 Free Software Foundation, Inc.
-# Alexander Shopov <al_shopov@web.bg>, 2002.
+# Alexander Shopov <al_shopov@yahoo.com>, 2002.
 # small updates for completeness, Yanko Kaneti <yaneti@declera.com>, 2002
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GNOME 2.1\n"
-"POT-Creation-Date: 2002-12-13 21:27+0200\n"
-"PO-Revision-Date: 2002-12-13 21:50+0300\n"
+"Project-Id-Version: GNOME 2.0.1\n"
+"POT-Creation-Date: 2002-12-19 14:15+0200\n"
+"PO-Revision-Date: 2002-12-19 14:20+0200\n"
 "Last-Translator: Alexander Shopov <al_shopov@yahoo.com>\n"
 "Language-Team: Bulgarian <dict@linux.zonebg.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.5\n"
+"X-Generator: KBabel 0.9.6\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -81,7 +81,7 @@ msgstr "BDF шрифт"
 
 #: gnome-vfs.keys.in.h:17
 msgid "C shell script"
-msgstr "срипт на C обвивката"
+msgstr "скрипт на C обвивката"
 
 #: gnome-vfs.keys.in.h:18
 msgid "C source code"
@@ -173,7 +173,7 @@ msgstr "Документи/Extended Markup Language (XML)"
 
 #: gnome-vfs.keys.in.h:40
 msgid "Documents/Numeric"
-msgstr "Доцументи/Числени"
+msgstr "Документи/Числени"
 
 #: gnome-vfs.keys.in.h:41
 msgid "Documents/Plain Text"
@@ -185,7 +185,7 @@ msgstr "Документи/Презентации"
 
 #: gnome-vfs.keys.in.h:43
 msgid "Documents/Project Management"
-msgstr "Документи/Мениджмънт на проекти"
+msgstr "Документи/Управление на проекти"
 
 #: gnome-vfs.keys.in.h:44
 msgid "Documents/Published Materials"
@@ -349,7 +349,7 @@ msgstr "ISI видео"
 
 #: gnome-vfs.keys.in.h:84
 msgid "ISO image"
-msgstr "ISO копие"
+msgstr "ISO файлова система"
 
 #: gnome-vfs.keys.in.h:85
 msgid "Images"
@@ -837,7 +837,7 @@ msgstr "Разработка на софтуер/ROM файлове"
 
 #: gnome-vfs.keys.in.h:206
 msgid "Software Development/Source Code"
-msgstr "Разработка на софтуер/Сорс код"
+msgstr "Разработка на софтуер/Изходен код"
 
 #: gnome-vfs.keys.in.h:207
 msgid "Speech document"
@@ -889,7 +889,7 @@ msgstr "StarWriter документ"
 
 #: gnome-vfs.keys.in.h:219
 msgid "Sun mu-law audio"
-msgstr "Sun звук по мю закон"
+msgstr "Sun звук по μ-закон"
 
 #: gnome-vfs.keys.in.h:220
 msgid "SunOS News font"
@@ -993,7 +993,7 @@ msgstr "Windows bitmap картинка"
 
 #: gnome-vfs.keys.in.h:245
 msgid "Windows icon image"
-msgstr "Windows иконка"
+msgstr "Windows икона"
 
 #: gnome-vfs.keys.in.h:246
 msgid "Windows metafile graphics"
@@ -1225,7 +1225,7 @@ msgstr "документ с форматиран текст"
 
 #: gnome-vfs.keys.in.h:303
 msgid "search results"
-msgstr "резултати от тъсенето"
+msgstr "резултати от търсенето"
 
 #: gnome-vfs.keys.in.h:304
 msgid "shared library"
