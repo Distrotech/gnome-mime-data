@@ -53,6 +53,7 @@
 0	string		\xed\xab\xee\xdb			application/x-rpm
 0	string		Rar!					application/x-rar
 0	string		GIF8					image/gif
+4	string		ftypM4A					audio/x-m4a
 4	string		moov					video/quicktime
 4	string		mdat					video/quicktime
 8	string		mp42					video/quicktime

@@ -1107,6 +1107,11 @@ audio/x-it
 	icon_filename=gnome-audio-x-it
 	_category=Audio
 
+audio/x-m4a
+	description=MPEG-4 audio
+	icon_filename=i-music
+	_category=Audio
+
 audio/x-midi
 	_description=MIDI audio
 	icon_filename=gnome-audio-midi
