@@ -384,6 +384,10 @@ application/x-bcpio
 	_description=BCPIO document
 	_category=Packages
 
+application/x-bittorrent
+	description=BitTorrent seed file
+	_category=Documents/World Wide Web
+
 application/x-blender
 	_description=Blender file
 	_category=Images

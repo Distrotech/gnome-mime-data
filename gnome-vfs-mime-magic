@@ -101,6 +101,7 @@
 0	belong          0x46506978                              image/x-fpx
 0	belong		0x00000200				image/x-icb
 0	belong		0x53445058				image/x-dpx
+0	string		d8:announce				application/x-bittorrent
 
 # Desktop file support - slightly wrong, since comments can be before
 # the [Desktop Entry] line in the current spec - probably should fix

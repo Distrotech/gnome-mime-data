@@ -1,3 +1,8 @@
+2003-10-05  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in: added BitTorrent mime-types and magic
+
 2003-09-22  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in: added application/x-zip-compressed, the Outlook
