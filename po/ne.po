@@ -1,4 +1,3 @@
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-mime-data package.
 # Pawan Chitrakar <pawan@nplinux.org>.
 # 
@@ -6,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "POT-Creation-Date: 2004-07-13 04:20+0200\n"
-"PO-Revision-Date: 2004-07-16 09:47+0545\n"
+"PO-Revision-Date: 2004-08-29 10:27+0545\n"
 "Last-Translator: Pawan Chitrakar <pawan@nplinux.org>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
 "MIME-Version: 1.0\n"
@@ -203,7 +202,7 @@ msgstr "कमा विभाजित पाठ मिसिल"
 
 #: gnome-vfs.keys.in.h:48
 msgid "Commodore 64 audio"
-msgstr "कम्मोडोर ६४ ध्वनि"
+msgstr "कम्मोडोर ६४ ध्वनि "
 
 #: gnome-vfs.keys.in.h:49
 msgid "Compound document"
