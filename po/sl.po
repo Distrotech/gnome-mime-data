@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-08-22 13:04+0200\n"
+"POT-Creation-Date: 2003-08-24 21:34+0200\n"
 "PO-Revision-Date: 2000-07-07 02:53+0200\n"
 "Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
@@ -127,9 +127,8 @@ msgid "Binary program"
 msgstr "Binarni program"
 
 #: gnome-vfs.keys.in.h:29
-#, fuzzy
 msgid "Blender file"
-msgstr "Datoteka koledarja"
+msgstr "Datoteka Blender"
 
 #: gnome-vfs.keys.in.h:30
 msgid "Block device"
@@ -648,9 +647,8 @@ msgid "Macromedia Flash file"
 msgstr "Datoteka Macromedia Flash"
 
 #: gnome-vfs.keys.in.h:159
-#, fuzzy
 msgid "MagicPoint presentation"
-msgstr "Predstavitev KPresenterja"
+msgstr "Predstavitev MagicPoint"
 
 #: gnome-vfs.keys.in.h:160
 msgid "Magick image format"
