@@ -470,6 +470,15 @@ application/x-executable-binary
 	can_be_executable=TRUE
 	_description=binary program
 
+application/x-flac
+	_description=FLAC audio
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=gst-player
+	short_list_application_ids_for_intermediate_user_level=gst-player
+	short_list_application_ids_for_advanced_user_level=gst-player
+	_category=Audio
+	use_category_default=no
+
 application/x-font-afm
 	_description=Adobe font metrics
 	icon_filename=gnome-font-afm

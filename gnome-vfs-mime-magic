@@ -203,6 +203,7 @@
 0	string		Article					message/news
 0	string		Received:				message/rfc822
 0	string		[playlist]				audio/x-scpls
+0	string		fLaC					application/x-flac
 
 
 

@@ -1,3 +1,10 @@
+2002-11-08  Thomas Vander Stichele <thomas at apestaart dot org>
+
+        * gnome-vfs-mime-magic:
+        * gnome-vfs.applications:
+        * gnome-vfs.keys.in:
+        * gnome-vfs.mime: added flac (lossless audio compression)
+
 2002-11-04  Alexander Kirillov <kirillov@math.sunysb.edu>
 
 	* gnome-vfs.keys.in: added an icon for text/x-tex (same one as 

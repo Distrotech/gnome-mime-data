@@ -168,6 +168,9 @@ application/x-dvi
 application/x-e-theme
 	ext: etheme ETHEME
 
+application/x-flac
+	ext: flac
+
 application/x-font-afm
 	ext: afm
 
