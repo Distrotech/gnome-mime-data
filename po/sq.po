@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD.sq\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-01-31 17:39+0100\n"
-"PO-Revision-Date: 2004-01-31 17:39+0100\n"
+"POT-Creation-Date: 2004-02-12 14:31+0100\n"
+"PO-Revision-Date: 2004-02-12 14:38+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "Gërma Adobe FrameMaker"
 
 #: gnome-vfs.keys.in.h:12
 msgid "Adobe font metrics"
-msgstr "Adobe font metrics"
+msgstr "Gërma Adobe metrics"
 
 #: gnome-vfs.keys.in.h:13
 msgid "Andrew Toolkit inset"
@@ -118,7 +118,7 @@ msgstr "Gërma BDF"
 
 #: gnome-vfs.keys.in.h:26
 msgid "Backup file"
-msgstr "File i backup"
+msgstr "File backup"
 
 #: gnome-vfs.keys.in.h:27
 msgid "Basic audio"
@@ -126,7 +126,7 @@ msgstr "Audio bazë"
 
 #: gnome-vfs.keys.in.h:28
 msgid "Bibliography record"
-msgstr "Zë bibliografie"
+msgstr "Regjistrim bibliografik"
 
 #: gnome-vfs.keys.in.h:29
 msgid "Binary program"
@@ -234,7 +234,7 @@ msgstr "Script DCL"
 
 #: gnome-vfs.keys.in.h:55
 msgid "DOS font"
-msgstr "DOS font"
+msgstr "Gërmë DOS"
 
 #: gnome-vfs.keys.in.h:56
 msgid "DOS/Windows program"
@@ -274,7 +274,7 @@ msgstr "Imazh Digital Moving Picture Exchange"
 
 #: gnome-vfs.keys.in.h:65
 msgid "Directory information file"
-msgstr "File informacioni mbi directory"
+msgstr "File me informacione mbi directory"
 
 #: gnome-vfs.keys.in.h:66
 msgid "DjVu image"
@@ -566,7 +566,7 @@ msgstr "Kod burues JavaScript"
 
 #: gnome-vfs.keys.in.h:138
 msgid "KDE application details"
-msgstr "Detaje të aplikacionit KDE"
+msgstr "Detaje të programit KDE"
 
 #: gnome-vfs.keys.in.h:139
 msgid "KIllustrator document"
@@ -1463,3 +1463,4 @@ msgstr "Software iPod"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Grafik vektorial xfig"
+
