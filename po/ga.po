@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Alastair McKinstry <mckinstry@computer.org>\n"
 "Language-Team: Irish <ga@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -920,7 +920,7 @@ msgstr ""
 #: gnome-vfs.keys.in.h:227
 #, fuzzy
 msgid "directory information file"
-msgstr "NÌl an fillte·n folamh"
+msgstr "N√≠l an fillte√°n folamh"
 
 #: gnome-vfs.keys.in.h:228
 msgid "document type definition"
@@ -1155,43 +1155,43 @@ msgstr ""
 #~ msgstr "Gan earraidh"
 
 #~ msgid "Internal error"
-#~ msgstr "Earraidh intÌre"
+#~ msgstr "Earraidh int√≠re"
 
 #~ msgid "I/O error"
 #~ msgstr "Earraidh I/A"
 
 #~ msgid "Format not valid"
-#~ msgstr "FormÛid neamh-dhleathach"
+#~ msgstr "Form√≥id neamh-dhleathach"
 
 #~ msgid "File too big"
-#~ msgstr "Comhad rÛ-mhÛr"
+#~ msgstr "Comhad r√≥-mh√≥r"
 
 #~ msgid "Read-only file system"
-#~ msgstr "Cor·s chomad le·mh-amhain"
+#~ msgstr "Cor√°s chomad le√°mh-amhain"
 
 #~ msgid "Invalid URI"
 #~ msgstr "IRI neamh"
 
 #~ msgid "Not a directory"
-#~ msgstr "NÌl aon filltÈan ann"
+#~ msgstr "N√≠l aon fillt√©an ann"
 
 #~ msgid "Is a directory"
-#~ msgstr "Is fillte·n ann"
+#~ msgstr "Is fillte√°n ann"
 
 #~ msgid "Not enough memory"
-#~ msgstr "Cuimhne ˙s·idte"
+#~ msgstr "Cuimhne √∫s√°idte"
 
 #~ msgid "Login failed"
 #~ msgstr "Teip ar logann"
 
 #~ msgid "Directory not empty"
-#~ msgstr "NÌl an fillte·n folamh"
+#~ msgstr "N√≠l an fillte√°n folamh"
 
 #~ msgid "Read only file system"
-#~ msgstr "Cor·s chomad le·mh-amhain"
+#~ msgstr "Cor√°s chomad le√°mh-amhain"
 
 #~ msgid "Name too long"
-#~ msgstr "Ainm rÛ-fhada"
+#~ msgstr "Ainm r√≥-fhada"
 
 #, fuzzy
 #~ msgid "Protocol error"
@@ -1224,24 +1224,24 @@ msgstr ""
 #~ msgstr "GnomeVFSSeekPosition %d gan aithne"
 
 #~ msgid "Error reading: %s"
-#~ msgstr "Earraidh ag le·mh: %s"
+#~ msgstr "Earraidh ag le√°mh: %s"
 
 #~ msgid "Error writing: %s"
-#~ msgstr "Earraidh ag scrÌobh: %s"
+#~ msgstr "Earraidh ag scr√≠obh: %s"
 
 #~ msgid "Cannot write: %s"
-#~ msgstr "Teip ag scrÌobh: %s"
+#~ msgstr "Teip ag scr√≠obh: %s"
 
 #~ msgid "Usage: %s <ior> [<ior_fd>]\n"
-#~ msgstr "⁄s·id: %s <ior>< [ior_fd]\n"
+#~ msgstr "√ös√°id: %s <ior>< [ior_fd]\n"
 
 #, fuzzy
 #~ msgid "Go to the parent directory"
-#~ msgstr "NÌl aon filltÈan ann"
+#~ msgstr "N√≠l aon fillt√©an ann"
 
 #, fuzzy
 #~ msgid "Go to the home directory"
-#~ msgstr "NÌl aon filltÈan ann"
+#~ msgstr "N√≠l aon fillt√©an ann"
 
 #~ msgid "ftpfs: abort error: %s"
 #~ msgstr "ftpfs: earraidh `abort: %s"
@@ -1250,7 +1250,7 @@ msgstr ""
 #~ msgstr "ftpfs: teip ar `abort'"
 
 #~ msgid "ftpfs: storing file %d (%d)"
-#~ msgstr "ftpfs: ag s·bh·il comhad %d (%d)"
+#~ msgstr "ftpfs: ag s√°bh√°il comhad %d (%d)"
 
 #~ msgid "ftpfs: CWD failed."
 #~ msgstr "ftpfs: Teip ar CWD."

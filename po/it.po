@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Christopher R. Gabriel <cgabriel@pluto.linux.it>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -748,7 +748,7 @@ msgstr "Documento StarOffice Writer"
 
 #: gnome-vfs.keys.in.h:178
 msgid "Sun mu-law audio"
-msgstr "Audio Sun µ-law "
+msgstr "Audio Sun Âµ-law "
 
 #: gnome-vfs.keys.in.h:179
 msgid "SunOS News font"
@@ -1194,7 +1194,7 @@ msgstr "archivio zoo"
 #~ msgstr "%s:%d non contiene il nome del modulo."
 
 #~ msgid "Configuration file `%s' was not found: %s"
-#~ msgstr "Il file di configurazione `%s' non è stato trovato: %s"
+#~ msgstr "Il file di configurazione `%s' non Ã¨ stato trovato: %s"
 
 #~ msgid "Could not parse: %s"
 #~ msgstr "Impossibile analizzare: %s"
@@ -1245,7 +1245,7 @@ msgstr "archivio zoo"
 #~ msgstr "File non aperto"
 
 #~ msgid "Open mode not valid"
-#~ msgstr "Modalità di apertura non valida"
+#~ msgstr "ModalitÃ  di apertura non valida"
 
 #~ msgid "Access denied"
 #~ msgstr "Accesso negato"
@@ -1257,7 +1257,7 @@ msgstr "archivio zoo"
 #~ msgstr "Fine del file"
 
 #~ msgid "Not a directory"
-#~ msgstr "Non è una directory"
+#~ msgstr "Non Ã¨ una directory"
 
 #~ msgid "Operation in progress"
 #~ msgstr "Operazione in corso"
@@ -1275,7 +1275,7 @@ msgstr "archivio zoo"
 #~ msgstr "Operazione non permessa"
 
 #~ msgid "Is a directory"
-#~ msgstr "È una directory"
+#~ msgstr "Ãˆ una directory"
 
 #~ msgid "Not enough memory"
 #~ msgstr "Memoria insufficiente"
@@ -1356,4 +1356,4 @@ msgstr "archivio zoo"
 #~ msgstr "GnomeVFSSeekPosition %d sconociuta."
 
 #~ msgid "GNOME VFS already initialized."
-#~ msgstr "GNOME VFS è già stato inizializzato."
+#~ msgstr "GNOME VFS Ã¨ giÃ  stato inizializzato."

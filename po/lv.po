@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Artis Trops <hornet@navigator.lv>\n"
 "Language-Team: Latvian <ll10nt@os.lv>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -1320,4 +1320,3 @@ msgstr "zip arhīvs"
 #: gnome-vfs.keys.in.h:327
 msgid "zoo archive"
 msgstr "zoo arhīvs"
-
