@@ -148,6 +148,7 @@
 0:64	string		\<abiword				application/x-abiword
 0:64	string		\<\!DOCTYPE\ abiword			application/x-abiword
 0:64	string		gmr:Workbook				application/x-gnumeric
+0:64	string		\<project				application/x-mrproject
 # text/xml content detection needs to be after all the xml-derived formats
 0:64	string		\<?xml					text/xml
 0	string		{\\rtf					application/rtf
