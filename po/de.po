@@ -1,11 +1,12 @@
 # gnome-vfs German translation.
-# Copyright (C) 1999, 2000 Free Software Foundation, Inc.
+# Copyright (C) 1999, 2000, 2001 Free Software Foundation, Inc.
 # Matthias Warkus <mawa@iname.com>, 2000.
+# Christian Meyer <chrisime@gnome.org>, 2001.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-vfs HEAD\n"
-"POT-Creation-Date: 2001-12-01 23:42-0800\n"
+"Project-Id-Version: gnome-mime-data 1.0\n"
+"POT-Creation-Date: 2001-12-06 02:07+0100\n"
 "PO-Revision-Date: 2001-07-29 07:48+0200\n"
 "Last-Translator: Christian Meyer <chrisime@gnome.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -82,9 +83,8 @@ msgid "C source code"
 msgstr "C-Quellcode"
 
 #: gnome-vfs.keys.in.h:18
-#, fuzzy
 msgid "C source code header"
-msgstr "C-Quellcode"
+msgstr "C-Quellcode-Header"
 
 #: gnome-vfs.keys.in.h:19
 msgid "C++ source code"
@@ -112,7 +112,7 @@ msgstr "CPIO-Archive (gzip-komprimiert)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Commodore 64-Audio"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
@@ -319,9 +319,8 @@ msgid "Lotus 1-2-3 spreadsheet"
 msgstr "Lotus 1-2-3-Arbeitsblatt"
 
 #: gnome-vfs.keys.in.h:77
-#, fuzzy
 msgid "LyX Document"
-msgstr "IDL-Dokument"
+msgstr "LyX-Dokument"
 
 #: gnome-vfs.keys.in.h:78
 msgid "M3 audio URL"
