@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-08-10 10:06+0200\n"
-"PO-Revision-Date: 2002-08-10 10:43+0200\n"
+"POT-Creation-Date: 2002-08-21 20:08+0200\n"
+"PO-Revision-Date: 2002-08-21 20:23+0200\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -752,6 +752,10 @@ msgstr "Plik wideo SGI"
 #: gnome-vfs.keys.in.h:1
 msgid "SGML document"
 msgstr "Dokument SGML"
+
+#: gnome-vfs.keys.in.h:1
+msgid "SHOUTcast Playlist"
+msgstr "Lista odtwarzania programu SHOUTcast"
 
 #: gnome-vfs.keys.in.h:1
 msgid "SMIL script"
