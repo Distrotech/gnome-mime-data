@@ -1,6 +1,9 @@
 2002-05-31  Jakub Steiner <jimmac@ximian.com>
 
 	* icons/i-dvd.png: we can't use the DVD logo I was told. 
+	* icons/gnome-text-abiword.png: don't use the app icon for abi
+     files
+	* icons/gnome-text-x-lyx.png: LyX files
 
 Thu May 30 09:32:41 2002  George Lebl <jirka@5z.com>
 

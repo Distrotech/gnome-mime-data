@@ -128,6 +128,7 @@ icon_DATA =\
 	gnome-text-x-install.png \
 	gnome-text-x-java.png \
 	gnome-text-x-literate-haskell.png \
+	gnome-text-x-lyx.png \
 	gnome-text-x-makefile.png \
 	gnome-text-x-patch.png \
 	gnome-text-x-perl.png \
