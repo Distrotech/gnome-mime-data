@@ -123,7 +123,6 @@
 0:64	string		\<svg					image/svg
 # php rules need to go before html
 0:64	string		\<?php					application/x-php
-0:64	string		\<?xml					text/xml
 0:64	string		\<smil\>				application/x-smil
 0:64    string		\<SMIL\>				application/x-smil
 0:64	string		\<!DOCTYPE\ HTML			text/html
@@ -134,6 +133,12 @@
 0:64	string		\<title					text/html
 0:64	string		\<html					text/html
 0:64	string		\<HTML					text/html
+0:64	string		\<dia:diagram				application/x-dia-diagram
+0:64	string		\<abiword				application/x-abiword
+0:64	string		\<\!DOCTYPE\ abiword			application/x-abiword
+0:64	string		gmr:Workbook				application/x-gnumeric
+# text/xml content detection needs to be after all the xml-derived formats
+0:64	string		\<?xml					text/xml
 0	string		{\\rtf					application/rtf
 0	string		#!/bin/sh				text/x-sh
 0	string		#!/bin/bash				text/x-sh
@@ -173,9 +178,6 @@
 4       string		\x12\xAF				video/x-flc
 0	string		\x31\xbe\x00\x00			application/msword
 0       string  	PO^Q`           			application/msword
-0:64	string		gmr:Workbook				application/x-gnumeric
-0:64	string		\<abiword				application/x-abiword
-0:64    string          \<\!DOCTYPE\ abiword                    application/x-abiword
 0	string		*BEGIN\ SPREADSHEETS			application/x-applix-spreadsheet
 0	string		\x00\x00\x02\x00			application/vnd.lotus-1-2-3
 0	string		PSID					audio/prs.sid

@@ -1,3 +1,10 @@
+2003-05-02  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: move down the ranking the tests to recognise
+	XML files, and move the xml-derived formats above it. This fixes
+	detection of uncompressed Dia, Gnumeric and Abiword documents
+	(Closes: #110958)
+
 2003-04-26  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: add magic for some MPEG program streams
