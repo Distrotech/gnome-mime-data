@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2002-04-23 12:45-0400\n"
-"PO-Revision-Date: 2002-04-01 00:54+GMT\n"
+"POT-Creation-Date: 2002-04-24 02:35+0100\n"
+"PO-Revision-Date: 2002-04-24 02:40+0100\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -238,9 +238,8 @@ msgid "HTML page"
 msgstr "Página HTML"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "Código Fonte C"
+msgstr "Código Fonte Haskell"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -331,9 +330,8 @@ msgid "Linux PSF console font"
 msgstr "Fonte PSF de consola Linux"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "Código Fonte Fortran"
+msgstr "Código fonte haskell literado"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -404,9 +402,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Documento Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Vídeo Microsoft"
+msgstr "Vídeo Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
