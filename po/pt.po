@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-11-01 22:53+GMT\n"
+"POT-Creation-Date: 2001-12-02 22:45+0000\n"
+"PO-Revision-Date: 2001-12-02 22:45+GMT\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: None <none@none.org>\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr "Arquivo CPIO (comprimido com gzip)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Audio Commodore 64"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
