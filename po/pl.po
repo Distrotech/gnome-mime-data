@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-05-19 10:52+0200\n"
-"PO-Revision-Date: 2002-05-19 10:52+0200\n"
+"POT-Creation-Date: 2002-06-01 10:49+0200\n"
+"PO-Revision-Date: 2002-06-01 10:50+0200\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -478,6 +478,10 @@ msgid "PBM image"
 msgstr "Obraz PBM"
 
 #: gnome-vfs.keys.in.h:1
+msgid "PC Paintbrush image"
+msgstr "Obraz PC Paintbrush"
+
+#: gnome-vfs.keys.in.h:1
 msgid "PCF font"
 msgstr "Czcionka PCF"
 
@@ -518,6 +522,10 @@ msgid "PHP script"
 msgstr "Skrypt w PHP"
 
 #: gnome-vfs.keys.in.h:1
+msgid "PICT image"
+msgstr "Obraz PICT"
+
+#: gnome-vfs.keys.in.h:1
 msgid "PNG image"
 msgstr "Obraz PNG"
 
@@ -536,6 +544,10 @@ msgstr "Baza Danych Palm OS"
 #: gnome-vfs.keys.in.h:1
 msgid "Perl script"
 msgstr "Skrypt w Perlu"
+
+#: gnome-vfs.keys.in.h:1
+msgid "Photo CD image"
+msgstr "Obraz Photo CD"
 
 #: gnome-vfs.keys.in.h:1
 msgid "Photoshop document"
@@ -704,6 +716,10 @@ msgstr "Plik StarMail"
 #: gnome-vfs.keys.in.h:1
 msgid "StarMath document"
 msgstr "Dokument StarMath"
+
+#: gnome-vfs.keys.in.h:1
+msgid "StarOffice extended metafile image"
+msgstr "Rozszerzony metaplik obrazu StarOffice"
 
 #: gnome-vfs.keys.in.h:1
 msgid "StarWriter document"
@@ -991,7 +1007,7 @@ msgstr "potok nazwany"
 
 #: gnome-vfs.keys.in.h:1
 msgid "object code"
-msgstr "kod w postaci obiektowej"
+msgstr "kod w postaci skompilowanej"
 
 #: gnome-vfs.keys.in.h:1
 msgid "ogg audio"
