@@ -531,6 +531,9 @@ text/x-install
 text/x-java
 	ext: java
 
+text/x-lyx
+	ext: lyx
+
 text/x-makefile
 	regex: [Mm]akefile
 

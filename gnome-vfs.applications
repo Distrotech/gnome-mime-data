@@ -278,6 +278,14 @@ lynx
 	supported_uri_schemes=file,http,ftp
 	mime_types=text/html,x-directory/webdav,x-directory/webdav-prefer-directory
 
+lyx
+	command=lyx
+	name=LyX Document Processor
+	can_open_multiple_files=true
+	expects_uris=false
+	requires_terminal=false
+	mime_types=text/x-lyx
+
 mozilla
 	command=mozilla
 	name=Mozilla

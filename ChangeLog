@@ -1,5 +1,14 @@
 2001-11-02  Seth Nickell  <snickell@stanford.edu>
 
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime:
+
+	Add LyX Document Processor and text/x-lyx
+	
+2001-11-02  Seth Nickell  <snickell@stanford.edu>
+
 	* gnome-vfs.keys.in:
 
 	Make AbiWord the default application for Word files.
