@@ -1,12 +1,12 @@
 # gnome-vfs ja.po
-# Copyright (C) 2000 Free Software Foundation, Inc.
-# Akira TAGOH <at@ff.iij4u.or.jp>, 2000.
+# Copyright (C) 2000-2001 Free Software Foundation, Inc.
+# Akira TAGOH <tagoh@gnome.gr.jp>, 2000-2001.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-vfs CVS-20010708\n"
+"Project-Id-Version: gnome-vfs CVS-20011213\n"
 "POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-07-08 02:06+0900\n"
+"PO-Revision-Date: 2001-12-13 20:29+0900\n"
 "Last-Translator: Akira TAGOH <tagoh@gnome.gr.jp>\n"
 "Language-Team: Japanese <translation@gnome.gr.jp>\n"
 "MIME-Version: 1.0\n"
@@ -82,9 +82,8 @@ msgid "C source code"
 msgstr "C ソースコード"
 
 #: gnome-vfs.keys.in.h:18
-#, fuzzy
 msgid "C source code header"
-msgstr "C ソースコード"
+msgstr "C ヘッダ"
 
 #: gnome-vfs.keys.in.h:19
 msgid "C++ source code"
@@ -112,7 +111,7 @@ msgstr "CPIO アーカイブ (gzip圧縮)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "コモドール64 オーディオ"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
@@ -319,9 +318,8 @@ msgid "Lotus 1-2-3 spreadsheet"
 msgstr "Lotus 1-2-3 スプレッドシート"
 
 #: gnome-vfs.keys.in.h:77
-#, fuzzy
 msgid "LyX Document"
-msgstr "IDL ドキュメント"
+msgstr "LyX ドキュメント"
 
 #: gnome-vfs.keys.in.h:78
 msgid "M3 audio URL"
@@ -1022,180 +1020,3 @@ msgstr "zip アーカイブ"
 #: gnome-vfs.keys.in.h:252
 msgid "zoo archive"
 msgstr "zoo アーカイブ"
-
-#~ msgid "%s:%d contains NUL characters."
-#~ msgstr "%s:%d NUL キャラクタを含んでいます"
-
-#~ msgid "%s:%d contains no method name."
-#~ msgstr "%s:%d メソッド名がありません"
-
-#~ msgid "%s:%d contains no module name."
-#~ msgstr "%s:%d モジュール名がありません"
-
-#~ msgid "Configuration file `%s' was not found: %s"
-#~ msgstr "コンフィグファイル '%s' は見つかりません: %s"
-
-#~ msgid "Could not parse: %s"
-#~ msgstr "構文解析できませんでした: %s"
-
-#~ msgid "More parsing errors will be ignored."
-#~ msgstr "これ以上の構文解析エラーは無視するでしょう"
-
-#~ msgid "No error"
-#~ msgstr "エラーはありません"
-
-#~ msgid "File not found"
-#~ msgstr "ファイルがありません"
-
-#~ msgid "Generic error"
-#~ msgstr "一般的なエラー"
-
-#~ msgid "Internal error"
-#~ msgstr "内部的なエラー"
-
-#~ msgid "Invalid parameters"
-#~ msgstr "無効なパラメータ"
-
-#~ msgid "Unsupported operation"
-#~ msgstr "サポート外の動作"
-
-#~ msgid "I/O error"
-#~ msgstr "入出力エラー"
-
-#~ msgid "Data corrupted"
-#~ msgstr "データが壊れている"
-
-#~ msgid "Format not valid"
-#~ msgstr "フォーマットは無効"
-
-#~ msgid "Bad file handle"
-#~ msgstr "おかしなファイルハンドル"
-
-#~ msgid "File too big"
-#~ msgstr "ファイルは大きすぎる"
-
-#~ msgid "No space left on device"
-#~ msgstr "デバイスに空きが無い"
-
-#~ msgid "Read-only file system"
-#~ msgstr "読み取り専用のファイルシステム"
-
-#~ msgid "Invalid URI"
-#~ msgstr "無効な URI"
-
-#~ msgid "File not open"
-#~ msgstr "ファイルが開けない"
-
-#~ msgid "Open mode not valid"
-#~ msgstr "オープンモードは無効"
-
-#~ msgid "Access denied"
-#~ msgstr "アクセスは拒否された"
-
-#~ msgid "Too many open files"
-#~ msgstr "開いているファイルが多すぎる"
-
-#~ msgid "End of file"
-#~ msgstr "ファイルの終端"
-
-#~ msgid "Not a directory"
-#~ msgstr "ディレクトリではない"
-
-#~ msgid "Operation in progress"
-#~ msgstr "操作進行中"
-
-#~ msgid "Operation interrupted"
-#~ msgstr "操作中断"
-
-#~ msgid "File exists"
-#~ msgstr "ファイルは存在している"
-
-#~ msgid "Looping links encountered"
-#~ msgstr "ループしているリンクに遭遇"
-
-#~ msgid "Operation not permitted"
-#~ msgstr "許可されていない操作"
-
-#~ msgid "Is a directory"
-#~ msgstr "これはディレクトリ"
-
-#~ msgid "Not enough memory"
-#~ msgstr "十分なメモリが無い"
-
-#~ msgid "Host not found"
-#~ msgstr "ホストが見つからない"
-
-#~ msgid "Host name not valid"
-#~ msgstr "ホスト名が無効"
-
-#~ msgid "Host has no address"
-#~ msgstr "ホストはアドレスを持っていない"
-
-#~ msgid "Login failed"
-#~ msgstr "ログインに失敗"
-
-#~ msgid "Operation cancelled"
-#~ msgstr "操作はキャンセルされた"
-
-#~ msgid "Directory busy"
-#~ msgstr "ディレクトリビジー"
-
-#~ msgid "Directory not empty"
-#~ msgstr "ディレクトリは空ではない"
-
-#~ msgid "Too many links"
-#~ msgstr "リンクが多すぎる"
-
-#~ msgid "Read only file system"
-#~ msgstr "読み取り専用のファイルシステム"
-
-#~ msgid "Not on the same file system"
-#~ msgstr "同一のファイルシステムではない"
-
-#~ msgid "Name too long"
-#~ msgstr "名前が長すぎる"
-
-#~ msgid "Service not available"
-#~ msgstr "サービスがありません"
-
-#~ msgid "Request obsoletes service's data"
-#~ msgstr "廃れたサービスのデータを要求"
-
-#~ msgid "Protocol error"
-#~ msgstr "プロトコルエラー"
-
-#~ msgid "Unknown error"
-#~ msgstr "未知のエラー"
-
-#~ msgid "1 byte"
-#~ msgstr "1 バイト"
-
-#~ msgid "%u bytes"
-#~ msgstr "%u バイト"
-
-#~ msgid "%.1f K"
-#~ msgstr "%.1f K"
-
-#~ msgid "%.1f MB"
-#~ msgstr "%.1f MB"
-
-#~ msgid "%.1f GB"
-#~ msgstr "%.1f GB"
-
-#~ msgid "Unknown op type %u"
-#~ msgstr "未知の op 種別 %u"
-
-#~ msgid "Cannot create pipe for open GIOChannel: %s"
-#~ msgstr "GIOChannel を開くためのパイプを作成することが出来ません: %s"
-
-#~ msgid "Unknown job kind %u"
-#~ msgstr "未知のジョブ種別 %u"
-
-#~ msgid "Operation stopped"
-#~ msgstr "操作を停止しました"
-
-#~ msgid "Unknown GnomeVFSSeekPosition %d"
-#~ msgstr "未知の GnomeVFSSeekPosition %d です"
-
-#~ msgid "GNOME VFS already initialized."
-#~ msgstr "GNOME VFS は既に初期化されています"
