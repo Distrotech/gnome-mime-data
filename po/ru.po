@@ -1,13 +1,13 @@
 # Copyright (C) 2000-2002 Free Software Foundation, Inc.
 # Valek Filippov <frob@df.ru>, 2000-2002.
-# Dmitry Mastrukov <dmitry@taurussoft.ru>, 2002
+# Dmitry Mastrukov <dmitry@taurussoft.org>, 2002
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-05-07 23:18-0700\n"
-"PO-Revision-Date: 2002-03-18 12:09+0300\n"
-"Last-Translator: Dmitry Mastrukov <dmitry@taurussoft.ru>\n"
+"POT-Creation-Date: 2002-05-08 21:36+0400\n"
+"PO-Revision-Date: 2002-05-08 21:43+0400\n"
+"Last-Translator: Dmitry Mastrukov <dmitry@taurussoft.org>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -16,42 +16,42 @@ msgstr ""
 # gnome-vfs.keys.in.h:1
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
-msgstr "Изображение формата 3D Studio"
+msgstr "изображение в формате 3D Studio"
 
 # gnome-vfs.keys.in.h:2
 #: gnome-vfs.keys.in.h:2
 msgid "AIFC audio"
-msgstr "Звук формата AIFC"
+msgstr "звук в формате AIFC"
 
 # gnome-vfs.keys.in.h:3
 #: gnome-vfs.keys.in.h:3
 msgid "AIFF audio"
-msgstr "Звук формата AIFF"
+msgstr "звук в формате AIFF"
 
 # gnome-vfs.keys.in.h:4
 #: gnome-vfs.keys.in.h:4
 msgid "ANIM animation"
-msgstr "Анимация формата ANIM"
+msgstr "анимация в формате ANIM"
 
 # gnome-vfs.keys.in.h:5
 #: gnome-vfs.keys.in.h:5
 msgid "AVI video"
-msgstr "Видео формата AVI"
+msgstr "видео в формате AVI"
 
 # gnome-vfs.keys.in.h:6
 #: gnome-vfs.keys.in.h:6
 msgid "AbiWord document"
-msgstr "Документ формата AbiWord"
+msgstr "документ в формате AbiWord"
 
 # gnome-vfs.keys.in.h:7
 #: gnome-vfs.keys.in.h:7
 msgid "Adobe FrameMaker font"
-msgstr "Шрифт формата Adobe FrameMaker"
+msgstr "шрифт в формате Adobe FrameMaker"
 
 # gnome-vfs.keys.in.h:8
 #: gnome-vfs.keys.in.h:8
 msgid "Adobe font metrics"
-msgstr "Метрики шрифта формата Adobe"
+msgstr "метрики шрифта в формате Adobe"
 
 # gnome-vfs.keys.in.h:9
 #: gnome-vfs.keys.in.h:9
@@ -61,192 +61,192 @@ msgstr ""
 # gnome-vfs.keys.in.h:10
 #: gnome-vfs.keys.in.h:10
 msgid "ApplixWare Graphics image"
-msgstr "Графическое изображение формата ApplixWare"
+msgstr "изображение в формате ApplixWare Graphics"
 
 # gnome-vfs.keys.in.h:11
 #: gnome-vfs.keys.in.h:11
 msgid "Applixware Words document"
-msgstr "Текстовый документ формата Applixware"
+msgstr "документ в формате Applixware Words"
 
 # gnome-vfs.keys.in.h:12
 #: gnome-vfs.keys.in.h:12
 msgid "Applixware spreadsheet"
-msgstr "Таблица формата Applixware"
+msgstr "таблица в формате Applixware"
 
 # gnome-vfs.keys.in.h:13
 #: gnome-vfs.keys.in.h:13
 msgid "AutoCAD image"
-msgstr "Изображение формата AutoCAD"
+msgstr "изображение в формате AutoCAD"
 
 # gnome-vfs.keys.in.h:14
 #: gnome-vfs.keys.in.h:14
 msgid "BCPIO document"
-msgstr "Документ формата BCPIO"
+msgstr "документ в формате BCPIO"
 
 # gnome-vfs.keys.in.h:15
 #: gnome-vfs.keys.in.h:15
 msgid "BDF font"
-msgstr "Шрифт формата BDF"
+msgstr "шрифт в формате BDF"
 
 # gnome-vfs.keys.in.h:16
 #: gnome-vfs.keys.in.h:16
 msgid "C shell script"
-msgstr "Скрипт оболочки типа C"
+msgstr "скрипт оболочки типа C"
 
 # gnome-vfs.keys.in.h:17
 #: gnome-vfs.keys.in.h:17
 msgid "C source code"
-msgstr "Исходный код на C"
+msgstr "исходный код на языке C"
 
 # gnome-vfs.keys.in.h:18
 #: gnome-vfs.keys.in.h:18
 msgid "C source code header"
-msgstr "Заголовок исходного кода на C"
+msgstr "заголовок исходного кода на языке C"
 
 # gnome-vfs.keys.in.h:19
 #: gnome-vfs.keys.in.h:19
 msgid "C++ source code"
-msgstr "Исходный код на C++"
+msgstr "исходный код на языке C++"
 
 # gnome-vfs.keys.in.h:20
 #: gnome-vfs.keys.in.h:20
 msgid "CGI program"
-msgstr "Программа типа CGI"
+msgstr "программа типа CGI"
 
 # gnome-vfs.keys.in.h:21
 #: gnome-vfs.keys.in.h:21
 msgid "CGM image"
-msgstr "Изображение формата CGM"
+msgstr "изображение в формате CGM"
 
 # gnome-vfs.keys.in.h:22
 #: gnome-vfs.keys.in.h:22
 msgid "CMU raster image"
-msgstr "Растровое изображение формата CMU"
+msgstr "растровое изображение в формате CMU"
 
 # gnome-vfs.keys.in.h:23
 #: gnome-vfs.keys.in.h:23
 msgid "CPIO archive"
-msgstr "Архив формата CPIO"
+msgstr "архив в формате CPIO"
 
 # gnome-vfs.keys.in.h:24
 #: gnome-vfs.keys.in.h:24
 msgid "CPIO archive (gzip-compressed)"
-msgstr "Сжатый (gzip) архив формата CPIO"
+msgstr "сжатый (gzip) архив в формате CPIO"
 
 # gnome-vfs.keys.in.h:25
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr "Аудио формата Commodore 64"
+msgstr "звук в формате Commodore 64"
 
 # gnome-vfs.keys.in.h:26
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
-msgstr "Скрипт типа DSL"
+msgstr "скрипт типа DSL"
 
 # gnome-vfs.keys.in.h:27
 #: gnome-vfs.keys.in.h:27
 msgid "DOS font"
-msgstr "Шрифт формата DOS"
+msgstr "шрифт в формате DOS"
 
 # gnome-vfs.keys.in.h:28
 #: gnome-vfs.keys.in.h:28
 msgid "DOS/Windows program"
-msgstr "Программа типа DOS/Windows"
+msgstr "программа типа DOS/Windows"
 
 # gnome-vfs.keys.in.h:29
 #: gnome-vfs.keys.in.h:29
 msgid "DSSSL document"
-msgstr "Документ типа DSSSL"
+msgstr "документ типа DSSSL"
 
 # gnome-vfs.keys.in.h:30
 #: gnome-vfs.keys.in.h:30
 msgid "DXF vector graphic"
-msgstr "Векторная графика формата DXF"
+msgstr "векторная графика в формате DXF"
 
 # gnome-vfs.keys.in.h:31
 #: gnome-vfs.keys.in.h:31
 msgid "Debian package"
-msgstr "Пакет формата Debian"
+msgstr "пакет в формате Debian"
 
 # gnome-vfs.keys.in.h:32
 #: gnome-vfs.keys.in.h:32
 msgid "Dia diagram"
-msgstr "Диаграмма формата Dia"
+msgstr "диаграмма в формате Dia"
 
 # gnome-vfs.keys.in.h:33
 #: gnome-vfs.keys.in.h:33
 msgid "Dolby Digital audio"
-msgstr "Цифровой звук формата Dolby Digital"
+msgstr "цифровой звук в формате Dolby Digital"
 
 # gnome-vfs.keys.in.h:34
 #: gnome-vfs.keys.in.h:34
 msgid "Dreamcast rom"
-msgstr "ПЗУ формата Dreamcast"
+msgstr "ПЗУ в формате Dreamcast"
 
 # gnome-vfs.keys.in.h:35
 #: gnome-vfs.keys.in.h:35
 msgid "Emacs Lisp source code"
-msgstr "Исходный код на Emacs Lisp"
+msgstr "исходный код на языке Emacs Lisp"
 
 # gnome-vfs.keys.in.h:36
 #: gnome-vfs.keys.in.h:36
 msgid "Enlightenment theme"
-msgstr "Тема для Enlightenment"
+msgstr "тема для оконного менеджера Enlightenment"
 
 # gnome-vfs.keys.in.h:37
 #: gnome-vfs.keys.in.h:37
 msgid "FLC animation"
-msgstr "Анимация формата FLC"
+msgstr "анимация в формате FLC"
 
 # gnome-vfs.keys.in.h:38
 #: gnome-vfs.keys.in.h:38
 msgid "FLI animation"
-msgstr "Анимация формата FLI"
+msgstr "анимация в формате FLI"
 
 # gnome-vfs.keys.in.h:39
 #: gnome-vfs.keys.in.h:39
 msgid "FastTracker II audio"
-msgstr "Звук формата FastTracker II"
+msgstr "звук в формате FastTracker II"
 
 # gnome-vfs.keys.in.h:40
 #: gnome-vfs.keys.in.h:40
 msgid "Fortran source code"
-msgstr "Исходный текст на Fortran"
+msgstr "исходный текст на языке Fortran"
 
 # gnome-vfs.keys.in.h:41
 #: gnome-vfs.keys.in.h:41
 msgid "FrameMaker interchange document"
-msgstr "Документ обмена для FrameMaker"
+msgstr "документ в формате обмена FrameMaker"
 
 # gnome-vfs.keys.in.h:42
 #: gnome-vfs.keys.in.h:42
 msgid "G3 fax image"
-msgstr "Факсовое изображение формата G3"
+msgstr "Факсовое изображение в формате G3"
 
 # gnome-vfs.keys.in.h:43
 #: gnome-vfs.keys.in.h:43
 msgid "GIF image"
-msgstr "Изображение формата GIF"
+msgstr "изображение в формате GIF"
 
 # gnome-vfs.keys.in.h:44
 #: gnome-vfs.keys.in.h:44
 msgid "GIMP document"
-msgstr "Документ формата GIMP"
+msgstr "документ в формате GIMP"
 
 # gnome-vfs.keys.in.h:45
 #: gnome-vfs.keys.in.h:45
 msgid "GMC link"
-msgstr "Ссылка формата GMC"
+msgstr "ссылка в формате GMC"
 
 # gnome-vfs.keys.in.h:46
 #: gnome-vfs.keys.in.h:46
 msgid "GNU Oleo Spreadsheet"
-msgstr "Таблица формата GNU Oleo"
+msgstr "таблица в формате GNU Oleo"
 
 # gnome-vfs.keys.in.h:47
 #: gnome-vfs.keys.in.h:47
 msgid "GNU mail message"
-msgstr "Почтовое сообщение формата GNU mail"
+msgstr "почтовое сообщение в формате GNU mail"
 
 # gnome-vfs.keys.in.h:48
 #: gnome-vfs.keys.in.h:48
@@ -256,435 +256,432 @@ msgstr "Файл настройки GTK"
 # gnome-vfs.keys.in.h:49
 #: gnome-vfs.keys.in.h:49
 msgid "Game Boy rom"
-msgstr "ПЗУ формата GameBoy"
+msgstr "ПЗУ в формате Game Boy"
 
 # gnome-vfs.keys.in.h:50
 #: gnome-vfs.keys.in.h:50
 msgid "Genesis rom"
-msgstr "ПЗУ формата Genesis"
+msgstr "ПЗУ в формате Genesis"
 
 # gnome-vfs.keys.in.h:51
 #: gnome-vfs.keys.in.h:51
 msgid "Glade project"
-msgstr "Проект формата Glade"
+msgstr "проект в формате Glade"
 
 # gnome-vfs.keys.in.h:52
 #: gnome-vfs.keys.in.h:52
 msgid "GnuCash Workbook"
-msgstr "Рабочая книга формата GnuCash"
+msgstr "рабочая книга в формате GnuCash"
 
 # gnome-vfs.keys.in.h:53
 #: gnome-vfs.keys.in.h:53
 msgid "Gnumeric spreadsheet"
-msgstr "Таблица формата Gnumeric"
+msgstr "таблица в формате Gnumeric"
 
 # gnome-vfs.keys.in.h:54
 #: gnome-vfs.keys.in.h:54
 msgid "Gtktalog Catalogue"
-msgstr "Каталог формата Gtktalog"
+msgstr "Каталог в формате Gtktalog"
 
 # gnome-vfs.keys.in.h:55
 #: gnome-vfs.keys.in.h:55
 msgid "HDF document"
-msgstr "Документ формата HDF"
+msgstr "документ в формате HDF"
 
 # gnome-vfs.keys.in.h:56
 #: gnome-vfs.keys.in.h:56
 msgid "HTML page"
-msgstr "Страница формата HTML"
+msgstr "страница в формате HTML"
 
 # gnome-vfs.keys.in.h:17
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "Исходный код на C"
+msgstr "исходный код на языке Haskell"
 
 # gnome-vfs.keys.in.h:57
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
-msgstr "Документ формата IDL"
+msgstr "документ в формате IDL"
 
 # gnome-vfs.keys.in.h:58
 #: gnome-vfs.keys.in.h:59
 msgid "IEF image"
-msgstr "Изображение формата IEF"
+msgstr "изображение в формате IEF"
 
 # gnome-vfs.keys.in.h:59
 #: gnome-vfs.keys.in.h:60
 msgid "IFF image"
-msgstr "Изображение формата IFF"
+msgstr "изображение в формате IFF"
 
 # gnome-vfs.keys.in.h:60
 #: gnome-vfs.keys.in.h:61
 msgid "ILBM image"
-msgstr "Изображение формата ILBM"
+msgstr "изображение в формате ILBM"
 
 # gnome-vfs.keys.in.h:61
 #: gnome-vfs.keys.in.h:62
 msgid "ISI video"
-msgstr "Видео формата ISI"
+msgstr "видео в формате ISI"
 
 # gnome-vfs.keys.in.h:62
 #: gnome-vfs.keys.in.h:63
 msgid "Impulse Tracker audio"
-msgstr "Звук формата Impulse Tracker"
+msgstr "звук в формате Impulse Tracker"
 
 # gnome-vfs.keys.in.h:63
 #: gnome-vfs.keys.in.h:64
 msgid "JBuilder Project"
-msgstr "Проект формата JBuilder"
+msgstr "проект в формате JBuilder"
 
 # gnome-vfs.keys.in.h:64
 #: gnome-vfs.keys.in.h:65
 msgid "JPEG image"
-msgstr "Изображение формата JPEG"
+msgstr "изображение в формате JPEG"
 
 # gnome-vfs.keys.in.h:65
 #: gnome-vfs.keys.in.h:66
 msgid "Java byte code"
-msgstr "Байт-код на Java"
+msgstr "байт-код языка Java"
 
 # gnome-vfs.keys.in.h:66
 #: gnome-vfs.keys.in.h:67
 msgid "Java source code"
-msgstr "Исходный текст на Java"
+msgstr "исходный текст на языке Java"
 
 # gnome-vfs.keys.in.h:67
 #: gnome-vfs.keys.in.h:68
 msgid "KDE application details"
-msgstr "Файл сведений о приложении KDE"
+msgstr "файл сведений о приложении KDE"
 
 # gnome-vfs.keys.in.h:68
 #: gnome-vfs.keys.in.h:69
 msgid "KIllustrator document"
-msgstr "Документ формата KIllustrator"
+msgstr "документ в формате KIllustrator"
 
 # gnome-vfs.keys.in.h:69
 #: gnome-vfs.keys.in.h:70
 msgid "KPresenter presentation"
-msgstr "Презентация формата KPresenter"
+msgstr "презентация в формате KPresenter"
 
 # gnome-vfs.keys.in.h:70
 #: gnome-vfs.keys.in.h:71
 msgid "KSpread spreadsheet"
-msgstr "Таблица формата KSpread"
+msgstr "таблица в формате KSpread"
 
 # gnome-vfs.keys.in.h:71
 #: gnome-vfs.keys.in.h:72
 msgid "KWord document"
-msgstr "Документ формата KWord"
+msgstr "документ в формате KWord"
 
 # gnome-vfs.keys.in.h:72
 #: gnome-vfs.keys.in.h:73
 msgid "Korn shell script"
-msgstr "Скрипт оболочки типа Korn"
+msgstr "скрипт оболочки типа Korn"
 
 # gnome-vfs.keys.in.h:73
 #: gnome-vfs.keys.in.h:74
 msgid "LHA archive"
-msgstr "Архив формата LHA"
+msgstr "архив в формате LHA"
 
 # gnome-vfs.keys.in.h:74
 #: gnome-vfs.keys.in.h:75
 msgid "LHARC archive"
-msgstr "Архив формата LHARC"
+msgstr "архив в формате LHARC"
 
 # gnome-vfs.keys.in.h:75
 #: gnome-vfs.keys.in.h:76
 msgid "LIBGRX font"
-msgstr "Шрифт формата LIBGRX"
+msgstr "шрифт в формате LIBGRX"
 
 # gnome-vfs.keys.in.h:76
 #: gnome-vfs.keys.in.h:77
 msgid "LightWave object"
-msgstr "Объект типа LightWave"
+msgstr "Объект в формате LightWave"
 
 # gnome-vfs.keys.in.h:77
 #: gnome-vfs.keys.in.h:78
 msgid "LightWave scene"
-msgstr "Сцена типа LightWave"
+msgstr "сцена в формате LightWave"
 
 # gnome-vfs.keys.in.h:78
 #: gnome-vfs.keys.in.h:79
 msgid "Linux PSF console font"
-msgstr "Консольный шрифт формата Linux PSF"
+msgstr "консольный шрифт в формате Linux PSF"
 
 # gnome-vfs.keys.in.h:40
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "Исходный текст на Fortran"
+msgstr "литерированный исходный код на языке Haskell"
 
 # gnome-vfs.keys.in.h:79
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
-msgstr "Таблица формата Lotus 1-2-3"
+msgstr "таблица в формате Lotus 1-2-3"
 
 # gnome-vfs.keys.in.h:80
 #: gnome-vfs.keys.in.h:82
 msgid "LyX Document"
-msgstr "Документ формата LyX"
+msgstr "документ в формате LyX"
 
 # gnome-vfs.keys.in.h:81
 #: gnome-vfs.keys.in.h:83
 msgid "MIDI audio"
-msgstr "Звук формата MIDI"
+msgstr "звук в формате MIDI"
 
 # gnome-vfs.keys.in.h:82
 #: gnome-vfs.keys.in.h:84
 msgid "MOD audio"
-msgstr "Звук формата MOD"
+msgstr "звук в формате MOD"
 
 # gnome-vfs.keys.in.h:83
 #: gnome-vfs.keys.in.h:85
 msgid "MP3 audio"
-msgstr "Звук формата MP3"
+msgstr "звук в формате MP3"
 
 # gnome-vfs.keys.in.h:84
 #: gnome-vfs.keys.in.h:86
 msgid "MP3 audio playlist"
-msgstr "Список звуков формата MP3"
+msgstr "список записей в формате MP3"
 
 # gnome-vfs.keys.in.h:85
 #: gnome-vfs.keys.in.h:87
 msgid "MPEG video"
-msgstr "Видео формата MPEG"
+msgstr "видео в формате MPEG"
 
 # gnome-vfs.keys.in.h:86
 #: gnome-vfs.keys.in.h:88
 msgid "MS ASF video"
-msgstr "Видео формата MS ASF"
+msgstr "видео в формате MS ASF"
 
 # gnome-vfs.keys.in.h:87
 #: gnome-vfs.keys.in.h:89
 msgid "MS video"
-msgstr "Видео формата MS"
+msgstr "видео в формате MS"
 
 # gnome-vfs.keys.in.h:88
 #: gnome-vfs.keys.in.h:90
 msgid "MSX rom"
-msgstr "ПЗУ формата MSX"
+msgstr "ПЗУ в формате MSX"
 
 # gnome-vfs.keys.in.h:89
 #: gnome-vfs.keys.in.h:91
 msgid "Macintosh AppleDouble-encoded file"
-msgstr "Файл Macintosh, кодированный AppleDouble"
+msgstr "файл Macintosh, кодированный как AppleDouble"
 
 # gnome-vfs.keys.in.h:90
 #: gnome-vfs.keys.in.h:92
 msgid "Macintosh BinHex-encoded file"
-msgstr "Файл Macintosh, кодированный BinHex"
+msgstr "файл Macintosh, кодированный как BinHex"
 
 # gnome-vfs.keys.in.h:91
 #: gnome-vfs.keys.in.h:93
 msgid "Macintosh StuffIt archive"
-msgstr "Архив формата Macintosh StuffIt"
+msgstr "архив в формате Macintosh StuffIt"
 
 # gnome-vfs.keys.in.h:92
 #: gnome-vfs.keys.in.h:94
 msgid "Macromedia Flash file"
-msgstr "Файл формата Macromedia Flash"
+msgstr "файл в формате Macromedia Flash"
 
 # gnome-vfs.keys.in.h:93
 #: gnome-vfs.keys.in.h:95
 msgid "MathML document"
-msgstr "Документ формата MathML"
+msgstr "документ в формате MathML"
 
 # gnome-vfs.keys.in.h:94
 #: gnome-vfs.keys.in.h:96
 msgid "Microsoft Excel spreadsheet"
-msgstr "Таблица формата Microsoft Excel"
+msgstr "таблица в формате Microsoft Excel"
 
 # gnome-vfs.keys.in.h:95
 #: gnome-vfs.keys.in.h:97
 msgid "Microsoft PowerPoint document"
-msgstr "Документ формата Microsoft PowerPoint"
+msgstr "документ в формате Microsoft PowerPoint"
 
 # gnome-vfs.keys.in.h:97
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Видео формата Microsoft"
+msgstr "видео в формате Microsoft WMV"
 
 # gnome-vfs.keys.in.h:96
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
-msgstr "Документ формата Microsoft Word"
+msgstr "документ в формате Microsoft Word"
 
 # gnome-vfs.keys.in.h:97
 #: gnome-vfs.keys.in.h:100
 msgid "Microsoft video"
-msgstr "Видео формата Microsoft"
+msgstr "видео в формате Microsoft"
 
 # gnome-vfs.keys.in.h:98
 #: gnome-vfs.keys.in.h:101
 msgid "NES rom"
-msgstr "ПЗУ формата NES"
+msgstr "ПЗУ в формате NES"
 
 # gnome-vfs.keys.in.h:99
 #: gnome-vfs.keys.in.h:102
 msgid "Nautilus link"
-msgstr "Ссылка формата Nautilus"
+msgstr "ссылка в формате Nautilus"
 
 # gnome-vfs.keys.in.h:100
 #: gnome-vfs.keys.in.h:103
 msgid "Nintendo64 rom"
-msgstr "ПЗУ формата Nintendo64"
+msgstr "ПЗУ в формате Nintendo64"
 
 # gnome-vfs.keys.in.h:101
 #: gnome-vfs.keys.in.h:104
 msgid "ODA document"
-msgstr "Документ формата ODA"
+msgstr "документ в формате ODA"
 
 # gnome-vfs.keys.in.h:102
 #: gnome-vfs.keys.in.h:105
 msgid "OpenOffice Impress presentation"
-msgstr "Презентация формата OpenOffice Impress"
+msgstr "презентация в формате OpenOffice Impress"
 
 # gnome-vfs.keys.in.h:103
 #: gnome-vfs.keys.in.h:106
 msgid "OpenOffice Impress presentation template"
-msgstr "Шаблон презентации формата OpenOffice Impress"
+msgstr "шаблон презентации в формате OpenOffice Impress"
 
 # gnome-vfs.keys.in.h:104
 #: gnome-vfs.keys.in.h:107
 msgid "OpenOffice Math document"
-msgstr "Документ формата OpenOffice Math"
+msgstr "документ в формате OpenOffice Math"
 
 # gnome-vfs.keys.in.h:105
 #: gnome-vfs.keys.in.h:108
 msgid "OpenOffice Writer document"
-msgstr "Документ формата OpenOffice Writer"
+msgstr "документ в формате OpenOffice Writer"
 
 # gnome-vfs.keys.in.h:106
 #: gnome-vfs.keys.in.h:109
 msgid "OpenOffice Writer global document"
-msgstr "Глобальный документ формата OpenOffice Writer"
+msgstr "глобальный документ в формате OpenOffice Writer"
 
 # gnome-vfs.keys.in.h:107
 #: gnome-vfs.keys.in.h:110
 msgid "OpenOffice Writer template"
-msgstr "Шаблон формата OpenOffice Writer"
+msgstr "шаблон в формате OpenOffice Writer"
 
 # gnome-vfs.keys.in.h:108
 #: gnome-vfs.keys.in.h:111
 msgid "OpenOffice drawing"
-msgstr "Чертёж формата OpenOffice"
+msgstr "Рисунок в формате OpenOffice"
 
 # gnome-vfs.keys.in.h:109
 #: gnome-vfs.keys.in.h:112
 msgid "OpenOffice drawing template"
-msgstr "Шаблон чертежа формата OpenOffice"
+msgstr "шаблон рисунка в формате OpenOffice"
 
 # gnome-vfs.keys.in.h:110
 #: gnome-vfs.keys.in.h:113
 msgid "OpenOffice spreadsheet"
-msgstr "Таблица формата OpenOffice"
+msgstr "таблица в формате OpenOffice"
 
 # gnome-vfs.keys.in.h:111
 #: gnome-vfs.keys.in.h:114
 msgid "OpenOffice spreadsheet template"
-msgstr "Шаблон таблицы формата OpenOffice"
+msgstr "шаблон таблицы в формате OpenOffice"
 
 # gnome-vfs.keys.in.h:112
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
-msgstr "Изображение формата PBM"
+msgstr "изображение в формате PBM"
 
 # gnome-vfs.keys.in.h:113
 #: gnome-vfs.keys.in.h:116
 msgid "PCF font"
-msgstr "Шрифт формата PCF"
+msgstr "шрифт в формате PCF"
 
 # gnome-vfs.keys.in.h:114
 #: gnome-vfs.keys.in.h:117
 msgid "PDF document"
-msgstr "Документ формата PDF"
+msgstr "документ в формате PDF"
 
 # gnome-vfs.keys.in.h:115
 #: gnome-vfs.keys.in.h:118
 msgid "PEF program"
-msgstr "Программа формата PEF"
+msgstr "программа в формате PEF"
 
 # gnome-vfs.keys.in.h:116
 #: gnome-vfs.keys.in.h:119
 msgid "PGM image"
-msgstr "Изображение формата PGM"
+msgstr "изображение в формате PGM"
 
 # gnome-vfs.keys.in.h:117
 #: gnome-vfs.keys.in.h:120
 msgid "PGN chess game"
-msgstr "Шахматный матч формата PGN"
+msgstr "шахматный матч в формате PGN"
 
 # gnome-vfs.keys.in.h:118
 #: gnome-vfs.keys.in.h:121
 msgid "PGP keys"
-msgstr "Ключи формата PGP"
+msgstr "ключи в формате PGP"
 
 # gnome-vfs.keys.in.h:119
 #: gnome-vfs.keys.in.h:122
 msgid "PGP message"
-msgstr "Сообщение формата PGP"
+msgstr "сообщение в формате PGP"
 
 # gnome-vfs.keys.in.h:120
 #: gnome-vfs.keys.in.h:123
 msgid "PGP signature"
-msgstr "Подпись формата PGP"
+msgstr "подпись в формате PGP"
 
 # gnome-vfs.keys.in.h:121
 #: gnome-vfs.keys.in.h:124
 msgid "PGP-encrypted file"
-msgstr "Файл, закодированный PGP"
+msgstr "файл, закодированный с помощью PGP"
 
 # gnome-vfs.keys.in.h:122
 #: gnome-vfs.keys.in.h:125
 msgid "PHP script"
-msgstr "Скрипт типа PHP"
+msgstr "скрипт на языке PHP"
 
 # gnome-vfs.keys.in.h:123
 #: gnome-vfs.keys.in.h:126
 msgid "PNG image"
-msgstr "Изображение формата PNG"
+msgstr "изображение в формате PNG"
 
 # gnome-vfs.keys.in.h:124
 #: gnome-vfs.keys.in.h:127
 msgid "PNM image"
-msgstr "Изображение формата PNM"
+msgstr "изображение в формате PNM"
 
 # gnome-vfs.keys.in.h:125
 #: gnome-vfs.keys.in.h:128
 msgid "PPM image"
-msgstr "Изображение формата PPM"
+msgstr "изображение в формате PPM"
 
 # gnome-vfs.keys.in.h:126
 #: gnome-vfs.keys.in.h:129
 msgid "Palm OS database"
-msgstr "База данных формата Palm OS"
+msgstr "база данных в формате Palm OS"
 
 # gnome-vfs.keys.in.h:127
 #: gnome-vfs.keys.in.h:130
 msgid "Perl script"
-msgstr "Скрипт типа Perl"
+msgstr "скрипт на языке Perl"
 
 # gnome-vfs.keys.in.h:128
 #: gnome-vfs.keys.in.h:131
 msgid "Photoshop document"
-msgstr "Документ формата Photoshop"
+msgstr "документ в формате Photoshop"
 
 # gnome-vfs.keys.in.h:129
 #: gnome-vfs.keys.in.h:132
 msgid "Playlist"
-msgstr "Список записей"
+msgstr "список записей"
 
 # gnome-vfs.keys.in.h:130
 #: gnome-vfs.keys.in.h:133
 msgid "PostScript Type 1 font"
-msgstr "Шрифт формата PostScript Type 1"
+msgstr "шрифт в формате PostScript Type 1"
 
 # gnome-vfs.keys.in.h:131
 #: gnome-vfs.keys.in.h:134
 msgid "PostScript document"
-msgstr "Документ формата PostScript"
+msgstr "документ в формате PostScript"
 
 #: gnome-vfs.keys.in.h:135
 msgid "Project Plan"
@@ -693,342 +690,342 @@ msgstr ""
 # gnome-vfs.keys.in.h:132
 #: gnome-vfs.keys.in.h:136
 msgid "Python source code"
-msgstr "Исходный код на Python"
+msgstr "исходный код на языке Python"
 
 # gnome-vfs.keys.in.h:133
 #: gnome-vfs.keys.in.h:137
 msgid "QuickTime movie"
-msgstr "Фильм формата QuickTime"
+msgstr "фильм в формате QuickTime"
 
 # gnome-vfs.keys.in.h:134
 #: gnome-vfs.keys.in.h:138
 msgid "Quicken document"
-msgstr "Документ формата Quicken"
+msgstr "документ в формате Quicken"
 
 # gnome-vfs.keys.in.h:135
 #: gnome-vfs.keys.in.h:139
 msgid "Quicken for Windows document"
-msgstr "Документ формата Quicken for Windows"
+msgstr "документ в формате Quicken for Windows"
 
 # gnome-vfs.keys.in.h:136
 #: gnome-vfs.keys.in.h:140
 msgid "RAR archive"
-msgstr "Архив формата RAR"
+msgstr "архив в формате RAR"
 
 # gnome-vfs.keys.in.h:137
 #: gnome-vfs.keys.in.h:141
 msgid "README document"
-msgstr "Документ README"
+msgstr "документ README"
 
 # gnome-vfs.keys.in.h:138
 #: gnome-vfs.keys.in.h:142
 msgid "RGB image"
-msgstr "Изображение формата RGB"
+msgstr "изображение в формате RGB"
 
 # gnome-vfs.keys.in.h:139
 #: gnome-vfs.keys.in.h:143
 msgid "RIFF audio"
-msgstr "Звук формата RIFF"
+msgstr "звук в формате RIFF"
 
 # gnome-vfs.keys.in.h:140
 #: gnome-vfs.keys.in.h:144
 msgid "RPM package"
-msgstr "Пакет формата RPM"
+msgstr "Пакет в формате RPM"
 
 # gnome-vfs.keys.in.h:141
 #: gnome-vfs.keys.in.h:145
 msgid "RealAudio document"
-msgstr "Документ формата RealAudio"
+msgstr "документ в формате RealAudio"
 
 # gnome-vfs.keys.in.h:142
 #: gnome-vfs.keys.in.h:146
 msgid "RealAudio/Video document"
-msgstr "Документ формата RealAudio/Video"
+msgstr "документ в формате RealAudio/Video"
 
 # gnome-vfs.keys.in.h:143
 #: gnome-vfs.keys.in.h:147
 msgid "RealVideo video"
-msgstr "Видео формата RealVideo"
+msgstr "видео в формате RealVideo"
 
 # gnome-vfs.keys.in.h:144
 #: gnome-vfs.keys.in.h:148
 msgid "S/MIME file"
-msgstr "Файл формата S/MIME"
+msgstr "Файл в формате S/MIME"
 
 # gnome-vfs.keys.in.h:145
 #: gnome-vfs.keys.in.h:149
 msgid "S/MIME signature"
-msgstr "Подпись формата S/MIME"
+msgstr "Подпись в формате S/MIME"
 
 # gnome-vfs.keys.in.h:146
 #: gnome-vfs.keys.in.h:150
 msgid "SGI video"
-msgstr "Видео формата SGI"
+msgstr "видео в формате SGI"
 
 # gnome-vfs.keys.in.h:147
 #: gnome-vfs.keys.in.h:151
 msgid "SGML document"
-msgstr "Документ формата SGML"
+msgstr "документ в формате SGML"
 
 # gnome-vfs.keys.in.h:148
 #: gnome-vfs.keys.in.h:152
 msgid "SMIL script"
-msgstr "Скрипт типа SMIL"
+msgstr "скрипт на языке SMIL"
 
 # gnome-vfs.keys.in.h:149
 #: gnome-vfs.keys.in.h:153
 msgid "SMS or Game Gear rom"
-msgstr "ПЗУ формата SMS или Game Gear"
+msgstr "ПЗУ в формате SMS или Game Gear"
 
 # gnome-vfs.keys.in.h:150
 #: gnome-vfs.keys.in.h:154
 msgid "SQL code"
-msgstr "Код на SQL"
+msgstr "код на языке SQL"
 
 # gnome-vfs.keys.in.h:151
 #: gnome-vfs.keys.in.h:155
 msgid "SV4 CPIO archive"
-msgstr "Архив формата SV4 CPIO"
+msgstr "архив в формате SV4 CPIO"
 
 # gnome-vfs.keys.in.h:152
 #: gnome-vfs.keys.in.h:156
 msgid "SV4 CPIP archive (with CRC)"
-msgstr "Архив формата SV4 CPIP (с CRC)"
+msgstr "архив в формате SV4 CPIP (с CRC)"
 
 # gnome-vfs.keys.in.h:153
 #: gnome-vfs.keys.in.h:157
 msgid "SVG art"
-msgstr "Изображение формата SVG"
+msgstr "изображение в формате SVG"
 
 # gnome-vfs.keys.in.h:154
 #: gnome-vfs.keys.in.h:158
 msgid "Scheme source code"
-msgstr "Исходный код на Scheme"
+msgstr "исходный код на языке Scheme"
 
 # gnome-vfs.keys.in.h:155
 #: gnome-vfs.keys.in.h:159
 msgid "Scream Tracker 3 audio"
-msgstr "Звук формата Scream Tracker 3"
+msgstr "звук в формате Scream Tracker 3"
 
 # gnome-vfs.keys.in.h:156
 #: gnome-vfs.keys.in.h:160
 msgid "Scream Tracker audio"
-msgstr "Звук формата Scream Tracker"
+msgstr "звук в формате Scream Tracker"
 
 # gnome-vfs.keys.in.h:157
 #: gnome-vfs.keys.in.h:161
 msgid "Scream Tracker instrument"
-msgstr "Инструмент формата Scream Tracker"
+msgstr "инструмент в формате Scream Tracker"
 
 # gnome-vfs.keys.in.h:158
 #: gnome-vfs.keys.in.h:162
 msgid "Setext document"
-msgstr "Документ формата Setext"
+msgstr "документ в формате Setext"
 
 # gnome-vfs.keys.in.h:159
 #: gnome-vfs.keys.in.h:163
 msgid "Speech document"
-msgstr "Документ формата Speech"
+msgstr "документ в формате Speech"
 
 # gnome-vfs.keys.in.h:160
 #: gnome-vfs.keys.in.h:164
 msgid "Speedo font"
-msgstr "Шрифт формата Speedo"
+msgstr "шрифт в формате Speedo"
 
 # gnome-vfs.keys.in.h:161
 #: gnome-vfs.keys.in.h:165
 msgid "Spreadsheet Interchange document"
-msgstr "Документ формата Spreadsheet Interchange"
+msgstr "документ в формате Spreadsheet Interchange"
 
 # gnome-vfs.keys.in.h:162
 #: gnome-vfs.keys.in.h:166
 msgid "Stampede package"
-msgstr "Пакет типа Stampede"
+msgstr "пакет типа Stampede"
 
 # gnome-vfs.keys.in.h:163
 #: gnome-vfs.keys.in.h:167
 msgid "StarCalc spreadsheet"
-msgstr "Таблица формата StarCalc"
+msgstr "таблица в формате StarCalc"
 
 # gnome-vfs.keys.in.h:164
 #: gnome-vfs.keys.in.h:168
 msgid "StarChart chart"
-msgstr "Диаграмма формата StarChart"
+msgstr "диаграмма в формате StarChart"
 
 # gnome-vfs.keys.in.h:165
 #: gnome-vfs.keys.in.h:169
 msgid "StarDraw drawing"
-msgstr "Чертёж формата StarDraw"
+msgstr "рисунок в формате StarDraw"
 
 # gnome-vfs.keys.in.h:166
 #: gnome-vfs.keys.in.h:170
 msgid "StarImpress presentation"
-msgstr "Презентация формата StarImpress"
+msgstr "презентация в формате StarImpress"
 
 # gnome-vfs.keys.in.h:167
 #: gnome-vfs.keys.in.h:171
 msgid "StarMail file"
-msgstr "Файл формата StarMail"
+msgstr "файл в формате StarMail"
 
 # gnome-vfs.keys.in.h:168
 #: gnome-vfs.keys.in.h:172
 msgid "StarMath document"
-msgstr "Документ формата StarMath"
+msgstr "документ в формате StarMath"
 
 # gnome-vfs.keys.in.h:169
 #: gnome-vfs.keys.in.h:173
 msgid "StarWriter document"
-msgstr "Документ формата StarWriter"
+msgstr "документ в формате StarWriter"
 
 # gnome-vfs.keys.in.h:170
 #: gnome-vfs.keys.in.h:174
 msgid "Sun mu-law audio"
-msgstr "Звук формата Sun mu-law"
+msgstr "звук в формате Sun mu-law"
 
 # gnome-vfs.keys.in.h:171
 #: gnome-vfs.keys.in.h:175
 msgid "SunOS News font"
-msgstr "Шрифт формата SunOS News"
+msgstr "шрифт в формате SunOS News"
 
 # gnome-vfs.keys.in.h:172
 #: gnome-vfs.keys.in.h:176
 msgid "TIFF image"
-msgstr "Изображение формата TIFF"
+msgstr "изображение в формате TIFF"
 
 # gnome-vfs.keys.in.h:173
 #: gnome-vfs.keys.in.h:177
 msgid "TarGA image"
-msgstr "Изображение формата TarGA"
+msgstr "изображение в формате TarGA"
 
 # gnome-vfs.keys.in.h:174
 #: gnome-vfs.keys.in.h:178
 msgid "Tcl script"
-msgstr "Скрипт на Tcl"
+msgstr "скрипт на языке Tcl"
 
 # gnome-vfs.keys.in.h:175
 #: gnome-vfs.keys.in.h:179
 msgid "TeX document"
-msgstr "Документ формата TeX"
+msgstr "документ в формате TeX"
 
 # gnome-vfs.keys.in.h:176
 #: gnome-vfs.keys.in.h:180
 msgid "TeX dvi document"
-msgstr "Документ формата TeX dvi"
+msgstr "документ в формате TeX dvi"
 
 # gnome-vfs.keys.in.h:177
 #: gnome-vfs.keys.in.h:181
 msgid "TeX font"
-msgstr "Шрифт формата TeX"
+msgstr "шрифт в формате TeX"
 
 # gnome-vfs.keys.in.h:178
 #: gnome-vfs.keys.in.h:182
 msgid "TeX font metrics"
-msgstr "Метрики шрифта формата TeX"
+msgstr "метрики шрифта в формате TeX"
 
 # gnome-vfs.keys.in.h:179
 #: gnome-vfs.keys.in.h:183
 msgid "TeXInfo document"
-msgstr "Документ формата TeXInfo"
+msgstr "документ в формате TeXInfo"
 
 # gnome-vfs.keys.in.h:180
 #: gnome-vfs.keys.in.h:184
 msgid "ToutDoux document"
-msgstr "Документ формата ToutDoux"
+msgstr "документ в формате ToutDoux"
 
 # gnome-vfs.keys.in.h:181
 #: gnome-vfs.keys.in.h:185
 msgid "TrueType font"
-msgstr "Шрифт формата TrueType"
+msgstr "шрифт в формате TrueType"
 
 # gnome-vfs.keys.in.h:182
 #: gnome-vfs.keys.in.h:186
 msgid "USENET news message"
-msgstr "Сообщение новостей формата USENET"
+msgstr "сообщение новостей в формате USENET"
 
 # gnome-vfs.keys.in.h:183
 #: gnome-vfs.keys.in.h:187
 msgid "Unidata netCDF document"
-msgstr "Документ формата Unidata netCDF"
+msgstr "документ в формате Unidata netCDF"
 
 # gnome-vfs.keys.in.h:184
 #: gnome-vfs.keys.in.h:188
 msgid "V font"
-msgstr "Шрифт формата V font"
+msgstr "шрифт в формате V font"
 
 # gnome-vfs.keys.in.h:185
 #: gnome-vfs.keys.in.h:189
 msgid "VOC audio"
-msgstr "Звук формата VOC"
+msgstr "звук в формате VOC"
 
 # gnome-vfs.keys.in.h:186
 #: gnome-vfs.keys.in.h:190
 msgid "VRML document"
-msgstr "Документ формата VRML"
+msgstr "документ в формате VRML"
 
 # gnome-vfs.keys.in.h:187
 #: gnome-vfs.keys.in.h:191
 msgid "Vivo video"
-msgstr "Видео формата Vivo"
+msgstr "видео в формате Vivo"
 
 # gnome-vfs.keys.in.h:188
 #: gnome-vfs.keys.in.h:192
 msgid "WAIS source code"
-msgstr "Исходный код на WAIS"
+msgstr "исходный код на языке WAIS"
 
 # gnome-vfs.keys.in.h:189
 #: gnome-vfs.keys.in.h:193
 msgid "Wavelet video"
-msgstr "Видео формата Wavelet"
+msgstr "видео в формате Wavelet"
 
 # gnome-vfs.keys.in.h:190
 #: gnome-vfs.keys.in.h:194
 msgid "Windows bitmap image"
-msgstr "Изображение формата Windows bitmap"
+msgstr "изображение в формате Windows bitmap"
 
 # gnome-vfs.keys.in.h:191
 #: gnome-vfs.keys.in.h:195
 msgid "Windows icon image"
-msgstr "Изображение формата пиктограммы Windows"
+msgstr "изображение в формате пиктограммы Windows"
 
 # gnome-vfs.keys.in.h:192
 #: gnome-vfs.keys.in.h:196
 msgid "Windows metafile graphics"
-msgstr "Графика формата Windows metafile"
+msgstr "графика в формате Windows metafile"
 
 # gnome-vfs.keys.in.h:193
 #: gnome-vfs.keys.in.h:197
 msgid "WordPerfect document"
-msgstr "Документ формата WordPerfect"
+msgstr "документ в формате WordPerfect"
 
 # gnome-vfs.keys.in.h:194
 #: gnome-vfs.keys.in.h:198
 msgid "X bitmap image"
-msgstr "Изображение формата X bitmap"
+msgstr "изображение в формате X bitmap"
 
 # gnome-vfs.keys.in.h:195
 #: gnome-vfs.keys.in.h:199
 msgid "X window image"
-msgstr "Изображение формата X window"
+msgstr "изображение в формате X window"
 
 # gnome-vfs.keys.in.h:196
 #: gnome-vfs.keys.in.h:200
 msgid "XML document"
-msgstr "Документ формата XML"
+msgstr "документ в формате XML"
 
 # gnome-vfs.keys.in.h:197
 #: gnome-vfs.keys.in.h:201
 msgid "XPM image"
-msgstr "Изображение формата XPM"
+msgstr "изображение в формате XPM"
 
 # gnome-vfs.keys.in.h:198
 #: gnome-vfs.keys.in.h:202
 msgid "Xbase database"
-msgstr "База данных формата Xbase"
+msgstr "база данных в формате Xbase"
 
 # gnome-vfs.keys.in.h:199
 #: gnome-vfs.keys.in.h:203
 msgid "Z shell script"
-msgstr "Скрипт оболочки типа Zsh"
+msgstr "скрипт оболочки типа Z"
 
 # gnome-vfs.keys.in.h:200
 #: gnome-vfs.keys.in.h:204
@@ -1043,17 +1040,17 @@ msgstr "визитка"
 # gnome-vfs.keys.in.h:202
 #: gnome-vfs.keys.in.h:206
 msgid "application launcher"
-msgstr "Программа запуска приложения"
+msgstr "программа запуска приложения"
 
 # gnome-vfs.keys.in.h:203
 #: gnome-vfs.keys.in.h:207
 msgid "ar archive"
-msgstr "архив формата ar"
+msgstr "архив в формате ar"
 
 # gnome-vfs.keys.in.h:204
 #: gnome-vfs.keys.in.h:208
 msgid "arj archive"
-msgstr "архив формата arj"
+msgstr "архив в формате arj"
 
 # gnome-vfs.keys.in.h:205
 #: gnome-vfs.keys.in.h:209
@@ -1068,7 +1065,7 @@ msgstr "резервный файл"
 # gnome-vfs.keys.in.h:207
 #: gnome-vfs.keys.in.h:211
 msgid "basic audio"
-msgstr "обычное аудио"
+msgstr "обычное звук"
 
 # gnome-vfs.keys.in.h:208
 #: gnome-vfs.keys.in.h:212
@@ -1123,7 +1120,7 @@ msgstr "сжатый (compress) файл"
 # gnome-vfs.keys.in.h:218
 #: gnome-vfs.keys.in.h:222
 msgid "compressed GIMP document"
-msgstr "сжатый документ формата GIMP"
+msgstr "сжатый документ в формате GIMP"
 
 # gnome-vfs.keys.in.h:219
 #: gnome-vfs.keys.in.h:223
@@ -1133,7 +1130,7 @@ msgstr "файл информации о каталоге"
 # gnome-vfs.keys.in.h:220
 #: gnome-vfs.keys.in.h:224
 msgid "document type definition"
-msgstr "Файл определения типа документа (DTD)"
+msgstr "файл определения типа документа (DTD)"
 
 # gnome-vfs.keys.in.h:221
 #: gnome-vfs.keys.in.h:225
@@ -1163,7 +1160,7 @@ msgstr "папка"
 # gnome-vfs.keys.in.h:226
 #: gnome-vfs.keys.in.h:230
 msgid "gtar archive"
-msgstr "архив формата gtar"
+msgstr "архив в формате gtar"
 
 # gnome-vfs.keys.in.h:227
 #: gnome-vfs.keys.in.h:231
@@ -1238,7 +1235,7 @@ msgstr "объектный код"
 # gnome-vfs.keys.in.h:241
 #: gnome-vfs.keys.in.h:245
 msgid "ogg audio"
-msgstr "звук формата ogg"
+msgstr "звук в формате ogg"
 
 # gnome-vfs.keys.in.h:242
 #: gnome-vfs.keys.in.h:246
@@ -1257,9 +1254,8 @@ msgstr "результаты профилирования"
 
 # gnome-vfs.keys.in.h:132
 #: gnome-vfs.keys.in.h:249
-#, fuzzy
 msgid "python byte code"
-msgstr "Исходный код на Python"
+msgstr "байт-код языка Python"
 
 # gnome-vfs.keys.in.h:245
 #: gnome-vfs.keys.in.h:250
@@ -1294,7 +1290,7 @@ msgstr "архив оболочки"
 # gnome-vfs.keys.in.h:251
 #: gnome-vfs.keys.in.h:256
 msgid "shell script"
-msgstr "Скрипт оболочки"
+msgstr "скрипт оболочки"
 
 # gnome-vfs.keys.in.h:252
 #: gnome-vfs.keys.in.h:257
@@ -1344,17 +1340,17 @@ msgstr "текстовый документ с полями, разделённ�
 # gnome-vfs.keys.in.h:261
 #: gnome-vfs.keys.in.h:266
 msgid "tar archive"
-msgstr "архив формата tar"
+msgstr "архив в формате tar"
 
 # gnome-vfs.keys.in.h:262
 #: gnome-vfs.keys.in.h:267
 msgid "tar archive (bzip2-compressed)"
-msgstr "сжатый (bzip2) архив формата tar"
+msgstr "сжатый (bzip2) архив в формате tar"
 
 # gnome-vfs.keys.in.h:263
 #: gnome-vfs.keys.in.h:268
 msgid "tar archive (gzip-compressed)"
-msgstr "сжатый (gzip) архив формата tar"
+msgstr "сжатый (gzip) архив в формате tar"
 
 # gnome-vfs.keys.in.h:264
 #: gnome-vfs.keys.in.h:269
@@ -1364,22 +1360,22 @@ msgstr "тема"
 # gnome-vfs.keys.in.h:265
 #: gnome-vfs.keys.in.h:270
 msgid "troff document"
-msgstr "документ формата troff"
+msgstr "документ в формате troff"
 
 # gnome-vfs.keys.in.h:266
 #: gnome-vfs.keys.in.h:271
 msgid "troff me input document"
-msgstr "Входной документ формата troff me"
+msgstr "Входной документ в формате troff me"
 
 # gnome-vfs.keys.in.h:267
 #: gnome-vfs.keys.in.h:272
 msgid "troff mm input document"
-msgstr "Входной документ формата troff mm"
+msgstr "Входной документ в формате troff mm"
 
 # gnome-vfs.keys.in.h:268
 #: gnome-vfs.keys.in.h:273
 msgid "troff ms input document"
-msgstr "Входной документ формата  troff ms"
+msgstr "Входной документ в формате  troff ms"
 
 # gnome-vfs.keys.in.h:269
 #: gnome-vfs.keys.in.h:274
@@ -1389,12 +1385,12 @@ msgstr "неизвестный тип файла"
 # gnome-vfs.keys.in.h:270
 #: gnome-vfs.keys.in.h:275
 msgid "ustar archive"
-msgstr "архив формата ustar"
+msgstr "архив в формате ustar"
 
 # gnome-vfs.keys.in.h:271
 #: gnome-vfs.keys.in.h:276
 msgid "wave audio"
-msgstr "звук формата wave"
+msgstr "звук в формате wave"
 
 # gnome-vfs.keys.in.h:272
 #: gnome-vfs.keys.in.h:277
@@ -1404,14 +1400,14 @@ msgstr "веб-папка"
 # gnome-vfs.keys.in.h:273
 #: gnome-vfs.keys.in.h:278
 msgid "xfig vector graphic"
-msgstr "векторная графика формата xfig"
+msgstr "векторная графика в формате xfig"
 
 # gnome-vfs.keys.in.h:274
 #: gnome-vfs.keys.in.h:279
 msgid "zip archive"
-msgstr "архив формата zip"
+msgstr "архив в формате zip"
 
 # gnome-vfs.keys.in.h:275
 #: gnome-vfs.keys.in.h:280
 msgid "zoo archive"
-msgstr "архив формата zoo"
+msgstr "архив в формате zoo"
