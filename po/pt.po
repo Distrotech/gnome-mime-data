@@ -1,14 +1,14 @@
 # gnome-mime-data's Portuguese Translation
-# Copyright (C) 2002, 2003 gnome-mime-data
+# Copyright (C) 2002, 2004 gnome-mime-data
 # Distributed under the same licence as the gnome-mime-data package
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2001, 2002, 2003
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2001, 2004
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.6\n"
 "Report-Msgid-Bugs-To: Duarte Loreto <happyguy_pt@hotmail.com>\n"
-"POT-Creation-Date: 2003-12-29 18:43+0000\n"
-"PO-Revision-Date: 2003-12-29 18:45+0000\n"
+"POT-Creation-Date: 2004-01-03 02:36+0000\n"
+"PO-Revision-Date: 2004-01-03 02:40+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -724,8 +724,8 @@ msgid "MathML document"
 msgstr "Documento MathML"
 
 #: gnome-vfs.keys.in.h:178
-msgid "Matroska video file"
-msgstr "Ficheiro de vídeo Matroska"
+msgid "Matroska video"
+msgstr "Vídeo Matroska"
 
 #: gnome-vfs.keys.in.h:179
 msgid "Memory dump"
