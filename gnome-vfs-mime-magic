@@ -129,8 +129,8 @@
 0:64	string		\<ephy_bookmarks			application/x-epiphany-bookmarks
 
 # svg rules need to go before html
-0:256	string		\<!DOCTYPE\ svg				image/svg
-0:64	string		\<svg					image/svg
+0:256	string		\<!DOCTYPE\ svg				image/svg+xml
+0:64	string		\<svg					image/svg+xml
 0:64	string		\<chemistry				application/x-gchempaint
 0:64	string		\<crystal				application/x-gcrystal
 # php rules need to go before html
@@ -241,7 +241,7 @@
 32776	string		CDROM					application/x-iso-image
 0       string          OTTO                                    application/x-font-otf
 54	string		S\ T\ O\ P				application/x-ipod-firmware
-0:160	string		fLaC					application/x-flac
+0:160	string		fLaC					audio/x-flac
 0:160	string		ID3\x20\x00				audio/mpeg
 0:160	string		ID3\x30\x00				audio/mpeg
 0:160	string		ID3\x40\x00				audio/mpeg

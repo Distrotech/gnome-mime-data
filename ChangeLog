@@ -1,5 +1,13 @@
 2003-12-22  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: application/x-flac is now audio/x-flac,
+	image/svg is now image/svg+xml (Closes: #127667, #86748)
+
+2003-12-22  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic: better heuristics to detect RIFF CDXA video
 	types (Closes: #129780)
 

@@ -1110,6 +1110,15 @@ audio/x-aiffc
 	short_list_application_ids_for_advanced_user_level=grecord
 	_category=Audio
 
+audio/x-flac
+	_description=FLAC audio
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=gst-player
+	short_list_application_ids_for_intermediate_user_level=gst-player
+	short_list_application_ids_for_advanced_user_level=gst-player
+	_category=Audio
+	use_category_default=yes
+
 audio/x-it
 	_description=Impulse Tracker audio
 	icon_filename=gnome-audio-x-it
@@ -1352,6 +1361,14 @@ image/png
 	_category=Images
 
 image/svg
+	_description=SVG art
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=sodipodi
+	short_list_application_ids_for_intermediate_user_level=sodipodi
+	short_list_application_ids_for_advanced_user_level=sodipodi
+	_category=Images
+
+image/svg+xml
 	_description=SVG art
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=sodipodi

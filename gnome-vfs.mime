@@ -189,9 +189,6 @@ application/x-dvi
 application/x-e-theme
 	ext: etheme ETHEME
 
-application/x-flac
-	ext: flac
-
 application/x-font-afm
 	ext: afm
 
@@ -407,6 +404,9 @@ audio/prs.sid
 audio/x-aiff
 	ext: aif aifc aiff
 
+audio/x-flac
+	ext: flac
+
 audio/x-it
 	ext: it IT
 
@@ -473,7 +473,7 @@ image/jpeg
 image/png
 	ext: png
 
-image/svg
+image/svg+xml
 	ext: svg svgz
 
 image/tiff
