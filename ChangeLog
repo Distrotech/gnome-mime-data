@@ -1,3 +1,9 @@
+2003-04-01  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: added Corel Draw magic, mime-type and description
+
 2003-03-29  Andrew Sobala  <aes@gnome.org>
 
 	* gnome-vfs.keys.in: add descriptions for application/x-gnome-theme

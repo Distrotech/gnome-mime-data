@@ -110,6 +110,10 @@ application/rtf
 	_category=Documents/Word Processor
 	use_category_default=yes
 
+application/vnd.corel-draw
+	_description=Corel Draw drawing
+	_category=Documents
+
 application/vnd.lotus-1-2-3
 	_description=Lotus 1-2-3 spreadsheet
 	icon_filename=i-spreadsheet

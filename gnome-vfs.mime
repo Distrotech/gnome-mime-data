@@ -56,6 +56,9 @@ application/qif
 application/rtf
 	ext: rtf
 
+application/vnd.corel-draw
+	ext: cdr
+
 application/vnd.lotus-1-2-3
 	ext: 123 wk1 wk3 wk4 wks
 
