@@ -12,6 +12,10 @@
         * gnome-vfs.keys.in:
         * gnome-vfs.mime: added flac (lossless audio compression)
 
+2002-11-06  Christophe Fergeau <teuf@users.sourceforge.net>
+
+	* gnome-vfs-mime-magic: added gzip 
+
 2002-11-04  Alexander Kirillov <kirillov@math.sunysb.edu>
 
 	* gnome-vfs.keys.in: added an icon for text/x-tex (same one as 
