@@ -940,6 +940,16 @@ audio/basic
 	icon_filename=gnome-audio
 	_category=Audio
 
+# also audio/x-mpeg
+audio/mpeg
+	_description=MPEG audio
+	icon_filename=i-music
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=xmms,freeamp,mpg123
+	short_list_application_ids_for_intermediate_user_level=xmms,freeamp,mpg123
+	short_list_application_ids_for_advanced_user_level=xmms,freeamp,mpg123
+	_category=Audio
+
 audio/prs.sid
 	_description=Commodore 64 Audio
 	icon_filename=i-music
@@ -985,7 +995,6 @@ audio/x-mod
 	short_list_application_ids_for_advanced_user_level=soundtracker
 	_category=Audio
 
-# also audio/x-mpeg
 audio/x-mp3
 	_description=MP3 audio
 	icon_filename=i-music
@@ -1004,9 +1013,9 @@ audio/x-mp3-playlist
 	short_list_application_ids_for_advanced_user_level=xmms-no-uris,freeamp-no-uris
 	_category=Audio
 
-# also audio/x-mp3
+# also audio/mpeg
 audio/x-mpeg
-	_description=MP3 audio
+	_description=MPEG audio
 	icon_filename=i-music
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=xmms,freeamp,mpg123

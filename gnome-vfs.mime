@@ -356,6 +356,9 @@ audio/ac3
 audio/basic
 	ext: snd
 
+audio/mpeg
+	ext: mp1
+
 audio/prs.sid
 	ext: sid psid
 

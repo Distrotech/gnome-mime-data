@@ -1,3 +1,9 @@
+2002-09-30  Marco Pesenti Gritti  <marco@it.gnome.org>
+
+	* gnome-vfs.keys.in: Add audio/mpeg entry and rename audio/x-mpeg
+	* gnome-vfs.mime: Add audio/mpeg for mp1 extension
+	* gnome-vfs.applications: Use audio/mpeg
+
 2002-09-04  Alex Graveley  <alex@ximian.com>
 
 	* gnome-vfs.applications: Add -p to gnome-sound-recorder command
