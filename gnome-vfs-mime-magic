@@ -163,6 +163,7 @@
 1:16	string		/bin/csh				text/x-csh
 1:16	string		/bin/ksh				text/x-ksh
 1:16	string		/bin/perl				text/x-perl
+1:16	string		/bin/python				text/x-python
 0	string		BEGIN:VCARD				text/x-vcard
 0	string		BEGIN:VCALENDAR				text/calendar
 8	string		CDR\ vrsn				application/vnd.corel-draw
