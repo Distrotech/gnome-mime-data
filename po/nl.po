@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-mime-data\n"
-"POT-Creation-Date: 2002-11-05 05:04+0100\n"
+"POT-Creation-Date: 2002-11-25 05:30+0100\n"
 "PO-Revision-Date: 2002-11-05 14:46+0100\n"
 "Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
@@ -1324,4 +1324,3 @@ msgstr "zip archief"
 #: gnome-vfs.keys.in.h:327
 msgid "zoo archive"
 msgstr "zoo archief"
-
