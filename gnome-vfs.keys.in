@@ -2076,6 +2076,10 @@ video/x-ms-wmv
 	_description=Microsoft WMV video
 	_category=Video
 
+video/x-ms-wmx
+	_description=Microsoft WMV playlist
+	_category=Video
+
 video/x-msvideo
 	_description=Microsoft video
 	short_list_application_ids_for_novice_user_level=xmps,omsomi,xanim
