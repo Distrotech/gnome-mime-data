@@ -788,7 +788,6 @@ application/x-matroska
 	_description=Matroska video
 	default_action_type=application
 	_category=Video
-	icon_filename=gnome-mime-video
 
 application/x-mif
 	_description=FrameMaker interchange document

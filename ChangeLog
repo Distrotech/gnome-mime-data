@@ -1,3 +1,9 @@
+2004-10-25  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* gnome-vfs.applications: Remove trailing whitespace
+	* gnome-vfs.keys.in: Remove non-existant icon for
+	Matroska Video format.
+
 2004-10-11  James Henstridge  <james@jamesh.id.au>
 
 	* Makefile.am: remove intltool stuff on distclean.  Remove

@@ -237,7 +237,7 @@ gv
 
 gvim
 	command=gvim -c ":cd %:p:h"
-	name=gvim 
+	name=gvim
 	can_open_multiple_files=false
 	expects_uris=false
 	requires_terminal=false
