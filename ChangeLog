@@ -1,5 +1,9 @@
 2003-12-01  Bastien Nocera  <hadess@hadess.net>
 
+	* man/Makefile.am: don't install the man page, it's outdated
+
+2003-12-01  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.mime: make .cpio.gz have precendence over .gz
 	(Closes: #126470)
 
