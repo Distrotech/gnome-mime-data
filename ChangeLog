@@ -1,3 +1,12 @@
+2001-11-02  jacob berkman  <jacob@ximian.com>
+
+	* configure.in: glib's Makefile.in.in expects GETTEXT_PACKAGE to
+	be set
+
+	* Makefile.am (SUBDIRS): add po
+
+	* gnome-mime-data.spec.in: include pkgconfig file
+
 2001-11-02  Darin Adler  <darin@bentspoon.com>
 
 	* .cvsignore: Ignore gnome-vfs.keys. Don't bother

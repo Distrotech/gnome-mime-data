@@ -1,3 +1,5 @@
+SUBDIRS = po
+
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = gnome-mime-data-2.0.pc
 

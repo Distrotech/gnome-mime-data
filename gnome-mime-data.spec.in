@@ -64,6 +64,7 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/application-registry/gnome-vfs.applications
 %{_datadir}/mime-info/*.keys
 %{_datadir}/mime-info/*.mime
+%{_libdir}/pkgconfig/*.pc
 
 %changelog
 
