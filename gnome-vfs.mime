@@ -676,6 +676,9 @@ text/x-install
 text/x-java
 	ext: java
 
+text/x-javascript
+	ext: js
+
 text/x-literate-haskell
 	ext: lhs
 
