@@ -1,3 +1,8 @@
+2002-06-12  Jakub Steiner <jimmac@ximian.com>
+
+	* icons/gnome-application-x-abiword.png: forgot to update this
+	  one too
+
 2002-06-12  Seth Nickell  <snickell@stanford.edu>
 
 	* configure.in:
