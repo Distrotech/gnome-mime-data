@@ -1,3 +1,9 @@
+2002-06-29  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.mime:
+
+	Change extension for C++ headers from "hp" to "hpp".
+
 2002-06-28  Damon Chaplin  <damon@ximian.com>
 
 	* gnome-vfs.keys.in: changed default action for text/html to
