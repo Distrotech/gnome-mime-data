@@ -1,5 +1,9 @@
 2003-11-17  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.mime: .m4a for MPEG-4 audio
+
+2003-11-17  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic:
 	* gnome-vfs.keys.in: added MPEG-4 audio detection and mime-type
 	(audio/x-m4a)

@@ -401,6 +401,9 @@ audio/x-aiff
 audio/x-it
 	ext: it IT
 
+audio/x-m4a
+	ext: m4a
+
 audio/x-midi
 	ext: midi mid
 
