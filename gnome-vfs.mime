@@ -219,6 +219,9 @@ application/x-gzip
 application/x-hdf
 	ext: hdf
 
+application/x-iso-image
+	ext:iso
+
 application/x-java-byte-code
 	ext: class
 

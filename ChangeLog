@@ -1,5 +1,9 @@
 2003-02-01  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.mime: added iso as a possible extension for ISO images
+
+2003-02-01  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.mime: added svgz as a possible extension for SVG files
 	(reported by Christian Schaller, following additions to librsvg)
 
