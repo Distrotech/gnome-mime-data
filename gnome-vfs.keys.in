@@ -385,7 +385,7 @@ application/x-bcpio
 	_category=Packages
 
 application/x-bittorrent
-	description=BitTorrent seed file
+	_description=BitTorrent seed file
 	_category=Documents/World Wide Web
 
 application/x-blender
@@ -1301,6 +1301,19 @@ image/jpg
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	_category=Images
 
+# also image/jpeg
+image/pjpeg
+	_description=JPEG image
+	default_action_type=component
+	short_list_component_iids=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
+	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
+	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
+	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
+	_category=Images
+
 # also image/x-png
 image/png
 	_description=PNG image
@@ -1923,7 +1936,7 @@ text/x-java
 	use_category_default=yes
 
 text/x-javascript
-	description=JavaScript source code
+	_description=JavaScript source code
 	default_action_type=application
 	short_list_application_ids_for_novice_user_level=anjuta
 	short_list_application_ids_for_intermediate_user_level=anjuta

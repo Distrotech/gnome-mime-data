@@ -1,3 +1,9 @@
+2003-10-12  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: added image/pjpeg as a possible JPEG mime-type
+	(Closes: #124409), translate the bitorrent and javascript entries
+	now that the string freeze is over
+
 2003-10-12  Christophe Fergeau  <teuf@gnome.org>
 
 	* gnome-vfs-mime-magic: made ID3 sniffing more selective (closes
