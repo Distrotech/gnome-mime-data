@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-05-10 03:11+0800\n"
+"POT-Creation-Date: 2002-05-21 01:43+0800\n"
 "PO-Revision-Date: 2002-05-09 08:34+0800\n"
 "Last-Translator: Hasbullah Bin Pit <sebol@ikhlas.com>\n"
 "Language-Team: Projek Gabai <gabai-penyumbang@lists.sourceforge.org>\n"
@@ -441,44 +441,44 @@ msgid "ODA document"
 msgstr "Dokumen ODA"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
-msgstr "Persembahan OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation"
+msgstr "Persembahan OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
-msgstr "Templat persembahan OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "Templat persembahan OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "Dokumen OpenOffice Math"
+msgid "OpenOffice.org Math document"
+msgstr "Dokumen OpenOffice.org Math"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "Dokumen OpenOffice Writer"
+msgid "OpenOffice.org Writer document"
+msgstr "Dokumen OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
-msgstr "Dokumen global OpenOffice Writer"
+msgid "OpenOffice.org Writer global document"
+msgstr "Dokumen global OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
-msgstr "Templat OpenOffice Writer"
+msgid "OpenOffice.org Writer template"
+msgstr "Templat OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
-msgstr "Lukisan OpenOffice"
+msgid "OpenOffice.org drawing"
+msgstr "Lukisan OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
-msgstr "Templat lukisan OpenOffice"
+msgid "OpenOffice.org drawing template"
+msgstr "Templat lukisan OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
-msgstr "Hamparan OpenOffice"
+msgid "OpenOffice.org spreadsheet"
+msgstr "Hamparan OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
-msgstr "Templat hamparan OpenOffice"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "Templat hamparan OpenOffice.org"
 
 # ui/galeon.glade.h:176
 #: gnome-vfs.keys.in.h:115
