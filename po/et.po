@@ -1,14 +1,16 @@
+# translation of gnome-mime-data.po to Estonian
 # gnome mime data eesti keele tõlge
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# Copyright (C) 2002, 2004 Free Software Foundation, Inc.
 # Ilmar Kerm <ikerm@hot.ee>, 2002.
 # Tõivo Leedjärv <toivo@linux.ee>, 2002, 2003.
-# 
-# 
+# Priit Laes <amd@tt.ee>, 2004.
+#
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-mime-data Gnome 2.6\n"
-"POT-Creation-Date: 2004-02-27 03:55+0100\n"
-"PO-Revision-Date: 2004-02-27 12:01+0300\n"
+"Project-Id-Version: gnome-mime-data\n"
+"POT-Creation-Date: 2004-08-06 11:45+0200\n"
+"PO-Revision-Date: 2004-08-13 12:35+0300\n"
 "Last-Translator: Priit Laes <amd@tt.ee>\n"
 "Language-Team: Estonian <gnome-et@linux.ee>\n"
 "MIME-Version: 1.0\n"
@@ -978,7 +980,7 @@ msgstr "PostScript dokument"
 
 #: gnome-vfs.keys.in.h:241
 msgid "Profiler results"
-msgstr ""
+msgstr "Profileerija tulemused"
 
 #: gnome-vfs.keys.in.h:242
 msgid "Project Plan"
