@@ -198,9 +198,10 @@ gnumeric
 	command=gnumeric
 	name=Gnumeric
 	can_open_multiple_files=true
-	expects_uris=false
+	expects_uris=non-file
+	uses_gnomevfs=true
 	requires_terminal=false
-	mime_types=application/x-gnumeric,application/x-applix-spreadsheet,application/vnd.ms-excel,application/vnd.lotus-1-2-3,application/x-oleo,application/x-xbase,text/spreadsheet,text/x-comma-separated-values,text/tab-separated-values
+	mime_types=application/x-gnumeric,application/vnd.ms-excel,application/msexcel,application/x-msexcel,application/x-ms-excel,application/vnd.ms-excel,application/x-excel,x-dos_ms_excel,application/xls,application/x-xls,zz-winassoc-xls,application/x-applix-spreadsheet,application/vnd.lotus-1-2-3,text/x-comma-separated-values,comma-separated-values,text/csv,application/csv,application/tab-separated-values,application/x-oleo,application/x-xbase,application/vnd.sun.xml.calc,application/vnd.sun.xml.calc.template,application/x-quattro-pro,application/x-sc,application/x-sylk,text/spreadsheet,application/x-planperfect,application/x-mps
 
 grecord
 	command=gnome-sound-recorder
