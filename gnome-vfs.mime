@@ -693,6 +693,9 @@ text/x-lyx
 text/x-makefile
 	regex: [Mm]akefile
 
+text/x-objc
+	ext: m
+
 text/x-pascal
 	ext: p pascal
 

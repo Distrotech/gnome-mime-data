@@ -1982,6 +1982,10 @@ text/x-makefile
 	_description=Makefile
 	_category=Software Development
 
+text/x-objc
+	_category=Software Development/Source Code
+	_description=Objective C source code
+
 text/x-pascal
 	_description=Pascal source code
 	_category=Software Development/Source Code

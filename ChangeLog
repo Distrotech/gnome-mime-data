@@ -1,5 +1,12 @@
 2003-12-01  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: add Objective-C support (patch from PUYDT Julien
+	<julien.puydt@laposte.net>) (Closes: #126473)
+
+2003-12-01  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: rename video/vivo to video/vnd.vivo, remove
 	xanim and xmps as handlers for video files, mark a few strings
