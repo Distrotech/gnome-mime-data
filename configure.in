@@ -7,7 +7,9 @@ AM_MAINTAINER_MODE
 AC_PROG_INTLTOOL
 
 ALL_LINGUAS="az ca da de el es fi fr ga gl hu it ja ko lt nl nn no pl pt pt_BR ro ru sk sl sv tr uk wa zh_TW"
-AM_GNOME2_GETTEXT
+GETTEXT_PACKAGE=gnome-mime-data
+AC_SUBST(GETTEXT_PACKAGE)
+AM_GLIB_GNU_GETTEXT
 
 AC_OUTPUT([
 Makefile
