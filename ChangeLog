@@ -44,7 +44,6 @@
 	* gnome-vfs.mime: added Applix "Presents" presentations
 	(Closes: #78362)
 
->>>>>>> 1.148
 2003-05-05  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
                                                                                 
         * configure.in: Added cy to ALL_LINGUAS
