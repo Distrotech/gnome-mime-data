@@ -1,3 +1,9 @@
+2002-06-12  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.applications:
+
+	Change binary name to gnome-sound-recorder
+	
 2002-06-12  Jakub Steiner <jimmac@ximian.com>
 
 	* icons/gnome-application-x-abiword.png: forgot to update this
