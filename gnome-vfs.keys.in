@@ -984,9 +984,9 @@ audio/mpeg
 	_description=MPEG audio
 	icon_filename=i-music
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xmms,freeamp,mpg123
-	short_list_application_ids_for_intermediate_user_level=xmms,freeamp,mpg123
-	short_list_application_ids_for_advanced_user_level=xmms,freeamp,mpg123
+	short_list_application_ids_for_novice_user_level=xmms,freeamp
+	short_list_application_ids_for_intermediate_user_level=xmms,freeamp
+	short_list_application_ids_for_advanced_user_level=xmms,freeamp
 	_category=Audio
 
 audio/prs.sid
@@ -1038,9 +1038,9 @@ audio/x-mp3
 	_description=MP3 audio
 	icon_filename=i-music
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xmms,freeamp,mpg123
-	short_list_application_ids_for_intermediate_user_level=xmms,freeamp,mpg123
-	short_list_application_ids_for_advanced_user_level=xmms,freeamp,mpg123
+	short_list_application_ids_for_novice_user_level=xmms,freeamp
+	short_list_application_ids_for_intermediate_user_level=xmms,freeamp
+	short_list_application_ids_for_advanced_user_level=xmms,freeamp
 	_category=Audio
 
 audio/x-mp3-playlist
@@ -1057,9 +1057,9 @@ audio/x-mpeg
 	_description=MPEG audio
 	icon_filename=i-music
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xmms,freeamp,mpg123
-	short_list_application_ids_for_intermediate_user_level=xmms,freeamp,mpg123
-	short_list_application_ids_for_advanced_user_level=xmms,freeamp,mpg123
+	short_list_application_ids_for_novice_user_level=xmms,freeamp
+	short_list_application_ids_for_intermediate_user_level=xmms,freeamp
+	short_list_application_ids_for_advanced_user_level=xmms,freeamp
 	_category=Audio
 
 audio/x-mpegurl

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 2.2.x\n"
-"POT-Creation-Date: 2003-03-20 20:19+0530\n"
+"POT-Creation-Date: 2003-03-29 19:21+0100\n"
 "PO-Revision-Date: 2003-03-05 10:29+0530\n"
 "Last-Translator: FSF-India <locale@gnu.org.in>\n"
 "Language-Team: Malayalam <locale@gnu.org.in>\n"
@@ -56,1473 +56,1524 @@ msgid "Andrew Toolkit inset"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:10
-msgid "ApplixWare Graphics image"
+msgid "Apple ipod firmware"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:11
-msgid "Applixware Words document"
+msgid "ApplixWare Graphics image"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:12
-msgid "Applixware spreadsheet"
+msgid "Applixware Words document"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:13
+msgid "Applixware spreadsheet"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:14
+msgid "Assembler Code"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:15
+#, fuzzy
+msgid "Assembler source code"
+msgstr "അക്ഷത്തിന്റെ കോഡ് തെരഞ്ഞെടുക്കുക"
+
+#: gnome-vfs.keys.in.h:16
 msgid "Audio"
 msgstr "ശബ്ദം"
 
-#: gnome-vfs.keys.in.h:14
+#: gnome-vfs.keys.in.h:17
 #, fuzzy
 msgid "AutoCAD image"
 msgstr "സ്വയം സംരംക്ഷണം"
 
-#: gnome-vfs.keys.in.h:15
+#: gnome-vfs.keys.in.h:18
 #, fuzzy
 msgid "BCPIO document"
 msgstr "രചന അച്ചടിക്കുക‌"
 
-#: gnome-vfs.keys.in.h:16
+#: gnome-vfs.keys.in.h:19
 #, fuzzy
 msgid "BDF font"
 msgstr "ഉള്ളടക്കത്തിന്റെ അക്ഷരരൂപം"
 
-#: gnome-vfs.keys.in.h:17
-msgid "C shell script"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:18
-#, fuzzy
-msgid "C source code"
-msgstr "അക്ഷത്തിന്റെ കോഡ്:"
-
-#: gnome-vfs.keys.in.h:19
-msgid "C source code header"
-msgstr ""
-
 #: gnome-vfs.keys.in.h:20
-msgid "C++ source code"
+msgid "C shell script"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:21
 #, fuzzy
-msgid "CGI program"
-msgstr "പ്രയോഗം"
+msgid "C source code"
+msgstr "അക്ഷത്തിന്റെ കോഡ്:"
 
 #: gnome-vfs.keys.in.h:22
-#, fuzzy
-msgid "CGM image"
-msgstr "ലോഗോ ചിത്രം"
+msgid "C source code header"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:23
-msgid "CMU raster image"
+msgid "C++ source code"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:24
 #, fuzzy
-msgid "CPIO archive"
-msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
+msgid "CGI program"
+msgstr "പ്രയോഗം"
 
 #: gnome-vfs.keys.in.h:25
-msgid "CPIO archive (gzip-compressed)"
-msgstr ""
+#, fuzzy
+msgid "CGM image"
+msgstr "ലോഗോ ചിത്രം"
 
 #: gnome-vfs.keys.in.h:26
-msgid "Commodore 64 Audio"
+msgid "CMU raster image"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:27
 #, fuzzy
-msgid "DCL script"
-msgstr "വിവര സൂചകം"
+msgid "CPIO archive"
+msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
 
 #: gnome-vfs.keys.in.h:28
-msgid "DOS font"
+msgid "CPIO archive (gzip-compressed)"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:29
-msgid "DOS/Windows program"
+msgid "Commodore 64 Audio"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:30
 #, fuzzy
+msgid "DCL script"
+msgstr "വിവര സൂചകം"
+
+#: gnome-vfs.keys.in.h:31
+msgid "DOS font"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:32
+msgid "DOS/Windows program"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:33
+#, fuzzy
 msgid "DSSSL document"
 msgstr "രചന"
 
-#: gnome-vfs.keys.in.h:31
+#: gnome-vfs.keys.in.h:34
 #, fuzzy
 msgid "DXF vector graphic"
 msgstr "xfig സദിശചിത്രം"
 
-#: gnome-vfs.keys.in.h:32
+#: gnome-vfs.keys.in.h:35
 #, fuzzy
 msgid "Debian package"
 msgstr "പ്രധാന പട്ടിക"
 
-#: gnome-vfs.keys.in.h:33
+#: gnome-vfs.keys.in.h:36
 msgid "Device Independant Bitmap"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:34
+#: gnome-vfs.keys.in.h:37
 #, fuzzy
 msgid "Dia diagram"
 msgstr "ആരേഖം"
 
-#: gnome-vfs.keys.in.h:35
+#: gnome-vfs.keys.in.h:38
 msgid "Digital Imaging and Communications in Medicine image"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:36
+#: gnome-vfs.keys.in.h:39
 msgid "Digital Moving Picture Exchange"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:37
+#: gnome-vfs.keys.in.h:40
 msgid "Documents"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:38
+#: gnome-vfs.keys.in.h:41
 #, fuzzy
 msgid "Documents/Diagram"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:39
+#: gnome-vfs.keys.in.h:42
 msgid "Documents/Extended Markup Language (XML)"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:40
+#: gnome-vfs.keys.in.h:43
 #, fuzzy
 msgid "Documents/Numeric"
 msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
 
-#: gnome-vfs.keys.in.h:41
+#: gnome-vfs.keys.in.h:44
 #, fuzzy
 msgid "Documents/Plain Text"
 msgstr "സഹായഗ്രന്ഥങ്ങള്:"
 
-#: gnome-vfs.keys.in.h:42
+#: gnome-vfs.keys.in.h:45
 #, fuzzy
 msgid "Documents/Presentation"
 msgstr "സഹായഗ്രന്ഥങ്ങള്:"
 
-#: gnome-vfs.keys.in.h:43
+#: gnome-vfs.keys.in.h:46
 #, fuzzy
 msgid "Documents/Project Management"
 msgstr "പദ്ധതിനിര്‍വ്വഹണം"
 
-#: gnome-vfs.keys.in.h:44
+#: gnome-vfs.keys.in.h:47
 msgid "Documents/Published Materials"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:45
+#: gnome-vfs.keys.in.h:48
 #, fuzzy
 msgid "Documents/Spreadsheet"
 msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
 
-#: gnome-vfs.keys.in.h:46
+#: gnome-vfs.keys.in.h:49
 #, fuzzy
 msgid "Documents/TeX"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:47
+#: gnome-vfs.keys.in.h:50
 #, fuzzy
 msgid "Documents/Text Markup"
 msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
 
-#: gnome-vfs.keys.in.h:48
+#: gnome-vfs.keys.in.h:51
 #, fuzzy
 msgid "Documents/Vector Graphics"
 msgstr "സഹായ ഗ്രന്ഥ ക‍ര്ത്താക്കള്‌"
 
-#: gnome-vfs.keys.in.h:49
+#: gnome-vfs.keys.in.h:52
 msgid "Documents/Word Processor"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:50
-msgid "Documents/World Wide Web"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:51
-#, fuzzy
-msgid "Dolby Digital audio"
-msgstr "CD സാംഖിക ശ്രവണം"
-
-#: gnome-vfs.keys.in.h:52
-msgid "Dreamcast rom"
-msgstr ""
-
 #: gnome-vfs.keys.in.h:53
-msgid "Emacs Lisp source code"
+msgid "Documents/World Wide Web"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:54
 #, fuzzy
+msgid "Dolby Digital audio"
+msgstr "CD സാംഖിക ശ്രവണം"
+
+#: gnome-vfs.keys.in.h:55
+msgid "Dreamcast rom"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:56
+msgid "Emacs Lisp source code"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:57
+#, fuzzy
 msgid "Enlightenment theme"
 msgstr "വിവരമണ‍്ഡല സമയം"
 
-#: gnome-vfs.keys.in.h:55
+#: gnome-vfs.keys.in.h:58
 #, fuzzy
 msgid "FLAC audio"
 msgstr "ശബ്ദം"
 
-#: gnome-vfs.keys.in.h:56
+#: gnome-vfs.keys.in.h:59
 #, fuzzy
 msgid "FLC animation"
 msgstr "സചേതനം"
 
-#: gnome-vfs.keys.in.h:57
+#: gnome-vfs.keys.in.h:60
 #, fuzzy
 msgid "FLI animation"
 msgstr "സചേതനം"
 
-#: gnome-vfs.keys.in.h:58
+#: gnome-vfs.keys.in.h:61
 msgid "FastTracker II audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:59
+#: gnome-vfs.keys.in.h:62
 #, fuzzy
 msgid "FlashPix Image"
 msgstr ""
 "പതാക\n"
 "ബിന്ദുചിത്രം"
 
-#: gnome-vfs.keys.in.h:60
+#: gnome-vfs.keys.in.h:63
 msgid "Flexible Image Transport System"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:61
+#: gnome-vfs.keys.in.h:64
 msgid "Fortran source code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:62
+#: gnome-vfs.keys.in.h:65
 #, fuzzy
 msgid "FrameMaker interchange document"
 msgstr "പുതിയ രചന ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:63
+#: gnome-vfs.keys.in.h:66
 #, fuzzy
 msgid "G3 fax image"
 msgstr "ഗെയിം ഉപയോഗം"
 
-#: gnome-vfs.keys.in.h:64
+#: gnome-vfs.keys.in.h:67
 #, fuzzy
 msgid "GIF image"
 msgstr "ചിത്രം"
 
-#: gnome-vfs.keys.in.h:65
+#: gnome-vfs.keys.in.h:68
 #, fuzzy
 msgid "GIMP document"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:66
+#: gnome-vfs.keys.in.h:69
 #, fuzzy
 msgid "GMC link"
 msgstr "ബന്ധം"
 
-#: gnome-vfs.keys.in.h:67
+#: gnome-vfs.keys.in.h:70
+msgid "GNOME theme package"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:71
 msgid "GNU Oleo Spreadsheet"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:68
+#: gnome-vfs.keys.in.h:72
 #, fuzzy
 msgid "GNU mail message"
 msgstr "സന്ദേശത്തിലെ അടുത്ത ഭാഗം"
 
-#: gnome-vfs.keys.in.h:69
+#: gnome-vfs.keys.in.h:73
 #, fuzzy
 msgid "GTK configuration"
 msgstr "അനുരൂപമാക്കല്‍"
 
-#: gnome-vfs.keys.in.h:70
+#: gnome-vfs.keys.in.h:74
 #, fuzzy
 msgid "Game Boy rom"
 msgstr "കളി കഴിഞ്ഞു!"
 
-#: gnome-vfs.keys.in.h:71
+#: gnome-vfs.keys.in.h:75
 #, fuzzy
 msgid "Genesis rom"
 msgstr "പൊതു പിശക്"
 
-#: gnome-vfs.keys.in.h:72
+#: gnome-vfs.keys.in.h:76
 #, fuzzy
 msgid "Glade project"
 msgstr "പുതിയ പദ്ധതി"
 
-#: gnome-vfs.keys.in.h:73
+#: gnome-vfs.keys.in.h:77
 msgid "GnuCash Workbook"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:74
+#: gnome-vfs.keys.in.h:78
 msgid "Gnumeric spreadsheet"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:75
+#: gnome-vfs.keys.in.h:79
 msgid "Gtktalog Catalogue"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:76
+#: gnome-vfs.keys.in.h:80
 #, fuzzy
 msgid "HDF document"
 msgstr "രചന"
 
-#: gnome-vfs.keys.in.h:77
+#: gnome-vfs.keys.in.h:81
 #, fuzzy
 msgid "HTML page"
 msgstr "പ്രധാന താള്"
 
-#: gnome-vfs.keys.in.h:78
+#: gnome-vfs.keys.in.h:82
 msgid "Haskell source code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:79
+#: gnome-vfs.keys.in.h:83
 #, fuzzy
 msgid "IDL document"
 msgstr "രചന"
 
-#: gnome-vfs.keys.in.h:80
+#: gnome-vfs.keys.in.h:84
 #, fuzzy
 msgid "IEF image"
 msgstr "ചിത്രം"
 
-#: gnome-vfs.keys.in.h:81
+#: gnome-vfs.keys.in.h:85
 #, fuzzy
 msgid "IFF image"
 msgstr "ചിത്രം"
 
-#: gnome-vfs.keys.in.h:82
+#: gnome-vfs.keys.in.h:86
 #, fuzzy
 msgid "ILBM image"
 msgstr "ലോഗോ ചിത്രം"
 
-#: gnome-vfs.keys.in.h:83
+#: gnome-vfs.keys.in.h:87
 msgid "ISI video"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:84
+#: gnome-vfs.keys.in.h:88
 #, fuzzy
 msgid "ISO image"
 msgstr "ചിത്രം"
 
-#: gnome-vfs.keys.in.h:85
+#: gnome-vfs.keys.in.h:89
 msgid "Images"
 msgstr "ചിത്രങ്ങള്‌"
 
-#: gnome-vfs.keys.in.h:86
+#: gnome-vfs.keys.in.h:90
 msgid "Impulse Tracker audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:87
+#: gnome-vfs.keys.in.h:91
 msgid "Information"
 msgstr "വിവരം"
 
-#: gnome-vfs.keys.in.h:88
+#: gnome-vfs.keys.in.h:92
 #, fuzzy
 msgid "Information/Calendar"
 msgstr "വിവരം"
 
-#: gnome-vfs.keys.in.h:89
+#: gnome-vfs.keys.in.h:93
 #, fuzzy
 msgid "Information/Financial"
 msgstr "വിവരം"
 
-#: gnome-vfs.keys.in.h:90
+#: gnome-vfs.keys.in.h:94
 #, fuzzy
 msgid "JBuilder Project"
 msgstr "പുതിയ പദ്ധതി"
 
-#: gnome-vfs.keys.in.h:91
+#: gnome-vfs.keys.in.h:95
 #, fuzzy
 msgid "JPEG image"
 msgstr "JPEG  ഛായാരീതി"
 
-#: gnome-vfs.keys.in.h:92
+#: gnome-vfs.keys.in.h:96
 msgid "Java byte code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:93
+#: gnome-vfs.keys.in.h:97
+#, fuzzy
+msgid "Java jar archive"
+msgstr "ഭണ്ടാരം"
+
+#: gnome-vfs.keys.in.h:98
 msgid "Java source code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:94
+#: gnome-vfs.keys.in.h:99
 #, fuzzy
 msgid "KDE application details"
 msgstr "പ്രയോഗം അവസാനിപ്പിക്കുക"
 
-#: gnome-vfs.keys.in.h:95
+#: gnome-vfs.keys.in.h:100
 #, fuzzy
 msgid "KIllustrator document"
 msgstr "രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:96
+#: gnome-vfs.keys.in.h:101
 #, fuzzy
 msgid "KPresenter presentation"
 msgstr "അവതരണം"
 
-#: gnome-vfs.keys.in.h:97
+#: gnome-vfs.keys.in.h:102
 msgid "KSpread spreadsheet"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:98
+#: gnome-vfs.keys.in.h:103
 #, fuzzy
 msgid "KWord document"
 msgstr " രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:99
+#: gnome-vfs.keys.in.h:104
 msgid "Korn shell script"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:100
+#: gnome-vfs.keys.in.h:105
 #, fuzzy
 msgid "LHA archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:101
+#: gnome-vfs.keys.in.h:106
 #, fuzzy
 msgid "LHARC archive"
 msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
 
-#: gnome-vfs.keys.in.h:102
+#: gnome-vfs.keys.in.h:107
 msgid "LIBGRX font"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:103
+#: gnome-vfs.keys.in.h:108
 msgid "LightWave object"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:104
+#: gnome-vfs.keys.in.h:109
 msgid "LightWave scene"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:105
+#: gnome-vfs.keys.in.h:110
 msgid "Linux PSF console font"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:106
+#: gnome-vfs.keys.in.h:111
 msgid "Literate haskell source code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:107
+#: gnome-vfs.keys.in.h:112
 msgid "Lotus 1-2-3 spreadsheet"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:108
+#: gnome-vfs.keys.in.h:113
 #, fuzzy
 msgid "LyX Document"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:109
+#: gnome-vfs.keys.in.h:114
 msgid "MIDI audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:110
+#: gnome-vfs.keys.in.h:115
 #, fuzzy
 msgid "MOD audio"
 msgstr "തരംഗ ശ്രവണം"
 
-#: gnome-vfs.keys.in.h:111
+#: gnome-vfs.keys.in.h:116
 #, fuzzy
 msgid "MP3 audio"
 msgstr "തരംഗ ശ്രവണം"
 
-#: gnome-vfs.keys.in.h:112
+#: gnome-vfs.keys.in.h:117
 msgid "MP3 audio playlist"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:113
+#: gnome-vfs.keys.in.h:118
 msgid "MPEG audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:114
+#: gnome-vfs.keys.in.h:119
 msgid "MPEG video"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:115
+#: gnome-vfs.keys.in.h:120
 msgid "MS ASF video"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:116
+#: gnome-vfs.keys.in.h:121
 #, fuzzy
 msgid "MS video"
 msgstr "ചലനചിത്രം"
 
-#: gnome-vfs.keys.in.h:117
-msgid "MSX rom"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:118
-#, fuzzy
-msgid "MacBinary file"
-msgstr "അരിപ്പുകള്‌ കൈകാര്യം ചെയ്യ‍ുക"
-
-#: gnome-vfs.keys.in.h:119
-msgid "Macintosh AppleDouble-encoded file"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:120
-msgid "Macintosh BinHex-encoded file"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:121
-msgid "Macintosh StuffIt archive"
-msgstr ""
-
 #: gnome-vfs.keys.in.h:122
-msgid "Macromedia Flash file"
+msgid "MSX rom"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:123
 #, fuzzy
+msgid "MacBinary file"
+msgstr "അരിപ്പുകള്‌ കൈകാര്യം ചെയ്യ‍ുക"
+
+#: gnome-vfs.keys.in.h:124
+msgid "Macintosh AppleDouble-encoded file"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:125
+msgid "Macintosh BinHex-encoded file"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:126
+msgid "Macintosh StuffIt archive"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:127
+msgid "Macromedia Flash file"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:128
+#, fuzzy
 msgid "Magick image format"
 msgstr "ടാഗാ ഛായാചിത്രരീതി"
 
-#: gnome-vfs.keys.in.h:124
+#: gnome-vfs.keys.in.h:129
 #, fuzzy
 msgid "MathML document"
 msgstr "രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:125
+#: gnome-vfs.keys.in.h:130
 msgid "Message"
 msgstr "സന്ദേശം"
 
-#: gnome-vfs.keys.in.h:126
-msgid "Microsoft Excel spreadsheet"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:127
-#, fuzzy
-msgid "Microsoft PowerPoint document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
-
-#: gnome-vfs.keys.in.h:128
-msgid "Microsoft WMV video"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:129
-#, fuzzy
-msgid "Microsoft Word document"
-msgstr "രചനയില്‌ നിന്ന്"
-
-#: gnome-vfs.keys.in.h:130
-msgid "Microsoft video"
-msgstr ""
-
 #: gnome-vfs.keys.in.h:131
-msgid "NES rom"
+msgid "Microsoft Excel spreadsheet"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:132
 #, fuzzy
-msgid "Nautilus link"
-msgstr "നോട്ടിലസ്"
+msgid "Microsoft PowerPoint document"
+msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
 
 #: gnome-vfs.keys.in.h:133
-msgid "Nintendo64 rom"
+msgid "Microsoft WMV video"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:134
 #, fuzzy
-msgid "ODA document"
-msgstr "രചന"
+msgid "Microsoft Word document"
+msgstr "രചനയില്‌ നിന്ന്"
 
 #: gnome-vfs.keys.in.h:135
-msgid "OpenOffice.org Impress presentation"
+msgid "Microsoft video"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:136
-msgid "OpenOffice.org Impress presentation template"
+msgid "Monkey Media lossless codec"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:137
-msgid "OpenOffice.org Math document"
+msgid "NES rom"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:138
-msgid "OpenOffice.org Writer document"
-msgstr ""
+#, fuzzy
+msgid "Nautilus link"
+msgstr "നോട്ടിലസ്"
 
 #: gnome-vfs.keys.in.h:139
-msgid "OpenOffice.org Writer global document"
+msgid "Nintendo64 rom"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:140
+#, fuzzy
+msgid "ODA document"
+msgstr "രചന"
+
+#: gnome-vfs.keys.in.h:141
+msgid "OpenOffice.org Impress presentation"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:142
+msgid "OpenOffice.org Impress presentation template"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:143
+msgid "OpenOffice.org Math document"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:144
+msgid "OpenOffice.org Writer document"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:145
+msgid "OpenOffice.org Writer global document"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:146
 msgid "OpenOffice.org Writer template"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:141
+#: gnome-vfs.keys.in.h:147
 #, fuzzy
 msgid "OpenOffice.org drawing"
 msgstr "സുതാര്യ ഓഫീസ്"
 
-#: gnome-vfs.keys.in.h:142
+#: gnome-vfs.keys.in.h:148
 msgid "OpenOffice.org drawing template"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:143
+#: gnome-vfs.keys.in.h:149
 msgid "OpenOffice.org spreadsheet"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:144
+#: gnome-vfs.keys.in.h:150
 msgid "OpenOffice.org spreadsheet template"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:145
+#: gnome-vfs.keys.in.h:151
 #, fuzzy
 msgid "OpenType font"
 msgstr "സൂചനാതരം"
 
-#: gnome-vfs.keys.in.h:146
+#: gnome-vfs.keys.in.h:152
 #, fuzzy
 msgid "PBM image"
 msgstr "അവ്യക്ത ഛായ"
 
-#: gnome-vfs.keys.in.h:147
+#: gnome-vfs.keys.in.h:153
 msgid "PC Paintbrush image"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:148
+#: gnome-vfs.keys.in.h:154
 #, fuzzy
 msgid "PCF font"
 msgstr "അക്ഷരരൂപം"
 
-#: gnome-vfs.keys.in.h:149
+#: gnome-vfs.keys.in.h:155
 #, fuzzy
 msgid "PDF document"
 msgstr "രചന"
 
-#: gnome-vfs.keys.in.h:150
+#: gnome-vfs.keys.in.h:156
 #, fuzzy
 msgid "PEF program"
 msgstr "നിര്‍ദ്ദേശ-സംഹിത"
 
-#: gnome-vfs.keys.in.h:151
+#: gnome-vfs.keys.in.h:157
 #, fuzzy
 msgid "PGM image"
 msgstr "ലോഗോ ചിത്രം"
 
-#: gnome-vfs.keys.in.h:152
+#: gnome-vfs.keys.in.h:158
 #, fuzzy
 msgid "PGN chess game"
 msgstr "അല്പ്പനേരത്തേക്ക് കളി നിര്ത്തി വെയ്‍ക്കാം"
 
-#: gnome-vfs.keys.in.h:153
+#: gnome-vfs.keys.in.h:159
 #, fuzzy
 msgid "PGP keys"
 msgstr "പ്രവ‌ര്ത്തന കീ"
 
-#: gnome-vfs.keys.in.h:154
+#: gnome-vfs.keys.in.h:160
 #, fuzzy
 msgid "PGP message"
 msgstr "കത്ത് അച്ചടിക്കുക"
 
-#: gnome-vfs.keys.in.h:155
+#: gnome-vfs.keys.in.h:161
 #, fuzzy
 msgid "PGP signature"
 msgstr "ഒപ്പ് പരിശോധിക്കുക"
 
-#: gnome-vfs.keys.in.h:156
+#: gnome-vfs.keys.in.h:162
 #, fuzzy
 msgid "PGP-encrypted file"
 msgstr "തെരഞ്ഞെടുത്ത രചനകള്‍"
 
-#: gnome-vfs.keys.in.h:157
+#: gnome-vfs.keys.in.h:163
 msgid "PHP script"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:158
+#: gnome-vfs.keys.in.h:164
 #, fuzzy
 msgid "PICT image"
 msgstr "ചിത്രം"
 
-#: gnome-vfs.keys.in.h:159
+#: gnome-vfs.keys.in.h:165
 #, fuzzy
 msgid "PNG image"
 msgstr "ചിത്രമില്ല"
 
-#: gnome-vfs.keys.in.h:160
+#: gnome-vfs.keys.in.h:166
 #, fuzzy
 msgid "PNM image"
 msgstr "ചിത്രമില്ല"
 
-#: gnome-vfs.keys.in.h:161
+#: gnome-vfs.keys.in.h:167
 #, fuzzy
 msgid "PPM image"
 msgstr "ലോഗോ ചിത്രം"
 
-#: gnome-vfs.keys.in.h:162
+#: gnome-vfs.keys.in.h:168
 #, fuzzy
 msgid "Packages"
 msgstr "പൊതി"
 
-#: gnome-vfs.keys.in.h:163
+#: gnome-vfs.keys.in.h:169
 #, fuzzy
 msgid "Palm OS database"
 msgstr "വസ്തുതാശേഖരം"
 
-#: gnome-vfs.keys.in.h:164
+#: gnome-vfs.keys.in.h:170
 msgid "Palm Pixmap image"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:165
+#: gnome-vfs.keys.in.h:171
+#, fuzzy
+msgid "Pascal source code"
+msgstr "അക്ഷത്തിന്റെ കോഡ്:"
+
+#: gnome-vfs.keys.in.h:172
 #, fuzzy
 msgid "Perl script"
 msgstr "വിവര സൂചകം"
 
-#: gnome-vfs.keys.in.h:166
+#: gnome-vfs.keys.in.h:173
 #, fuzzy
 msgid "Photo CD image"
 msgstr "ലോഗോ ചിത്രം"
 
-#: gnome-vfs.keys.in.h:167
+#: gnome-vfs.keys.in.h:174
 #, fuzzy
 msgid "Photoshop document"
 msgstr "രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:168
+#: gnome-vfs.keys.in.h:175
 #, fuzzy
 msgid "Playlist"
 msgstr "കളിക്കുക"
 
-#: gnome-vfs.keys.in.h:169
+#: gnome-vfs.keys.in.h:176
 msgid "PostScript Type 1 font"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:170
+#: gnome-vfs.keys.in.h:177
 #, fuzzy
 msgid "PostScript document"
 msgstr "പുതിയ രചന തുറക്കുക"
 
-#: gnome-vfs.keys.in.h:171
+#: gnome-vfs.keys.in.h:178
 #, fuzzy
 msgid "Project Plan"
 msgstr "പദ്ധതി"
 
-#: gnome-vfs.keys.in.h:172
+#: gnome-vfs.keys.in.h:179
 msgid "Python source code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:173
+#: gnome-vfs.keys.in.h:180
 msgid "QuickTime movie"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:174
+#: gnome-vfs.keys.in.h:181
 #, fuzzy
 msgid "Quicken document"
 msgstr "രചന അച്ചടിക്കുക‌"
 
-#: gnome-vfs.keys.in.h:175
+#: gnome-vfs.keys.in.h:182
 msgid "Quicken for Windows document"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:176
+#: gnome-vfs.keys.in.h:183
 #, fuzzy
 msgid "RAR archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:177
+#: gnome-vfs.keys.in.h:184
 #, fuzzy
 msgid "README document"
 msgstr "രചന"
 
-#: gnome-vfs.keys.in.h:178
+#: gnome-vfs.keys.in.h:185
 #, fuzzy
 msgid "RGB image"
 msgstr "അവ്യക്ത ഛായ"
 
-#: gnome-vfs.keys.in.h:179
+#: gnome-vfs.keys.in.h:186
 msgid "RIFF audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:180
+#: gnome-vfs.keys.in.h:187
 #, fuzzy
 msgid "RPM package"
 msgstr "പൊതി"
 
-#: gnome-vfs.keys.in.h:181
+#: gnome-vfs.keys.in.h:188
 msgid "Raw Gray Sample"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:182
+#: gnome-vfs.keys.in.h:189
 #, fuzzy
 msgid "RealAudio document"
 msgstr "കൂടുതല് ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:183
+#: gnome-vfs.keys.in.h:190
 #, fuzzy
 msgid "RealAudio/Video document"
 msgstr "നിലവിലുള്ള രചന പുതുക്കുക"
 
-#: gnome-vfs.keys.in.h:184
-msgid "RealVideo video"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:185
-#, fuzzy
-msgid "S/MIME file"
-msgstr "CLOSE പരാചയപ്പെട്ടു."
-
-#: gnome-vfs.keys.in.h:186
-#, fuzzy
-msgid "S/MIME signature"
-msgstr "ഒപ്പ് പരിശോധിക്കുക"
-
-#: gnome-vfs.keys.in.h:187
-msgid "SGI video"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:188
-#, fuzzy
-msgid "SGML document"
-msgstr "SGML ജിനോം പ്രസ്ഥാവങ്ങള്‌"
-
-#: gnome-vfs.keys.in.h:189
-msgid "SHOUTcast Playlist"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:190
-#, fuzzy
-msgid "SMIL script"
-msgstr "നിര്‍ദ്ദേശ-സംഹിത‌"
-
 #: gnome-vfs.keys.in.h:191
-msgid "SMS or Game Gear rom"
+msgid "RealVideo video"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:192
 #, fuzzy
+msgid "S/MIME file"
+msgstr "CLOSE പരാചയപ്പെട്ടു."
+
+#: gnome-vfs.keys.in.h:193
+#, fuzzy
+msgid "S/MIME signature"
+msgstr "ഒപ്പ് പരിശോധിക്കുക"
+
+#: gnome-vfs.keys.in.h:194
+msgid "SGI video"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:195
+#, fuzzy
+msgid "SGML document"
+msgstr "SGML ജിനോം പ്രസ്ഥാവങ്ങള്‌"
+
+#: gnome-vfs.keys.in.h:196
+msgid "SHOUTcast Playlist"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:197
+#, fuzzy
+msgid "SMIL script"
+msgstr "നിര്‍ദ്ദേശ-സംഹിത‌"
+
+#: gnome-vfs.keys.in.h:198
+msgid "SMS or Game Gear rom"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:199
+#, fuzzy
 msgid "SQL code"
 msgstr "സങ്കേതം"
 
-#: gnome-vfs.keys.in.h:193
+#: gnome-vfs.keys.in.h:200
 msgid "SUN Rasterfile"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:194
+#: gnome-vfs.keys.in.h:201
 #, fuzzy
 msgid "SV4 CPIO archive"
 msgstr "ആര്‍ക്കേവ് പക‌ര്‍‍ത്തുക"
 
-#: gnome-vfs.keys.in.h:195
+#: gnome-vfs.keys.in.h:202
 msgid "SV4 CPIP archive (with CRC)"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:196
+#: gnome-vfs.keys.in.h:203
 #, fuzzy
 msgid "SVG art"
 msgstr "തുടങ്ങുക"
 
-#: gnome-vfs.keys.in.h:197
+#: gnome-vfs.keys.in.h:204
 #, fuzzy
 msgid "Scheme source code"
 msgstr "അക്ഷത്തിന്റെ കോഡ് തെരഞ്ഞെടുക്കുക"
 
-#: gnome-vfs.keys.in.h:198
+#: gnome-vfs.keys.in.h:205
 msgid "Scream Tracker 3 audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:199
+#: gnome-vfs.keys.in.h:206
 msgid "Scream Tracker audio"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:200
+#: gnome-vfs.keys.in.h:207
 msgid "Scream Tracker instrument"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:201
+#: gnome-vfs.keys.in.h:208
 msgid "Security"
 msgstr "സുരക്ഷ"
 
-#: gnome-vfs.keys.in.h:202
+#: gnome-vfs.keys.in.h:209
 #, fuzzy
 msgid "Setext document"
 msgstr "രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:203
+#: gnome-vfs.keys.in.h:210
 #, fuzzy
 msgid "Silicon Graphics Image"
 msgstr "ചിത്രീകരണ പട്ടിക"
 
-#: gnome-vfs.keys.in.h:204
+#: gnome-vfs.keys.in.h:211
 #, fuzzy
 msgid "Software Development"
 msgstr "മൃദുസാമഗ്രി നിര്മ്മിക്കുവാനുള്ള ഉപകരങ്ങള്"
 
-#: gnome-vfs.keys.in.h:205
+#: gnome-vfs.keys.in.h:212
 msgid "Software Development/ROM Images"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:206
+#: gnome-vfs.keys.in.h:213
+#, fuzzy
+msgid "Software Development/ROM image"
+msgstr "മൃദുസാമഗ്രി നിര്മ്മിക്കുവാനുള്ള ഉപകരങ്ങള്"
+
+#: gnome-vfs.keys.in.h:214
+#, fuzzy
+msgid "Software Development/Source"
+msgstr "മൃദുസാമഗ്രി നിര്മ്മിക്കുവാനുള്ള ഉപകരങ്ങള്"
+
+#: gnome-vfs.keys.in.h:215
 msgid "Software Development/Source Code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:207
+#: gnome-vfs.keys.in.h:216
 #, fuzzy
 msgid "Speech document"
 msgstr "ആധാരം മുഴുവന്‌ തെരഞ്ഞെടുക്കുക"
 
-#: gnome-vfs.keys.in.h:208
+#: gnome-vfs.keys.in.h:217
 #, fuzzy
 msgid "Speedo font"
 msgstr "തലവാചക അക്ഷരരൂപം"
 
-#: gnome-vfs.keys.in.h:209
+#: gnome-vfs.keys.in.h:218
 #, fuzzy
 msgid "Spreadsheet Interchange document"
 msgstr "പുതിയ രചന ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:210
+#: gnome-vfs.keys.in.h:219
 msgid "Stampede package"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:211
-msgid "StarCalc spreadsheet"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:212
-#, fuzzy
-msgid "StarChart chart"
-msgstr "ആരഭ ദിനം:"
-
-#: gnome-vfs.keys.in.h:213
-#, fuzzy
-msgid "StarDraw drawing"
-msgstr "വരയ്‌ക്കുന്നു"
-
-#: gnome-vfs.keys.in.h:214
-#, fuzzy
-msgid "StarImpress presentation"
-msgstr "അവതരണം"
-
-#: gnome-vfs.keys.in.h:215
-#, fuzzy
-msgid "StarMail file"
-msgstr "രചനകള് അയക്കുക‌‌"
-
-#: gnome-vfs.keys.in.h:216
-#, fuzzy
-msgid "StarMath document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
-
-#: gnome-vfs.keys.in.h:217
-msgid "StarOffice extended metafile image"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:218
-#, fuzzy
-msgid "StarWriter document"
-msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
-
-#: gnome-vfs.keys.in.h:219
-msgid "Sun mu-law audio"
-msgstr ""
-
 #: gnome-vfs.keys.in.h:220
-msgid "SunOS News font"
+msgid "StarCalc spreadsheet"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:221
 #, fuzzy
+msgid "StarChart chart"
+msgstr "ആരഭ ദിനം:"
+
+#: gnome-vfs.keys.in.h:222
+#, fuzzy
+msgid "StarDraw drawing"
+msgstr "വരയ്‌ക്കുന്നു"
+
+#: gnome-vfs.keys.in.h:223
+#, fuzzy
+msgid "StarImpress presentation"
+msgstr "അവതരണം"
+
+#: gnome-vfs.keys.in.h:224
+#, fuzzy
+msgid "StarMail file"
+msgstr "രചനകള് അയക്കുക‌‌"
+
+#: gnome-vfs.keys.in.h:225
+#, fuzzy
+msgid "StarMath document"
+msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
+
+#: gnome-vfs.keys.in.h:226
+msgid "StarOffice extended metafile image"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:227
+#, fuzzy
+msgid "StarWriter document"
+msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
+
+#: gnome-vfs.keys.in.h:228
+msgid "Sun mu-law audio"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:229
+msgid "SunOS News font"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:230
+#, fuzzy
 msgid "System"
 msgstr "വ്യ‍ുഹം"
 
-#: gnome-vfs.keys.in.h:222
+#: gnome-vfs.keys.in.h:231
 #, fuzzy
 msgid "TIFF image"
 msgstr "ചിത്രം"
 
-#: gnome-vfs.keys.in.h:223
+#: gnome-vfs.keys.in.h:232
 #, fuzzy
 msgid "TarGA image"
 msgstr "അവ്യക്ത ഛായ"
 
-#: gnome-vfs.keys.in.h:224
+#: gnome-vfs.keys.in.h:233
 msgid "Tcl script"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:225
+#: gnome-vfs.keys.in.h:234
 #, fuzzy
 msgid "TeX document"
 msgstr "രചന"
 
-#: gnome-vfs.keys.in.h:226
+#: gnome-vfs.keys.in.h:235
 #, fuzzy
 msgid "TeX dvi document"
 msgstr "രചന അച്ചടിക്കുക‌"
 
-#: gnome-vfs.keys.in.h:227
+#: gnome-vfs.keys.in.h:236
 #, fuzzy
 msgid "TeX font"
 msgstr "പാദ അക്ഷരരൂപം"
 
-#: gnome-vfs.keys.in.h:228
+#: gnome-vfs.keys.in.h:237
 msgid "TeX font metrics"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:229
+#: gnome-vfs.keys.in.h:238
 #, fuzzy
 msgid "TeXInfo document"
 msgstr " രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:230
+#: gnome-vfs.keys.in.h:239
 #, fuzzy
 msgid "ToutDoux document"
 msgstr "രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:231
+#: gnome-vfs.keys.in.h:240
 #, fuzzy
 msgid "TrueType font"
 msgstr "സൂചനാതരം"
 
-#: gnome-vfs.keys.in.h:232
+#: gnome-vfs.keys.in.h:241
 #, fuzzy
 msgid "Truevision Targa image"
 msgstr "ടാഗാ ഛായാചിത്രരീതി"
 
-#: gnome-vfs.keys.in.h:233
+#: gnome-vfs.keys.in.h:242
 #, fuzzy
 msgid "USENET news message"
 msgstr "സന്ദേശം"
 
-#: gnome-vfs.keys.in.h:234
+#: gnome-vfs.keys.in.h:243
 #, fuzzy
 msgid "Unidata netCDF document"
 msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:235
+#: gnome-vfs.keys.in.h:244
 msgid "User Interface"
 msgstr "ഉപയോക്തൃ നാമം"
 
-#: gnome-vfs.keys.in.h:236
+#: gnome-vfs.keys.in.h:245
 #, fuzzy
 msgid "User Interface/Fonts"
 msgstr "ഉപയോക്തൃ നാമം"
 
-#: gnome-vfs.keys.in.h:237
+#: gnome-vfs.keys.in.h:246
 #, fuzzy
 msgid "V font"
 msgstr "ഉള്ളടക്കത്തിന്റെ അക്ഷരരൂപം"
 
-#: gnome-vfs.keys.in.h:238
+#: gnome-vfs.keys.in.h:247
 #, fuzzy
 msgid "VOC audio"
 msgstr "തരംഗ ശ്രവണം"
 
-#: gnome-vfs.keys.in.h:239
+#: gnome-vfs.keys.in.h:248
 #, fuzzy
 msgid "VRML document"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:240
+#: gnome-vfs.keys.in.h:249
 msgid "Video"
 msgstr "ചലനചിത്രം"
 
-#: gnome-vfs.keys.in.h:241
+#: gnome-vfs.keys.in.h:250
 #, fuzzy
 msgid "Vivo video"
 msgstr "ചലനചിത്രം"
 
-#: gnome-vfs.keys.in.h:242
+#: gnome-vfs.keys.in.h:251
 msgid "WAIS source code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:243
+#: gnome-vfs.keys.in.h:252
 msgid "Wavelet video"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:244
+#: gnome-vfs.keys.in.h:253
 #, fuzzy
 msgid "Windows bitmap image"
 msgstr "ജാലക നാമാവലി വലിപ്പം"
 
-#: gnome-vfs.keys.in.h:245
+#: gnome-vfs.keys.in.h:254
 #, fuzzy
 msgid "Windows icon image"
 msgstr "ജീലക ഉപയോഗം"
 
-#: gnome-vfs.keys.in.h:246
+#: gnome-vfs.keys.in.h:255
 #, fuzzy
 msgid "Windows metafile graphics"
 msgstr "ജാലക മുന്ഗണനകള്"
 
-#: gnome-vfs.keys.in.h:247
+#: gnome-vfs.keys.in.h:256
 #, fuzzy
 msgid "WordPerfect document"
 msgstr "രചന അച്ചടിക്കുക‌"
 
-#: gnome-vfs.keys.in.h:248
+#: gnome-vfs.keys.in.h:257
 msgid "X bitmap image"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:249
+#: gnome-vfs.keys.in.h:258
 #, fuzzy
 msgid "X window image"
 msgstr "ജാലക പാലകന്:‌"
 
-#: gnome-vfs.keys.in.h:250
+#: gnome-vfs.keys.in.h:259
 #, fuzzy
 msgid "XML document"
 msgstr "ഗ്രന്ഥങ്ങള്"
 
-#: gnome-vfs.keys.in.h:251
+#: gnome-vfs.keys.in.h:260
 #, fuzzy
 msgid "XPM image"
 msgstr "ലോഗോ ചിത്രം"
 
-#: gnome-vfs.keys.in.h:252
+#: gnome-vfs.keys.in.h:261
 #, fuzzy
 msgid "Xbase database"
 msgstr "വസ്തുതാശേഖരം"
 
-#: gnome-vfs.keys.in.h:253
+#: gnome-vfs.keys.in.h:262
+#, fuzzy
+msgid "Yacc source file"
+msgstr "അക്ഷത്തിന്റെ കോഡ്:"
+
+#: gnome-vfs.keys.in.h:263
 msgid "Z shell script"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:254
+#: gnome-vfs.keys.in.h:264
 #, fuzzy
 msgid "active server page"
 msgstr "അടയാളപ്പെടുത്തിയ താളുകള് സംരക്ഷിക്കുക"
 
-#: gnome-vfs.keys.in.h:255
+#: gnome-vfs.keys.in.h:265
 #, fuzzy
 msgid "address card"
 msgstr "വിലാസം"
 
-#: gnome-vfs.keys.in.h:256
+#: gnome-vfs.keys.in.h:266
 #, fuzzy
 msgid "application launcher"
 msgstr "അനുപ്രയോഗസഹായി"
 
-#: gnome-vfs.keys.in.h:257
+#: gnome-vfs.keys.in.h:267
 #, fuzzy
 msgid "ar archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:258
+#: gnome-vfs.keys.in.h:268
 #, fuzzy
 msgid "arj archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:259
+#: gnome-vfs.keys.in.h:269
+#, fuzzy
+msgid "audio"
+msgstr "ശബ്ദം"
+
+#: gnome-vfs.keys.in.h:270
 #, fuzzy
 msgid "authors list"
 msgstr "ക‌ര്ത്താവ്"
 
-#: gnome-vfs.keys.in.h:260
+#: gnome-vfs.keys.in.h:271
 #, fuzzy
 msgid "backup file"
 msgstr "രചന സംയോജിപ്പിക്കുക"
 
-#: gnome-vfs.keys.in.h:261
+#: gnome-vfs.keys.in.h:272
 #, fuzzy
 msgid "basic audio"
 msgstr "തരംഗ ശ്രവണം"
 
-#: gnome-vfs.keys.in.h:262
+#: gnome-vfs.keys.in.h:273
 msgid "bibliography record"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:263
+#: gnome-vfs.keys.in.h:274
 #, fuzzy
 msgid "binary program"
 msgstr "പ്രയോഗം നടപ്പിലാക്കുക:"
 
-#: gnome-vfs.keys.in.h:264
+#: gnome-vfs.keys.in.h:275
 msgid "block device"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:265
+#: gnome-vfs.keys.in.h:276
 msgid "bzip-compressed file"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:266
+#: gnome-vfs.keys.in.h:277
 #, fuzzy
 msgid "calendar file"
 msgstr "പ്രാദേശിക രചനകള്"
 
-#: gnome-vfs.keys.in.h:267
+#: gnome-vfs.keys.in.h:278
 #, fuzzy
 msgid "calendar or event document"
 msgstr "നിലവിലുള്ള രചന പുതുക്കുക"
 
-#: gnome-vfs.keys.in.h:268
+#: gnome-vfs.keys.in.h:279
 #, fuzzy
 msgid "character device"
 msgstr "അക്ഷത്തിന്റെ കോഡ്"
 
-#: gnome-vfs.keys.in.h:269
+#: gnome-vfs.keys.in.h:280
 #, fuzzy
 msgid "comma-separated text document"
 msgstr "ഇടം തിരിച്ച വാക്യ പ്രസ്താവം"
 
-#: gnome-vfs.keys.in.h:270
+#: gnome-vfs.keys.in.h:281
 #, fuzzy
 msgid "compound document"
 msgstr " രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:271
+#: gnome-vfs.keys.in.h:282
 msgid "compress-compressed file"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:272
+#: gnome-vfs.keys.in.h:283
 #, fuzzy
 msgid "compressed GIMP document"
 msgstr "പി.ഡി.എഫ് രചന ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:273
+#: gnome-vfs.keys.in.h:284
 #, fuzzy
 msgid "directory information file"
 msgstr "കൂട് ശൂന്യമല്ല"
 
-#: gnome-vfs.keys.in.h:274
+#: gnome-vfs.keys.in.h:285
 msgid "document type definition"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:275
+#: gnome-vfs.keys.in.h:286
 #, fuzzy
 msgid "email headers"
 msgstr "എല്ലാ തലവാചകങ്ങളും കാണിക്കുക"
 
-#: gnome-vfs.keys.in.h:276
+#: gnome-vfs.keys.in.h:287
 #, fuzzy
 msgid "email message/mailbox"
 msgstr "എഴുത്ത് പെട്ടിയിലുള്ള എല്ലാ സന്ദേശങ്ങളും തെരഞ്ഞെടുക്കുക"
 
-#: gnome-vfs.keys.in.h:277
+#: gnome-vfs.keys.in.h:288
 #, fuzzy
 msgid "encrypted message"
 msgstr "സന്ദേശ തരം"
 
-#: gnome-vfs.keys.in.h:278
+#: gnome-vfs.keys.in.h:289
 #, fuzzy
 msgid "enriched text document"
 msgstr "ഇടം തിരിച്ച വാക്യ പ്രസ്താവം"
 
-#: gnome-vfs.keys.in.h:279
+#: gnome-vfs.keys.in.h:290
 #, fuzzy
 msgid "folder"
 msgstr "1 കൂട്"
 
-#: gnome-vfs.keys.in.h:280
+#: gnome-vfs.keys.in.h:291
 #, fuzzy
 msgid "gtar archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:281
+#: gnome-vfs.keys.in.h:292
 msgid "gzip-compressed file"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:282
+#: gnome-vfs.keys.in.h:293
 #, fuzzy
 msgid "help page"
 msgstr "പ്രധാന താള്"
 
-#: gnome-vfs.keys.in.h:283
+#: gnome-vfs.keys.in.h:294
 msgid "mail delivery report"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:284
+#: gnome-vfs.keys.in.h:295
 msgid "mail disposition report"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:285
+#: gnome-vfs.keys.in.h:296
 #, fuzzy
 msgid "mail system report"
 msgstr "കത്ത് സ‍ര്‍വ്വര്:"
 
-#: gnome-vfs.keys.in.h:286
+#: gnome-vfs.keys.in.h:297
 #, fuzzy
 msgid "makefile"
 msgstr "മൈല്‍"
 
-#: gnome-vfs.keys.in.h:287
+#: gnome-vfs.keys.in.h:298
 #, fuzzy
 msgid "manual page"
 msgstr "കരകൃത താളുകള്‌"
 
-#: gnome-vfs.keys.in.h:288
+#: gnome-vfs.keys.in.h:299
 #, fuzzy
 msgid "manual page (compressed)"
 msgstr "കരകൃത താളുകള്‌"
 
-#: gnome-vfs.keys.in.h:289
+#: gnome-vfs.keys.in.h:300
 #, fuzzy
 msgid "memory dump"
 msgstr "(മെമ്മറി ബഫര്)"
 
-#: gnome-vfs.keys.in.h:290
+#: gnome-vfs.keys.in.h:301
 #, fuzzy
 msgid "message digest"
 msgstr "ചിത്ര വിഡ്‌ഗെറ്റ്"
 
-#: gnome-vfs.keys.in.h:291
+#: gnome-vfs.keys.in.h:302
 #, fuzzy
 msgid "message in several formats"
 msgstr "സന്ദേശജാലക തലക്കെട്ട് രീതി:"
 
-#: gnome-vfs.keys.in.h:292
+#: gnome-vfs.keys.in.h:303
 #, fuzzy
 msgid "multi-part message"
 msgstr "സന്ദേശത്തിലെ അടുത്ത ഭാഗം"
 
-#: gnome-vfs.keys.in.h:293
+#: gnome-vfs.keys.in.h:304
 #, fuzzy
 msgid "named pipe"
 msgstr "രചനാനാമം മാറ്റുക"
 
-#: gnome-vfs.keys.in.h:294
+#: gnome-vfs.keys.in.h:305
 msgid "object code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:295
+#: gnome-vfs.keys.in.h:306
 #, fuzzy
 msgid "ogg audio"
 msgstr "തരംഗ ശ്രവണം"
 
-#: gnome-vfs.keys.in.h:296
+#: gnome-vfs.keys.in.h:307
 #, fuzzy
 msgid "partial email message"
 msgstr "സന്ദേശത്തിലെ അടുത്ത ഭാഗം"
 
-#: gnome-vfs.keys.in.h:297
+#: gnome-vfs.keys.in.h:308
 #, fuzzy
 msgid "plain text document"
 msgstr "രചന അച്ചടിക്കുക‌"
 
-#: gnome-vfs.keys.in.h:298
+#: gnome-vfs.keys.in.h:309
 msgid "profiler results"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:299
+#: gnome-vfs.keys.in.h:310
 msgid "python byte code"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:300
+#: gnome-vfs.keys.in.h:311
 #, fuzzy
 msgid "reference to remote file"
 msgstr "രചനകള്‌‌ മായ്‍ക്കാന്‌ തയ്യാറെടുക്കുന്നു..."
 
-#: gnome-vfs.keys.in.h:301
+#: gnome-vfs.keys.in.h:312
 #, fuzzy
 msgid "rejected patch file"
 msgstr "തെരഞ്ഞെടുത്ത രചനകള്‍"
 
-#: gnome-vfs.keys.in.h:302
+#: gnome-vfs.keys.in.h:313
 #, fuzzy
 msgid "rich text document"
 msgstr "രചന അച്ചടിക്കുക‌"
 
-#: gnome-vfs.keys.in.h:303
+#: gnome-vfs.keys.in.h:314
 #, fuzzy
 msgid "search results"
 msgstr "അന്വേഷണ ഫലങ്ങള്‌"
 
-#: gnome-vfs.keys.in.h:304
+#: gnome-vfs.keys.in.h:315
 msgid "shared library"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:305
+#: gnome-vfs.keys.in.h:316
 #, fuzzy
 msgid "shell archive"
 msgstr "ആര്‍ക്കേവ് തെരഞ്ഞെടുക്കുക"
 
-#: gnome-vfs.keys.in.h:306
+#: gnome-vfs.keys.in.h:317
 #, fuzzy
 msgid "shell script"
 msgstr "ഉപസഹായി"
 
-#: gnome-vfs.keys.in.h:307
+#: gnome-vfs.keys.in.h:318
 #, fuzzy
 msgid "signed message"
 msgstr "കത്ത് അച്ചടിക്കുക"
 
-#: gnome-vfs.keys.in.h:308
+#: gnome-vfs.keys.in.h:319
 #, fuzzy
 msgid "socket"
 msgstr "പൂട്ടി"
 
-#: gnome-vfs.keys.in.h:309
+#: gnome-vfs.keys.in.h:320
 #, fuzzy
 msgid "software author credits"
 msgstr "എഫ്.എസ്.എഫ് - ഇന്ത്യ <gnu@gnu.org.in>"
 
-#: gnome-vfs.keys.in.h:310
+#: gnome-vfs.keys.in.h:321
 msgid "software installation instructions"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:311
+#: gnome-vfs.keys.in.h:322
 msgid "software license terms"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:312
+#: gnome-vfs.keys.in.h:323
 msgid "source code patch"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:313
+#: gnome-vfs.keys.in.h:324
 msgid "style sheet"
 msgstr "ശൈലി പത്രിക"
 
-#: gnome-vfs.keys.in.h:314
+#: gnome-vfs.keys.in.h:325
 msgid "symbolic link"
 msgstr "ചിഹ്നിത ബന്ധം"
 
-#: gnome-vfs.keys.in.h:315
+#: gnome-vfs.keys.in.h:326
 msgid "tab-separated text document"
 msgstr "ഇടം തിരിച്ച വാക്യ പ്രസ്താവം"
 
-#: gnome-vfs.keys.in.h:316
+#: gnome-vfs.keys.in.h:327
 #, fuzzy
 msgid "tar archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:317
+#: gnome-vfs.keys.in.h:328
 msgid "tar archive (bzip2-compressed)"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:318
+#: gnome-vfs.keys.in.h:329
 msgid "tar archive (gzip-compressed)"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:319
+#: gnome-vfs.keys.in.h:330
 msgid "theme"
 msgstr "പ്രമേയം"
 
-#: gnome-vfs.keys.in.h:320
+#: gnome-vfs.keys.in.h:331
 msgid "troff document"
 msgstr "രചനയില്‌ നിന്ന്"
 
-#: gnome-vfs.keys.in.h:321
+#: gnome-vfs.keys.in.h:332
 msgid "troff me input document"
 msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:322
+#: gnome-vfs.keys.in.h:333
 msgid "troff mm input document"
 msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:323
+#: gnome-vfs.keys.in.h:334
 msgid "troff ms input document"
 msgstr "പുതിയ ഒരു പ്രസ്താവം ഉണ്ടാക്കുക"
 
-#: gnome-vfs.keys.in.h:324
+#: gnome-vfs.keys.in.h:335
 msgid "unknown type"
 msgstr "അറിയാത്ത ഇനം"
 
-#: gnome-vfs.keys.in.h:325
+#: gnome-vfs.keys.in.h:336
 msgid "ustar archive"
 msgstr "ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:326
+#: gnome-vfs.keys.in.h:337
 msgid "wave audio"
 msgstr "തരംഗ ശ്രവണം"
 
-#: gnome-vfs.keys.in.h:327
+#: gnome-vfs.keys.in.h:338
 msgid "web folder"
 msgstr "പുതിയ കൂട്"
 
-#: gnome-vfs.keys.in.h:328
+#: gnome-vfs.keys.in.h:339
 msgid "xfig vector graphic"
 msgstr "xfig സദിശചിത്രം"
 
-#: gnome-vfs.keys.in.h:329
+#: gnome-vfs.keys.in.h:340
 msgid "zip archive"
 msgstr "സിപ് ഭണ്ടാരം"
 
-#: gnome-vfs.keys.in.h:330
+#: gnome-vfs.keys.in.h:341
 msgid "zoo archive"
 msgstr "സൂ ഭണ്ടാരം"

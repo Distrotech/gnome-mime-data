@@ -1,3 +1,11 @@
+2003-03-29  Christian Schaller <uraeus@gnome.org>
+	* Added pascal, asembler, yacc and ape mimetypes
+	* Removed icons dir from build
+	* Updated SPEC file to include latest changes
+	* Set version to 2.3
+	* make a gnome 2.2 branch
+	* Merge Red Hat's patches 
+
 2003-03-29  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in: fix up the usage of Caps in the descriptions

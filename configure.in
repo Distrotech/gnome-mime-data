@@ -14,7 +14,6 @@ AM_GLIB_GNU_GETTEXT
 AC_OUTPUT([
 Makefile
 gnome-mime-data.spec
-icons/Makefile
 man/Makefile
 man/gnome-vfs-mime.5
 po/Makefile.in

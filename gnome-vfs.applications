@@ -138,12 +138,12 @@ ggv
 	mime_types=application/pdf,application/postscript
 
 gimp
-	command=gimp-remote --new
+	command=gimp
 	name=The GIMP
 	can_open_multiple_files=true
 	expects_uris=non-file
 	requires_terminal=false
-	supported_uri_schemes=file,http
+	supported_uri_schemes=file
 	mime_types=image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/x-xpixmap,image/x-bmp,image/x-png,image/x-portable-anymap,image/x-portable-bitmap,image/x-portable-graymap,image/x-portable-pixmap,image/x-psd,image/x-xbitmap,image/x-xcf
 
 glade
