@@ -1,8 +1,12 @@
+2004-03-25  Gil Osher  <dolfin@rpg.org.il>
+
+	* he.po: Updated Hebrew translation.
+
 2004-03-23  Pablo Saratxaga  <pablo@mandrakesoft.com>
 
 	* wa.po: Updated Walloon file
 
-2004-03-21  √Ösmund Skj√¶veland  <aasmunds@fys.uio.no>
+2004-03-21  ?Ösmund Skj?¶veland  <aasmunds@fys.uio.no>
 
 	* nn.po: Updated Norwegian Nynorsk translation.
 
@@ -89,10 +93,10 @@
 
 	* cy.po: Updated Welsh translation by Rhys Jones.
 
-2004-02-25  Danilo ≈†egan  <dsegan@gmx.net>
+2004-02-25  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr@ije.po: Added Serbian Jekavian translation by
-	Bojan Suziƒá <bojans@teol.net>.
+	Bojan Suzi?á <bojans@teol.net>.
 
 2004-02-24  Guntupalli Karunakar  <karunakar@freedomink.org>
 
@@ -102,7 +106,7 @@
 
 	* sq.po: Updated Albanian translation.
 
-2004-02-20  Danilo ≈†egan  <dsegan@gmx.net>
+2004-02-20  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Reviewed Serbian translation.
 
@@ -142,7 +146,7 @@
 
 	* fi.po: Updated Finnish translation.
 
-2004-02-05  M…ôtin ∆èmirov  <metin@karegen.com>
+2004-02-05  M?ôtin ?èmirov  <metin@karegen.com>
 
 	* az.po: Translation updated.
 
@@ -170,7 +174,7 @@
 
 	* cs.po: Fixed Czech translation.
 
-2004-01-27  √Ösmund Skj√¶veland  <aasmunds@fys.uio.no>
+2004-01-27  ?Ösmund Skj?¶veland  <aasmunds@fys.uio.no>
 
 	* nn.po: Updated Norwegian Nynorsk translation.
 
@@ -227,7 +231,7 @@
 
 	* es.po: Updated Spanish translation.
 
-2003-12-31  ≈Ωygimantas Beruƒçka  <uid0@tuxfamily.org>
+2003-12-31  ?Ωygimantas Beru?çka  <uid0@tuxfamily.org>
 
 	* lt.po: Updated Lithuanian translation by Tomas Kuliavas.
 
@@ -239,7 +243,7 @@
 
 	* cs.po: Updated Czech translation.
 
-2003-12-30  Danilo ≈†egan  <dsegan@gmx.net>
+2003-12-30  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation.
 
@@ -256,7 +260,7 @@
 	* hr.po: Updated Croatian translation by
 	Robert Sedak <robert.sedak@sk.tel.hr>.
 
-2003-12-29  √Ösmund Skj√¶veland  <aasmunds@fys.uio.no>
+2003-12-29  ?Ösmund Skj?¶veland  <aasmunds@fys.uio.no>
 
 	* nn.po: Updated Norwegian Nynorsk translation.
 
@@ -264,7 +268,7 @@
 
 	* pl.po: Updated Polish translation.
 
-2003-12-29  Danilo ≈†egan  <dsegan@gmx.net>
+2003-12-29  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation.
 
@@ -281,7 +285,7 @@
 
 	* cs.po: Updated Czech translation.
 
-2003-12-27  √Ösmund Skj√¶veland  <aasmunds@fys.uio.no>
+2003-12-27  ?Ösmund Skj?¶veland  <aasmunds@fys.uio.no>
 
 	* nn.po: Updated Norwegian Nynorsk translation.
 
@@ -329,7 +333,7 @@
 
 	* cs.po: Updated Czech translation.
 
-2003-12-11  Danilo ≈†egan  <dsegan@gmx.net>
+2003-12-11  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation.
 
@@ -341,7 +345,7 @@
 
 	* cs.po: Updated Czech translation.
 
-2003-12-03  Danilo ≈†egan  <dsegan@gmx.net>
+2003-12-03  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation.
 
@@ -349,7 +353,7 @@
 
 	* pt.po: Updated and revised Portuguese translation.
 
-2003-12-01  √Ösmund Skj√¶veland  <aasmunds@fys.uio.no>
+2003-12-01  ?Ösmund Skj?¶veland  <aasmunds@fys.uio.no>
 
 	* nn.po: Updated Norwegian Nynorsk translation.
 
@@ -361,7 +365,7 @@
 
 	* fr.po: Updated French translation.
 
-2003-11-19  √Ösmund Skj√¶veland  <aasmunds@fys.uio.no>
+2003-11-19  ?Ösmund Skj?¶veland  <aasmunds@fys.uio.no>
 
 	* nn.po: Updated Norwegian Nynorsk translation.
 
@@ -378,7 +382,7 @@
         * ga.po: Fixed formatting errors. Submitted by
                  David O'Callaghan <david.ocallaghan@cs.tcd.ie>
 
-2003-10-30  ≈Ωygimantas Beruƒçka  <uid0@tuxfamily.org>
+2003-10-30  ?Ωygimantas Beru?çka  <uid0@tuxfamily.org>
 
 	* lt.po: Updated Lithuanian translation by Tomas Kuliavas.
 
@@ -398,7 +402,7 @@
 
 	* nl.po: Dutch translation updated by Vincent van Adrighem.
 
-2003-10-13  Danilo ≈†egan  <dsegan@gmx.net>
+2003-10-13  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation.
 
@@ -464,7 +468,7 @@
 
 	* fi.po: Updated Finnish translation.
 
-2003-08-16  T√µivo Leedj√§rv  <toivo@linux.ee>
+2003-08-16  T?µivo Leedj?§rv  <toivo@linux.ee>
 
 	* et.po: Updated Estonian translation.
 
@@ -498,7 +502,7 @@
 	* be.po: Updated Belarusian translation
 	from Belarusian team <i18n@mova.org>.
 
-2003-07-22  Danilo ≈†egan  <dsegan@gmx.net>
+2003-07-22  Danilo ?†egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation by Serbian team
 	(Prevod.org).
@@ -512,7 +516,7 @@
         * es.po: Updated Spanish translation by
                  Francisco Javier F. Serrador <serrador@arrakis.es>.
 
-2003-07-12  Jo√´l Brich <joel.brich@laposte.net>
+2003-07-12  Jo?´l Brich <joel.brich@laposte.net>
 
 	* eo.po: Added Esperanto translation
 	from Charles Voegler <cvoegler@dweasel.com>
@@ -545,7 +549,7 @@
 
 	* fr.po: Updated French translation.
 
-2003-07-02  Danilo ≈†egan  <danilo@kvota.net>
+2003-07-02  Danilo ?†egan  <danilo@kvota.net>
 
 	* sr.po, sr@Latn.po: Updated Serbian translation by Serbian team 
 	(Prevod.org).
@@ -598,7 +602,7 @@
 
 	* he.po: Updated Hebrew translation.
 
-2003-06-20  Sam?¬∫el J?¬≥n Gunnarsson  <sammi@techattack.nu>
+2003-06-20  Sam??∫el J??≥n Gunnarsson  <sammi@techattack.nu>
 
 	* is.po: Updated Icelandic translation
 
@@ -660,7 +664,7 @@
 
 	* it.po: Updated Italian translation.
 
-2003-06-05  Sam?¬∫el J?¬≥n Gunnarsson  <sammi@techattack.nu>
+2003-06-05  Sam??∫el J??≥n Gunnarsson  <sammi@techattack.nu>
 
 	* is.po: Added Icelandic translation
 
