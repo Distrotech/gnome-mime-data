@@ -17,6 +17,7 @@ sysconf_DATA = gnome-vfs-mime-magic
 
 EXTRA_DIST =					\
 	autogen.sh				\
+	check-mime.pl				\
 	gnome-mime-data.spec			\
 	gnome-mime-data-2.0.pc.in		\
 	intltool-extract.in			\

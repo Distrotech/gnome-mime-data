@@ -1,5 +1,11 @@
 2001-11-01  Seth Nickell  <snickell@stanford.edu>
 
+	* Makefile.am:
+
+	Add check-mime.pl to EXTRA_DIST.
+	
+2001-11-01  Seth Nickell  <snickell@stanford.edu>
+
 	* configure.in:
 
 	Change version number so people aren't confused...this should
