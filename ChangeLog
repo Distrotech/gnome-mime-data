@@ -1,3 +1,9 @@
+2002-05-20  Jaka Mocnik  <jaka@gnu.org>
+
+	* gnome-vfs.keys.in: added GGV control component iids for
+	application/postscript mime type. made component the default
+	action type.
+
 2002-05-20  Bastien Nocera  <hadess@hadess.net>
 
 	* icons/Makefile.am:
