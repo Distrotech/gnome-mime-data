@@ -773,5 +773,8 @@ video/x-ms-wmv
 video/x-msvideo
 	ext: avi
 
+video/x-nsf
+	ext: nsf NSF
+
 video/x-sgi-movie
 	ext: movie

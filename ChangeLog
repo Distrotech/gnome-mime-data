@@ -1,3 +1,10 @@
+2003-05-20  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: added video/x-nsf mime-type from Nullsoft, fixed
+	placement of the samba share directory
+
 2003-05-19  Christian Neumair  <chris@gnome-de.org>
 
 	* gnome-vfs.keys.in: Reduced number of translatable strings by 1 by
