@@ -815,9 +815,9 @@ audio/x-xm
 image/bmp
 	_description=Windows bitmap image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -831,9 +831,9 @@ image/g3fax
 image/gif
 	_description=GIF image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -844,9 +844,9 @@ image/ief
 image/jpeg
 	_description=JPEG image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -855,9 +855,9 @@ image/jpeg
 image/png
 	_description=PNG image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -872,9 +872,9 @@ image/svg
 image/tiff
 	_description=TIFF image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -899,9 +899,9 @@ image/x-applix-graphic
 image/x-bmp
 	_description=Windows bitmap image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -936,9 +936,9 @@ image/x-lws
 image/x-png
 	_description=PNG image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -947,9 +947,9 @@ image/x-png
 image/x-portable-anymap
 	_description=PNM image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -957,9 +957,9 @@ image/x-portable-anymap
 image/x-portable-bitmap
 	_description=PBM image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -968,9 +968,9 @@ image/x-portable-bitmap
 image/x-portable-graymap
 	_description=PGM image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -978,9 +978,9 @@ image/x-portable-graymap
 image/x-portable-pixmap
 	_description=PPM image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
@@ -1035,9 +1035,9 @@ image/x-xfig
 image/x-xpixmap
 	_description=XPM image
 	default_action_type=component
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus-image-viewer:30686633-23d5-422b-83c6-4f1b06f8abcd
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
