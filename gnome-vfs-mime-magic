@@ -55,6 +55,7 @@
 0	string		GIF8					image/gif
 4	string		moov					video/quicktime
 4	string		mdat					video/quicktime
+8	string		mp42					video/quicktime
 12	string		mdat					video/quicktime
 0	string		MThd					audio/x-midi
 0	string		IMPM					audio/x-it
