@@ -36,7 +36,11 @@
 
 0	string		%PDF-					application/pdf
 0	string		\177ELF					application/x-executable-binary
-0	string		PK\003\004				application/zip
+
+# Disable zip because detecting StarOffice files correctly is more imporant in the release
+# than detecting the occasional zip file without an extension
+#0	string		PK\003\004				application/zip
+
 0	string		\004%!					application/postscript
 0	string		\000\000\001\272			video/mpeg
 0	string		\000\000\001\263			video/mpeg

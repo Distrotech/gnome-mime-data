@@ -1,3 +1,11 @@
+2002-02-21  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs-mime-magic:
+
+	Temporarily disable "zip" magic. Its more important to
+	detect StarOffice files in the release than the occasional
+	zip file without an extension.
+
 2002-02-18  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: added mpeg transport stream from
