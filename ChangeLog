@@ -1,3 +1,7 @@
+2003-07-09  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.mime: .mp3 files are now audio/mpeg
+
 2003-07-02  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic:

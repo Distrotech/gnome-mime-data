@@ -387,7 +387,7 @@ audio/basic
 	ext: snd
 
 audio/mpeg
-	ext: mp1
+	ext: mp1 mp3
 
 audio/prs.sid
 	ext: sid psid
@@ -403,9 +403,6 @@ audio/x-midi
 
 audio/x-mod
 	ext: mod MOD
-
-audio/x-mp3
-	ext: mp3
 
 audio/x-mpegurl
 	ext: m3u
