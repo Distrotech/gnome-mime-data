@@ -5,1529 +5,1111 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs\n"
-"POT-Creation-Date: 2002-02-05 05:44-0800\n"
-"PO-Revision-Date: 1999-12-28 13:44+0200\n"
-"Last-Translator: Yuri Syrota <rasta@renome.rovno.ua>\n"
+"POT-Creation-Date: 2002-03-01 19:32+0200\n"
+"PO-Revision-Date: 2002-03-01 18:55+0200\n"
+"Last-Translator: Yuriy Syrota <yuri@renome.rovno.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
-msgstr "зображення 3D Studio"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ 3D Studio"
 
 #: gnome-vfs.keys.in.h:2
 msgid "AIFC audio"
-msgstr "ауд╕о AIFC"
+msgstr "п╟я┐п╢я√п╬ AIFC"
 
 #: gnome-vfs.keys.in.h:3
 msgid "AIFF audio"
-msgstr "ауд╕о AIFF"
+msgstr "п╟я┐п╢я√п╬ AIFF"
 
 #: gnome-vfs.keys.in.h:4
 msgid "ANIM animation"
-msgstr "ан╕мац╕я ANIM"
+msgstr "п╟п╫я√п╪п╟я├я√я▐ ANIM"
 
 #: gnome-vfs.keys.in.h:5
 msgid "AVI video"
-msgstr "в╕део AVI"
+msgstr "п╡я√п╢п╣п╬ AVI"
 
 #: gnome-vfs.keys.in.h:6
 msgid "AbiWord document"
-msgstr "документ AbiWord"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ AbiWord"
 
 #: gnome-vfs.keys.in.h:7
 msgid "Adobe FrameMaker font"
-msgstr "шрифт Adobe FrameMaker"
+msgstr "я┬я─п╦я└я┌ Adobe FrameMaker"
 
 #: gnome-vfs.keys.in.h:8
 msgid "Adobe font metrics"
-msgstr "метрики шрифта Adobe"
+msgstr "п╪п╣я┌я─п╦п╨п╦ я┬я─п╦я└я┌п╟ Adobe"
 
 #: gnome-vfs.keys.in.h:9
 msgid "Andrew Toolkit inset"
-msgstr "вставка Andrew Toolkit"
+msgstr "п╡п╨п╩п╟п╢п╨п╟ Andrew Toolkit"
 
 #: gnome-vfs.keys.in.h:10
 msgid "ApplixWare Graphics image"
-msgstr "зображення ApplixWare Graphics"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ ApplixWare Graphics"
 
 #: gnome-vfs.keys.in.h:11
 msgid "Applixware Words document"
-msgstr "документ Applixware Words"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Applixware Words"
 
 #: gnome-vfs.keys.in.h:12
 msgid "Applixware spreadsheet"
-msgstr "таблиця Applixware"
+msgstr "я┌п╟п╠п╩п╦я├я▐ Applixware"
 
 #: gnome-vfs.keys.in.h:13
 msgid "AutoCAD image"
-msgstr "зображення AutoCAD"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ AutoCAD"
 
 #: gnome-vfs.keys.in.h:14
 msgid "BCPIO document"
-msgstr "документ BCPIO"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ BCPIO"
 
 #: gnome-vfs.keys.in.h:15
 msgid "BDF font"
-msgstr "шрифт BDF"
+msgstr "я┬я─п╦я└я┌ BDF"
 
 #: gnome-vfs.keys.in.h:16
 msgid "C shell script"
-msgstr "скрипт C Shell"
+msgstr "я│п╨я─п╦п©я┌ C Shell"
 
 #: gnome-vfs.keys.in.h:17
 msgid "C source code"
-msgstr "вих╕дний код C"
+msgstr "я└п╟п╧п╩ C-п╨п╬п╢я┐"
 
 #: gnome-vfs.keys.in.h:18
-#, fuzzy
 msgid "C source code header"
-msgstr "вих╕дний код C"
+msgstr "я└п╟п╧п╩-п╥п╟пЁп╬п╩п╬п╡п╬п╨ C-п╨п╬п╢я┐"
 
 #: gnome-vfs.keys.in.h:19
 msgid "C++ source code"
-msgstr "вих╕дний код C++"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ C++"
 
 #: gnome-vfs.keys.in.h:20
 msgid "CGI program"
-msgstr "програма CGI"
+msgstr "п©я─п╬пЁя─п╟п╪п╟ CGI"
 
 #: gnome-vfs.keys.in.h:21
 msgid "CGM image"
-msgstr "зображення CGM"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ CGM"
 
 #: gnome-vfs.keys.in.h:22
 msgid "CMU raster image"
-msgstr "растрове зображення CMU"
+msgstr "я─п╟я│я┌я─п╬п╡п╣ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ CMU"
 
 #: gnome-vfs.keys.in.h:23
 msgid "CPIO archive"
-msgstr "арх╕в CPIO"
+msgstr "п╟я─я┘я√п╡ CPIO"
 
 #: gnome-vfs.keys.in.h:24
 msgid "CPIO archive (gzip-compressed)"
-msgstr "арх╕в CPIO (стиснутий gzip)"
+msgstr "п╟я─я┘я√п╡ CPIO (я│я┌п╦я│п╫я┐я┌п╦п╧ gzip)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "п╟я┐п╢я√п╬ 64 Audio"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
-msgstr "скрипт DCL"
+msgstr "я│п╨я─п╦п©я┌ DCL"
 
 #: gnome-vfs.keys.in.h:27
 msgid "DOS font"
-msgstr "шрифт DOS"
+msgstr "я┬я─п╦я└я┌ DOS"
 
 #: gnome-vfs.keys.in.h:28
 msgid "DOS/Windows program"
-msgstr "програма DOS/Windows"
+msgstr "п©я─п╬пЁя─п╟п╪п╟ DOS/Windows"
 
 #: gnome-vfs.keys.in.h:29
 msgid "DSSSL document"
-msgstr "документ DSSSL"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ DSSSL"
 
 #: gnome-vfs.keys.in.h:30
 msgid "DXF vector graphic"
-msgstr "векторна граф╕ка DXF"
+msgstr "п╡п╣п╨я┌п╬я─п╫п╟ пЁя─п╟я└я√п╨п╟ DXF"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Debian package"
-msgstr "пакет Debian"
+msgstr "п©п╟п╨п╣я┌ Debian"
 
 #: gnome-vfs.keys.in.h:32
 msgid "Dia diagram"
-msgstr "д╕аграма Dia"
+msgstr "п╢я√п╟пЁя─п╟п╪п╟ Dia"
 
 #: gnome-vfs.keys.in.h:33
 msgid "Dolby Digital audio"
-msgstr "ауд╕о Dolby Digital"
+msgstr "п╟я┐п╢я√п╬ Dolby Digital"
 
 #: gnome-vfs.keys.in.h:34
-msgid "Emacs Lisp source code"
-msgstr "вих╕дний код Emacs Lisp"
+msgid "Dreamcast rom"
+msgstr "п÷п≈п÷ Dreamcast"
 
 #: gnome-vfs.keys.in.h:35
-msgid "Enlightenment theme"
-msgstr "тема Enlightenment"
+msgid "Emacs Lisp source code"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ Emacs Lisp"
 
 #: gnome-vfs.keys.in.h:36
-msgid "FLC animation"
-msgstr "ан╕мац╕я FLC"
+msgid "Enlightenment theme"
+msgstr "я┌п╣п╪п╟ Enlightenment"
 
 #: gnome-vfs.keys.in.h:37
-msgid "FLI animation"
-msgstr "ан╕мац╕я FLI"
+msgid "FLC animation"
+msgstr "п╟п╫я√п╪п╟я├я√я▐ FLC"
 
 #: gnome-vfs.keys.in.h:38
-msgid "FastTracker II audio"
-msgstr "ауд╕о FastTracker II"
+msgid "FLI animation"
+msgstr "п╟п╫я√п╪п╟я├я√я▐ FLI"
 
 #: gnome-vfs.keys.in.h:39
-msgid "Fortran source code"
-msgstr "вих╕дний код Fortran"
+msgid "FastTracker II audio"
+msgstr "п╟я┐п╢я√п╬ FastTracker II"
 
 #: gnome-vfs.keys.in.h:40
-msgid "FrameMaker interchange document"
-msgstr "обм╕нний документ FrameMaker"
+msgid "Fortran source code"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ Fortran"
 
 #: gnome-vfs.keys.in.h:41
-msgid "G3 fax image"
-msgstr "факсове зображення G3"
+msgid "FrameMaker interchange document"
+msgstr "п╬п╠п╪я√п╫п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ FrameMaker"
 
 #: gnome-vfs.keys.in.h:42
-msgid "GIF image"
-msgstr "зображення GIF"
+msgid "G3 fax image"
+msgstr "я└п╟п╨я│п╬п╡п╣ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ G3"
 
 #: gnome-vfs.keys.in.h:43
-msgid "GIMP document"
-msgstr "документ GIMP"
+msgid "GIF image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ GIF"
 
 #: gnome-vfs.keys.in.h:44
-msgid "GMC link"
-msgstr "посилання GMC"
+msgid "GIMP document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ GIMP"
 
 #: gnome-vfs.keys.in.h:45
-msgid "GNU Oleo Spreadsheet"
-msgstr "таблиця GNU Oleo"
+msgid "GMC link"
+msgstr "п©п╬я│п╦п╩п╟п╫п╫я▐ GMC"
 
 #: gnome-vfs.keys.in.h:46
-msgid "GNU mail message"
-msgstr "поштове пов╕домлення GNU"
+msgid "GNU Oleo Spreadsheet"
+msgstr "я┌п╟п╠п╩п╦я├я▐ GNU Oleo"
 
 #: gnome-vfs.keys.in.h:47
-msgid "GTK configuration"
-msgstr "конф╕╜урац╕я GTK"
+msgid "GNU mail message"
+msgstr "п©п╬я┬я┌п╬п╡п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ GNU"
 
 #: gnome-vfs.keys.in.h:48
-msgid "Glade project"
-msgstr "проект Glade"
+msgid "GTK configuration"
+msgstr "п╨п╬п╫я└я√р▒я┐я─п╟я├я√я▐ GTK"
 
 #: gnome-vfs.keys.in.h:49
-msgid "GnuCash Workbook"
-msgstr "книга GnuCash"
+msgid "Game Boy rom"
+msgstr "п÷п≈п÷ Game Boy"
 
 #: gnome-vfs.keys.in.h:50
-msgid "Gnumeric spreadsheet"
-msgstr "таблиця Gnumeric"
+msgid "Genesis rom"
+msgstr "п÷п≈п÷ Genesis"
 
 #: gnome-vfs.keys.in.h:51
-msgid "HDF document"
-msgstr "документ HDF"
+msgid "Glade project"
+msgstr "п©я─п╬п╣п╨я┌ Glade"
 
 #: gnome-vfs.keys.in.h:52
-msgid "HTML page"
-msgstr "стор╕нка HTML"
+msgid "GnuCash Workbook"
+msgstr "п╨п╫п╦пЁп╟ GnuCash"
 
 #: gnome-vfs.keys.in.h:53
-msgid "IDL document"
-msgstr "документ IDL"
+msgid "Gnumeric spreadsheet"
+msgstr "я┌п╟п╠п╩п╦я├я▐ Gnumeric"
 
 #: gnome-vfs.keys.in.h:54
-msgid "IEF image"
-msgstr "зображення IEF"
+msgid "Gtktalog Catalogue"
+msgstr "п╨п╟я┌п╟п╩п╬пЁ Gtktalog"
 
 #: gnome-vfs.keys.in.h:55
-msgid "IFF image"
-msgstr "зображення IFF"
+msgid "HDF document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ HDF"
 
 #: gnome-vfs.keys.in.h:56
-msgid "ILBM image"
-msgstr "зображення ILBM"
+msgid "HTML page"
+msgstr "я│я┌п╬я─я√п╫п╨п╟ HTML"
 
 #: gnome-vfs.keys.in.h:57
-msgid "ISI video"
-msgstr "в╕део ISI"
+msgid "IDL document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ IDL"
 
 #: gnome-vfs.keys.in.h:58
-msgid "Impulse Tracker audio"
-msgstr "ауд╕о Impulse Tracker"
+msgid "IEF image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ IEF"
 
 #: gnome-vfs.keys.in.h:59
-msgid "JBuilder Project"
-msgstr "проект JBuilder"
+msgid "IFF image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ IFF"
 
 #: gnome-vfs.keys.in.h:60
-msgid "JPEG image"
-msgstr "зображення JPEG"
+msgid "ILBM image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ ILBM"
 
 #: gnome-vfs.keys.in.h:61
-msgid "Java byte code"
-msgstr "байт-код Java"
+msgid "ISI video"
+msgstr "п╡я√п╢п╣п╬ ISI"
 
 #: gnome-vfs.keys.in.h:62
-msgid "Java source code"
-msgstr "вих╕дний код Java"
+msgid "Impulse Tracker audio"
+msgstr "п╟я┐п╢я√п╬ Impulse Tracker"
 
 #: gnome-vfs.keys.in.h:63
-msgid "KDE application details"
-msgstr "╤нформац╕я про програму KDE"
+msgid "JBuilder Project"
+msgstr "п©я─п╬п╣п╨я┌ JBuilder"
 
 #: gnome-vfs.keys.in.h:64
-msgid "KIllustrator document"
-msgstr "документ KIllustrator"
+msgid "JPEG image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ JPEG"
 
 #: gnome-vfs.keys.in.h:65
-msgid "KPresenter presentation"
-msgstr "презентац╕я KPresenter"
+msgid "Java byte code"
+msgstr "п╠п╟п╧я┌-п╨п╬п╢ Java"
 
 #: gnome-vfs.keys.in.h:66
-msgid "KSpread spreadsheet"
-msgstr "таблиця KSpread"
+msgid "Java source code"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ Java"
 
 #: gnome-vfs.keys.in.h:67
-msgid "KWord document"
-msgstr "документ KWord"
+msgid "KDE application details"
+msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ п©я─п╬пЁя─п╟п╪я┐ KDE"
 
 #: gnome-vfs.keys.in.h:68
-msgid "Korn shell script"
-msgstr "скрипт Korn Shell"
+msgid "KIllustrator document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ KIllustrator"
 
 #: gnome-vfs.keys.in.h:69
-msgid "LHA archive"
-msgstr "арх╕в LHA"
+msgid "KPresenter presentation"
+msgstr "п©я─п╣п╥п╣п╫я┌п╟я├я√я▐ KPresenter"
 
 #: gnome-vfs.keys.in.h:70
-msgid "LHARC archive"
-msgstr "арх╕в LHARC"
+msgid "KSpread spreadsheet"
+msgstr "я┌п╟п╠п╩п╦я├я▐ KSpread"
 
 #: gnome-vfs.keys.in.h:71
-msgid "LIBGRX font"
-msgstr "шрифт LIBGRX"
+msgid "KWord document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ KWord"
 
 #: gnome-vfs.keys.in.h:72
-msgid "LightWave object"
-msgstr "об'╓кт LightWave"
+msgid "Korn shell script"
+msgstr "я│п╨я─п╦п©я┌ Korn Shell"
 
 #: gnome-vfs.keys.in.h:73
-msgid "LightWave scene"
-msgstr "сцена LightWave"
+msgid "LHA archive"
+msgstr "п╟я─я┘я√п╡ LHA"
 
 #: gnome-vfs.keys.in.h:74
-msgid "Linux PSF console font"
-msgstr "консольний шрифт Linux PSF"
+msgid "LHARC archive"
+msgstr "п╟я─я┘я√п╡ LHARC"
 
 #: gnome-vfs.keys.in.h:75
-msgid "Lotus 1-2-3 spreadsheet"
-msgstr "таблиця Lotus 1-2-3"
+msgid "LIBGRX font"
+msgstr "я┬я─п╦я└я┌ LIBGRX"
 
 #: gnome-vfs.keys.in.h:76
-#, fuzzy
-msgid "LyX Document"
-msgstr "документ IDL"
+msgid "LightWave object"
+msgstr "п╬п╠'я■п╨я┌ LightWave"
 
 #: gnome-vfs.keys.in.h:77
-msgid "M3 audio URL"
-msgstr "ауд╕о URL M3"
+msgid "LightWave scene"
+msgstr "я│я├п╣п╫п╟ LightWave"
 
 #: gnome-vfs.keys.in.h:78
-msgid "MIDI audio"
-msgstr "ауд╕о MIDI"
+msgid "Linux PSF console font"
+msgstr "п╨п╬п╫я│п╬п╩я▄п╫п╦п╧ я┬я─п╦я└я┌ Linux PSF"
 
 #: gnome-vfs.keys.in.h:79
-msgid "MOD audio"
-msgstr "ауд╕о MOD"
+msgid "Lotus 1-2-3 spreadsheet"
+msgstr "я┌п╟п╠п╩п╦я├я▐ Lotus 1-2-3"
 
 #: gnome-vfs.keys.in.h:80
-msgid "MP3 audio"
-msgstr "ауд╕о MP3"
+msgid "LyX Document"
+msgstr "п■п╬п╨я┐п╪п╣п╫я┌ LyX"
 
 #: gnome-vfs.keys.in.h:81
-msgid "MP3 audio playlist"
-msgstr "список програвання ауд╕о MP3"
+msgid "M3 audio URL"
+msgstr "п╟я┐п╢я√п╬ URL M3"
 
 #: gnome-vfs.keys.in.h:82
-msgid "MPEG video"
-msgstr "в╕део MPEG"
+msgid "MIDI audio"
+msgstr "п╟я┐п╢я√п╬ MIDI"
 
 #: gnome-vfs.keys.in.h:83
-msgid "MS ASF video"
-msgstr "в╕део MS ASF"
+msgid "MOD audio"
+msgstr "п╟я┐п╢я√п╬ MOD"
 
 #: gnome-vfs.keys.in.h:84
-msgid "MS video"
-msgstr "в╕део MS"
+msgid "MP3 audio"
+msgstr "п╟я┐п╢я√п╬ MP3"
 
 #: gnome-vfs.keys.in.h:85
-msgid "Macintosh AppleDouble-encoded file"
-msgstr "файл закодований Macintosh AppleDouble"
+msgid "MP3 audio playlist"
+msgstr "я│п©п╦я│п╬п╨ п©я─п╬пЁя─п╟п╡п╟п╫п╫я▐ п╟я┐п╢я√п╬ MP3"
 
 #: gnome-vfs.keys.in.h:86
-msgid "Macintosh BinHex-encoded file"
-msgstr "файл закодований Macintosh BinHex"
+msgid "MPEG video"
+msgstr "п╡я√п╢п╣п╬ MPEG"
 
 #: gnome-vfs.keys.in.h:87
-msgid "Macintosh StuffIt archive"
-msgstr "арх╕в Macintosh StuffIt"
+msgid "MS ASF video"
+msgstr "п╡я√п╢п╣п╬ MS ASF"
 
 #: gnome-vfs.keys.in.h:88
-msgid "Macromedia Flash file"
-msgstr ""
+msgid "MS video"
+msgstr "п╡я√п╢п╣п╬ MS"
 
 #: gnome-vfs.keys.in.h:89
-msgid "MathML document"
-msgstr "документ MathML"
+msgid "MSX rom"
+msgstr "п÷п≈п÷ MSX"
 
 #: gnome-vfs.keys.in.h:90
-msgid "Microsoft Excel spreadsheet"
-msgstr "таблиця Microsoft Excel"
+msgid "Macintosh AppleDouble-encoded file"
+msgstr "я└п╟п╧п╩ п╥п╟п╨п╬п╢п╬п╡п╟п╫п╦п╧ Macintosh AppleDouble"
 
 #: gnome-vfs.keys.in.h:91
-msgid "Microsoft PowerPoint document"
-msgstr "документ Microsoft PowerPoint"
+msgid "Macintosh BinHex-encoded file"
+msgstr "я└п╟п╧п╩ п╥п╟п╨п╬п╢п╬п╡п╟п╫п╦п╧ Macintosh BinHex"
 
 #: gnome-vfs.keys.in.h:92
-msgid "Microsoft Word document"
-msgstr "документ Microsoft Word"
+msgid "Macintosh StuffIt archive"
+msgstr "п╟я─я┘я√п╡ Macintosh StuffIt"
 
 #: gnome-vfs.keys.in.h:93
-msgid "Microsoft video"
-msgstr "в╕део Microsoft"
+msgid "Macromedia Flash file"
+msgstr "я└п╟п╧п╩ Macromedia Flash"
 
 #: gnome-vfs.keys.in.h:94
-msgid "Nautilus link"
-msgstr "посилання Nautilus"
+msgid "MathML document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ MathML"
 
 #: gnome-vfs.keys.in.h:95
-msgid "ODA document"
-msgstr "документ ODA"
+msgid "Microsoft Excel spreadsheet"
+msgstr "я┌п╟п╠п╩п╦я├я▐ Microsoft Excel"
 
 #: gnome-vfs.keys.in.h:96
-msgid "PBM image"
-msgstr "зображення PBM"
+msgid "Microsoft PowerPoint document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:97
-msgid "PCF font"
-msgstr "шрифт PCF"
+msgid "Microsoft Word document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Microsoft Word"
 
 #: gnome-vfs.keys.in.h:98
-msgid "PDF document"
-msgstr "документ PDF"
+msgid "Microsoft video"
+msgstr "п╡я√п╢п╣п╬ Microsoft"
 
 #: gnome-vfs.keys.in.h:99
-msgid "PEF program"
-msgstr "програма PEF"
+msgid "NES rom"
+msgstr "п÷п≈п÷ NES"
 
 #: gnome-vfs.keys.in.h:100
-msgid "PGM image"
-msgstr "зображення PGM"
+msgid "Nautilus link"
+msgstr "п©п╬я│п╦п╩п╟п╫п╫я▐ Nautilus"
 
 #: gnome-vfs.keys.in.h:101
-msgid "PGN chess game"
-msgstr "шахова гра PGN"
+msgid "Nintendo64 rom"
+msgstr "п÷п≈п÷ Nintendo64"
 
 #: gnome-vfs.keys.in.h:102
-msgid "PGP keys"
-msgstr "ключ╕ PGP"
+msgid "ODA document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ ODA"
 
 #: gnome-vfs.keys.in.h:103
-msgid "PGP message"
-msgstr "пов╕домлення PGP"
+msgid "OpenOffice Impress presentation"
+msgstr "п©я─п╣п╥п╣п╫я┌п╟я├я√я▐ OpenOffice Impress"
 
 #: gnome-vfs.keys.in.h:104
-msgid "PGP signature"
-msgstr "п╕дпис PGP"
+msgid "OpenOffice Impress presentation template"
+msgstr "я┬п╟п╠п╩п╬п╫ п©я─п╣п╥п╣п╫я┌п╟я├я√я≈ OpenOffice Impress"
 
 #: gnome-vfs.keys.in.h:105
-msgid "PGP-encrypted file"
-msgstr "файл закодований PGP"
+msgid "OpenOffice Math document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ OpenOffice Math"
 
 #: gnome-vfs.keys.in.h:106
-msgid "PHP script"
-msgstr "скрипт PHP"
+msgid "OpenOffice Writer document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ OpenOffice Writer"
 
 #: gnome-vfs.keys.in.h:107
-msgid "PN RealAudio document"
-msgstr "документ PN RealAudio"
+msgid "OpenOffice Writer global document"
+msgstr "пЁп╩п╬п╠п╟п╩я▄п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ OpenOffice Writer"
 
 #: gnome-vfs.keys.in.h:108
-msgid "PNG image"
-msgstr "зображення PNG"
+msgid "OpenOffice Writer template"
+msgstr "я┬п╟п╠п╩п╬п╫ OpenOffice Writer"
 
 #: gnome-vfs.keys.in.h:109
-msgid "PNM image"
-msgstr "зображення PNM"
+msgid "OpenOffice drawing"
+msgstr "я─п╦я│я┐п╫п╬п╨ OpenOffice"
 
 #: gnome-vfs.keys.in.h:110
-msgid "PPM image"
-msgstr "зображення PPM"
+msgid "OpenOffice drawing template"
+msgstr "я┬п╟п╠п╩п╬п╫ я─п╦я│я┐п╫п╨п╟ OpenOffice"
 
 #: gnome-vfs.keys.in.h:111
-msgid "Palm OS database"
-msgstr "база даних Palm OS"
+msgid "OpenOffice spreadsheet"
+msgstr "п╣п╩п╣п╨я┌я─п╬п╫п╫п╟ я┌п╟п╠п╩п╦я├я▐ OpenOffice"
 
 #: gnome-vfs.keys.in.h:112
-msgid "Perl script"
-msgstr "скрипт Perl"
+msgid "OpenOffice spreadsheet template"
+msgstr "я┬п╟п╠п╩п╬п╫ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ я┌п╟п╠п╩п╦я├я√ OpenOffice"
 
 #: gnome-vfs.keys.in.h:113
-msgid "Photoshop document"
-msgstr "документ Photoshop"
+msgid "PBM image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ PBM"
 
 #: gnome-vfs.keys.in.h:114
-msgid "PostScript Type 1 font"
-msgstr "шрифт PostScript Type 1"
+msgid "PCF font"
+msgstr "я┬я─п╦я└я┌ PCF"
 
 #: gnome-vfs.keys.in.h:115
-msgid "PostScript document"
-msgstr "документ PostScript"
+msgid "PDF document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ PDF"
 
 #: gnome-vfs.keys.in.h:116
-msgid "Python source code"
-msgstr "вих╕дний код Python"
+msgid "PEF program"
+msgstr "п©я─п╬пЁя─п╟п╪п╟ PEF"
 
 #: gnome-vfs.keys.in.h:117
-msgid "QuickTime movie"
-msgstr "ф╕льм QuickTime"
+msgid "PGM image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ PGM"
 
 #: gnome-vfs.keys.in.h:118
-msgid "Quicken document"
-msgstr "документ Quicken"
+msgid "PGN chess game"
+msgstr "я┬п╟я┘п╬п╡п╟ пЁя─п╟ PGN"
 
 #: gnome-vfs.keys.in.h:119
-msgid "Quicken for Windows document"
-msgstr "документ Quicken для Windows"
+msgid "PGP keys"
+msgstr "п╨п╩я▌я┤я√ PGP"
 
 #: gnome-vfs.keys.in.h:120
-msgid "RAR archive"
-msgstr "арх╕в RAR"
+msgid "PGP message"
+msgstr "п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ PGP"
 
 #: gnome-vfs.keys.in.h:121
-msgid "README document"
-msgstr "документ README"
+msgid "PGP signature"
+msgstr "п©я√п╢п©п╦я│ PGP"
 
 #: gnome-vfs.keys.in.h:122
-msgid "RGB image"
-msgstr "зображення RGB"
+msgid "PGP-encrypted file"
+msgstr "я└п╟п╧п╩ п╥п╟п╨п╬п╢п╬п╡п╟п╫п╦п╧ PGP"
 
 #: gnome-vfs.keys.in.h:123
-msgid "RIFF audio"
-msgstr "ауд╕о RIFF"
+msgid "PHP script"
+msgstr "я│п╨я─п╦п©я┌ PHP"
 
 #: gnome-vfs.keys.in.h:124
-msgid "RPM package"
-msgstr "пакет RPM"
+msgid "PN RealAudio document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ PN RealAudio"
 
 #: gnome-vfs.keys.in.h:125
-msgid "RealAudio/Video document"
-msgstr "документ RealAudio/Video"
+msgid "PNG image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ PNG"
 
 #: gnome-vfs.keys.in.h:126
-msgid "RealVideo video"
-msgstr "в╕део RealVideo"
+msgid "PNM image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ PNM"
 
 #: gnome-vfs.keys.in.h:127
-msgid "S/MIME file"
-msgstr "файл S/MIME"
+msgid "PPM image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ PPM"
 
 #: gnome-vfs.keys.in.h:128
-msgid "S/MIME signature"
-msgstr "п╕дпис S/MIME"
+msgid "Palm OS database"
+msgstr "п╠п╟п╥п╟ п╢п╟п╫п╦я┘ Palm OS"
 
 #: gnome-vfs.keys.in.h:129
-msgid "SGI video"
-msgstr "в╕део SGI"
+msgid "Perl script"
+msgstr "я│п╨я─п╦п©я┌ Perl"
 
 #: gnome-vfs.keys.in.h:130
-msgid "SGML document"
-msgstr "документ SGML"
+msgid "Photoshop document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Photoshop"
 
 #: gnome-vfs.keys.in.h:131
-msgid "SMIL script"
-msgstr "скрипт SMIL"
+msgid "PostScript Type 1 font"
+msgstr "я┬я─п╦я└я┌ PostScript Type 1"
 
 #: gnome-vfs.keys.in.h:132
-msgid "SQL code"
-msgstr "код SQL"
+msgid "PostScript document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ PostScript"
 
 #: gnome-vfs.keys.in.h:133
-msgid "SV4 CPIO archive"
-msgstr "арх╕в SV4 CPIO"
+msgid "Python source code"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ Python"
 
 #: gnome-vfs.keys.in.h:134
-msgid "SV4 CPIP archive (with CRC)"
-msgstr "арх╕в SV4 CPIP (з CRC)"
+msgid "QuickTime movie"
+msgstr "я└я√п╩я▄п╪ QuickTime"
 
 #: gnome-vfs.keys.in.h:135
-msgid "SVG art"
-msgstr "мистецтво SVG"
+msgid "Quicken document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Quicken"
 
 #: gnome-vfs.keys.in.h:136
-msgid "Scheme source code"
-msgstr "вих╕дний код Scheme"
+msgid "Quicken for Windows document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Quicken п╢п╩я▐ Windows"
 
 #: gnome-vfs.keys.in.h:137
-msgid "Scream Tracker 3 audio"
-msgstr "ауд╕о Scream Tracker 3"
+msgid "RAR archive"
+msgstr "п╟я─я┘я√п╡ RAR"
 
 #: gnome-vfs.keys.in.h:138
-msgid "Scream Tracker audio"
-msgstr "ауд╕о Scream Tracker"
+msgid "README document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ README"
 
 #: gnome-vfs.keys.in.h:139
-msgid "Scream Tracker instrument"
-msgstr "╕нструмент Scream Tracker"
+msgid "RGB image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ RGB"
 
 #: gnome-vfs.keys.in.h:140
-msgid "Setext document"
-msgstr "документ Setext"
+msgid "RIFF audio"
+msgstr "п╟я┐п╢я√п╬ RIFF"
 
 #: gnome-vfs.keys.in.h:141
-msgid "Speech document"
-msgstr "документ Speech"
+msgid "RPM package"
+msgstr "п©п╟п╨п╣я┌ RPM"
 
 #: gnome-vfs.keys.in.h:142
-msgid "Speedo font"
-msgstr "шрифт Speedo"
+msgid "RealAudio/Video document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ RealAudio/Video"
 
 #: gnome-vfs.keys.in.h:143
-msgid "Spreadsheet Interchange document"
-msgstr "документ Spreadsheet Interchange"
+msgid "RealVideo video"
+msgstr "п╡я√п╢п╣п╬ RealVideo"
 
 #: gnome-vfs.keys.in.h:144
-msgid "Stampede package"
-msgstr "пакет Stampede"
+msgid "S/MIME file"
+msgstr "я└п╟п╧п╩ S/MIME"
 
 #: gnome-vfs.keys.in.h:145
-msgid "StarOffice Writer document"
-msgstr "документ StarOffice Writer"
+msgid "S/MIME signature"
+msgstr "п©я√п╢п©п╦я│ S/MIME"
 
 #: gnome-vfs.keys.in.h:146
-msgid "StarOffice presentation"
-msgstr "презентац╕я StarOffice"
+msgid "SGI video"
+msgstr "п╡я√п╢п╣п╬ SGI"
 
 #: gnome-vfs.keys.in.h:147
-msgid "StarOffice spreadsheet"
-msgstr "таблиця StarOffice"
+msgid "SGML document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ SGML"
 
 #: gnome-vfs.keys.in.h:148
-msgid "Sun mu-law audio"
-msgstr ""
+msgid "SMIL script"
+msgstr "я│п╨я─п╦п©я┌ SMIL"
 
 #: gnome-vfs.keys.in.h:149
-msgid "SunOS News font"
-msgstr "шрифт SunOS News"
+msgid "SMS or Game Gear rom"
+msgstr "п÷п≈п÷ SMS я┤п╦r Game Gear"
 
 #: gnome-vfs.keys.in.h:150
-msgid "TIFF image"
-msgstr "зображення TIFF"
+msgid "SQL code"
+msgstr "п╨п╬п╢ SQL"
 
 #: gnome-vfs.keys.in.h:151
-msgid "TarGA image"
-msgstr "зображення TarGA"
+msgid "SV4 CPIO archive"
+msgstr "п╟я─я┘я√п╡ SV4 CPIO"
 
 #: gnome-vfs.keys.in.h:152
-msgid "Tcl script"
-msgstr "скрипт Tcl"
+msgid "SV4 CPIP archive (with CRC)"
+msgstr "п╟я─я┘я√п╡ SV4 CPIP (п╥ CRC)"
 
 #: gnome-vfs.keys.in.h:153
-msgid "TeX document"
-msgstr "документ TeX"
+msgid "SVG art"
+msgstr "п╪п╦я│я┌п╣я├я┌п╡п╬ SVG"
 
 #: gnome-vfs.keys.in.h:154
-msgid "TeX dvi document"
-msgstr "документ dvi TeX"
+msgid "Scheme source code"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ Scheme"
 
 #: gnome-vfs.keys.in.h:155
-msgid "TeX font"
-msgstr "шрифт TeX"
+msgid "Scream Tracker 3 audio"
+msgstr "п╟я┐п╢я√п╬ Scream Tracker 3"
 
 #: gnome-vfs.keys.in.h:156
-msgid "TeX font metrics"
-msgstr "метрики шрифта TeX"
+msgid "Scream Tracker audio"
+msgstr "п╟я┐п╢я√п╬ Scream Tracker"
 
 #: gnome-vfs.keys.in.h:157
-msgid "TeXInfo document"
-msgstr "документ TeXInfo"
+msgid "Scream Tracker instrument"
+msgstr "я√п╫я│я┌я─я┐п╪п╣п╫я┌ Scream Tracker"
 
 #: gnome-vfs.keys.in.h:158
-msgid "ToutDoux document"
-msgstr "документ ToutDoux"
+msgid "Setext document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Setext"
 
 #: gnome-vfs.keys.in.h:159
-msgid "TrueType font"
-msgstr "шрифт TrueType"
+msgid "Speech document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Speech"
 
 #: gnome-vfs.keys.in.h:160
-msgid "USENET news message"
-msgstr "пов╕домлення новин USENET"
+msgid "Speedo font"
+msgstr "я┬я─п╦я└я┌ Speedo"
 
 #: gnome-vfs.keys.in.h:161
-msgid "Unidata netCDF document"
-msgstr "документ Unidata netCDF"
+msgid "Spreadsheet Interchange document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Spreadsheet Interchange"
 
 #: gnome-vfs.keys.in.h:162
-msgid "V font"
-msgstr "шрифт V"
+msgid "Stampede package"
+msgstr "п©п╟п╨п╣я┌ Stampede"
 
 #: gnome-vfs.keys.in.h:163
-msgid "VOC audio"
-msgstr "ауд╕о VOC"
+msgid "StarCalc spreadsheet"
+msgstr "п╣п╩п╣п╨я┌я─п╬п╫п╫п╟ я┌п╟п╠п╩п╦я├я▐ StarCalc"
 
 #: gnome-vfs.keys.in.h:164
-msgid "VRML document"
-msgstr "документ VRML"
+msgid "StarChart chart"
+msgstr "пЁя─п╟я└я√п╨ StarChart"
 
 #: gnome-vfs.keys.in.h:165
-msgid "Vivo video"
-msgstr "в╕део Vivo"
+msgid "StarDraw drawing"
+msgstr "я─п╦я│я┐п╫п╬п╨ StarDraw"
 
 #: gnome-vfs.keys.in.h:166
-msgid "WAIS source code"
-msgstr "вих╕дний код WAIS"
+msgid "StarImpress presentation"
+msgstr "п©я─п╣п╥п╣п╫я┌п╟я├я√я▐ StarImpress"
 
 #: gnome-vfs.keys.in.h:167
-msgid "Wavelet video"
-msgstr "в╕део Wavelet"
+msgid "StarMail file"
+msgstr "я└п╟п╧п╩ StarMail"
 
 #: gnome-vfs.keys.in.h:168
-msgid "Windows bitmap image"
-msgstr "растрове зображення Windows"
+msgid "StarMath document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ StarMath"
 
 #: gnome-vfs.keys.in.h:169
-msgid "Windows icon image"
-msgstr "зображення п╕ктограми Windows"
+msgid "StarWriter document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ StarWriter"
 
 #: gnome-vfs.keys.in.h:170
-msgid "Windows metafile graphics"
-msgstr "граф╕ка Windows metafile"
+msgid "Sun mu-law audio"
+msgstr "п╟я┐п╢я√п╬ Sun mu-law"
 
 #: gnome-vfs.keys.in.h:171
-msgid "WordPerfect document"
-msgstr "документ WordPerfect"
+msgid "SunOS News font"
+msgstr "я┬я─п╦я└я┌ SunOS News"
 
 #: gnome-vfs.keys.in.h:172
-msgid "X bitmap image"
-msgstr "растрове зображення X Window"
+msgid "TIFF image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ TIFF"
 
 #: gnome-vfs.keys.in.h:173
-msgid "X window image"
-msgstr "зображення X Window"
+msgid "TarGA image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ TarGA"
 
 #: gnome-vfs.keys.in.h:174
-msgid "XML document"
-msgstr "документ XML"
+msgid "Tcl script"
+msgstr "я│п╨я─п╦п©я┌ Tcl"
 
 #: gnome-vfs.keys.in.h:175
-msgid "XPM image"
-msgstr "зображення XPM"
+msgid "TeX document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ TeX"
 
 #: gnome-vfs.keys.in.h:176
-msgid "Xbase database"
-msgstr "база даних Xbase"
+msgid "TeX dvi document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ dvi TeX"
 
 #: gnome-vfs.keys.in.h:177
+msgid "TeX font"
+msgstr "я┬я─п╦я└я┌ TeX"
+
+#: gnome-vfs.keys.in.h:178
+msgid "TeX font metrics"
+msgstr "п╪п╣я┌я─п╦п╨п╦ я┬я─п╦я└я┌п╟ TeX"
+
+#: gnome-vfs.keys.in.h:179
+msgid "TeXInfo document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ TeXInfo"
+
+#: gnome-vfs.keys.in.h:180
+msgid "ToutDoux document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ ToutDoux"
+
+#: gnome-vfs.keys.in.h:181
+msgid "TrueType font"
+msgstr "я┬я─п╦я└я┌ TrueType"
+
+#: gnome-vfs.keys.in.h:182
+msgid "USENET news message"
+msgstr "п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ п╫п╬п╡п╦п╫ USENET"
+
+#: gnome-vfs.keys.in.h:183
+msgid "Unidata netCDF document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ Unidata netCDF"
+
+#: gnome-vfs.keys.in.h:184
+msgid "V font"
+msgstr "я┬я─п╦я└я┌ V"
+
+#: gnome-vfs.keys.in.h:185
+msgid "VOC audio"
+msgstr "п╟я┐п╢я√п╬ VOC"
+
+#: gnome-vfs.keys.in.h:186
+msgid "VRML document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ VRML"
+
+#: gnome-vfs.keys.in.h:187
+msgid "Vivo video"
+msgstr "п╡я√п╢п╣п╬ Vivo"
+
+#: gnome-vfs.keys.in.h:188
+msgid "WAIS source code"
+msgstr "п╡п╦я┘я√п╢п╫п╦п╧ п╨п╬п╢ WAIS"
+
+#: gnome-vfs.keys.in.h:189
+msgid "Wavelet video"
+msgstr "п╡я√п╢п╣п╬ Wavelet"
+
+#: gnome-vfs.keys.in.h:190
+msgid "Windows bitmap image"
+msgstr "я─п╟я│я┌я─п╬п╡п╣ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ Windows"
+
+#: gnome-vfs.keys.in.h:191
+msgid "Windows icon image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ п©я√п╨я┌п╬пЁя─п╟п╪п╦ Windows"
+
+#: gnome-vfs.keys.in.h:192
+msgid "Windows metafile graphics"
+msgstr "пЁя─п╟я└я√п╨п╟ Windows metafile"
+
+#: gnome-vfs.keys.in.h:193
+msgid "WordPerfect document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ WordPerfect"
+
+#: gnome-vfs.keys.in.h:194
+msgid "X bitmap image"
+msgstr "я─п╟я│я┌я─п╬п╡п╣ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ X Window"
+
+#: gnome-vfs.keys.in.h:195
+msgid "X window image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ X Window"
+
+#: gnome-vfs.keys.in.h:196
+msgid "XML document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ XML"
+
+#: gnome-vfs.keys.in.h:197
+msgid "XPM image"
+msgstr "п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ XPM"
+
+#: gnome-vfs.keys.in.h:198
+msgid "Xbase database"
+msgstr "п╠п╟п╥п╟ п╢п╟п╫п╦я┘ Xbase"
+
+#: gnome-vfs.keys.in.h:199
+msgid "Z shell script"
+msgstr "я│п╨я─п╦п©я┌ п╬п╠п╬п╩п╬п╫п╨п╦ Z"
+
+#: gnome-vfs.keys.in.h:200
 msgid "active server page"
 msgstr "Active Server Page"
 
-#: gnome-vfs.keys.in.h:178
-msgid "address card"
-msgstr "адреска картка"
-
-#: gnome-vfs.keys.in.h:179
-#, fuzzy
-msgid "application launcher"
-msgstr "Назва програми:"
-
-#: gnome-vfs.keys.in.h:180
-msgid "ar archive"
-msgstr "Арх╕в ar"
-
-#: gnome-vfs.keys.in.h:181
-msgid "arj archive"
-msgstr "Арх╕в arj"
-
-#: gnome-vfs.keys.in.h:182
-msgid "authors list"
-msgstr "список автор╕в"
-
-#: gnome-vfs.keys.in.h:183
-msgid "backup file"
-msgstr "резервний файл"
-
-#: gnome-vfs.keys.in.h:184
-msgid "basic audio"
-msgstr "основний звук"
-
-#: gnome-vfs.keys.in.h:185
-msgid "bibliography record"
-msgstr "б╕бл╕ограф╕чний запис"
-
-#: gnome-vfs.keys.in.h:186
-msgid "binary program"
-msgstr "дв╕йкова програма"
-
-#: gnome-vfs.keys.in.h:187
-msgid "block device"
-msgstr "блоковий пристр╕й"
-
-#: gnome-vfs.keys.in.h:188
-msgid "bzip-compressed file"
-msgstr "файл стиснений bzip"
-
-#: gnome-vfs.keys.in.h:189
-msgid "calendar file"
-msgstr "календарний файл"
-
-#: gnome-vfs.keys.in.h:190
-msgid "calendar or event document"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:191
-msgid "character device"
-msgstr "символьний пристр╕й"
-
-#: gnome-vfs.keys.in.h:192
-msgid "comma-separated text document"
-msgstr "розд╕лений комами текстовий документ"
-
-#: gnome-vfs.keys.in.h:193
-msgid "compound document"
-msgstr ""
-
-#: gnome-vfs.keys.in.h:194
-msgid "compress-compressed file"
-msgstr "файл стиснений compress"
-
-#: gnome-vfs.keys.in.h:195
-msgid "compressed GIMP document"
-msgstr "стиснений документ GIMP"
-
-#: gnome-vfs.keys.in.h:196
-msgid "directory information file"
-msgstr "╕нформац╕йний файл каталогу"
-
-#: gnome-vfs.keys.in.h:197
-msgid "document type definition"
-msgstr "визначення типу документу"
-
-#: gnome-vfs.keys.in.h:198
-msgid "email headers"
-msgstr "заголовки електронно╖ пошти"
-
-#: gnome-vfs.keys.in.h:199
-#, fuzzy
-msgid "email message/mailbox"
-msgstr "пов╕домлення електронно╖ пошти"
-
-#: gnome-vfs.keys.in.h:200
-msgid "encrypted message"
-msgstr "зашифроване пов╕домлення"
-
 #: gnome-vfs.keys.in.h:201
-msgid "enriched text document"
-msgstr ""
+msgid "address card"
+msgstr "п╟п╢я─п╣я│п╨п╟ п╨п╟я─я┌п╨п╟"
 
 #: gnome-vfs.keys.in.h:202
-msgid "folder"
-msgstr "тека"
+msgid "application launcher"
+msgstr "п╥п╟п©я┐я│п╨п╟я┤ п©я─п╬пЁя─п╟п╪"
 
 #: gnome-vfs.keys.in.h:203
-msgid "gtar archive"
-msgstr "арх╕в gtar"
+msgid "ar archive"
+msgstr "п╟я─я┘я√п╡ ar"
 
 #: gnome-vfs.keys.in.h:204
-msgid "gzip-compressed file"
-msgstr "файл стиснутий gzip"
+msgid "arj archive"
+msgstr "п╟я─я┘я√п╡ arj"
 
 #: gnome-vfs.keys.in.h:205
-msgid "help page"
-msgstr "стор╕нка дов╕дки"
+msgid "authors list"
+msgstr "я│п©п╦я│п╬п╨ п╟п╡я┌п╬я─я√п╡"
 
 #: gnome-vfs.keys.in.h:206
-msgid "mail delivery report"
-msgstr "зв╕т в╕двантаження пошти"
+msgid "backup file"
+msgstr "я─п╣п╥п╣я─п╡п╫п╦п╧ я└п╟п╧п╩"
 
 #: gnome-vfs.keys.in.h:207
-msgid "mail disposition report"
-msgstr ""
+msgid "basic audio"
+msgstr "п╬я│п╫п╬п╡п╫п╦п╧ п╥п╡я┐п╨"
 
 #: gnome-vfs.keys.in.h:208
-msgid "mail system report"
-msgstr "зв╕т поштово╖ системи"
+msgid "bibliography record"
+msgstr "п╠я√п╠п╩я√п╬пЁя─п╟я└я√я┤п╫п╦п╧ п╥п╟п©п╦я│"
 
 #: gnome-vfs.keys.in.h:209
-msgid "makefile"
-msgstr "файл make"
+msgid "binary program"
+msgstr "п╢п╡я√п╧п╨п╬п╡п╟ п©я─п╬пЁя─п╟п╪п╟"
 
 #: gnome-vfs.keys.in.h:210
-msgid "manual page"
-msgstr "стор╕нка пос╕бника"
+msgid "block device"
+msgstr "п╠п╩п╬п╨п╬п╡п╦п╧ п©я─п╦я│я┌я─я√п╧"
 
 #: gnome-vfs.keys.in.h:211
-msgid "manual page (compressed)"
-msgstr "стор╕нка пос╕бника (стиснута)"
+msgid "bzip-compressed file"
+msgstr "я└п╟п╧п╩ я│я┌п╦я│п╫п╣п╫п╦п╧ bzip"
 
 #: gnome-vfs.keys.in.h:212
-msgid "memory dump"
-msgstr "в╕дбиток пам'ят╕"
+msgid "calendar file"
+msgstr "п╨п╟п╩п╣п╫п╢п╟я─п╫п╦п╧ я└п╟п╧п╩"
 
 #: gnome-vfs.keys.in.h:213
-msgid "message digest"
-msgstr "зб╕рка пов╕домлень"
+msgid "calendar or event document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ п╨п╟п╩п╣п╫п╢п╟я─я▐ я┤п╦ п©п╬п╢я√я≈"
 
 #: gnome-vfs.keys.in.h:214
-msgid "message in several formats"
-msgstr "пов╕домлення в дек╕лькох форматах"
+msgid "character device"
+msgstr "я│п╦п╪п╡п╬п╩я▄п╫п╦п╧ п©я─п╦я│я┌я─я√п╧"
 
 #: gnome-vfs.keys.in.h:215
-msgid "multi-part message"
-msgstr "багаточастинне пов╕домлення"
+msgid "comma-separated text document"
+msgstr "я─п╬п╥п╢я√п╩п╣п╫п╦п╧ п╨п╬п╪п╟п╪п╦ я┌п╣п╨я│я┌п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 #: gnome-vfs.keys.in.h:216
-msgid "named pipe"
-msgstr "найменований канал"
+msgid "compound document"
+msgstr "я│п╨п╩п╟п╢п╣п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 #: gnome-vfs.keys.in.h:217
-msgid "object code"
-msgstr "об'╓ктний код"
+msgid "compress-compressed file"
+msgstr "я└п╟п╧п╩ я│я┌п╦я│п╫п╣п╫п╦п╧ compress"
 
 #: gnome-vfs.keys.in.h:218
-msgid "ogg audio"
-msgstr "ауд╕о ogg"
+msgid "compressed GIMP document"
+msgstr "я│я┌п╦я│п╫п╣п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ GIMP"
 
 #: gnome-vfs.keys.in.h:219
-msgid "partial email message"
-msgstr ""
+msgid "directory information file"
+msgstr "я√п╫я└п╬я─п╪п╟я├я√п╧п╫п╦п╧ я└п╟п╧п╩ п╨п╟я┌п╟п╩п╬пЁя┐"
 
 #: gnome-vfs.keys.in.h:220
-msgid "plain text document"
-msgstr "простий текстовий документ"
+msgid "document type definition"
+msgstr "п╡п╦п╥п╫п╟я┤п╣п╫п╫я▐ я┌п╦п©я┐ п╢п╬п╨я┐п╪п╣п╫я┌я┐"
 
 #: gnome-vfs.keys.in.h:221
-msgid "profiler results"
-msgstr "результати проф╕лювання"
+msgid "email headers"
+msgstr "п╥п╟пЁп╬п╩п╬п╡п╨п╦ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦"
 
 #: gnome-vfs.keys.in.h:222
-msgid "reference to remote file"
-msgstr "посилання на в╕ддалений файл"
+msgid "email message/mailbox"
+msgstr "п©п╬я┬я┌п╬п╡п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ я┤п╦ п©п╬я┬я┌п╬п╡п╟ я│п╨я─п╦п╫я▄п╨п╟"
 
 #: gnome-vfs.keys.in.h:223
-msgid "rejected patch file"
-msgstr ""
+msgid "encrypted message"
+msgstr "п╥п╟я┬п╦я└я─п╬п╡п╟п╫п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
 
 #: gnome-vfs.keys.in.h:224
-msgid "rich text document"
-msgstr "документ rich text"
+msgid "enriched text document"
+msgstr "я─п╬п╥я┬п╦я─п╣п╫п╦п╧ я┌п╣п╨я│я┌п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 #: gnome-vfs.keys.in.h:225
-msgid "search results"
-msgstr "результати пошуку"
+msgid "folder"
+msgstr "я┌п╣п╨п╟"
 
 #: gnome-vfs.keys.in.h:226
-msgid "shared library"
-msgstr "сп╕льна б╕бл╕отека"
+msgid "gtar archive"
+msgstr "п╟я─я┘я√п╡ gtar"
 
 #: gnome-vfs.keys.in.h:227
-msgid "shell archive"
-msgstr "арх╕в оболонки"
+msgid "gzip-compressed file"
+msgstr "я└п╟п╧п╩ я│я┌п╦я│п╫я┐я┌п╦п╧ gzip"
 
 #: gnome-vfs.keys.in.h:228
-msgid "shell script"
-msgstr "скрипт оболонки"
+msgid "help page"
+msgstr "я│я┌п╬я─я√п╫п╨п╟ п╢п╬п╡я√п╢п╨п╦"
 
 #: gnome-vfs.keys.in.h:229
-msgid "signed message"
-msgstr "п╕дписане пов╕домлення"
+msgid "mail delivery report"
+msgstr "п╥п╡я√я┌ п╡я√п╢п╡п╟п╫я┌п╟п╤п╣п╫п╫я▐ п©п╬я┬я┌п╦"
 
 #: gnome-vfs.keys.in.h:230
-msgid "socket"
-msgstr "сокет"
+msgid "mail disposition report"
+msgstr "п╥п╡я√я┌ п©я─п╬ я─п╬п╥я┌п╟я┬я┐п╡п╟п╫п╫я▐ п©п╬я┬я┌п╦"
 
 #: gnome-vfs.keys.in.h:231
-msgid "software author credits"
-msgstr ""
+msgid "mail system report"
+msgstr "п╥п╡я√я┌ п©п╬я┬я┌п╬п╡п╬я≈ я│п╦я│я┌п╣п╪п╦"
 
 #: gnome-vfs.keys.in.h:232
-msgid "software installation instructions"
-msgstr ""
+msgid "makefile"
+msgstr "я└п╟п╧п╩ make"
 
 #: gnome-vfs.keys.in.h:233
-msgid "software license terms"
-msgstr ""
+msgid "manual page"
+msgstr "я│я┌п╬я─я√п╫п╨п╟ п©п╬я│я√п╠п╫п╦п╨п╟"
 
 #: gnome-vfs.keys.in.h:234
-msgid "source code patch"
-msgstr "латка вих╕дного коду"
+msgid "manual page (compressed)"
+msgstr "я│я┌п╬я─я√п╫п╨п╟ п©п╬я│я√п╠п╫п╦п╨п╟ (я│я┌п╦я│п╫я┐я┌п╟)"
 
 #: gnome-vfs.keys.in.h:235
-msgid "style sheet"
-msgstr "таблиця стилю"
+msgid "memory dump"
+msgstr "п╡я√п╢п╠п╦я┌п╬п╨ п©п╟п╪'я▐я┌я√"
 
 #: gnome-vfs.keys.in.h:236
-msgid "symbolic link"
-msgstr "символьне посилання"
+msgid "message digest"
+msgstr "п╥п╠я√я─п╨п╟ п©п╬п╡я√п╢п╬п╪п╩п╣п╫я▄"
 
 #: gnome-vfs.keys.in.h:237
-msgid "tab-separated text document"
-msgstr "текстовий документ розд╕лений табуляц╕ями"
+msgid "message in several formats"
+msgstr "п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ п╡ п╢п╣п╨я√п╩я▄п╨п╬я┘ я└п╬я─п╪п╟я┌п╟я┘"
 
 #: gnome-vfs.keys.in.h:238
-msgid "tar archive"
-msgstr "арх╕в tar"
+msgid "multi-part message"
+msgstr "п╠п╟пЁп╟я┌п╬я┤п╟я│я┌п╦п╫п╫п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
 
 #: gnome-vfs.keys.in.h:239
-msgid "tar archive (bzip2-compressed)"
-msgstr "арх╕в tar (стиснутий bzip2)"
+msgid "named pipe"
+msgstr "п╫п╟п╧п╪п╣п╫п╬п╡п╟п╫п╦п╧ п╨п╟п╫п╟п╩"
 
 #: gnome-vfs.keys.in.h:240
-msgid "tar archive (gzip-compressed)"
-msgstr "арх╕в tar (стиснутий gzip)"
+msgid "object code"
+msgstr "п╬п╠'я■п╨я┌п╫п╦п╧ п╨п╬п╢"
 
 #: gnome-vfs.keys.in.h:241
-msgid "theme"
-msgstr "тема"
+msgid "ogg audio"
+msgstr "п╟я┐п╢я√п╬ ogg"
 
 #: gnome-vfs.keys.in.h:242
-msgid "troff document"
-msgstr "документ troff"
+msgid "partial email message"
+msgstr "я┤п╟я│я┌п╨п╬п╡п╣ п©п╬я┬я┌п╬п╡п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
 
 #: gnome-vfs.keys.in.h:243
-msgid "troff me input document"
-msgstr "вх╕дний документ troff me"
+msgid "plain text document"
+msgstr "п©я─п╬я│я┌п╦п╧ я┌п╣п╨я│я┌п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 #: gnome-vfs.keys.in.h:244
-msgid "troff mm input document"
-msgstr "вх╕дний документ troff mm"
+msgid "profiler results"
+msgstr "я─п╣п╥я┐п╩я▄я┌п╟я┌п╦ п©я─п╬я└я√п╩я▌п╡п╟п╫п╫я▐"
 
 #: gnome-vfs.keys.in.h:245
-msgid "troff ms input document"
-msgstr "вх╕дний документ troff ms"
+msgid "reference to remote file"
+msgstr "п©п╬я│п╦п╩п╟п╫п╫я▐ п╫п╟ п╡я√п╢п╢п╟п╩п╣п╫п╦п╧ я└п╟п╧п╩"
 
 #: gnome-vfs.keys.in.h:246
-msgid "unknown type"
-msgstr "нев╕домий тип"
+msgid "rejected patch file"
+msgstr "п╡я√п╢п╨п╦п╫я┐я┌п╦п╧ я└п╟п╧п╩ п╩п╟я┌п╨п╦"
 
 #: gnome-vfs.keys.in.h:247
-msgid "ustar archive"
-msgstr "арх╕в ustar"
+msgid "rich text document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ rich text"
 
 #: gnome-vfs.keys.in.h:248
-msgid "wave audio"
-msgstr "ауд╕о wave"
+msgid "search results"
+msgstr "я─п╣п╥я┐п╩я▄я┌п╟я┌п╦ п©п╬я┬я┐п╨я┐"
 
 #: gnome-vfs.keys.in.h:249
-msgid "web folder"
-msgstr "веб-тека"
+msgid "shared library"
+msgstr "я│п©я√п╩я▄п╫п╟ п╠я√п╠п╩я√п╬я┌п╣п╨п╟"
 
 #: gnome-vfs.keys.in.h:250
-msgid "xfig vector graphic"
-msgstr "векторна граф╕ка xfig"
+msgid "shell archive"
+msgstr "п╟я─я┘я√п╡ п╬п╠п╬п╩п╬п╫п╨п╦"
 
 #: gnome-vfs.keys.in.h:251
-msgid "zip archive"
-msgstr "арх╕в zip"
+msgid "shell script"
+msgstr "я│п╨я─п╦п©я┌ п╬п╠п╬п╩п╬п╫п╨п╦"
 
 #: gnome-vfs.keys.in.h:252
+msgid "signed message"
+msgstr "п©я√п╢п©п╦я│п╟п╫п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
+
+#: gnome-vfs.keys.in.h:253
+msgid "socket"
+msgstr "я│п╬п╨п╣я┌"
+
+#: gnome-vfs.keys.in.h:254
+msgid "software author credits"
+msgstr "п╢п╬п╡я√п╢п╨п╟ п©я─п╬ п╟п╡я┌п╬я─я√п╡ п©я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟я▄п╣п╥п©п╣я┤п╣п╫п╫я▐"
+
+#: gnome-vfs.keys.in.h:255
+msgid "software installation instructions"
+msgstr "я√п╫я│я┌я─я┐п╨я├я√я≈ п╥ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╫я▐ п©я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟п©п╣п╥я│п╣п©п╣я┤п╣п╫п╫я▐"
+
+#: gnome-vfs.keys.in.h:256
+msgid "software license terms"
+msgstr "п╩я√я├п╣п╫п╥я√п╧п╫я√ я┐п╪п╬п╡п╦ п©я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐"
+
+#: gnome-vfs.keys.in.h:257
+msgid "source code patch"
+msgstr "п╩п╟я┌п╨п╟ п╡п╦я┘я√п╢п╫п╬пЁп╬ п╨п╬п╢я┐"
+
+#: gnome-vfs.keys.in.h:258
+msgid "style sheet"
+msgstr "я┌п╟п╠п╩п╦я├я▐ я│я┌п╦п╩я▌"
+
+#: gnome-vfs.keys.in.h:259
+msgid "symbolic link"
+msgstr "я│п╦п╪п╡п╬п╩я▄п╫п╣ п©п╬я│п╦п╩п╟п╫п╫я▐"
+
+#: gnome-vfs.keys.in.h:260
+msgid "tab-separated text document"
+msgstr "я┌п╣п╨я│я┌п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ я─п╬п╥п╢я√п╩п╣п╫п╦п╧ я┌п╟п╠я┐п╩я▐я├я√я▐п╪п╦"
+
+#: gnome-vfs.keys.in.h:261
+msgid "tar archive"
+msgstr "п╟я─я┘я√п╡ tar"
+
+#: gnome-vfs.keys.in.h:262
+msgid "tar archive (bzip2-compressed)"
+msgstr "п╟я─я┘я√п╡ tar (я│я┌п╦я│п╫я┐я┌п╦п╧ bzip2)"
+
+#: gnome-vfs.keys.in.h:263
+msgid "tar archive (gzip-compressed)"
+msgstr "п╟я─я┘я√п╡ tar (я│я┌п╦я│п╫я┐я┌п╦п╧ gzip)"
+
+#: gnome-vfs.keys.in.h:264
+msgid "theme"
+msgstr "я┌п╣п╪п╟"
+
+#: gnome-vfs.keys.in.h:265
+msgid "troff document"
+msgstr "п╢п╬п╨я┐п╪п╣п╫я┌ troff"
+
+#: gnome-vfs.keys.in.h:266
+msgid "troff me input document"
+msgstr "п╡я┘я√п╢п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ troff me"
+
+#: gnome-vfs.keys.in.h:267
+msgid "troff mm input document"
+msgstr "п╡я┘я√п╢п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ troff mm"
+
+#: gnome-vfs.keys.in.h:268
+msgid "troff ms input document"
+msgstr "п╡я┘я√п╢п╫п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌ troff ms"
+
+#: gnome-vfs.keys.in.h:269
+msgid "unknown type"
+msgstr "п╫п╣п╡я√п╢п╬п╪п╦п╧ я┌п╦п©"
+
+#: gnome-vfs.keys.in.h:270
+msgid "ustar archive"
+msgstr "п╟я─я┘я√п╡ ustar"
+
+#: gnome-vfs.keys.in.h:271
+msgid "wave audio"
+msgstr "п╟я┐п╢я√п╬ wave"
+
+#: gnome-vfs.keys.in.h:272
+msgid "web folder"
+msgstr "п╡п╣п╠-я┌п╣п╨п╟"
+
+#: gnome-vfs.keys.in.h:273
+msgid "xfig vector graphic"
+msgstr "п╡п╣п╨я┌п╬я─п╫п╟ пЁя─п╟я└я√п╨п╟ xfig"
+
+#: gnome-vfs.keys.in.h:274
+msgid "zip archive"
+msgstr "п╟я─я┘я√п╡ zip"
+
+#: gnome-vfs.keys.in.h:275
 msgid "zoo archive"
-msgstr "арх╕в zoo"
+msgstr "п╟я─я┘я√п╡ zoo"
 
-#~ msgid "GNOME application details"
-#~ msgstr "╤нформац╕я про програму GNOME"
-
-#~ msgid "%s:%d contains NUL characters."
-#~ msgstr "%s:%d м╕стить символи NUL."
-
-#~ msgid "%s:%d contains no method name."
-#~ msgstr "%s:%d не м╕стить назви методу."
-
-#~ msgid "%s:%d contains no module name."
-#~ msgstr "%s:%d не м╕стить назви модулю."
-
-#~ msgid "Configuration file `%s' was not found: %s"
-#~ msgstr "Не знайдено конф╕гурац╕йного файлу \"%s\": %s"
-
-#~ msgid "Could not parse: %s"
-#~ msgstr "Неможливо проанал╕зувати: %s"
-
-#~ msgid "More parsing errors will be ignored."
-#~ msgstr "╤нш╕ помилки анал╕зу буде про╕гноровано."
-
-#~ msgid "No error"
-#~ msgstr "Без помилок"
-
-#~ msgid "File not found"
-#~ msgstr "Файл не знайдено"
-
-#~ msgid "Generic error"
-#~ msgstr "Загальна помилка"
-
-#~ msgid "Internal error"
-#~ msgstr "Внутр╕шня помилка"
-
-#~ msgid "Invalid parameters"
-#~ msgstr "Нев╕рн╕ параметри"
-
-#~ msgid "Unsupported operation"
-#~ msgstr "Операц╕я не п╕дтриму╓ться"
-
-#~ msgid "I/O error"
-#~ msgstr "Помилка В/В"
-
-#~ msgid "Data corrupted"
-#~ msgstr "Дан╕ з╕псовано"
-
-#~ msgid "Format not valid"
-#~ msgstr "Формат нев╕рний"
-
-#~ msgid "Bad file handle"
-#~ msgstr "Поганий номер файлу"
-
-#~ msgid "File too big"
-#~ msgstr "Файл надто великий"
-
-#~ msgid "No space left on device"
-#~ msgstr "Не лишилося в╕льно м╕сця на пристро╖"
-
-#~ msgid "Read-only file system"
-#~ msgstr "Файлова система лише для зчитування"
-
-#~ msgid "Invalid URI"
-#~ msgstr "Нев╕рний URI"
-
-#~ msgid "File not open"
-#~ msgstr "Файл не в╕дкрито"
-
-#~ msgid "Open mode not valid"
-#~ msgstr "Нев╕рний режим в╕дкриття"
-
-#~ msgid "Access denied"
-#~ msgstr "Доступ заборонено"
-
-#~ msgid "Too many open files"
-#~ msgstr "Надто багато в╕дкритих файл╕в"
-
-#~ msgid "End of file"
-#~ msgstr "К╕нець файлу"
-
-#~ msgid "Not a directory"
-#~ msgstr "Не каталог"
-
-#~ msgid "Operation in progress"
-#~ msgstr "Операц╕я викону╓ться"
-
-#~ msgid "Operation interrupted"
-#~ msgstr "Операц╕ю перервано"
-
-#~ msgid "File exists"
-#~ msgstr "Файл ╕сну╓"
-
-#~ msgid "Looping links encountered"
-#~ msgstr "Знайдено цикл╕чне посилання"
-
-#~ msgid "Operation not permitted"
-#~ msgstr "Операц╕ю не дозволено"
-
-#~ msgid "Is a directory"
-#~ msgstr "Це каталог"
-
-#~ msgid "Not enough memory"
-#~ msgstr "Недостатньо пам'ят╕"
-
-#~ msgid "Host not found"
-#~ msgstr "Хосту не знайдено"
-
-#~ msgid "Host name not valid"
-#~ msgstr "Нев╕рна назва хосту"
-
-#~ msgid "Host has no address"
-#~ msgstr "Хост не ма╓ адреси"
-
-#~ msgid "Login failed"
-#~ msgstr "Ре╓страц╕я не вдалась"
-
-#~ msgid "Operation cancelled"
-#~ msgstr "Операц╕ю в╕дм╕нено"
-
-#~ msgid "Directory busy"
-#~ msgstr "Каталог зайнято"
-
-#~ msgid "Directory not empty"
-#~ msgstr "Каталог не порожн╕й"
-
-#~ msgid "Too many links"
-#~ msgstr "Надто багато посилань"
-
-#~ msgid "Read only file system"
-#~ msgstr "Файлова система лише для зчитування"
-
-#~ msgid "Not on the same file system"
-#~ msgstr "Не на т╕й сам╕й файлов╕й систем╕"
-
-#~ msgid "Name too long"
-#~ msgstr "Назва надто довга"
-
-#~ msgid "Service not available"
-#~ msgstr "Серв╕с не доступний"
-
-#~ msgid "Request obsoletes service's data"
-#~ msgstr "Запит застир╕лих серв╕сних даних"
-
-#, fuzzy
-#~ msgid "Protocol error"
-#~ msgstr "Без помилок"
-
-#~ msgid "Unknown error"
-#~ msgstr "Нев╕дома помилка"
-
-#~ msgid "1 byte"
-#~ msgstr "1 байт"
-
-#~ msgid "%u bytes"
-#~ msgstr "%u байт╕в"
-
-#~ msgid "%.1f K"
-#~ msgstr "%.1f Кб"
-
-#~ msgid "%.1f MB"
-#~ msgstr "%.1f Мб"
-
-#~ msgid "%.1f GB"
-#~ msgstr "%.1f Гб"
-
-#~ msgid "Unknown op type %u"
-#~ msgstr "Нев╕домий тип операц╕╖ %u"
-
-#~ msgid "Cannot create pipe for open GIOChannel: %s"
-#~ msgstr "Неможливо створити канал для GIOChannel: %s"
-
-#~ msgid "Unknown job kind %u"
-#~ msgstr "Нев╕домий тип завдання %u"
-
-#~ msgid "Operation stopped"
-#~ msgstr "Операц╕ю зупинено"
-
-#~ msgid "Unknown GnomeVFSSeekPosition %d"
-#~ msgstr "Нев╕домий GnomeVFSSeekPosition %d"
-
-#~ msgid "GNOME VFS already initialized."
-#~ msgstr "GNOME VFS вже ╕н╕ц╕ал╕зовано"
-
-#~ msgid "Dying."
-#~ msgstr "Знищення."
-
-#~ msgid "Error reading: %s"
-#~ msgstr "Помилка зситування: %s"
-
-#~ msgid "Error writing: %s"
-#~ msgstr "Помилка запису: %s"
-
-#~ msgid "Cannot write: %s"
-#~ msgstr "Неможливо записати: %s"
-
-#~ msgid "Cannot create temporary file name `%s'"
-#~ msgstr "Неможливо створити тимчасовий файл \"%s\""
-
-#~ msgid "Cannot create socket: %s"
-#~ msgstr "Неможливо створити сокет: %s"
-
-#~ msgid "Cannot bind `%s': %s"
-#~ msgstr "Неможливо зв'язати \"%s\": %s"
-
-#~ msgid "Cannot listen on `%s': %s"
-#~ msgstr "Неможливе прослуховування на \"%s\": %s"
-
-#~ msgid "Cannot accept connections on `%s': %s"
-#~ msgstr "Неможливо прийняти з'╓днання на \"%s\": %s"
-
-#~ msgid "Cannot initialize CORBA."
-#~ msgstr "Неможливо ╕н╕ц╕ал╕зувати CORBA."
-
-#~ msgid "Cannot resolve initial reference to RootPOA."
-#~ msgstr "Неможливо визначити початкове посилання на RootPOA."
-
-#~ msgid "Cannot activate POA manager."
-#~ msgstr "Неможливо актив╕зувати менеджер POA."
-
-#~ msgid "Usage: %s <ior> [<ior_fd>]\n"
-#~ msgstr "Використання: %s <ior> [<ior_fd>]\n"
-
-#~ msgid "Cannot open file descriptor %d."
-#~ msgstr "Неможливо в╕дкрити файловий дескриптор %d."
-
-#~ msgid "Notify interface for `%s' not found."
-#~ msgstr "Незнайдено ╕нтерфейсу спов╕щення для \"%s\"."
-
-#~ msgid "Cannot setup Request object."
-#~ msgstr "Неможливо встановити об'╓кт запиту."
-
-#~ msgid "Cannot extract IOR."
-#~ msgstr "Неможливо отримати IOR."
-
-#~ msgid "Got weird string from the slave process: `%s'"
-#~ msgstr "Отримано дивний рядок в╕д п╕дпорядкованого процесу: \"%s\""
-
-#~ msgid "Cannot get object for `%s'"
-#~ msgstr "Неможливо отримати об'╓кт для \"%s\""
-
-#~ msgid "Cannot kill GNOME::VFS::Slave::Notify -- exception %s"
-#~ msgstr "Неможливо знищити GNOME::VFS::Slave::Notify -- виключення %s"
-
-#~ msgid "Cannot connect socket `%s': %s"
-#~ msgstr "Неможливо з'╓днати сокет \"%s\": %s"
-
-#~ msgid "Cannot initialize GNOME::VFS:Slave::Notify"
-#~ msgstr "Неможливо ╕н╕ц╕ал╕зувати GNOME::VFS:Slave::Notify"
-
-#~ msgid "Cannot reset GNOME::VFS::Slave %s -- exception %s"
-#~ msgstr "Неможливо скинути значення GNOME::VFS::Slave %s -- виключення %s"
-
-#~ msgid "Cannot reset GNOME::VFS::Slave (IOR unknown) -- exception %s"
-#~ msgstr ""
-#~ "Неможливо скинути значення GNOME::VFS::Slave (нев╕домий IOR) -- "
-#~ "виключення %s"
-
-#~ msgid "Cannot kill GNOME::VFS::Slave %s -- exception %s"
-#~ msgstr "Не вдалося знищити GNOME::VFS::Slave %s -- виключення %s"
-
-#~ msgid "Cannot kill GNOME::VFS::Slave (IOR unknown) -- exception %s"
-#~ msgstr ""
-#~ "Не вдалося знищити GNOME::VFS::Slave (нев╕домий IOR) -- виключення %s"
-
-#~ msgid "File Types and Programs"
-#~ msgstr "Типи файл╕в ╕ програми"
-
-#~ msgid "Specify which programs are used to open or view each file type"
-#~ msgstr "Вказати програми для в╕дкривання чи показу файл╕в кожного типу"
-
-#~ msgid "MIME Type"
-#~ msgstr "Тип MIME"
-
-#~ msgid "Change Icon"
-#~ msgstr "Зм╕нити п╕ктограму"
-
-#~ msgid "Change File Extensions"
-#~ msgstr "Зм╕нити розширення файл╕в"
-
-#~ msgid "Default Action:"
-#~ msgstr "Типова д╕я:"
-
-#~ msgid "Use Viewer"
-#~ msgstr "Використовувати програму перегляду"
-
-#~ msgid "Open With Application"
-#~ msgstr "В╕дкрити програмою"
-
-#~ msgid "Edit List"
-#~ msgstr "Виправити список"
-
-#~ msgid "Add New MIME Type..."
-#~ msgstr "Додати новий тип MIME..."
-
-#~ msgid "Delete This MIME Type"
-#~ msgstr "Стерти цей тип MIME"
-
-#~ msgid "Revert to System Defaults"
-#~ msgstr "Повернутись до типових налаштувань"
-
-#~ msgid "None"
-#~ msgstr "Нема╓"
-
-#~ msgid ""
-#~ "Reverting to system settings will lose any changes\n"
-#~ "you have ever made to File Types and Programs.\n"
-#~ "Revert anyway?"
-#~ msgstr ""
-#~ "Повернення до системних установок вс╕х зм╕н, що\n"
-#~ "ви будь-коли вносили до тип╕в файл╕в ╕ програм.\n"
-#~ "Повернутись до систених установок?"
-
-#~ msgid "none"
-#~ msgstr "нема╓"
-
-#~ msgid "View as %s"
-#~ msgstr "Показати як %s"
-
-#~ msgid "Description"
-#~ msgstr "Опис"
-
-#~ msgid "Extension"
-#~ msgstr "Розширення"
-
-#~ msgid "Default Action"
-#~ msgstr "Типова д╕я"
-
-#~ msgid "Edit Applications List"
-#~ msgstr "Виправити список програм"
-
-#~ msgid "Select applications to appear in menu for MIME type \"%s\""
-#~ msgstr "Вибер╕ть програми, що мають з'являтись у меню для типу MIME \"%s\""
-
-#~ msgid "Add Application..."
-#~ msgstr "Додати програму..."
-
-#~ msgid "Edit Application..."
-#~ msgstr "Виправити програму..."
-
-#~ msgid "Delete Application"
-#~ msgstr "Стерти програму"
-
-#~ msgid "Edit Components List"
-#~ msgstr "Виправити список компонент╕в"
-
-#~ msgid "Select views to appear in menu for MIME type \"%s\""
-#~ msgstr ""
-#~ "Вибрати програми перегляду, що мають з'являтись в меню для типу MIME \"%s"
-#~ "\""
-
-#~ msgid ""
-#~ "The MIME type entered contained upper case characters. Upper case "
-#~ "characters were changed to lower case for you."
-#~ msgstr ""
-#~ "Введений тип MIME м╕стить велик╕ л╕тери. Л╕тери у верхньому ре╜╕стр╕ буду "
-#~ "зам╕нено на символи в нижньому ре╜╕стр╕."
-
-#~ msgid "Add New MIME Type"
-#~ msgstr "Додати новий тип MIME"
-
-#~ msgid "Add MIME Type"
-#~ msgstr "Додати тип MIME"
-
-#~ msgid "New MIME type (e.g. image/x-thumper):"
-#~ msgstr "Новий тип MIME (наприклад, image/x-thumper):"
-
-#~ msgid "Description (e.g. Thumper image):"
-#~ msgstr "Опис (наприклад, Фальшиве зображення):"
-
-#~ msgid "File Extensions "
-#~ msgstr "Розширення файл╕в "
-
-#~ msgid "Add..."
-#~ msgstr "Додати..."
-
-#~ msgid "    Remove    "
-#~ msgstr "    Видалити    "
-
-#~ msgid "Add New Extension"
-#~ msgstr "Додати нове розширення"
-
-#~ msgid ""
-#~ "Type in the extensions for this mime-type (without dot).\n"
-#~ "You can enter several extensions seperated by a space,\n"
-#~ "for example: html htm"
-#~ msgstr ""
-#~ "Введ╕ть розширення для цього типу MIME (без крапки).\n"
-#~ "Ви можете ввести дек╕лька розширень розд╕лених комами,\n"
-#~ "наприклад: html, htm"
-
-#~ msgid "Extension:"
-#~ msgstr "Розширення:"
-
-#~ msgid "You must enter a name."
-#~ msgstr "Ви ма╓те ввести назву."
-
-#~ msgid "You must enter a command."
-#~ msgstr "Ви ма╓те ввести команду."
-
-#~ msgid ""
-#~ "\"%s\" does not exist or is not executable.\n"
-#~ "Check your spelling and make sure you have\n"
-#~ "the right permissions to execute this file."
-#~ msgstr ""
-#~ "Файлу \"%s\" не ╕сну╓, або його не можна виконати.\n"
-#~ "Перев╕рте написання та переконайтесь, що ви ма╓те\n"
-#~ "достатньо прав для виконання файлу."
-
-#~ msgid ""
-#~ "The command \"%s\" cannot be found.\n"
-#~ "You must use a command that can work from any command line."
-#~ msgstr ""
-#~ "Не вдалось знайти команду \"%s\".\n"
-#~ "Вам потр╕бно ввести команду, яка працюватиме з будь-якого командного "
-#~ "рядка."
-
-#~ msgid "Bad Application Name"
-#~ msgstr "Погана назва програми"
-
-#~ msgid "Bad Application Command"
-#~ msgstr "Погана команда програми"
-
-#~ msgid "Add Application"
-#~ msgstr "Додати програму"
-
-#~ msgid "Edit Application"
-#~ msgstr "Виправити програму"
-
-#~ msgid "Application Command:"
-#~ msgstr "Команда програми:"
-
-#~ msgid "Open Behavior"
-#~ msgstr "Повед╕нка в╕дкривання"
-
-#~ msgid "Can open multiple files"
-#~ msgstr "Може в╕дкривати багато файл╕в"
-
-#~ msgid "Can open from URI"
-#~ msgstr "Може в╕дкривати з URI"
-
-#~ msgid "Can't find an hbox, using a normal file selection"
-#~ msgstr "Неможливо знайти hbox, використову╓ться звичайний вибор файлу"
-
-#~ msgid "Preview"
-#~ msgstr "Перегляд"
-
-#~ msgid "Select an icon"
-#~ msgstr "Виб╕р п╕ктограми"
-
-#~ msgid "%s to retrieve"
-#~ msgstr "%s для в╕дновлення"
-
-#~ msgid "Closing connection to %s"
-#~ msgstr "Закриття з'╓днання з %s"
-
-#~ msgid "%s of %s read"
-#~ msgstr "%s з %s зчитано"
-
-#~ msgid "%s read"
-#~ msgstr "%s зчитано"
-
-#~ msgid "Back"
-#~ msgstr "Назад"
-
-#~ msgid "Go to the previously visited directory"
-#~ msgstr "Перейти в попередн╕й каталог"
-
-#~ msgid "Up"
-#~ msgstr "Вгору"
-
-#~ msgid "Go to the parent directory"
-#~ msgstr "Перейти в батьк╕вський каталог"
-
-#~ msgid "Forward"
-#~ msgstr "Вперед"
-
-#~ msgid "Go to the next visited directory"
-#~ msgstr "Перейти в наступний каталог"
-
-#~ msgid "Rescan"
-#~ msgstr "Перечитати"
-
-#~ msgid "Rescan the current directory"
-#~ msgstr "Перечитати поточкий каталог"
-
-#~ msgid "Home"
-#~ msgstr "Дом╕вка"
-
-#~ msgid "Go to the home directory"
-#~ msgstr "Перейти в домашн╕й каталог"
-
-#~ msgid "Name"
-#~ msgstr "Назва"
-
-#~ msgid "Size"
-#~ msgstr "Розм╕р"
-
-#~ msgid "Date"
-#~ msgstr "Дата"
-
-#~ msgid "Enter name:"
-#~ msgstr "Введ╕ть назву:"
-
-#~ msgid "Show:"
-#~ msgstr "Показати:"
-
-#~ msgid "Show dotfiles"
-#~ msgstr "Показати крапков╕ файли"
