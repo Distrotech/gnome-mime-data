@@ -1,3 +1,19 @@
+2005-03-26  Tor Lillqvist  <tml@novell.com>
+
+	* gnome-mime-data-zip.in: New file, used to build a distribution
+	of gnome-mime-data for Win32.
+
+	No, I don't know whether it will ultimately make much sense having
+	a gnome-mime-data package for Win32. This is just for completeness
+	as many GNOME libraries depend on gnome-mime-data, and as for now
+	it's easiest to have gnome-mime-data installed when building
+	them. But very likely the users of gnome-mime-data will eventually
+	have code to use more native Win32 mechanisms for the function
+	that gnome-mime-data has on a Unix system.
+
+	* configure.in
+	* Makefile.am: Expand and dist it.
+
 2005-02-08  Christian Rose  <menthos@menthos.com>
 
 	* configure.in: Added "xh" to ALL_LINGUAS.

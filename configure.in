@@ -17,6 +17,7 @@ AM_GLIB_GNU_GETTEXT
 AC_CONFIG_FILES([
 Makefile
 gnome-mime-data.spec
+gnome-mime-data-zip
 man/Makefile
 man/gnome-vfs-mime.5
 po/Makefile.in

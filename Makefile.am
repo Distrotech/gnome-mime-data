@@ -21,6 +21,7 @@ EXTRA_DIST =					\
 	autogen.sh				\
 	check-mime.pl				\
 	gnome-mime-data.spec			\
+	gnome-mime-data-zip.in			\
 	gnome-mime-data-2.0.pc.in		\
 	intltool-extract.in			\
 	intltool-merge.in			\
