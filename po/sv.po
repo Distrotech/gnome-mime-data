@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-05-07 23:18-0700\n"
-"PO-Revision-Date: 2002-04-01 23:31+0200\n"
+"POT-Creation-Date: 2002-05-17 21:20+0200\n"
+"PO-Revision-Date: 2002-05-17 21:10+0200\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -241,9 +241,8 @@ msgid "HTML page"
 msgstr "HTML-sida"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "C-källkod"
+msgstr "Haskell-källkod"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -334,9 +333,8 @@ msgid "Linux PSF console font"
 msgstr "Linux PSF-konsolltypsnitt"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "Fortran-källkod"
+msgstr "Bokstavlig Haskell-källkod"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -407,9 +405,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Microsoft PowerPoint-dokument"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Microsoft-video"
+msgstr "Microsoft WMV-video"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -557,7 +554,7 @@ msgstr "PostScript-dokument"
 
 #: gnome-vfs.keys.in.h:135
 msgid "Project Plan"
-msgstr ""
+msgstr "Projektplan"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Python source code"
@@ -1012,9 +1009,8 @@ msgid "profiler results"
 msgstr "profilerarresultat"
 
 #: gnome-vfs.keys.in.h:249
-#, fuzzy
 msgid "python byte code"
-msgstr "Python-källkod"
+msgstr "Python-bytekod"
 
 #: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
