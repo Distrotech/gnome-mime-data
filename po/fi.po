@@ -7,13 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
-"POT-Creation-Date: 2002-12-28 06:05+0100\n"
-"PO-Revision-Date: 2003-01-04 20:26+0200\n"
+"POT-Creation-Date: 2003-01-26 02:04+0200\n"
+"PO-Revision-Date: 2003-01-26 02:03+0200\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
-"Language-Team: Finnish <fi@li.org>\n"
+"Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -157,7 +158,7 @@ msgstr "Digital Imaging ja Communications in Medicine -kuva"
 
 #: gnome-vfs.keys.in.h:36
 msgid "Digital Moving Picture Exchange"
-msgstr ""
+msgstr "Digital Moving Picture Exchange"
 
 #: gnome-vfs.keys.in.h:37
 msgid "Documents"
@@ -253,7 +254,7 @@ msgstr "FlashPix-kuva"
 
 #: gnome-vfs.keys.in.h:60
 msgid "Flexible Image Transport System"
-msgstr ""
+msgstr "Flexible Image Transport System"
 
 #: gnome-vfs.keys.in.h:61
 msgid "Fortran source code"
