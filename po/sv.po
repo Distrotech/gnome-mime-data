@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2001-12-02 13:18+0100\n"
-"PO-Revision-Date: 2001-12-02 13:18+0100\n"
+"POT-Creation-Date: 2001-12-19 15:32+0100\n"
+"PO-Revision-Date: 2001-12-19 15:33+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -809,8 +809,8 @@ msgid "email headers"
 msgstr "e-posthuvuden"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "e-postmeddelande"
+msgid "email message/mailbox"
+msgstr "e-postmeddelande/brevlåda"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
