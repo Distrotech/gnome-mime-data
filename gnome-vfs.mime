@@ -137,6 +137,9 @@ application/x-backup
 application/x-bcpio
 	ext: bcpio
 
+application/x-blender
+	ext: blender
+
 application/x-bzip
 	ext: bz2 bz
 

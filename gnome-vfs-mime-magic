@@ -240,3 +240,4 @@
 54	string		S\ T\ O\ P				application/x-ipod-firmware
 0:160	string		ID3					audio/mpeg
 0:512	string		\x00\x00\x01\xba			video/mpeg
+0	string		BLENDER					application/x-blender
