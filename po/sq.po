@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-03-01 11:29+0100\n"
+"POT-Creation-Date: 2004-06-23 04:46+0200\n"
 "PO-Revision-Date: 2004-03-01 11:40+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
@@ -283,9 +283,10 @@ msgstr "Figurë DjVu"
 msgid "Document type definition"
 msgstr "Përcaktimi i llojit të dokumentit (DTD)"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:68
 msgid "Documents"
-msgstr "Dokumentet"
+msgstr "Dokumente"
 
 #: gnome-vfs.keys.in.h:69
 msgid "Documents/Diagram"
@@ -515,9 +516,10 @@ msgstr "Video ISI"
 msgid "ISO image"
 msgstr "Figurë ISO"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:126
 msgid "Images"
-msgstr "Figura"
+msgstr "Figurat"
 
 #: gnome-vfs.keys.in.h:127
 msgid "Impulse Tracker audio"
@@ -731,9 +733,10 @@ msgstr "Video Matroska"
 msgid "Memory dump"
 msgstr "Shkarkim i memorjes"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:180
 msgid "Message"
-msgstr "Mesazhi"
+msgstr "Mesazh"
 
 #: gnome-vfs.keys.in.h:181
 msgid "Message digest"
@@ -1299,9 +1302,10 @@ msgstr "Gërma TeX metrics"
 msgid "TeXInfo document"
 msgstr "Dokument TeXInfo"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:322
 msgid "Theme"
-msgstr "Temë"
+msgstr "Tema"
 
 #: gnome-vfs.keys.in.h:323
 msgid "ToutDoux document"
@@ -1462,3 +1466,4 @@ msgstr "Software iPod"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Grafik vektorial xfig"
+
