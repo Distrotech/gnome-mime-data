@@ -25,6 +25,8 @@ application/msword
 	short_list_application_ids_for_novice_user_level=abiword,staroffice,applix
 	short_list_application_ids_for_intermediate_user_level=abiword,staroffice,applix
 	short_list_application_ids_for_advanced_user_level=abiword,staroffice,applix
+	category=Documents/Word Processor
+	use_category_default=yes
 
 application/octet-stream
 	can_be_executable=TRUE
@@ -42,6 +44,8 @@ application/pdf
 	short_list_application_ids_for_novice_user_level=acroread,xpdf,ggv,gv
 	short_list_application_ids_for_intermediate_user_level=acroread,xpdf,ggv,gv
 	short_list_application_ids_for_advanced_user_level=acroread,xpdf,ggv,gv
+	category=Documents/Published Materials
+	use_category_default=yes
 
 application/pgp
 	_description=PGP message
@@ -67,6 +71,8 @@ application/postscript
 	short_list_application_ids_for_novice_user_level=ggv,gv,ghostview
 	short_list_application_ids_for_intermediate_user_level=ggv,gv,ghostview
 	short_list_application_ids_for_advanced_user_level=ggv,gv,ghostview
+	category=Documents/Published Materials
+	use_category_default=yes
 
 application/qif
 	_description=Quicken document
@@ -74,6 +80,8 @@ application/qif
 	short_list_application_ids_for_novice_user_level=gnucash
 	short_list_application_ids_for_intermediate_user_level=gnucash
 	short_list_application_ids_for_advanced_user_level=gnucash
+	category=Information/Financial
+	use_category_default=yes
 
 application/rtf
 	_description=rich text document
@@ -81,6 +89,8 @@ application/rtf
 	short_list_application_ids_for_novice_user_level=abiword,staroffice,applix
 	short_list_application_ids_for_intermediate_user_level=abiword,staroffice,applix
 	short_list_application_ids_for_advanced_user_level=abiword,staroffice,applix
+	category=Documents/Word Processor
+	use_category_default=yes
 
 application/vnd.lotus-1-2-3
 	_description=Lotus 1-2-3 spreadsheet
@@ -89,6 +99,8 @@ application/vnd.lotus-1-2-3
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
 	short_list_application_ids_for_advanced_user_level=gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 application/vnd.ms-excel
 	_description=Microsoft Excel spreadsheet
@@ -97,6 +109,8 @@ application/vnd.ms-excel
 	short_list_application_ids_for_novice_user_level=gnumeric,staroffice,applix
 	short_list_application_ids_for_intermediate_user_level=gnumeric,staroffice,applix
 	short_list_application_ids_for_advanced_user_level=gnumeric,staroffice,applix
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 application/vnd.ms-powerpoint
 	_description=Microsoft PowerPoint document
@@ -104,6 +118,8 @@ application/vnd.ms-powerpoint
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
 	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Presentation
+	use_category_default=yes
 
 # also audio/x-pn-realaudio, audio/x-real-audio
 application/vnd.rn-realmedia
@@ -113,6 +129,8 @@ application/vnd.rn-realmedia
 	short_list_application_ids_for_novice_user_level=realplayer
 	short_list_application_ids_for_intermediate_user_level=realplayer
 	short_list_application_ids_for_advanced_user_level=realplayer
+	category=Video
+	use_category_default=no
 
 # also text/abiword
 application/x-abiword
@@ -121,6 +139,8 @@ application/x-abiword
 	short_list_application_ids_for_novice_user_level=abiword,staroffice
 	short_list_application_ids_for_intermediate_user_level=abiword,staroffice
 	short_list_application_ids_for_advanced_user_level=abiword,staroffice
+	category=Documents/Word Processor
+	use_category_default=yes
 
 application/x-applix-spreadsheet
 	_description=Applixware spreadsheet
@@ -129,6 +149,8 @@ application/x-applix-spreadsheet
 	short_list_application_ids_for_novice_user_level=applix,gnumeric
 	short_list_application_ids_for_intermediate_user_level=applix,gnumeric
 	short_list_application_ids_for_advanced_user_level=applix,gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 application/x-applix-word
 	_description=Applixware Words document
@@ -136,6 +158,8 @@ application/x-applix-word
 	short_list_application_ids_for_novice_user_level=applix
 	short_list_application_ids_for_intermediate_user_level=applix
 	short_list_application_ids_for_advanced_user_level=applix
+	category=Documents/Word Processor
+	use_category_default=no
 
 application/x-arj
 	_description=arj archive
@@ -144,6 +168,8 @@ application/x-arj
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-asp
 	_description=active server page
@@ -161,6 +187,8 @@ application/x-bzip
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-bzip-compressed-tar
 	_description=tar archive (bzip2-compressed)
@@ -170,6 +198,8 @@ application/x-bzip-compressed-tar
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-cgi
 	_description=CGI program
@@ -190,6 +220,8 @@ application/x-compress
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-compressed-tar
 	_description=tar archive (gzip-compressed)
@@ -198,6 +230,8 @@ application/x-compressed-tar
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-core-file
 	_description=memory dump
@@ -221,6 +255,8 @@ application/x-deb
 	short_list_application_ids_for_novice_user_level=dpkg
 	short_list_application_ids_for_intermediate_user_level=dpkg
 	short_list_application_ids_for_advanced_user_level=dpkg
+	category=Packages
+	use_category_default=no
 
 application/x-dia-diagram
 	_description=Dia diagram
@@ -228,12 +264,16 @@ application/x-dia-diagram
 	short_list_application_ids_for_novice_user_level=dia
 	short_list_application_ids_for_intermediate_user_level=dia
 	short_list_application_ids_for_advanced_user_level=dia
+	category=Documents/Diagram
+	use_category_default=yes
 
 application/x-dvi
 	_description=TeX dvi document
 	short_list_application_ids_for_novice_user_level=xdvi
 	short_list_application_ids_for_intermediate_user_level=xdvi
 	short_list_application_ids_for_advanced_user_level=xdvi
+	category=Documents/TeX
+	use_category_default=no
 
 application/x-e-theme
 	_description=Enlightenment theme
@@ -293,6 +333,8 @@ application/x-glade
 	short_list_application_ids_for_novice_user_level=glade
 	short_list_application_ids_for_intermediate_user_level=glade
 	short_list_application_ids_for_advanced_user_level=glade
+	category=Software Development
+	use_category_default=no
 
 application/x-gmc-link
 	_description=GMC link
@@ -306,6 +348,8 @@ application/x-gnucash
 	short_list_application_ids_for_novice_user_level=gnucash
 	short_list_application_ids_for_intermediate_user_level=gnucash
 	short_list_application_ids_for_advanced_user_level=gnucash
+	category=Information/Financial
+	use_category_default=yes
 
 application/x-gnumeric
 	_description=Gnumeric spreadsheet
@@ -313,6 +357,8 @@ application/x-gnumeric
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
 	short_list_application_ids_for_advanced_user_level=gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 application/x-gtar
 	_description=gtar archive
@@ -321,6 +367,8 @@ application/x-gtar
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-gzip
 	_description=gzip-compressed file
@@ -329,6 +377,8 @@ application/x-gzip
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-hdf
 	_description=HDF document
@@ -343,6 +393,8 @@ application/x-jbuilder-project
 	short_list_application_ids_for_novice_user_level=jbuilder
 	short_list_application_ids_for_intermediate_user_level=jbuilder
 	short_list_application_ids_for_advanced_user_level=jbuilder
+	category=Software Development
+	use_category_default=no
 
 application/x-kde-app-info
 	_description=KDE application details
@@ -353,6 +405,8 @@ application/x-killustrator
 	short_list_application_ids_for_novice_user_level=killustrator
 	short_list_application_ids_for_intermediate_user_level=killustrator
 	short_list_application_ids_for_advanced_user_level=killustrator
+	category=Documents/Vector Graphics
+	use_category_default=no
 
 application/x-kpresenter
 	_description=KPresenter presentation
@@ -360,6 +414,8 @@ application/x-kpresenter
 	short_list_application_ids_for_novice_user_level=kpresenter
 	short_list_application_ids_for_intermediate_user_level=kpresenter
 	short_list_application_ids_for_advanced_user_level=kpresenter
+	category=Documents/Presentation
+	use_category_default=no
 
 application/x-kspread
 	_description=KSpread spreadsheet
@@ -368,6 +424,8 @@ application/x-kspread
 	short_list_application_ids_for_novice_user_level=kspread
 	short_list_application_ids_for_intermediate_user_level=kspread
 	short_list_application_ids_for_advanced_user_level=kspread
+	category=Documents/Spreadsheet
+	use_category_default=no
 
 application/x-kword
 	_description=KWord document
@@ -375,6 +433,8 @@ application/x-kword
 	short_list_application_ids_for_novice_user_level=kword
 	short_list_application_ids_for_intermediate_user_level=kword
 	short_list_application_ids_for_advanced_user_level=kword
+	category=Documents/Word Processor
+	use_category_default=no
 
 application/x-lha
 	_description=LHARC archive
@@ -383,6 +443,8 @@ application/x-lha
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-lhz
 	_description=LHA archive
@@ -391,6 +453,8 @@ application/x-lhz
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-mif
 	_description=FrameMaker interchange document
@@ -414,6 +478,8 @@ application/x-ogg
 	short_list_application_ids_for_novice_user_level=ogg123,xmms,freeamp
 	short_list_application_ids_for_intermediate_user_level=ogg123,xmms,freeamp
 	short_list_application_ids_for_advanced_user_level=ogg123,xmms,freeamp
+	category=Audio
+	use_category_default=no
 
 application/x-oleo
 	_description=GNU Oleo Spreadsheet
@@ -422,6 +488,8 @@ application/x-oleo
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
 	short_list_application_ids_for_advanced_user_level=gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=no
 
 application/x-palm-database
 	_description=Palm OS database
@@ -446,6 +514,8 @@ application/x-qw
 	short_list_application_ids_for_novice_user_level=gnucash
 	short_list_application_ids_for_intermediate_user_level=gnucash
 	short_list_application_ids_for_advanced_user_level=gnucash
+	category=Information/Financial
+	use_category_default=yes
 
 #also application/x-rar-compressed
 application/x-rar
@@ -454,6 +524,8 @@ application/x-rar
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 #also application/x-rar
 application/x-rar-compressed
@@ -463,6 +535,8 @@ application/x-rar-compressed
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-reject
 	_description=rejected patch file
@@ -471,6 +545,8 @@ application/x-rpm
 	_description=RPM package
 	icon_filename=gnome-pack-rpm
 	default_action_type=component
+	category=Packages
+	use_category_default=yes
 
 application/x-shar
 	_description=shell archive
@@ -498,6 +574,8 @@ application/x-staroffice-presentation
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
 	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Presentation
+	use_category_default=yes
 
 application/x-staroffice-spreadsheet
 	_description=StarOffice spreadsheet
@@ -506,6 +584,8 @@ application/x-staroffice-spreadsheet
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
 	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Spreadsheet
+	use_category_default=no
 
 application/x-staroffice-words
 	_description=StarOffice Writer document
@@ -513,6 +593,8 @@ application/x-staroffice-words
 	short_list_application_ids_for_novice_user_level=staroffice
 	short_list_application_ids_for_intermediate_user_level=staroffice
 	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Word Processor
+	use_category_default=no
 
 application/x-stuffit
 	_description=Macintosh StuffIt archive
@@ -531,6 +613,8 @@ application/x-tar
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 application/x-tex
 	_description=TeX document
@@ -569,6 +653,8 @@ application/x-xbase
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
 	short_list_application_ids_for_advanced_user_level=gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 application/x-zoo
 	_description=zoo archive
@@ -581,6 +667,8 @@ application/zip
 	short_list_application_ids_for_novice_user_level=guitar
 	short_list_application_ids_for_intermediate_user_level=guitar
 	short_list_application_ids_for_advanced_user_level=guitar
+	category=Packages
+	use_category_default=yes
 
 audio/ac3
 	_description=Dolby Digital audio
@@ -1022,6 +1110,8 @@ text/abiword
 	short_list_application_ids_for_novice_user_level=abiword,staroffice
 	short_list_application_ids_for_intermediate_user_level=abiword,staroffice
 	short_list_application_ids_for_advanced_user_level=abiword,staroffice
+	category=Documents/Word Processor
+	use_category_default=yes
 
 text/bib
 	_description=bibliography record
@@ -1047,6 +1137,8 @@ text/html
 	short_list_application_ids_for_novice_user_level=mozilla,netscape,galeon
 	short_list_application_ids_for_intermediate_user_level=mozilla,netscape,galeon
 	short_list_application_ids_for_advanced_user_level=mozilla,netscape,lynx,galeon
+	category=Documents/World Wide Web
+	use_category_default=yes
 
 text/htmlh
 	_description=help page
@@ -1054,6 +1146,8 @@ text/htmlh
 	short_list_component_iids_for_novice_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1
 	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1
 	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1
+	category=Documents/World Wide Web
+	use_category_default=yes
 
 text/mathml
 	_description=MathML document
@@ -1068,6 +1162,8 @@ text/plain
 	short_list_application_ids_for_novice_user_level=gedit,pico
 	short_list_application_ids_for_intermediate_user_level=xemacs,emacs,nedit,gedit,xfte,pico
 	short_list_application_ids_for_advanced_user_level=xemacs,gvim,emacs,vi,nedit,gedit,xfte,pico
+	category=Documents/Plain Text
+	use_category_default=yes
 
 text/rfc822-headers
 	_description=email headers
@@ -1085,6 +1181,8 @@ text/spreadsheet
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
 	short_list_application_ids_for_advanced_user_level=gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 text/tab-separated-values
 	_description=tab-separated text document
@@ -1092,6 +1190,8 @@ text/tab-separated-values
 	short_list_application_ids_for_novice_user_level=gnumeric
 	short_list_application_ids_for_intermediate_user_level=gnumeric
 	short_list_application_ids_for_advanced_user_level=gnumeric
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 # Note that text/tex should be text/x-tex, but a user reported
 # a complaint about text/tex in Nautilus, so some non-gnome-vfs
@@ -1121,6 +1221,8 @@ text/x-comma-separated-values
 	short_list_application_ids_for_novice_user_level=gnumeric,kspread
 	short_list_application_ids_for_intermediate_user_level=gnumeric,kspread
 	short_list_application_ids_for_advanced_user_level=gnumeric,kspread
+	category=Documents/Spreadsheet
+	use_category_default=yes
 
 text/x-copying
 	_description=software license terms
@@ -1164,6 +1266,8 @@ text/x-java
 	short_list_application_ids_for_novice_user_level=jbuilder,javac
 	short_list_application_ids_for_intermediate_user_level=jbuilder,javac
 	short_list_application_ids_for_advanced_user_level=jbuilder,javac
+	category=Software Development/Source Code
+	use_category_default=yes
 
 text/x-ksh
 	can_be_executable=TRUE
@@ -1262,6 +1366,8 @@ text/xml
 	short_list_application_ids_for_novice_user_level=mozilla
 	short_list_application_ids_for_intermediate_user_level=mozilla
 	short_list_application_ids_for_advanced_user_level=mozilla
+	category=Documents/Extended Markup Language (XML)
+	use_category_default=yes
 
 video/isivideo
 	_description=ISI video
