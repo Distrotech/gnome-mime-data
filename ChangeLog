@@ -1,3 +1,8 @@
+2003-04-04  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: added more magic for Real playlists files and 
+	SMIL playlists
+
 2003-04-02  Paolo Maggi  <paolo.maggi@polito.it>
 
 	* gnome-vfs-mime-magic: added a simple rule to recognise xml files
