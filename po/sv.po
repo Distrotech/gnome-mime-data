@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2003-06-21 20:01+0200\n"
-"PO-Revision-Date: 2003-06-21 20:02+0200\n"
+"POT-Creation-Date: 2003-08-19 16:15+0200\n"
+"PO-Revision-Date: 2003-08-19 16:16+0200\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1416,6 +1416,9 @@ msgstr "iPod-programvara"
 #: gnome-vfs.keys.in.h:350
 msgid "xfig vector graphic"
 msgstr "xfig-vektorgrafik"
+
+#~ msgid "JavaScript source code"
+#~ msgstr "JavaScript-källkod"
 
 #~ msgid "rich text document"
 #~ msgstr "rikt textdokument"
