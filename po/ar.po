@@ -1,3 +1,4 @@
+# translation of gnome-mime-data.gnome22branch.ar.po to Arabic
 # translation of gnome-mime-data.po to
 # translation of gnome-mime-data.po to Arabic
 # This file is distributed under the same license as the PACKAGE package.
@@ -8,15 +9,16 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2003-04-27 19:57+0200\n"
-"PO-Revision-Date: 2003-05-04 20:21+0200\n"
+"Project-Id-Version: gnome-mime-data.gnome22branch.ar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-07-19 04:06+0200\n"
+"PO-Revision-Date: 2003-07-19 09:50+0200\n"
 "Last-Translator: Arafat Medini <lumina@silverpen.de>\n"
 "Language-Team: Arabic <doc@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.1\n"
+"X-Generator: KBabel 1.0\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -167,9 +169,8 @@ msgid "Documents"
 msgstr "مستندات"
 
 #: gnome-vfs.keys.in.h:38
-#, fuzzy
 msgid "Documents/Diagram"
-msgstr "المستندات"
+msgstr "المستندات/رسومات بيانية"
 
 #: gnome-vfs.keys.in.h:39
 msgid "Documents/Extended Markup Language (XML)"
