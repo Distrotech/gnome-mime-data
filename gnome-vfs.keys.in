@@ -1875,11 +1875,20 @@ text/x-install
 text/x-java
 	_description=Java source code
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=jbuilder,javac
-	short_list_application_ids_for_intermediate_user_level=jbuilder,javac
-	short_list_application_ids_for_advanced_user_level=jbuilder,javac
+	short_list_application_ids_for_novice_user_level=anjuta,javac
+	short_list_application_ids_for_intermediate_user_level=anjuta,javac
+	short_list_application_ids_for_advanced_user_level=anjuta,javac
 	_category=Software Development/Source Code
 	use_category_default=yes
+
+text/x-javascript
+        description=JavaScript source code
+        default_action_type=application
+        short_list_application_ids_for_novice_user_level=anjuta
+        short_list_application_ids_for_intermediate_user_level=anjuta
+        short_list_application_ids_for_advanced_user_level=anjuta
+        category=Software Development/Source Code
+        use_category_default=yes
 
 text/x-ksh
 	can_be_executable=TRUE
