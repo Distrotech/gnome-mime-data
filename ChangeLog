@@ -1,3 +1,9 @@
+2001-11-01  Seth Nickell  <snickell@stanford.edu>
+
+	* .cvsignore:
+
+	Add a cvs ignore file.
+
 =Initial checkin to a seperate module.=
 
 2001-10-24  Seth Nickell  <snickell@stanford.edu>
