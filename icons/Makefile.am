@@ -113,7 +113,6 @@ icon_DATA =\
 	gnome-tex.png \
 	gnome-text-abiword.png \
 	gnome-text-html.png \
-	gnome-text-plain.png \
 	gnome-text-x-authors.png \
 	gnome-text-x-c.png \
 	gnome-text-x-copying.png \

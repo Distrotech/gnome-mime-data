@@ -1,3 +1,11 @@
+2002-03-05  Seth Nickell  <snickell@stanford.edu>
+
+	* configure.in:
+	* icons/Makefile.am:
+	* icons/gnome-text-plain.png:
+
+	Delete icon because Nautilus wants to have text previews.
+	
 2002-03-03  Bastien Nocera  <hadess@hadess.net>
 
 	* icons/Makefile.am: install the icons mentioned underneath there
