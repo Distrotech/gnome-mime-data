@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-07-05 04:40+0200\n"
+"POT-Creation-Date: 2004-07-28 03:42+0200\n"
 "PO-Revision-Date: 2004-03-01 11:40+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
@@ -95,9 +95,10 @@ msgstr "Arkiv Ar"
 msgid "Assembly source code"
 msgstr "Kod burues Assembly"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:21
 msgid "Audio"
-msgstr "Audio"
+msgstr "Zëri"
 
 #: gnome-vfs.keys.in.h:22
 msgid "Authors list"
@@ -247,7 +248,6 @@ msgstr "Dokument DSSSL"
 msgid "DV video"
 msgstr "Video DV"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:59
 msgid "DXF vector graphic"
 msgstr "Grafikë vektorial DFX"
@@ -396,7 +396,6 @@ msgstr "Audio FastTracker II"
 msgid "FlashPix Image"
 msgstr "Figurë FlashPix"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:96
 msgid "Flexible Image Transport System"
 msgstr "Sistemi transportit Flexible Image"
@@ -597,7 +596,6 @@ msgstr "Arkiv LHA"
 msgid "LHARC archive"
 msgstr "Arkiv LHARC"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:146
 msgid "LIBGRX font"
 msgstr "Gërma LIBGRX"
@@ -774,7 +772,6 @@ msgstr "Video Microsoft"
 msgid "Monkey audio"
 msgstr "Audio Monkey"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:190
 msgid "Mozilla bookmarks file"
 msgstr "File libërshënues të Mozilla"
