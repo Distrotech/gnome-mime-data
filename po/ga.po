@@ -1,15 +1,14 @@
 # Irish translation of gnome-mime-data
 # Copyright (C) 2003 Free Software Foundation INC
 # This file is distributed under the same license as the PACKAGE package.
-# Pól �? Dubhthaigh <dubhthach@zion.nuigalway.ie>,2003
+# PÃ³l Ã? Dubhthaigh <dubhthach@zion.nuigalway.ie>,2003
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version:gnome-mime-data HEAD \n"
 "POT-Creation-Date: 2003-04-11 12:51+0100\n"
 "PO-Revision-Date:2003-02-21 17:58+0100\n"
-"Last-Translator: Pól ? Dubhthaigh <dubhthach@zion.nuigalway.ie>\n"
+"Last-Translator: PÃ³l ? Dubhthaigh <dubhthach@zion.nuigalway.ie>\n"
 "Language-Team: Irish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +16,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
-msgstr "íomha ó 3D Studio"
+msgstr "Ã­omha Ã³ 3D Studio"
 
 #: gnome-vfs.keys.in.h:2
 msgid "AIFC audio"
@@ -37,11 +36,11 @@ msgstr "cartlann ARJ"
 
 #: gnome-vfs.keys.in.h:6
 msgid "AVI video"
-msgstr "Físeán AVI"
+msgstr "FÃ­seÃ¡n AVI"
 
 #: gnome-vfs.keys.in.h:7
 msgid "AbiWord document"
-msgstr "Doiciméad ó Abiword"
+msgstr "DoicimÃ©ad Ã³ Abiword"
 
 #: gnome-vfs.keys.in.h:8
 msgid "Active Server page"
@@ -53,7 +52,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:10
 msgid "Adobe FrameMaker font"
-msgstr "clófhoireann do Adobe FrameMaker"
+msgstr "clÃ³fhoireann do Adobe FrameMaker"
 
 #: gnome-vfs.keys.in.h:11
 msgid "Adobe font metrics"
@@ -69,15 +68,15 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:14
 msgid "ApplixWare Graphics image"
-msgstr "íomha ó Applixware Graphics"
+msgstr "Ã­omha Ã³ Applixware Graphics"
 
 #: gnome-vfs.keys.in.h:15
 msgid "Applixware Words document"
-msgstr "Doiciméad ó Applixware Words"
+msgstr "DoicimÃ©ad Ã³ Applixware Words"
 
 #: gnome-vfs.keys.in.h:16
 msgid "Applixware spreadsheet"
-msgstr "scarbhileog ó Applixware"
+msgstr "scarbhileog Ã³ Applixware"
 
 #: gnome-vfs.keys.in.h:17
 msgid "Ar archive"
@@ -86,7 +85,7 @@ msgstr "cartlann Ar"
 #: gnome-vfs.keys.in.h:18
 #, fuzzy
 msgid "Assembly source code"
-msgstr "bunchóid Scheme"
+msgstr "bunchÃ³id Scheme"
 
 #: gnome-vfs.keys.in.h:19
 msgid "Audio"
@@ -98,24 +97,24 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:21
 msgid "AutoCAD image"
-msgstr "íomha ó AutoCAD"
+msgstr "Ã­omha Ã³ AutoCAD"
 
 #: gnome-vfs.keys.in.h:22
 msgid "BCPIO document"
-msgstr "Doiciméad BCPIO"
+msgstr "DoicimÃ©ad BCPIO"
 
 #: gnome-vfs.keys.in.h:23
 msgid "BDF font"
-msgstr "Clófhoireann BDF "
+msgstr "ClÃ³fhoireann BDF "
 
 #: gnome-vfs.keys.in.h:24
 #, fuzzy
 msgid "Backup file"
-msgstr "comhad cúltaca"
+msgstr "comhad cÃºltaca"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Basic audio"
-msgstr "audio bunúsach"
+msgstr "audio bunÃºsach"
 
 #: gnome-vfs.keys.in.h:26
 msgid "Bibliography record"
@@ -124,7 +123,7 @@ msgstr ""
 #: gnome-vfs.keys.in.h:27
 #, fuzzy
 msgid "Binary program"
-msgstr "clár dénártha"
+msgstr "clÃ¡r dÃ©nÃ¡rtha"
 
 #: gnome-vfs.keys.in.h:28
 msgid "Block device"
@@ -140,7 +139,7 @@ msgstr "script le haighaidh an C shell"
 
 #: gnome-vfs.keys.in.h:31
 msgid "C source code"
-msgstr "bunchóid i C"
+msgstr "bunchÃ³id i C"
 
 #: gnome-vfs.keys.in.h:32
 msgid "C source code header"
@@ -148,19 +147,19 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:33
 msgid "C++ source code"
-msgstr "bunchóid i C++"
+msgstr "bunchÃ³id i C++"
 
 #: gnome-vfs.keys.in.h:34
 msgid "CGI program"
-msgstr "Clár CGI"
+msgstr "ClÃ¡r CGI"
 
 #: gnome-vfs.keys.in.h:35
 msgid "CGM image"
-msgstr "íomha CGM"
+msgstr "Ã­omha CGM"
 
 #: gnome-vfs.keys.in.h:36
 msgid "CMU raster image"
-msgstr "íomha raster CMU"
+msgstr "Ã­omha raster CMU"
 
 #: gnome-vfs.keys.in.h:37
 msgid "CPIO archive"
@@ -172,12 +171,12 @@ msgstr "carlann CPIO (gzipped)"
 
 #: gnome-vfs.keys.in.h:39
 msgid "Calendar file"
-msgstr "comhad Féilire"
+msgstr "comhad FÃ©ilire"
 
 #: gnome-vfs.keys.in.h:40
 #, fuzzy
 msgid "Calendar or event document"
-msgstr "Doiciméad ó WordPerfect"
+msgstr "DoicimÃ©ad Ã³ WordPerfect"
 
 #: gnome-vfs.keys.in.h:41
 msgid "Character device"
@@ -186,16 +185,16 @@ msgstr ""
 #: gnome-vfs.keys.in.h:42
 #, fuzzy
 msgid "Comma-separated text document"
-msgstr "Doiciméad Setext"
+msgstr "DoicimÃ©ad Setext"
 
 #: gnome-vfs.keys.in.h:43
 msgid "Commodore 64 audio"
-msgstr "Audio ó Commodore64"
+msgstr "Audio Ã³ Commodore64"
 
 #: gnome-vfs.keys.in.h:44
 #, fuzzy
 msgid "Compound document"
-msgstr "doiciméad ó KWord"
+msgstr "doicimÃ©ad Ã³ KWord"
 
 #: gnome-vfs.keys.in.h:45
 msgid "Compress-compressed file"
@@ -204,7 +203,7 @@ msgstr ""
 #: gnome-vfs.keys.in.h:46
 #, fuzzy
 msgid "Compressed GIMP document"
-msgstr "Doiciméad ó GIMP"
+msgstr "DoicimÃ©ad Ã³ GIMP"
 
 #: gnome-vfs.keys.in.h:47
 msgid "Corel Draw drawing"
@@ -216,15 +215,15 @@ msgstr "script i DCL"
 
 #: gnome-vfs.keys.in.h:49
 msgid "DOS font"
-msgstr "Clófhoireann ó DOS"
+msgstr "ClÃ³fhoireann Ã³ DOS"
 
 #: gnome-vfs.keys.in.h:50
 msgid "DOS/Windows program"
-msgstr "Clár as DOS/Windows"
+msgstr "ClÃ¡r as DOS/Windows"
 
 #: gnome-vfs.keys.in.h:51
 msgid "DSSSL document"
-msgstr "Doiciméad DSSSL"
+msgstr "DoicimÃ©ad DSSSL"
 
 #: gnome-vfs.keys.in.h:52
 msgid "DXF vector graphic"
@@ -232,7 +231,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:53
 msgid "Debian package"
-msgstr "pacáiste ó Debian"
+msgstr "pacÃ¡iste Ã³ Debian"
 
 #: gnome-vfs.keys.in.h:54
 msgid "Device Independant Bitmap"
@@ -257,15 +256,15 @@ msgstr ""
 #: gnome-vfs.keys.in.h:59
 #, fuzzy
 msgid "Document type definition"
-msgstr "Doiciméad/Toirbheartas"
+msgstr "DoicimÃ©ad/Toirbheartas"
 
 #: gnome-vfs.keys.in.h:60
 msgid "Documents"
-msgstr "Doiciméad"
+msgstr "DoicimÃ©ad"
 
 #: gnome-vfs.keys.in.h:61
 msgid "Documents/Diagram"
-msgstr "Doiciméad/Léareáid"
+msgstr "DoicimÃ©ad/LÃ©areÃ¡id"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Documents/Extended Markup Language (XML)"
@@ -273,7 +272,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:63
 msgid "Documents/Numeric"
-msgstr "Doiciméad/Uimhriúil"
+msgstr "DoicimÃ©ad/UimhriÃºil"
 
 #: gnome-vfs.keys.in.h:64
 msgid "Documents/Plain Text"
@@ -281,7 +280,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:65
 msgid "Documents/Presentation"
-msgstr "Doiciméad/Toirbheartas"
+msgstr "DoicimÃ©ad/Toirbheartas"
 
 #: gnome-vfs.keys.in.h:66
 msgid "Documents/Project Management"
@@ -293,11 +292,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:68
 msgid "Documents/Spreadsheet"
-msgstr "Doiciméad/Scarbhileog"
+msgstr "DoicimÃ©ad/Scarbhileog"
 
 #: gnome-vfs.keys.in.h:69
 msgid "Documents/TeX"
-msgstr "Doiciméad/TeX"
+msgstr "DoicimÃ©ad/TeX"
 
 #: gnome-vfs.keys.in.h:70
 msgid "Documents/Text Markup"
@@ -347,7 +346,7 @@ msgstr ""
 #: gnome-vfs.keys.in.h:81
 #, fuzzy
 msgid "Enriched text document"
-msgstr "Doiciméad Setext"
+msgstr "DoicimÃ©ad Setext"
 
 #: gnome-vfs.keys.in.h:82
 msgid "FLAC audio"
@@ -367,7 +366,7 @@ msgstr "audio i FastTracker II"
 
 #: gnome-vfs.keys.in.h:86
 msgid "FlashPix Image"
-msgstr "íomha FlashPix"
+msgstr "Ã­omha FlashPix"
 
 #: gnome-vfs.keys.in.h:87
 msgid "Flexible Image Transport System"
@@ -376,11 +375,11 @@ msgstr ""
 #: gnome-vfs.keys.in.h:88
 #, fuzzy
 msgid "Folder"
-msgstr "fillteán"
+msgstr "fillteÃ¡n"
 
 #: gnome-vfs.keys.in.h:89
 msgid "Fortran source code"
-msgstr "bunchóid Fortran"
+msgstr "bunchÃ³id Fortran"
 
 #: gnome-vfs.keys.in.h:90
 msgid "FrameMaker interchange document"
@@ -392,11 +391,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:92
 msgid "GIF image"
-msgstr "íomha GIF"
+msgstr "Ã­omha GIF"
 
 #: gnome-vfs.keys.in.h:93
 msgid "GIMP document"
-msgstr "Doiciméad ó GIMP"
+msgstr "DoicimÃ©ad Ã³ GIMP"
 
 #: gnome-vfs.keys.in.h:94
 msgid "GMC link"
@@ -408,7 +407,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:96
 msgid "GNU Oleo Spreadsheet"
-msgstr "scarbhileog ó GNU Oleo"
+msgstr "scarbhileog Ã³ GNU Oleo"
 
 #: gnome-vfs.keys.in.h:97
 msgid "GNU mail message"
@@ -436,7 +435,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:103
 msgid "Gnumeric spreadsheet"
-msgstr "scarbhileog ó Gnumeric"
+msgstr "scarbhileog Ã³ Gnumeric"
 
 #: gnome-vfs.keys.in.h:104
 msgid "Gtar archive"
@@ -452,7 +451,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:107
 msgid "HDF document"
-msgstr "Doiciméad HDF"
+msgstr "DoicimÃ©ad HDF"
 
 #: gnome-vfs.keys.in.h:108
 msgid "HTML page"
@@ -460,7 +459,7 @@ msgstr "leathnach HTML"
 
 #: gnome-vfs.keys.in.h:109
 msgid "Haskell source code"
-msgstr "bunchóid Haskell"
+msgstr "bunchÃ³id Haskell"
 
 #: gnome-vfs.keys.in.h:110
 msgid "Help page"
@@ -468,27 +467,27 @@ msgstr "leathnach Cabhair"
 
 #: gnome-vfs.keys.in.h:111
 msgid "IDL document"
-msgstr "Doiciméad IDL"
+msgstr "DoicimÃ©ad IDL"
 
 #: gnome-vfs.keys.in.h:112
 msgid "IEF image"
-msgstr "íomha IEF"
+msgstr "Ã­omha IEF"
 
 #: gnome-vfs.keys.in.h:113
 msgid "IFF image"
-msgstr "íomha IFF"
+msgstr "Ã­omha IFF"
 
 #: gnome-vfs.keys.in.h:114
 msgid "ILBM image"
-msgstr "íomha ILBM"
+msgstr "Ã­omha ILBM"
 
 #: gnome-vfs.keys.in.h:115
 msgid "ISI video"
-msgstr "Físeán ISI"
+msgstr "FÃ­seÃ¡n ISI"
 
 #: gnome-vfs.keys.in.h:116
 msgid "ISO image"
-msgstr "íomha ISO"
+msgstr "Ã­omha ISO"
 
 #: gnome-vfs.keys.in.h:117
 msgid "Images"
@@ -520,7 +519,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:124
 msgid "JPEG image"
-msgstr "íomha JPEG"
+msgstr "Ã­omha JPEG"
 
 #: gnome-vfs.keys.in.h:125
 msgid "Java byte code"
@@ -533,7 +532,7 @@ msgstr "cartlann ar"
 
 #: gnome-vfs.keys.in.h:127
 msgid "Java source code"
-msgstr "bunchóid Java"
+msgstr "bunchÃ³id Java"
 
 #: gnome-vfs.keys.in.h:128
 msgid "KDE application details"
@@ -545,15 +544,15 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:130
 msgid "KPresenter presentation"
-msgstr "toirbheartas ó KPresnter"
+msgstr "toirbheartas Ã³ KPresnter"
 
 #: gnome-vfs.keys.in.h:131
 msgid "KSpread spreadsheet"
-msgstr "scarbhileog ó KSpres"
+msgstr "scarbhileog Ã³ KSpres"
 
 #: gnome-vfs.keys.in.h:132
 msgid "KWord document"
-msgstr "doiciméad ó KWord"
+msgstr "doicimÃ©ad Ã³ KWord"
 
 #: gnome-vfs.keys.in.h:133
 msgid "Korn shell script"
@@ -569,7 +568,7 @@ msgstr "cartlann LHARC"
 
 #: gnome-vfs.keys.in.h:136
 msgid "LIBGRX font"
-msgstr "Clófhoireann LIBGRX"
+msgstr "ClÃ³fhoireann LIBGRX"
 
 #: gnome-vfs.keys.in.h:137
 msgid "LightWave object"
@@ -581,7 +580,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:139
 msgid "Linux PSF console font"
-msgstr "Clófhoireann PSF le haighaidh an Linux console"
+msgstr "ClÃ³fhoireann PSF le haighaidh an Linux console"
 
 #: gnome-vfs.keys.in.h:140
 msgid "Literate haskell source code"
@@ -589,11 +588,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:141
 msgid "Lotus 1-2-3 spreadsheet"
-msgstr "scarbhileog ó Lorus 1-2-3"
+msgstr "scarbhileog Ã³ Lorus 1-2-3"
 
 #: gnome-vfs.keys.in.h:142
 msgid "LyX document"
-msgstr "Doiciméad LyX"
+msgstr "DoicimÃ©ad LyX"
 
 #: gnome-vfs.keys.in.h:143
 msgid "MIDI audio"
@@ -617,15 +616,15 @@ msgstr "audio i MPEG"
 
 #: gnome-vfs.keys.in.h:148
 msgid "MPEG video"
-msgstr "físeán i MPEG"
+msgstr "fÃ­seÃ¡n i MPEG"
 
 #: gnome-vfs.keys.in.h:149
 msgid "MS ASF video"
-msgstr "físeán do MS ASF"
+msgstr "fÃ­seÃ¡n do MS ASF"
 
 #: gnome-vfs.keys.in.h:150
 msgid "MS video"
-msgstr "físeán MS"
+msgstr "fÃ­seÃ¡n MS"
 
 #: gnome-vfs.keys.in.h:151
 msgid "MSX ROM"
@@ -679,15 +678,15 @@ msgstr "leathnach HTML"
 #: gnome-vfs.keys.in.h:163
 #, fuzzy
 msgid "Manual page (compressed)"
-msgstr "cartlann tar (a comhdhlúite gzip)"
+msgstr "cartlann tar (a comhdhlÃºite gzip)"
 
 #: gnome-vfs.keys.in.h:164
 msgid "Master System or Game Gear ROM"
-msgstr "ROM do Master System nó Game Gear"
+msgstr "ROM do Master System nÃ³ Game Gear"
 
 #: gnome-vfs.keys.in.h:165
 msgid "MathML document"
-msgstr "Doiciméad ó MathML"
+msgstr "DoicimÃ©ad Ã³ MathML"
 
 #: gnome-vfs.keys.in.h:166
 msgid "Memory dump"
@@ -707,11 +706,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:170
 msgid "Microsoft Excel spreadsheet"
-msgstr "scarbhileog ó Microsoft Excel"
+msgstr "scarbhileog Ã³ Microsoft Excel"
 
 #: gnome-vfs.keys.in.h:171
 msgid "Microsoft PowerPoint document"
-msgstr "Doiciméad ó Microsoft PowerPoint"
+msgstr "DoicimÃ©ad Ã³ Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Microsoft WMV video"
@@ -719,11 +718,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:173
 msgid "Microsoft Word document"
-msgstr "Doiciméad ó Microsoft Word"
+msgstr "DoicimÃ©ad Ã³ Microsoft Word"
 
 #: gnome-vfs.keys.in.h:174
 msgid "Microsoft video"
-msgstr "físeán Microsoft"
+msgstr "fÃ­seÃ¡n Microsoft"
 
 #: gnome-vfs.keys.in.h:175
 #, fuzzy
@@ -752,7 +751,7 @@ msgstr "ROM do Nintendo64"
 
 #: gnome-vfs.keys.in.h:181
 msgid "ODA document"
-msgstr "Doiciméad ODA"
+msgstr "DoicimÃ©ad ODA"
 
 #: gnome-vfs.keys.in.h:182
 msgid "Object code"
@@ -764,7 +763,7 @@ msgstr "audio i Ogg"
 
 #: gnome-vfs.keys.in.h:184
 msgid "OpenOffice.org Impress presentation"
-msgstr "toirbheartas ó OpenOffice.org Impress"
+msgstr "toirbheartas Ã³ OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:185
 msgid "OpenOffice.org Impress presentation template"
@@ -788,7 +787,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:190
 msgid "OpenOffice.org drawing"
-msgstr "tarraingt ó OpenOffice.org"
+msgstr "tarraingt Ã³ OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:191
 msgid "OpenOffice.org drawing template"
@@ -796,7 +795,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:192
 msgid "OpenOffice.org spreadsheet"
-msgstr "scarbhileog ó OpenOffice.org"
+msgstr "scarbhileog Ã³ OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:193
 msgid "OpenOffice.org spreadsheet template"
@@ -804,31 +803,31 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:194
 msgid "OpenType font"
-msgstr "Clófhoireann OpenType"
+msgstr "ClÃ³fhoireann OpenType"
 
 #: gnome-vfs.keys.in.h:195
 msgid "PBM image"
-msgstr "íomha PBM"
+msgstr "Ã­omha PBM"
 
 #: gnome-vfs.keys.in.h:196
 msgid "PC Paintbrush image"
-msgstr "íomha ó PC Paintbrush"
+msgstr "Ã­omha Ã³ PC Paintbrush"
 
 #: gnome-vfs.keys.in.h:197
 msgid "PCF font"
-msgstr "Clófhoireann PCF"
+msgstr "ClÃ³fhoireann PCF"
 
 #: gnome-vfs.keys.in.h:198
 msgid "PDF document"
-msgstr "Doiciméad PDF"
+msgstr "DoicimÃ©ad PDF"
 
 #: gnome-vfs.keys.in.h:199
 msgid "PEF program"
-msgstr "Clár PEF"
+msgstr "ClÃ¡r PEF"
 
 #: gnome-vfs.keys.in.h:200
 msgid "PGM image"
-msgstr "íomha PGM"
+msgstr "Ã­omha PGM"
 
 #: gnome-vfs.keys.in.h:201
 msgid "PGN chess game"
@@ -844,7 +843,7 @@ msgstr "teachtaireacht PGP"
 
 #: gnome-vfs.keys.in.h:204
 msgid "PGP signature"
-msgstr "síniú do PGP"
+msgstr "sÃ­niÃº do PGP"
 
 #: gnome-vfs.keys.in.h:205
 msgid "PGP-encrypted file"
@@ -856,19 +855,19 @@ msgstr "script i PHP"
 
 #: gnome-vfs.keys.in.h:207
 msgid "PICT image"
-msgstr "íomha PICT"
+msgstr "Ã­omha PICT"
 
 #: gnome-vfs.keys.in.h:208
 msgid "PNG image"
-msgstr "íomha PNG"
+msgstr "Ã­omha PNG"
 
 #: gnome-vfs.keys.in.h:209
 msgid "PNM image"
-msgstr "íomha PNM"
+msgstr "Ã­omha PNM"
 
 #: gnome-vfs.keys.in.h:210
 msgid "PPM image"
-msgstr "íomha PPM"
+msgstr "Ã­omha PPM"
 
 #: gnome-vfs.keys.in.h:211
 msgid "Packages"
@@ -876,7 +875,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:212
 msgid "Palm OS database"
-msgstr "bunachar sonraí le haighaidh an Palm OS"
+msgstr "bunachar sonraÃ­ le haighaidh an Palm OS"
 
 #: gnome-vfs.keys.in.h:213
 msgid "Palm Pixmap image"
@@ -889,7 +888,7 @@ msgstr ""
 #: gnome-vfs.keys.in.h:215
 #, fuzzy
 msgid "Pascal source code"
-msgstr "bunchóid Java"
+msgstr "bunchÃ³id Java"
 
 #: gnome-vfs.keys.in.h:216
 msgid "Perl script"
@@ -897,16 +896,16 @@ msgstr "script i Perl"
 
 #: gnome-vfs.keys.in.h:217
 msgid "Photo CD image"
-msgstr "íomha ó Photo CD"
+msgstr "Ã­omha Ã³ Photo CD"
 
 #: gnome-vfs.keys.in.h:218
 msgid "Photoshop document"
-msgstr "Doiciméad ó Photoshop"
+msgstr "DoicimÃ©ad Ã³ Photoshop"
 
 #: gnome-vfs.keys.in.h:219
 #, fuzzy
 msgid "Plain text document"
-msgstr "Doiciméad Setext"
+msgstr "DoicimÃ©ad Setext"
 
 #: gnome-vfs.keys.in.h:220
 msgid "Playlist"
@@ -914,11 +913,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:221
 msgid "PostScript Type 1 font"
-msgstr "Clófhoireann Typeáil 1 do PostScript"
+msgstr "ClÃ³fhoireann TypeÃ¡il 1 do PostScript"
 
 #: gnome-vfs.keys.in.h:222
 msgid "PostScript document"
-msgstr "Doiciméad PostScript"
+msgstr "DoicimÃ©ad PostScript"
 
 #: gnome-vfs.keys.in.h:223
 msgid "Profiler results"
@@ -931,23 +930,23 @@ msgstr ""
 #: gnome-vfs.keys.in.h:225
 #, fuzzy
 msgid "Python byte code"
-msgstr "bunchóid i Python"
+msgstr "bunchÃ³id i Python"
 
 #: gnome-vfs.keys.in.h:226
 msgid "Python source code"
-msgstr "bunchóid i Python"
+msgstr "bunchÃ³id i Python"
 
 #: gnome-vfs.keys.in.h:227
 msgid "QuickTime movie"
-msgstr "scannán i QuickTime"
+msgstr "scannÃ¡n i QuickTime"
 
 #: gnome-vfs.keys.in.h:228
 msgid "Quicken document"
-msgstr "Doiciméad ó Quicken"
+msgstr "DoicimÃ©ad Ã³ Quicken"
 
 #: gnome-vfs.keys.in.h:229
 msgid "Quicken for Windows document"
-msgstr "Doiciméad ó <b>Quicken le haighaidh Windows</b>"
+msgstr "DoicimÃ©ad Ã³ <b>Quicken le haighaidh Windows</b>"
 
 #: gnome-vfs.keys.in.h:230
 msgid "RAR archive"
@@ -959,7 +958,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:232
 msgid "RGB image"
-msgstr "íomha RGB"
+msgstr "Ã­omha RGB"
 
 #: gnome-vfs.keys.in.h:233
 msgid "RIFF audio"
@@ -967,7 +966,7 @@ msgstr "audio i RIFF"
 
 #: gnome-vfs.keys.in.h:234
 msgid "RPM package"
-msgstr "pacáiste RPM"
+msgstr "pacÃ¡iste RPM"
 
 #: gnome-vfs.keys.in.h:235
 msgid "Raw Gray Sample"
@@ -975,15 +974,15 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:236
 msgid "RealAudio document"
-msgstr "doiciméad RealAudio"
+msgstr "doicimÃ©ad RealAudio"
 
 #: gnome-vfs.keys.in.h:237
 msgid "RealAudio/Video document"
-msgstr "doiciméad RealAudio/Video"
+msgstr "doicimÃ©ad RealAudio/Video"
 
 #: gnome-vfs.keys.in.h:238
 msgid "RealVideo video"
-msgstr "físeán RealVideo"
+msgstr "fÃ­seÃ¡n RealVideo"
 
 #: gnome-vfs.keys.in.h:239
 msgid "Reference to remote file"
@@ -996,7 +995,7 @@ msgstr ""
 #: gnome-vfs.keys.in.h:241
 #, fuzzy
 msgid "Rich text document"
-msgstr "Doiciméad Setext"
+msgstr "DoicimÃ©ad Setext"
 
 #: gnome-vfs.keys.in.h:242
 msgid "S/MIME file"
@@ -1004,15 +1003,15 @@ msgstr "Comhad S/MIME"
 
 #: gnome-vfs.keys.in.h:243
 msgid "S/MIME signature"
-msgstr "síniú S/MIME"
+msgstr "sÃ­niÃº S/MIME"
 
 #: gnome-vfs.keys.in.h:244
 msgid "SGI video"
-msgstr "físeán SGI"
+msgstr "fÃ­seÃ¡n SGI"
 
 #: gnome-vfs.keys.in.h:245
 msgid "SGML document"
-msgstr "Doiciméad SGML"
+msgstr "DoicimÃ©ad SGML"
 
 #: gnome-vfs.keys.in.h:246
 msgid "SHOUTcast playlist"
@@ -1024,11 +1023,11 @@ msgstr "script i SMIL"
 
 #: gnome-vfs.keys.in.h:248
 msgid "SQL code"
-msgstr "bunchóid SQL"
+msgstr "bunchÃ³id SQL"
 
 #: gnome-vfs.keys.in.h:249
 msgid "SUN Rasterfile"
-msgstr "Comha raster ó SUN"
+msgstr "Comha raster Ã³ SUN"
 
 #: gnome-vfs.keys.in.h:250
 msgid "SV4 CPIO archive"
@@ -1040,11 +1039,11 @@ msgstr "cartlann SV4 CPIP (le CRC)"
 
 #: gnome-vfs.keys.in.h:252
 msgid "SVG art"
-msgstr "ealaín i SVG"
+msgstr "ealaÃ­n i SVG"
 
 #: gnome-vfs.keys.in.h:253
 msgid "Scheme source code"
-msgstr "bunchóid Scheme"
+msgstr "bunchÃ³id Scheme"
 
 #: gnome-vfs.keys.in.h:254
 msgid "Scream Tracker 3 audio"
@@ -1068,7 +1067,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:259
 msgid "Setext document"
-msgstr "Doiciméad Setext"
+msgstr "DoicimÃ©ad Setext"
 
 #: gnome-vfs.keys.in.h:260
 msgid "Shared library"
@@ -1092,7 +1091,7 @@ msgstr "teachtaireacht PGP"
 #: gnome-vfs.keys.in.h:264
 #, fuzzy
 msgid "Silicon Graphics image"
-msgstr "íomha Silicon Graphics"
+msgstr "Ã­omha Silicon Graphics"
 
 #: gnome-vfs.keys.in.h:265
 msgid "Socket"
@@ -1125,15 +1124,15 @@ msgstr ""
 #: gnome-vfs.keys.in.h:272
 #, fuzzy
 msgid "Source code patch"
-msgstr "bunchóid do WAIS"
+msgstr "bunchÃ³id do WAIS"
 
 #: gnome-vfs.keys.in.h:273
 msgid "Speech document"
-msgstr "Doiciméad do Caint"
+msgstr "DoicimÃ©ad do Caint"
 
 #: gnome-vfs.keys.in.h:274
 msgid "Speedo font"
-msgstr "Clófhoireann speedo"
+msgstr "ClÃ³fhoireann speedo"
 
 #: gnome-vfs.keys.in.h:275
 msgid "Spreadsheet Interchange document"
@@ -1141,11 +1140,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:276
 msgid "Stampede package"
-msgstr "pacáiste do Stampede"
+msgstr "pacÃ¡iste do Stampede"
 
 #: gnome-vfs.keys.in.h:277
 msgid "StarCalc spreadsheet"
-msgstr "scarbhileog ó StarClac"
+msgstr "scarbhileog Ã³ StarClac"
 
 #: gnome-vfs.keys.in.h:278
 msgid "StarChart chart"
@@ -1157,7 +1156,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:280
 msgid "StarImpress presentation"
-msgstr "toirbheartas ó StarImpress"
+msgstr "toirbheartas Ã³ StarImpress"
 
 #: gnome-vfs.keys.in.h:281
 msgid "StarMail file"
@@ -1165,7 +1164,7 @@ msgstr "Comhad StarMail"
 
 #: gnome-vfs.keys.in.h:282
 msgid "StarMath document"
-msgstr "Doiciméad StarMath"
+msgstr "DoicimÃ©ad StarMath"
 
 #: gnome-vfs.keys.in.h:283
 msgid "StarOffice extended metafile image"
@@ -1173,7 +1172,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:284
 msgid "StarWriter document"
-msgstr "Doiciméad StarWriter"
+msgstr "DoicimÃ©ad StarWriter"
 
 #: gnome-vfs.keys.in.h:285
 msgid "Style sheet"
@@ -1185,7 +1184,7 @@ msgstr "audio i Sun mu-law"
 
 #: gnome-vfs.keys.in.h:287
 msgid "SunOS News font"
-msgstr "Clófhoireann SunOS News"
+msgstr "ClÃ³fhoireann SunOS News"
 
 #: gnome-vfs.keys.in.h:288
 msgid "Symbolic link"
@@ -1193,16 +1192,16 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:289
 msgid "System"
-msgstr "Córas"
+msgstr "CÃ³ras"
 
 #: gnome-vfs.keys.in.h:290
 msgid "TIFF image"
-msgstr "íomha TIFF"
+msgstr "Ã­omha TIFF"
 
 #: gnome-vfs.keys.in.h:291
 #, fuzzy
 msgid "Tab-separated text document"
-msgstr "Doiciméad Setext"
+msgstr "DoicimÃ©ad Setext"
 
 #: gnome-vfs.keys.in.h:292
 #, fuzzy
@@ -1212,16 +1211,16 @@ msgstr "cartlann ar"
 #: gnome-vfs.keys.in.h:293
 #, fuzzy
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "cartlann tar (a a comhdhlúite bzip2) "
+msgstr "cartlann tar (a a comhdhlÃºite bzip2) "
 
 #: gnome-vfs.keys.in.h:294
 #, fuzzy
 msgid "Tar archive (Gzip-compressed)"
-msgstr "cartlann tar (a comhdhlúite gzip)"
+msgstr "cartlann tar (a comhdhlÃºite gzip)"
 
 #: gnome-vfs.keys.in.h:295
 msgid "TarGA image"
-msgstr "íomha TarGA"
+msgstr "Ã­omha TarGA"
 
 #: gnome-vfs.keys.in.h:296
 msgid "Tcl script"
@@ -1229,15 +1228,15 @@ msgstr "script i Tcl"
 
 #: gnome-vfs.keys.in.h:297
 msgid "TeX document"
-msgstr "Doiciméad i TeX"
+msgstr "DoicimÃ©ad i TeX"
 
 #: gnome-vfs.keys.in.h:298
 msgid "TeX dvi document"
-msgstr "Doiciméad i TeX dvi"
+msgstr "DoicimÃ©ad i TeX dvi"
 
 #: gnome-vfs.keys.in.h:299
 msgid "TeX font"
-msgstr "Clófhoireann TeX"
+msgstr "ClÃ³fhoireann TeX"
 
 #: gnome-vfs.keys.in.h:300
 msgid "TeX font metrics"
@@ -1245,7 +1244,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:301
 msgid "TeXInfo document"
-msgstr "Doiciméad do TeXInfo"
+msgstr "DoicimÃ©ad do TeXInfo"
 
 #: gnome-vfs.keys.in.h:302
 msgid "Theme"
@@ -1253,34 +1252,34 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:303
 msgid "ToutDoux document"
-msgstr "Doiciméad ToutDoux"
+msgstr "DoicimÃ©ad ToutDoux"
 
 #: gnome-vfs.keys.in.h:304
 msgid "Troff document"
-msgstr "doiciméad Troff"
+msgstr "doicimÃ©ad Troff"
 
 #: gnome-vfs.keys.in.h:305
 #, fuzzy
 msgid "Troff me input document"
-msgstr "doiciméad troff"
+msgstr "doicimÃ©ad troff"
 
 #: gnome-vfs.keys.in.h:306
 #, fuzzy
 msgid "Troff mm input document"
-msgstr "doiciméad troff"
+msgstr "doicimÃ©ad troff"
 
 #: gnome-vfs.keys.in.h:307
 #, fuzzy
 msgid "Troff ms input document"
-msgstr "doiciméad troff"
+msgstr "doicimÃ©ad troff"
 
 #: gnome-vfs.keys.in.h:308
 msgid "TrueType font"
-msgstr "Clófhoireann TrueType"
+msgstr "ClÃ³fhoireann TrueType"
 
 #: gnome-vfs.keys.in.h:309
 msgid "Truevision Targa image"
-msgstr "íomha ó Truevision Targa"
+msgstr "Ã­omha Ã³ Truevision Targa"
 
 #: gnome-vfs.keys.in.h:310
 msgid "USENET news message"
@@ -1308,7 +1307,7 @@ msgstr "cartlann Ustar"
 
 #: gnome-vfs.keys.in.h:316
 msgid "V font"
-msgstr "Clófhoireann V"
+msgstr "ClÃ³fhoireann V"
 
 #: gnome-vfs.keys.in.h:317
 msgid "VOC audio"
@@ -1316,19 +1315,19 @@ msgstr "audio i VOC"
 
 #: gnome-vfs.keys.in.h:318
 msgid "VRML document"
-msgstr "Doiciméad i VRML"
+msgstr "DoicimÃ©ad i VRML"
 
 #: gnome-vfs.keys.in.h:319
 msgid "Video"
-msgstr "Físeán"
+msgstr "FÃ­seÃ¡n"
 
 #: gnome-vfs.keys.in.h:320
 msgid "Vivo video"
-msgstr "físeán Vivo"
+msgstr "fÃ­seÃ¡n Vivo"
 
 #: gnome-vfs.keys.in.h:321
 msgid "WAIS source code"
-msgstr "bunchóid do WAIS"
+msgstr "bunchÃ³id do WAIS"
 
 #: gnome-vfs.keys.in.h:322
 #, fuzzy
@@ -1337,16 +1336,16 @@ msgstr "audio wave"
 
 #: gnome-vfs.keys.in.h:323
 msgid "Wavelet video"
-msgstr "físeán Wavelet"
+msgstr "fÃ­seÃ¡n Wavelet"
 
 #: gnome-vfs.keys.in.h:324
 #, fuzzy
 msgid "Web folder"
-msgstr "fillteán"
+msgstr "fillteÃ¡n"
 
 #: gnome-vfs.keys.in.h:325
 msgid "Windows bitmap image"
-msgstr "íomha bitmap  ó Windows"
+msgstr "Ã­omha bitmap  Ã³ Windows"
 
 #: gnome-vfs.keys.in.h:326
 msgid "Windows icon image"
@@ -1358,32 +1357,32 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:328
 msgid "WordPerfect document"
-msgstr "Doiciméad ó WordPerfect"
+msgstr "DoicimÃ©ad Ã³ WordPerfect"
 
 #: gnome-vfs.keys.in.h:329
 msgid "X bitmap image"
-msgstr "íomha X bitmap"
+msgstr "Ã­omha X bitmap"
 
 #: gnome-vfs.keys.in.h:330
 msgid "X window image"
-msgstr "íomha X fhuinneog"
+msgstr "Ã­omha X fhuinneog"
 
 #: gnome-vfs.keys.in.h:331
 msgid "XML document"
-msgstr "doiciméad i XML"
+msgstr "doicimÃ©ad i XML"
 
 #: gnome-vfs.keys.in.h:332
 msgid "XPM image"
-msgstr "íomha XPM"
+msgstr "Ã­omha XPM"
 
 #: gnome-vfs.keys.in.h:333
 msgid "Xbase database"
-msgstr "bunachar sonraí ó Xbase"
+msgstr "bunachar sonraÃ­ Ã³ Xbase"
 
 #: gnome-vfs.keys.in.h:334
 #, fuzzy
 msgid "Yacc grammar source code"
-msgstr "bunchóid Java"
+msgstr "bunchÃ³id Java"
 
 #: gnome-vfs.keys.in.h:335
 msgid "Z shell script"
@@ -1419,7 +1418,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "GNOME theme package"
-#~ msgstr "pacáiste do Stampede"
+#~ msgstr "pacÃ¡iste do Stampede"
 
 #~ msgid "MSX rom"
 #~ msgstr "rom do MSX"
@@ -1429,7 +1428,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Yacc source file"
-#~ msgstr "bunchóid Java"
+#~ msgstr "bunchÃ³id Java"
 
 #~ msgid "arj archive"
 #~ msgstr "cartlann arj"
