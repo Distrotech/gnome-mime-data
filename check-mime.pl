@@ -78,6 +78,7 @@ print "Reading gnome-vfs.keys.in.\n";
 @expected_keys =
   (
    "can_be_executable",
+   "category",
    "default_action_type",
    "icon_filename",
    "open",
@@ -87,6 +88,7 @@ print "Reading gnome-vfs.keys.in.\n";
    "short_list_component_iids_for_advanced_user_level",
    "short_list_component_iids_for_intermediate_user_level",
    "short_list_component_iids_for_novice_user_level",
+   "use_category_default",
    "vfs_method",
   );
 @expected_keys{@expected_keys} = (1) x @expected_keys;
