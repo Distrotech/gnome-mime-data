@@ -1,11 +1,12 @@
-#gnome-mime-data faylınınn Azərbaycan dilinə tərcüməsi
+# gnome-mime-data faylınınn Azərbaycan dilinə tərcüməsi
 # Copyright (C) 2001 Free Software Foundation, Inc.
 # Vasif Ismailoglu MD <azerb_linux@hotmail.com>, 2001 .
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.0\n"
-"POT-Creation-Date: 2003-06-22 12:52+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-08-11 12:08+0200\n"
 "PO-Revision-Date: 2003-06-22 18:31+0200\n"
 "Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
 "Language-Team: Azerbaijani Turkic <gnome@azitt.com>\n"
@@ -63,7 +64,7 @@ msgstr "Andrew Toolkit inset"
 
 #: gnome-vfs.keys.in.h:13
 msgid "Application launcher"
-msgstr "Təminat başladıcı"
+msgstr "tə'minat başladıcı"
 
 #: gnome-vfs.keys.in.h:14
 msgid "ApplixWare Graphics image"
@@ -123,7 +124,7 @@ msgstr "Biblioqrafik qeyd"
 
 #: gnome-vfs.keys.in.h:28
 msgid "Binary program"
-msgstr "İkili təminat"
+msgstr "İkili tə'minat"
 
 #: gnome-vfs.keys.in.h:29
 msgid "Blender file"
@@ -503,11 +504,11 @@ msgstr "Mə'lumat"
 
 #: gnome-vfs.keys.in.h:123
 msgid "Information/Calendar"
-msgstr "Məlumat/Təqvim"
+msgstr "Mə'lumat/Təqvim"
 
 #: gnome-vfs.keys.in.h:124
 msgid "Information/Financial"
-msgstr "Məlumat/Maliyyə"
+msgstr "Mə'lumat/Maliyyə"
 
 #: gnome-vfs.keys.in.h:125
 msgid "Installed GNOME desktop theme"
@@ -699,7 +700,7 @@ msgstr "İsmarış gündəliyi"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Message in several formats"
-msgstr "Müxtəlif formatlarda ismarış"
+msgstr "Müxtə'lif formatlarda ismarış"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Microsoft Excel spreadsheet"
@@ -1111,27 +1112,27 @@ msgstr "Soket"
 
 #: gnome-vfs.keys.in.h:275
 msgid "Software Development"
-msgstr "Proqram Təminatı Gəlişdirilməsi"
+msgstr "Proqram tə'minatı Gəlişdirilməsi"
 
 #: gnome-vfs.keys.in.h:276
 msgid "Software Development/ROM Images"
-msgstr "Proqram Təminatı Gəlişdirilməsi/ROM Rəsmləri"
+msgstr "Proqram tə'minatı Gəlişdirilməsi/ROM Rəsmləri"
 
 #: gnome-vfs.keys.in.h:277
 msgid "Software Development/Source Code"
-msgstr "Proqram Təminatı Gəlişdirilməsi/Qaynaq Kodu"
+msgstr "Proqram tə'minatı Gəlişdirilməsi/Qaynaq Kodu"
 
 #: gnome-vfs.keys.in.h:278
 msgid "Software author credits"
-msgstr "Təminat müəllifləri"
+msgstr "tə'minat müəllifləri"
 
 #: gnome-vfs.keys.in.h:279
 msgid "Software installation instructions"
-msgstr "Təminat quraşdırma təlimatları"
+msgstr "tə'minat quraşdırma təlimatları"
 
 #: gnome-vfs.keys.in.h:280
 msgid "Software license terms"
-msgstr "Təminat lisenziya qaydaları"
+msgstr "tə'minat lisenziya qaydaları"
 
 #: gnome-vfs.keys.in.h:281
 msgid "Source code patch"
@@ -1408,9 +1409,8 @@ msgstr "gettext tərcüməsi"
 
 #: gnome-vfs.keys.in.h:349
 msgid "iPod software"
-msgstr "iPod təminatı"
+msgstr "iPod tə'minatı"
 
 #: gnome-vfs.keys.in.h:350
 msgid "xfig vector graphic"
 msgstr "sfig vektor qrafikaları"
-
