@@ -1,22 +1,24 @@
+# translation of gnome-mime-data.HEAD.es.po to Spanish
 # GNOME-mime-data Spanish translation file.
 # Copyright © 2000,2002,2003 Free Software Foundation, Inc.
 # Manuel de Vega Barreiro <barreiro@arrakis.es>, 2000.
 # Mauricio Araya Polo <mauricio@eazel.com>, 2001.
 # Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2002-2003.
+# Francisco Javier F. Serrador <serrador@arrakis.es>, 2003
 #
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-mime-data\n"
+"Project-Id-Version: gnome-mime-data.HEAD.es\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-07-07 12:49+0200\n"
-"PO-Revision-Date: 2003-07-07 11:00-0300\n"
-"Last-Translator: Pablo G. del Campo <pablodc@bigfoot.com>\n"
+"POT-Creation-Date: 2003-07-13 12:53+0200\n"
+"PO-Revision-Date: 2003-07-13 20:37+0200\n"
+"Last-Translator: Francisco Javier F. Serrador <serrador@arrakis.es>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0\n"
+"X-Generator: KBabel 1.0.1\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -232,7 +234,7 @@ msgstr "Documento DSSSL"
 
 #: gnome-vfs.keys.in.h:54
 msgid "DXF vector graphic"
-msgstr "Archivo de vector gráfico para DXF"
+msgstr "Archivo de gráficos vectoriales DXF"
 
 #: gnome-vfs.keys.in.h:55
 msgid "Debian package"
@@ -384,7 +386,7 @@ msgstr "Carpeta"
 
 #: gnome-vfs.keys.in.h:92
 msgid "Fortran source code"
-msgstr "Código fuente de Fortram"
+msgstr "Código fuente de Fortran"
 
 #: gnome-vfs.keys.in.h:93
 msgid "FrameMaker interchange document"
@@ -588,7 +590,7 @@ msgstr "Tipografía PSF para consola de Linux"
 
 #: gnome-vfs.keys.in.h:143
 msgid "Literate haskell source code"
-msgstr "Código fuente literal haskell"
+msgstr "Código fuente de Haskell literal"
 
 #: gnome-vfs.keys.in.h:144
 msgid "Lotus 1-2-3 spreadsheet"
@@ -852,7 +854,7 @@ msgstr "Ajedrez PGN"
 
 #: gnome-vfs.keys.in.h:209
 msgid "PGP keys"
-msgstr "Llave PGP"
+msgstr "Claves PGP"
 
 #: gnome-vfs.keys.in.h:210
 msgid "PGP message"
@@ -896,7 +898,7 @@ msgstr "Base de datos de Palm OS"
 
 #: gnome-vfs.keys.in.h:220
 msgid "Palm Pixmap image"
-msgstr "Imagen pixmap de palm"
+msgstr "Imagen pixmap de Palm"
 
 #: gnome-vfs.keys.in.h:221
 msgid "Partial email message"
@@ -1076,7 +1078,7 @@ msgstr "Instrumento para Scream Tracker"
 
 #: gnome-vfs.keys.in.h:265
 msgid "Search results"
-msgstr "Resultados de la busqueda"
+msgstr "Resultados de la búsqueda"
 
 #: gnome-vfs.keys.in.h:266
 msgid "Security"
@@ -1252,7 +1254,7 @@ msgstr "Tipografía TeX"
 
 #: gnome-vfs.keys.in.h:309
 msgid "TeX font metrics"
-msgstr "Medidas para font de TeX"
+msgstr "Métricas de tipografía de TeX"
 
 #: gnome-vfs.keys.in.h:310
 msgid "TeXInfo document"
@@ -1328,7 +1330,7 @@ msgstr "Documento VRML"
 
 #: gnome-vfs.keys.in.h:328
 msgid "Video"
-msgstr "Video"
+msgstr "Vídeo"
 
 #: gnome-vfs.keys.in.h:329
 msgid "Vivo video"
@@ -1392,7 +1394,7 @@ msgstr "Base de datos Xbase"
 
 #: gnome-vfs.keys.in.h:344
 msgid "Yacc grammar source code"
-msgstr "Código fuente gramatical de Yacc"
+msgstr "Gramática de código fuente Yacc"
 
 #: gnome-vfs.keys.in.h:345
 msgid "Z shell script"
@@ -1416,7 +1418,7 @@ msgstr "Software de iPod"
 
 #: gnome-vfs.keys.in.h:350
 msgid "xfig vector graphic"
-msgstr "Archivo de vector gráfico xfig"
+msgstr "Archivo de gráficos vectoriales xfig"
 
 #~ msgid "rich text document"
 #~ msgstr "Documento de texto enriquesido"
