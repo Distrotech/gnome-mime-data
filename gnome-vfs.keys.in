@@ -2138,6 +2138,10 @@ text/x-vcard
 	short_list_application_ids_for_advanced_user_level=gnomecard
 	_category=Information
 
+text/x-verilog-src
+	_description=Verilog source code
+	_category=Software Development/Source Code
+
 text/x-yacc
 	_description=Yacc grammar source code
 	_category=Software Development/Source Code

@@ -772,6 +772,9 @@ text/x-vcalendar
 text/x-vcard
 	ext: gcrd
 
+text/x-verilog-src
+	ext: v vl vh verilog
+
 text/x-yacc
 	ext: yacc y
 
