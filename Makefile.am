@@ -1,4 +1,4 @@
-SUBDIRS = icons po
+SUBDIRS = icons man po
 
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = gnome-mime-data-2.0.pc
