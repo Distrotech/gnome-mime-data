@@ -676,8 +676,14 @@ text/x-makefile
 text/x-pascal
 	ext: p pascal
 
+text/x-patch
+	ext: diff patch
+
 text/x-perl
 	ext: pl perl
+
+text/x-po
+	ext: po
 
 text/x-python
 	ext: py

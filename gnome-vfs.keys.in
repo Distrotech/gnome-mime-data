@@ -1855,6 +1855,10 @@ text/x-perl
 	_description=Perl script
 	_category=Software Development/Source Code
 
+text/x-po
+	_description=gettext translation
+	_category=Software Development
+
 text/x-python
 	can_be_executable=TRUE
 	_description=Python source code

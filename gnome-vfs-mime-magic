@@ -122,6 +122,7 @@
 0:64	string		\<svg					image/svg
 # php rules need to go before html
 0:64	string		\<?php					application/x-php
+0:64	string		\<?xml					text/xml
 0:64	string		\<!DOCTYPE\ HTML			text/html
 0:64	string		\<!doctype\ html			text/html
 0:64	string		\<HEAD					text/html
