@@ -1,6 +1,11 @@
 2003-05-25  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: s/wmx/wvx/ (I think I'm dyslexic)
+
+2003-05-25  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: added a name nice for "video/x-ms-wmx" files
 
 2003-05-23  Bastien Nocera  <hadess@hadess.net>

@@ -2076,7 +2076,7 @@ video/x-ms-wmv
 	_description=Microsoft WMV video
 	_category=Video
 
-video/x-ms-wmx
+video/x-ms-wvx
 	_description=Microsoft WMV playlist
 	_category=Video
 

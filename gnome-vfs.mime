@@ -770,8 +770,8 @@ video/x-ms-asf
 video/x-ms-wmv
 	ext: wmv
 
-video/x-ms-wmx
-	ext: wmx
+video/x-ms-wvx
+	ext: wvx
 
 video/x-msvideo
 	ext: avi
