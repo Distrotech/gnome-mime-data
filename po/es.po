@@ -1,6 +1,6 @@
 # translation of gnome-mime-data to spanish
 # Spanish translation.
-# Copyright (C) 2000,2002 Free Software Foundation, Inc.
+# Copyright (C) 2000,2002,2003 Free Software Foundation, Inc.
 # Manuel de Vega Barreiro <barreiro@arrakis.es>, 2000.
 # Mauricio Araya Polo <mauricio@eazel.com>, 2001.
 # Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2002
@@ -8,14 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-12-18 05:52+0100\n"
-"PO-Revision-Date: 2002-12-18 12:02-0300\n"
+"POT-Creation-Date: 2003-01-10 11:56+0100\n"
+"PO-Revision-Date: 2003-01-10 14:50-0300\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.1\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -1219,7 +1219,7 @@ msgstr "Referencia a archivo remoto"
 
 #: gnome-vfs.keys.in.h:301
 msgid "rejected patch file"
-msgstr "Fichero de parche rechazado"
+msgstr "Archivo de parche rechazado"
 
 #: gnome-vfs.keys.in.h:302
 msgid "rich text document"
