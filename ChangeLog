@@ -1,3 +1,7 @@
+2003-08-30  Laurent Dhima  <laurenti@alblinux.net>
+
+	* configure.in: Added "sq" to ALL_LINGUAS.
+	
 2003-08-29  Bastien Nocera  <hadess@hadess.net>
 
 	* check-mime.pl: add default_application_id as an expected key
