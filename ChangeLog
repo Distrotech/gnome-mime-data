@@ -1,3 +1,7 @@
+2002-08-18  James Willcox  <jwillcox@cs.indiana.edu>
+
+	* gnome-vfs.applications:  gedit expects URIs, not local paths
+
 2002-08-17  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in: added gimp as a possible application for g3fax,

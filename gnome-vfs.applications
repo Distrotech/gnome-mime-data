@@ -86,6 +86,14 @@ file-roller
 	requires_terminal=false
 	mime_types=application/x-bzip,application/x-bzip-compressed-tar,application/x-arj,application/x-compress,application/x-compressed-tar,application/x-gtar,application/x-gzip,application/x-lha,application/x-lhz,application/x-tar,application/zip,application/x-rar-compressed,application/x-rar
 
+file-roller-pack
+	command=file-roller --add
+	name=File Roller
+	can_open_multiple_files=true
+	expects_uris=false
+	requires_terminal=false
+	mime_types=*/*
+
 freeamp
 	command=freeamp
 	name=FreeAmp
@@ -116,9 +124,10 @@ gedit
 	command=gedit
 	name=gedit
 	can_open_multiple_files=false
-	expects_uris=false
+	expects_uris=true
 	requires_terminal=false
 	mime_types=text/*,text/html,text/plain
+	supported_uri_schemes=file,http,ftp
 
 ggv
 	command=ggv
