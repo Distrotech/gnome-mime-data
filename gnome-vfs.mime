@@ -408,6 +408,21 @@ image/bmp
 image/cgm
 	ext: cgm
 
+image/x-dcm
+	ext: dcm
+
+image/x-fits
+	ext: fits
+
+image/x-sgi
+	ext: sgi
+
+image/x-icb
+	ext: icb
+
+image/x-sun-raster
+	ext: sun
+
 image/gif
 	ext: gif
 
@@ -469,11 +484,20 @@ image/x-lws
 image/x-pcx
 	ext: pcx
 
+image/x-miff
+	ext: miff
+
+image/x-gray
+	ext: gray
+
+image/x-palm
+	ext: palm
+
 image/x-photo-cd
 	ext: pcd
 
 image/x-pict
-	ext: pct
+	ext: pct pict
 
 image/x-portable-anymap
 	ext: pnm

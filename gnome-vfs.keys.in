@@ -1104,6 +1104,10 @@ image/bmp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	category=Images
 
+image/x-dib
+	_description=Device Independant Bitmap
+	category=Images
+
 image/cgm
 	_description=CGM image
 	category=Images
@@ -1171,6 +1175,66 @@ image/tiff
 	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
+	category=Images
+
+image/x-fits
+	_description=Flexible Image Transport System
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
+	category=Images
+
+image/x-icb
+	_description=Truevision Targa image
+	default_action_type=component
+	short_list_component_iids=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
+	short_list_application_ids_for_novice_user_level=eog
+	short_list_application_ids_for_intermediate_user_level=eog
+	short_list_application_ids_for_advanced_user_level=eog
+	category=Images
+
+image/x-sun-raster
+	_description=SUN Rasterfile
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
+	category=Images
+
+image/x-sgi
+	_description=Silicon Graphics Image
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
+	category=Images
+
+image/x-miff
+	_description=Magick image format
+	category=Images
+
+image/x-gray
+	_description=Raw Gray Sample
+	default_action_type=component
+	short_list_component_iids=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_novice_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_intermediate_user_level=OAFIID:GNOME_EOG_Control
+	short_list_component_iids_for_advanced_user_level=OAFIID:GNOME_EOG_Control
+	short_list_application_ids_for_novice_user_level=eog,electric_eyes,gimp
+	short_list_application_ids_for_intermediate_user_level=eog,electric_eyes,gimp
+	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
+	category=Images
+
+image/x-palm
+	_description=Palm Pixmap image
+	category=Images
+
+image/x-dcm
+	_description=Digital Imaging and Communications in Medicine image
 	category=Images
 
 image/vnd.dwg

@@ -86,6 +86,15 @@
 0	string		\x89PNG					image/png
 0	string		8BPS\ \ \000\000\000\000 &0xffffffff0000ffffffff image/x-psd
 0	string		#LyX					text/x-lyx
+0	string		DCMw					image/x-dcm
+0	belong		0x59a66a95				image/x-sun-raster
+0	belong		0x01da0000 &0xfcfeffff			image/x-sgi
+0	belong		0xb168de3a				image/x-pcx
+0	string          \x28\x00\x00\x00                        image/x-dib
+0	string          SIMPLE\ \ =                             image/x-fits
+0	belong          0x46506978                              image/x-fpx
+0	belong		0x00000200				image/x-icb
+0	belong		0x53445058				image/x-dpx
 
 # Desktop file support - slightly wrong, since comments can be before
 # the [Desktop Entry] line in the current spec - probably should fix

@@ -1,3 +1,13 @@
+2002-08-02  Thomas Meeks  <thomas@imaginator.com>
+
+	* gnome-vfs-mime-magic: Added image/x-dcm, x-sun-raster, x-sgi,
+	x-pcx, x-dib, x-fits, x-fpx, x-icb, x-dpx
+
+	* gnome-vfs.keys.in: Added appropiate file descriptions and viewers
+
+	* gnome-vfs.mime: Added above extensions also added miff, gray,
+	palm, and pict
+
 2002-07-12  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic:
