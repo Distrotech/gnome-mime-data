@@ -2045,6 +2045,11 @@ text/x-literate-haskell
 	icon_filename=gnome-text-x-literate-haskell
 	_category=Software Development/Source Code
 
+text/x-lua
+	can_be_executable=TRUE
+	description=Lua source code
+	_category=Software Development/Source Code
+
 text/x-lyx
 	_description=LyX document
 	default_action_type=application

@@ -1,5 +1,10 @@
 2004-05-29  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: add text/x-lua for Lua scripts (Closes: #131484)
+
+2004-05-29  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.keys.in: Translate mime descriptions for Real Player,
 	patch adapted from Takao Fujiwara <Takao.Fujiwara@Sun.COM>
 	(Closes: #138615)

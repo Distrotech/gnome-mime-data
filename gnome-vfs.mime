@@ -702,6 +702,9 @@ text/x-javascript
 text/x-literate-haskell
 	ext: lhs
 
+text/x-lua
+	ext: lua
+
 text/x-lyx
 	ext: lyx
 
