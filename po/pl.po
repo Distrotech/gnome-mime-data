@@ -9,8 +9,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2003-06-27 09:09+0200\n"
-"PO-Revision-Date: 2003-06-26 22:39--100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-09-16 00:23+0200\n"
+"PO-Revision-Date: 2003-09-15 23:10-0100\n"
 "Last-Translator: Gnome PL Team <translators@gnome.pl>\n"
 "Language-Team: GNOME PL Team <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -135,7 +136,7 @@ msgstr "Plik Blender"
 
 #: gnome-vfs.keys.in.h:30
 msgid "Block device"
-msgstr "Uządzenie blokowe"
+msgstr "Urządzenie blokowe"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Bzip2 compressed file"
@@ -783,7 +784,7 @@ msgstr "Prezentacja OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:192
 msgid "OpenOffice.org Impress presentation template"
-msgstr "Szablon prezentacji OpenOffice.irg Impress"
+msgstr "Szablon prezentacji OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:193
 msgid "OpenOffice.org Math document"
@@ -943,7 +944,7 @@ msgstr "plan projektu"
 
 #: gnome-vfs.keys.in.h:232
 msgid "Python byte code"
-msgstr "Kod bajtowy pythona"
+msgstr "Kod bajtowy Pythona"
 
 #: gnome-vfs.keys.in.h:233
 msgid "Python source code"
