@@ -1,18 +1,19 @@
+# Slovak translation of sk.po
 # gnome-mime-data sk.po
 # Copyright (C) 2000-2002 Free Software Foundation, Inc.
 # Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>, 2000-2002.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.6.2.0\n"
-"POT-Creation-Date: 2002-05-07 23:18-0700\n"
-"PO-Revision-Date: 2002-03-26 13:45+0100\n"
-"Last-Translator: Stanislav Višňovský <visnovsky@nenya.ms.mff.cuni.cz>\n"
+"Project-Id-Version: sk\n"
+"POT-Creation-Date: 2002-05-11 16:05+0200\n"
+"PO-Revision-Date: 2002-05-11 16:06+0200\n"
+"Last-Translator: Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.0beta1\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -239,9 +240,8 @@ msgid "HTML page"
 msgstr "stránka HTML"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "zdrojový kód C"
+msgstr "zdrojový kód Haskell"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -332,9 +332,8 @@ msgid "Linux PSF console font"
 msgstr "konzolové písmo Linuxu PSF"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "zdrojový kód Fortran"
+msgstr "zdrojový kód Literate haskell"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -405,9 +404,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "dokument Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "video Microsoft"
+msgstr "video Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -555,7 +553,7 @@ msgstr "dokument PostScript"
 
 #: gnome-vfs.keys.in.h:135
 msgid "Project Plan"
-msgstr ""
+msgstr "Project Plan"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Python source code"
@@ -1010,9 +1008,8 @@ msgid "profiler results"
 msgstr "výsledky profilera"
 
 #: gnome-vfs.keys.in.h:249
-#, fuzzy
 msgid "python byte code"
-msgstr "zdrojový kód Python"
+msgstr "bajtkód Python"
 
 #: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
@@ -1140,3 +1137,4 @@ msgstr "archív zoo"
 
 #~ msgid "M3 audio URL"
 #~ msgstr "M3 zvukové URL"
+
