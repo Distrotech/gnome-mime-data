@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-18 03:46+0200\n"
+"POT-Creation-Date: 2004-08-19 11:46+0200\n"
 "PO-Revision-Date: 2004-03-01 11:40+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
@@ -247,7 +247,6 @@ msgstr "Dokument DSSSL"
 msgid "DV video"
 msgstr "Video DV"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:59
 msgid "DXF vector graphic"
 msgstr "Grafik vektorial DFX"
@@ -408,7 +407,6 @@ msgstr "Kartelë"
 msgid "Fortran source code"
 msgstr "Kod burues Fortran"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:99
 msgid "FrameMaker interchange document"
 msgstr "Dokument interchange FrameMaker"
@@ -637,7 +635,6 @@ msgstr "Audio MOD"
 msgid "MP3 audio"
 msgstr "Audio MP3"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:156
 msgid "MP3 audio playlist"
 msgstr "Listë titujsh audio MP3"
@@ -774,7 +771,6 @@ msgstr "Video Microsoft"
 msgid "Monkey audio"
 msgstr "Audio Monkey"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:190
 msgid "Mozilla bookmarks file"
 msgstr "File me libërshënues të Mozilla"
@@ -795,7 +791,6 @@ msgstr "Pipe me emër"
 msgid "Nautilus link"
 msgstr "Lidhje Nautilus"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:195
 msgid "Netscape bookmarks file"
 msgstr "File me libërshënues të Netscape"
@@ -1120,9 +1115,10 @@ msgstr "Audio Scream Tracker"
 msgid "Scream Tracker instrument"
 msgstr "Instrument Scream Tracker"
 
+#. GRUT modified this item
 #: gnome-vfs.keys.in.h:276
 msgid "Search results"
-msgstr "Rezultate kërkimi"
+msgstr "Rezultatet e kërkimit"
 
 #: gnome-vfs.keys.in.h:277
 msgid "Security"
@@ -1196,7 +1192,6 @@ msgstr "Dokument Speech"
 msgid "Speedo font"
 msgstr "Gërma Speedo"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:295
 msgid "Spreadsheet Interchange document"
 msgstr "Dokument interchange Spreadsheet"
@@ -1425,7 +1420,6 @@ msgstr "Figurë X bitmap"
 msgid "X window image"
 msgstr "Figurë X window"
 
-#. GRUT modified this item
 #: gnome-vfs.keys.in.h:352
 msgid "XBEL bookmarks file"
 msgstr "File me libërshënues XBEL"
