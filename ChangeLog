@@ -1,5 +1,11 @@
 2002-02-07  Seth Nickell  <snickell@stanford.edu>
 
+	* gnome-vfs-mime-magic:
+
+	Add magic for the "new" AbiWord format.
+
+2002-02-07  Seth Nickell  <snickell@stanford.edu>
+
 	* icons/Makefile.am:
 	* icons/gnome-text-abiword.png:
 
