@@ -1900,7 +1900,7 @@ msgstr "arhiv zoo"
 #~ msgstr "ftpfs: CWD (sprememba delovnega direktorija) ni uspela."
 
 #~ msgid "ftpfs: couldn't resolve symlink"
-#~ msgstr "ftpfs: ne morem razvozlati simbolne povezave"
+#~ msgstr "ftpfs: ne morem razvozlati simbolične povezave"
 
 #~ msgid "Resolving symlink..."
 #~ msgstr "Razvozljujem simbolno povezavo..."
