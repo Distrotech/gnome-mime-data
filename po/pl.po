@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-04-26 01:41+0200\n"
-"PO-Revision-Date: 2002-05-10 20:57+0200\n"
+"POT-Creation-Date: 2002-05-19 10:52+0200\n"
+"PO-Revision-Date: 2002-05-19 10:52+0200\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -434,44 +434,44 @@ msgid "ODA document"
 msgstr "Dokument ODA"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice Impress presentation"
-msgstr "Prezentacja OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation"
+msgstr "Prezentacja OpenOffice.irg Impress"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice Impress presentation template"
-msgstr "Szablon prezentacji OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "Szablon prezentacji OpenOffice.irg Impress"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice Math document"
-msgstr "Dokument matematyczny OpenOffice"
+msgid "OpenOffice.org Math document"
+msgstr "Dokument matematyczny OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice Writer document"
-msgstr "Dokument OpenOffice Writer"
+msgid "OpenOffice.org Writer document"
+msgstr "Dokument OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice Writer global document"
-msgstr "Globalny dokument OpenOffice Writer"
+msgid "OpenOffice.org Writer global document"
+msgstr "Globalny dokument OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice Writer template"
-msgstr "Szablon OpenOffice Writer"
+msgid "OpenOffice.org Writer template"
+msgstr "Szablon OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice drawing"
-msgstr "Rysunek OpenOffice"
+msgid "OpenOffice.org drawing"
+msgstr "Rysunek OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice drawing template"
-msgstr "Szablon rysunku OpenOffice"
+msgid "OpenOffice.org drawing template"
+msgstr "Szablon rysunku OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice spreadsheet"
-msgstr "Arkusz kalkulacyjny OpenOffice"
+msgid "OpenOffice.org spreadsheet"
+msgstr "Arkusz kalkulacyjny OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:1
-msgid "OpenOffice spreadsheet template"
-msgstr "Szablon arkusza kalkulacyjnego OpenOffice"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "Szablon arkusza kalkulacyjnego OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:1
 msgid "PBM image"
