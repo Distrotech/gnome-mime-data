@@ -318,8 +318,6 @@ application/vnd.sun.xml.writer.template
 	_category=Documents/Word Processor
 	use_category_default=yes
 
-
-
 # also text/abiword
 application/x-abiword
 	_description=AbiWord document
@@ -494,6 +492,9 @@ application/x-dvi
 application/x-e-theme
 	_description=Enlightenment theme
 	_category=User Interface
+
+application/x-epiphany-bookmarks
+	_description=Epiphany bookmarks file
 
 application/x-executable-binary
 	can_be_executable=TRUE
@@ -753,6 +754,9 @@ application/x-mif
 	_description=FrameMaker interchange document
 	_category=Documents/Word Processor
 
+application/x-mozilla-bookmarks
+	_description=Mozilla bookmarks file
+
 application/x-mrproject
 	_description=Project Plan
 	_category=Documents/Project Management
@@ -782,6 +786,9 @@ application/x-nes-rom
 application/x-netcdf
 	_description=Unidata netCDF document
 	_category=Documents/Numeric
+
+application/x-netscape-bookmarks
+	_description=Netscape bookmarks file
 
 application/x-object-file
 	_description=Object code
@@ -979,6 +986,9 @@ application/x-xbase
 application/x-zoo
 	_description=Zoo archive
 	_category=Packages
+
+application/xbel
+	_description=XBEL bookmarks file
 
 application/zip
 	_description=Zip archive

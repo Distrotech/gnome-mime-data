@@ -1,5 +1,18 @@
 2003-05-05  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in: Added entry for epiphany bookmarks file
+
+2002-05-28  Ricardo Fernández Pascual  <ric@users.sourceforge.net>
+
+	* gnome-vfs-mime-magic
+	* gnome-vfs.keys.in
+	* gnome-vfs.mime: Added entries for xbel, netscape and mozilla 
+	bookmarks formats. (Modified by Bastien Nocera <hadess@hadess.net>,
+	we should use x- prefixes for non IANA mime-types)
+
+2003-05-05  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.mime: added "ltx" extension for LaTeX files (patch by
 	Ross Burton <r.burton@180sw.com>) (Closes: #107197)
 

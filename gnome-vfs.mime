@@ -368,6 +368,9 @@ application/x-xbase
 application/x-zoo
 	ext: zoo
 
+application/xbel
+	ext: xbel
+
 application/zip
 	ext: zip
 
