@@ -1,3 +1,7 @@
+2002-02-11  Gregory Leblanc  <gleblanc@linuxweasel.com>
+
+	* gnome-mime-data.spec.in: Fixed to make actually work.
+
 2002-02-09  Seth Nickell  <snickell@stanford.edu>
 
 	* gnome-vfs-mime-magic:
