@@ -695,7 +695,7 @@ text/x-patch
 	ext: diff patch
 
 text/x-perl
-	ext: pl perl
+	ext: pl perl pm
 
 text/x-po
 	ext: po

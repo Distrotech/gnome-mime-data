@@ -1,3 +1,8 @@
+2003-09-15  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.mime: added "pm" as a possible extension for text/x-perl
+	(Closes: #121509)
+
 2003-09-13  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: detect FLAC files with ID3 headers as FLAC
