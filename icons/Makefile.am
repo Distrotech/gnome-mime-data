@@ -161,7 +161,7 @@ icon_DATA =\
 	i-music-24.png \
 	i-music-36.png \
 	i-music.png \
-	i-nfs.png
+	i-nfs.png \
 	i-printer.png \
 	i-regular-72.png \
 	i-regular-96.png \

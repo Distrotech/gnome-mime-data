@@ -1,3 +1,8 @@
+2002-06-06  Rajeev Karale <rajeev.karale@wipro.com>
+
+	* icons/Makefile.am : Bigfix #84350. Fix for document-icons not 
+	  getting installed properly. 
+
 2002-06-03  Jody Goldberg <jody@gnome.org>
 
 	* gnome-vfs.keys.in : Doh! the category should be 'Images' not 'Image'
