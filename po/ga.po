@@ -1,5 +1,5 @@
 # Irish translation of gnome-mime-data
-# Copyright (C) 2003 Free Software Foundation INC
+# Copyright (C) 2003,2004 Free Software Foundation INC
 # This file is distributed under the same license as the PACKAGE package.
 # Pól Ó Dubhthaigh <dubhthach@zion.nuigalway.ie>,2003
 # David O'Callaghan <david.ocallaghan@cs.tcd.ie>, 2003
@@ -51,7 +51,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:9
 msgid "Address card"
-msgstr ""
+msgstr "Carta Sheoladh"
 
 #: gnome-vfs.keys.in.h:10
 msgid "Adobe FrameMaker font"
@@ -78,7 +78,6 @@ msgid "Applixware Words document"
 msgstr "Doiciméad ó Applixware Words"
 
 #: gnome-vfs.keys.in.h:16
-#, fuzzy
 msgid "Applixware presentation"
 msgstr "scarbhileog ó Applixware"
 
@@ -88,12 +87,11 @@ msgstr "scarbhileog ó Applixware"
 
 #: gnome-vfs.keys.in.h:18
 msgid "Ar archive"
-msgstr "cartlann Ar"
+msgstr "Ccartlann Ar"
 
 #: gnome-vfs.keys.in.h:19
-#, fuzzy
 msgid "Assembly source code"
-msgstr "bunchóid Scheme"
+msgstr "bunchóid Assembly"
 
 #: gnome-vfs.keys.in.h:20
 msgid "Audio"
@@ -101,7 +99,7 @@ msgstr "Audio"
 
 #: gnome-vfs.keys.in.h:21
 msgid "Authors list"
-msgstr ""
+msgstr "Líosta do Údair"
 
 #: gnome-vfs.keys.in.h:22
 msgid "AutoCAD image"
@@ -116,9 +114,8 @@ msgid "BDF font"
 msgstr "Clófhoireann BDF "
 
 #: gnome-vfs.keys.in.h:25
-#, fuzzy
 msgid "Backup file"
-msgstr "comhad cúltaca"
+msgstr "Comhad Cúltaca"
 
 #: gnome-vfs.keys.in.h:26
 msgid "Basic audio"
@@ -129,19 +126,16 @@ msgid "Bibliography record"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:28
-#, fuzzy
 msgid "Binary program"
-msgstr "clár dénártha"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:29
-#, fuzzy
 msgid "BitTorrent seed file"
-msgstr "comhad Bzip2"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:30
-#, fuzzy
 msgid "Blender file"
-msgstr "comhad Féilire"
+msgstr "Comhad Blender"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Block device"
@@ -192,36 +186,32 @@ msgid "Calendar file"
 msgstr "comhad Féilire"
 
 #: gnome-vfs.keys.in.h:43
-#, fuzzy
 msgid "Calendar or event document"
-msgstr "Doiciméad ó WordPerfect"
+msgstr "Doiciméad Fheilire nó cruinne"
 
 #: gnome-vfs.keys.in.h:44
 msgid "Character device"
-msgstr ""
+msgstr "Gaireas caractar"
 
 #: gnome-vfs.keys.in.h:45
-#, fuzzy
 msgid "Comma-separated text document"
-msgstr "Doiciméad Setext"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:46
 msgid "Commodore 64 audio"
 msgstr "Audio ó Commodore64"
 
 #: gnome-vfs.keys.in.h:47
-#, fuzzy
 msgid "Compound document"
-msgstr "doiciméad ó KWord"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:48
 msgid "Compress-compressed file"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:49
-#, fuzzy
 msgid "Compressed GIMP document"
-msgstr "Doiciméad ó GIMP"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:50
 msgid "Corel Draw drawing"
@@ -257,7 +247,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:58
 msgid "Dia diagram"
-msgstr ""
+msgstr "Léareáid Dia"
 
 #: gnome-vfs.keys.in.h:59
 msgid "Digital Imaging and Communications in Medicine image"
@@ -269,12 +259,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:61
 msgid "Directory information file"
-msgstr ""
+msgstr "Comhad Eolas do Fillteán"
 
 #: gnome-vfs.keys.in.h:62
-#, fuzzy
 msgid "Document type definition"
-msgstr "Doiciméad/Toirbheartas"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:63
 msgid "Documents"
@@ -337,9 +326,8 @@ msgid "Dolby Digital audio"
 msgstr "audio i Dolby Digital"
 
 #: gnome-vfs.keys.in.h:78
-#, fuzzy
 msgid "Dreamcast ROM"
-msgstr "rom do Dreamcast"
+msgstr "ROM do Dreamcast"
 
 #: gnome-vfs.keys.in.h:79
 msgid "Emacs Lisp source code"
@@ -362,9 +350,8 @@ msgid "Enlightenment theme"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:84
-#, fuzzy
 msgid "Enriched text document"
-msgstr "Doiciméad Setext"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:85
 msgid "Epiphany bookmarks file"
@@ -395,9 +382,8 @@ msgid "Flexible Image Transport System"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:92
-#, fuzzy
 msgid "Folder"
-msgstr "fillteán"
+msgstr "Fillteán"
 
 #: gnome-vfs.keys.in.h:93
 msgid "Fortran source code"
@@ -409,7 +395,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:95
 msgid "G3 fax image"
-msgstr ""
+msgstr "Íomha Facs (G3)"
 
 #: gnome-vfs.keys.in.h:96
 msgid "GIF image"
@@ -437,7 +423,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:102
 msgid "GTK configuration"
-msgstr ""
+msgstr "Cumraíocht GTK"
 
 #: gnome-vfs.keys.in.h:103
 msgid "Game Boy ROM"
@@ -449,11 +435,11 @@ msgstr "ROM do Genesis"
 
 #: gnome-vfs.keys.in.h:105
 msgid "Glade project"
-msgstr ""
+msgstr "Tionscadal Glade"
 
 #: gnome-vfs.keys.in.h:106
 msgid "GnuCash workbook"
-msgstr ""
+msgstr "Obairleabhar GnuCash"
 
 #: gnome-vfs.keys.in.h:107
 msgid "Gnumeric spreadsheet"
@@ -513,7 +499,7 @@ msgstr "íomha ISO"
 
 #: gnome-vfs.keys.in.h:121
 msgid "Images"
-msgstr ""
+msgstr "Íomhanna"
 
 #: gnome-vfs.keys.in.h:122
 msgid "Impulse Tracker audio"
@@ -525,11 +511,11 @@ msgstr "Eolais"
 
 #: gnome-vfs.keys.in.h:124
 msgid "Information/Calendar"
-msgstr ""
+msgstr "Eolas/Feilire"
 
 #: gnome-vfs.keys.in.h:125
 msgid "Information/Financial"
-msgstr ""
+msgstr "Eolas/Airgideas"
 
 #: gnome-vfs.keys.in.h:126
 msgid "Installed GNOME desktop theme"
@@ -537,7 +523,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:127
 msgid "JBuilder Project"
-msgstr ""
+msgstr "Tionscadal JBuilder"
 
 #: gnome-vfs.keys.in.h:128
 msgid "JPEG image"
@@ -548,18 +534,16 @@ msgid "Java byte code"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:130
-#, fuzzy
 msgid "Java code archive"
-msgstr "cartlann ar"
+msgstr "cartlann  Java"
 
 #: gnome-vfs.keys.in.h:131
 msgid "Java source code"
 msgstr "bunchóid Java"
 
 #: gnome-vfs.keys.in.h:132
-#, fuzzy
 msgid "JavaScript source code"
-msgstr "bunchóid Java"
+msgstr "bunchóid JavaScript"
 
 #: gnome-vfs.keys.in.h:133
 msgid "KDE application details"
@@ -575,7 +559,7 @@ msgstr "toirbheartas ó KPresnter"
 
 #: gnome-vfs.keys.in.h:136
 msgid "KSpread spreadsheet"
-msgstr "scarbhileog ó KSpres"
+msgstr "scarbhileog ó KSpread"
 
 #: gnome-vfs.keys.in.h:137
 msgid "KWord document"
@@ -651,7 +635,7 @@ msgstr "físeán MS"
 
 #: gnome-vfs.keys.in.h:155
 msgid "MSX ROM"
-msgstr ""
+msgstr "MSX ROM"
 
 #: gnome-vfs.keys.in.h:156
 msgid "MacBinary file"
@@ -674,9 +658,8 @@ msgid "Macromedia Flash file"
 msgstr "comhad Macromedia Flash"
 
 #: gnome-vfs.keys.in.h:161
-#, fuzzy
 msgid "MagicPoint presentation"
-msgstr "toirbheartas ó KPresnter"
+msgstr "toirbheartas ó MagicPoint"
 
 #: gnome-vfs.keys.in.h:162
 msgid "Magick image format"
@@ -699,14 +682,12 @@ msgid "Makefile"
 msgstr "Makefile"
 
 #: gnome-vfs.keys.in.h:167
-#, fuzzy
 msgid "Manual page"
-msgstr "leathnach HTML"
+msgstr "Leathanach Lámhleabhar"
 
 #: gnome-vfs.keys.in.h:168
-#, fuzzy
 msgid "Manual page (compressed)"
-msgstr "cartlann tar (a comhdhlúite gzip)"
+msgstr "Leathanach Lámhleabhar (a comhdhlúite gzip)"
 
 #: gnome-vfs.keys.in.h:169
 msgid "Master System or Game Gear ROM"
@@ -722,7 +703,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:172
 msgid "Message"
-msgstr ""
+msgstr "Scéal"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Message digest"
@@ -741,13 +722,12 @@ msgid "Microsoft PowerPoint document"
 msgstr "Doiciméad ó Microsoft PowerPoint"
 
 #: gnome-vfs.keys.in.h:177
-#, fuzzy
 msgid "Microsoft WMV playlist"
-msgstr "scarbhileog ó Microsoft Excel"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:178
 msgid "Microsoft WMV video"
-msgstr ""
+msgstr "Fís as Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:179
 msgid "Microsoft Word document"
@@ -758,13 +738,12 @@ msgid "Microsoft video"
 msgstr "físeán Microsoft"
 
 #: gnome-vfs.keys.in.h:181
-#, fuzzy
 msgid "Monkey audio"
-msgstr "audio i ogg"
+msgstr "Fuaim Monkey"
 
 #: gnome-vfs.keys.in.h:182
 msgid "Mozilla bookmarks file"
-msgstr ""
+msgstr "Comhad Leabharmarcanna Mozilla"
 
 #: gnome-vfs.keys.in.h:183
 msgid "Multi-part message"
@@ -784,16 +763,15 @@ msgstr "cenagal Nautilus"
 
 #: gnome-vfs.keys.in.h:187
 msgid "Netscape bookmarks file"
-msgstr ""
+msgstr "Comhad Leabharmarcanna Netscape"
 
 #: gnome-vfs.keys.in.h:188
 msgid "Nintendo64 ROM"
 msgstr "ROM do Nintendo64"
 
 #: gnome-vfs.keys.in.h:189
-#, fuzzy
 msgid "Nullsoft video"
-msgstr "físeán Microsoft"
+msgstr "físeán Nullsoft"
 
 #: gnome-vfs.keys.in.h:190
 msgid "ODA document"
@@ -809,7 +787,7 @@ msgstr "audio i Ogg"
 
 #: gnome-vfs.keys.in.h:193
 msgid "OpenOffice.org Impress presentation"
-msgstr "toirbheartas ó OpenOffice.org Impress"
+msgstr "Toirbheartas ó OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:194
 msgid "OpenOffice.org Impress presentation template"
@@ -817,11 +795,11 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:195
 msgid "OpenOffice.org Math document"
-msgstr ""
+msgstr "Doiciméad Math o Openoffice.org"
 
 #: gnome-vfs.keys.in.h:196
 msgid "OpenOffice.org Writer document"
-msgstr ""
+msgstr "Doiciméad Scríobhór OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:197
 msgid "OpenOffice.org Writer global document"
@@ -917,7 +895,7 @@ msgstr "íomha PPM"
 
 #: gnome-vfs.keys.in.h:220
 msgid "Packages"
-msgstr ""
+msgstr "Pacáistí"
 
 #: gnome-vfs.keys.in.h:221
 msgid "Palm OS database"
@@ -932,9 +910,8 @@ msgid "Partial email message"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:224
-#, fuzzy
 msgid "Pascal source code"
-msgstr "bunchóid Java"
+msgstr "bunchóid Pascal"
 
 #: gnome-vfs.keys.in.h:225
 msgid "Perl script"
@@ -1000,7 +977,7 @@ msgstr "cartlann RAR"
 
 #: gnome-vfs.keys.in.h:240
 msgid "README document"
-msgstr ""
+msgstr "Doiciméad README"
 
 #: gnome-vfs.keys.in.h:241
 msgid "RGB image"
@@ -1039,9 +1016,8 @@ msgid "Rejected patch file"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:250
-#, fuzzy
 msgid "Rich text document"
-msgstr "Doiciméad Setext"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:251
 msgid "S/MIME file"
@@ -1113,7 +1089,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:268
 msgid "Security"
-msgstr ""
+msgstr "Slándáil"
 
 #: gnome-vfs.keys.in.h:269
 msgid "Setext document"
@@ -1128,22 +1104,18 @@ msgid "Shared library"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:272
-#, fuzzy
 msgid "Shell archive"
-msgstr "cartlann shell"
+msgstr "Cartlann shell"
 
 #: gnome-vfs.keys.in.h:273
-#, fuzzy
 msgid "Shell script"
 msgstr "script le haighaidh shell"
 
 #: gnome-vfs.keys.in.h:274
-#, fuzzy
 msgid "Signed message"
-msgstr "teachtaireacht PGP"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:275
-#, fuzzy
 msgid "Silicon Graphics image"
 msgstr "íomha Silicon Graphics"
 
@@ -1176,9 +1148,8 @@ msgid "Software license terms"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:283
-#, fuzzy
 msgid "Source code patch"
-msgstr "bunchóid do WAIS"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:284
 msgid "Speech document"
@@ -1206,7 +1177,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:290
 msgid "StarDraw drawing"
-msgstr ""
+msgstr "Tarraingt StarDraw"
 
 #: gnome-vfs.keys.in.h:291
 msgid "StarImpress presentation"
@@ -1253,24 +1224,20 @@ msgid "TIFF image"
 msgstr "íomha TIFF"
 
 #: gnome-vfs.keys.in.h:302
-#, fuzzy
 msgid "Tab-separated text document"
-msgstr "Doiciméad Setext"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:303
-#, fuzzy
 msgid "Tar archive"
-msgstr "cartlann ar"
+msgstr "Cartlann Tar"
 
 #: gnome-vfs.keys.in.h:304
-#, fuzzy
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "cartlann tar (a a comhdhlúite bzip2) "
+msgstr "Ccartlann Tar (a a comhdhlúite bzip2) "
 
 #: gnome-vfs.keys.in.h:305
-#, fuzzy
 msgid "Tar archive (Gzip-compressed)"
-msgstr "cartlann tar (a comhdhlúite gzip)"
+msgstr "Cartlann Tar (a comhdhlúite gzip)"
 
 #: gnome-vfs.keys.in.h:306
 msgid "TarGA image"
@@ -1313,19 +1280,16 @@ msgid "Troff document"
 msgstr "doiciméad Troff"
 
 #: gnome-vfs.keys.in.h:316
-#, fuzzy
 msgid "Troff me input document"
-msgstr "doiciméad troff"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:317
-#, fuzzy
 msgid "Troff mm input document"
-msgstr "doiciméad troff"
+msgstr "Doiciméad inchur mm do troff"
 
 #: gnome-vfs.keys.in.h:318
-#, fuzzy
 msgid "Troff ms input document"
-msgstr "doiciméad troff"
+msgstr "Doiciméad inchur ms do troff"
 
 #: gnome-vfs.keys.in.h:319
 msgid "TrueType font"
@@ -1345,7 +1309,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:323
 msgid "Unknown type"
-msgstr ""
+msgstr "Saghas gan fhois"
 
 #: gnome-vfs.keys.in.h:324
 msgid "User Interface"
@@ -1384,18 +1348,16 @@ msgid "WAIS source code"
 msgstr "bunchóid do WAIS"
 
 #: gnome-vfs.keys.in.h:333
-#, fuzzy
 msgid "Wave audio"
-msgstr "audio wave"
+msgstr "Fuaim 'Wave'"
 
 #: gnome-vfs.keys.in.h:334
 msgid "Wavelet video"
-msgstr "físeán Wavelet"
+msgstr "Físeán Wavelet"
 
 #: gnome-vfs.keys.in.h:335
-#, fuzzy
 msgid "Web folder"
-msgstr "fillteán"
+msgstr "Fillteán Greasán"
 
 #: gnome-vfs.keys.in.h:336
 msgid "Windows bitmap image"
@@ -1403,7 +1365,7 @@ msgstr "íomha bitmap  ó Windows"
 
 #: gnome-vfs.keys.in.h:337
 msgid "Windows icon image"
-msgstr ""
+msgstr "Íomha dhealbh ó Windows"
 
 #: gnome-vfs.keys.in.h:338
 msgid "Windows metafile graphics"
@@ -1423,7 +1385,7 @@ msgstr "íomha X fhuinneog"
 
 #: gnome-vfs.keys.in.h:342
 msgid "XBEL bookmarks file"
-msgstr ""
+msgstr "Comhad Leabharmarcanna XBEL"
 
 #: gnome-vfs.keys.in.h:343
 msgid "XML document"
@@ -1438,9 +1400,8 @@ msgid "Xbase database"
 msgstr "bunachar sonraí ó Xbase"
 
 #: gnome-vfs.keys.in.h:346
-#, fuzzy
 msgid "Yacc grammar source code"
-msgstr "bunchóid Java"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:347
 msgid "Z shell script"
@@ -1452,15 +1413,15 @@ msgstr "cartlann Zip"
 
 #: gnome-vfs.keys.in.h:349
 msgid "Zoo archive"
-msgstr "cartlann Zoo"
+msgstr "Cartlann Zoo"
 
 #: gnome-vfs.keys.in.h:350
 msgid "gettext translation"
-msgstr ""
+msgstr "Aistriúchán gettext"
 
 #: gnome-vfs.keys.in.h:351
 msgid "iPod software"
-msgstr ""
+msgstr "Bógearra iPod"
 
 #: gnome-vfs.keys.in.h:352
 msgid "xfig vector graphic"
@@ -1469,9 +1430,8 @@ msgstr ""
 msgid "MPEG audio"
 msgstr "audio i MPEG"
 
-#, fuzzy
 msgid "GNOME theme package"
-msgstr "pacáiste do Stampede"
+msgstr ""
 
 msgid "MSX rom"
 msgstr "rom do MSX"
@@ -1479,14 +1439,12 @@ msgstr "rom do MSX"
 msgid "NES rom"
 msgstr "rom do NES"
 
-#, fuzzy
 msgid "Yacc source file"
-msgstr "bunchóid Java"
+msgstr "bunchóid Yacc"
 
 msgid "arj archive"
 msgstr "cartlann arj"
 
-#, fuzzy
 msgid "audio"
 msgstr "Audio"
 
