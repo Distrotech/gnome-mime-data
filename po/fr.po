@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 2.4.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-01-02 21:16+0100\n"
-"PO-Revision-Date: 2004-01-02 21:10+0100\n"
+"POT-Creation-Date: 2004-02-13 14:32+0100\n"
+"PO-Revision-Date: 2004-02-13 14:30+0100\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@redfoxcenter.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -147,7 +147,7 @@ msgstr "Périphérique bloc"
 
 #: gnome-vfs.keys.in.h:33
 msgid "Bzip2 compressed file"
-msgstr "Fichier comprimé avec bzip2"
+msgstr "Fichier compressé avec bzip2"
 
 #: gnome-vfs.keys.in.h:34
 msgid "C shell script"
@@ -183,7 +183,7 @@ msgstr "Archive CPIO"
 
 #: gnome-vfs.keys.in.h:42
 msgid "CPIO archive (Gzip-compressed)"
-msgstr "Archive CPIO (comprimé avec gzip)"
+msgstr "Archive CPIO (compressé avec gzip)"
 
 #: gnome-vfs.keys.in.h:43
 msgid "Calendar file"
@@ -215,11 +215,11 @@ msgstr "Document composé"
 
 #: gnome-vfs.keys.in.h:50
 msgid "Compress-compressed file"
-msgstr "Fichier comprimé avec compress"
+msgstr "Fichier compressé avec compress"
 
 #: gnome-vfs.keys.in.h:51
 msgid "Compressed GIMP document"
-msgstr "Document GIMP comprimé"
+msgstr "Document GIMP compressé"
 
 #: gnome-vfs.keys.in.h:52
 msgid "Corel Draw drawing"
@@ -475,7 +475,7 @@ msgstr "Catalogue Gtktalog"
 
 #: gnome-vfs.keys.in.h:115
 msgid "Gzip-compressed file"
-msgstr "Fichier comprimé avec gzip"
+msgstr "Fichier compressé avec gzip"
 
 #: gnome-vfs.keys.in.h:116
 msgid "HDF document"
@@ -715,7 +715,7 @@ msgstr "Page de manuel"
 
 #: gnome-vfs.keys.in.h:175
 msgid "Manual page (compressed)"
-msgstr "Page de manuel (comprimé)"
+msgstr "Page de manuel (compressé)"
 
 #: gnome-vfs.keys.in.h:176
 msgid "Master System or Game Gear ROM"
@@ -1267,11 +1267,11 @@ msgstr "Archive Tar"
 
 #: gnome-vfs.keys.in.h:313
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "Archive Tar (comprimé avec bzip2)"
+msgstr "Archive Tar (compressé avec bzip2)"
 
 #: gnome-vfs.keys.in.h:314
 msgid "Tar archive (Gzip-compressed)"
-msgstr "Archive Tar (comprimé avec gzip)"
+msgstr "Archive Tar (compressé avec gzip)"
 
 #: gnome-vfs.keys.in.h:315
 msgid "TarGA image"
@@ -1464,49 +1464,3 @@ msgstr "Logiciel iPod"
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
 msgstr "Graphique vectoriel xfig"
-
-#~ msgid "rich text document"
-#~ msgstr "Document texte riche"
-
-#~ msgid "unknown type"
-#~ msgstr "Type inconnu"
-
-#~ msgid "GNOME theme package"
-#~ msgstr "Paquet de thème GNOME"
-
-#~ msgid "MSX rom"
-#~ msgstr "ROM MSX"
-
-#~ msgid "NES rom"
-#~ msgstr "ROM Nes"
-
-#, fuzzy
-#~ msgid "Software Development/ROM image"
-#~ msgstr "Développement logiciel/Images ROM"
-
-#, fuzzy
-#~ msgid "Software Development/Source"
-#~ msgstr "Développement logiciel/Code source"
-
-#, fuzzy
-#~ msgid "Yacc source file"
-#~ msgstr "Code source Java"
-
-#~ msgid "arj archive"
-#~ msgstr "Archive ARJ"
-
-#, fuzzy
-#~ msgid "audio"
-#~ msgstr "Audio"
-
-#~ msgid "gtar archive"
-#~ msgstr "Archive gtar"
-
-#~ msgid "gzip-compressed file"
-#~ msgstr "Document comprimé gzip"
-
-#~ msgid "M3 audio URL"
-#~ msgstr "URL audio M3"
-
-#~ msgid "GNOME application details"
-#~ msgstr "Détails d'application GNOME"
