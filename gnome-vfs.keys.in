@@ -2105,6 +2105,10 @@ text/xml
 	_category=Documents/Extended Markup Language (XML)
 	use_category_default=yes
 
+video/dv
+	description=DV video
+	_category=Video
+
 video/isivideo
 	_description=ISI video
 	_category=Video

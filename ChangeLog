@@ -1,5 +1,10 @@
 2003-11-20  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in: added support for video/dv as per RFC 3189
+
+2003-11-20  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: added audio/x-ms-wax (Windows Audio Playlist)
 	mime-type

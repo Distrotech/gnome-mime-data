@@ -65,6 +65,7 @@
 0	string		\<asx					audio/x-ms-asx
 0	string		MThd					audio/x-midi
 0	string		IMPM					audio/x-it
+0	string		\x1f\x07\x00\x00 &0xffffff00		video/dv
 2	string		-lh0-					application/x-lha
 2	string		-lh1-					application/x-lha
 2	string		-lz4-					application/x-lha
