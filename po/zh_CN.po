@@ -869,7 +869,7 @@ msgstr "地址卡片"
 
 #: gnome-vfs.keys.in.h:210
 msgid "application launcher"
-msgstr "应用程序发射台"
+msgstr "应用程序启动器""
 
 #: gnome-vfs.keys.in.h:211
 msgid "ar archive"
