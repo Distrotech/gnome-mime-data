@@ -274,7 +274,7 @@ application/x-mif
 	ext: mif
 
 application/x-mrproject
-	ext: mrp
+	ext: mrp mrproject
 
 application/x-ms-dos-executable
 	ext: exe

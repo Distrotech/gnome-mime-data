@@ -1,3 +1,11 @@
+2003-08-18  Luis Villa <louie@ximian.com>
+
+	* gnome-vfs.mime: add 'mrproject' extension for mrproject files
+	* gnome-vfs.keys.in: make epiphany and galeon preferred over
+	mozilla where appropriate
+	* gnome-vfs.keys.in: fix tabbing of x-javascript entry. Left lack
+	of translation because of string freeze.
+
 2003-08-13  Christian Neumair  <chris@gnome-de.org>
 
 	* gnome-vfs.applications: Use AbiWord 2.0 executable.

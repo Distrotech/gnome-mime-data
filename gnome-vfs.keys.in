@@ -1723,9 +1723,9 @@ text/html
 	short_list_component_iids_for_novice_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1,OAFIID:nautilus_text_view:fa466311-17c1-435c-8231-c9fc434b6437
 	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1,OAFIID:nautilus_text_view:fa466311-17c1-435c-8231-c9fc434b6437
 	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1,OAFIID:nautilus_text_view:fa466311-17c1-435c-8231-c9fc434b6437
-	short_list_application_ids_for_novice_user_level=mozilla,netscape,galeon
-	short_list_application_ids_for_intermediate_user_level=mozilla,netscape,galeon
-	short_list_application_ids_for_advanced_user_level=mozilla,netscape,lynx,galeon
+	short_list_application_ids_for_novice_user_level=epiphany,galeon,mozilla,netscape
+	short_list_application_ids_for_intermediate_user_level=epiphany,galeon,mozilla,netscape
+	short_list_application_ids_for_advanced_user_level=epiphany,galeon,mozilla,netscape,lynx
 	_category=Documents/World Wide Web
 	use_category_default=yes
 
@@ -1886,13 +1886,13 @@ text/x-java
 	use_category_default=yes
 
 text/x-javascript
-        description=JavaScript source code
-        default_action_type=application
-        short_list_application_ids_for_novice_user_level=anjuta
-        short_list_application_ids_for_intermediate_user_level=anjuta
-        short_list_application_ids_for_advanced_user_level=anjuta
-        category=Software Development/Source Code
-        use_category_default=yes
+	description=JavaScript source code
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=anjuta
+	short_list_application_ids_for_intermediate_user_level=anjuta
+	short_list_application_ids_for_advanced_user_level=anjuta
+	category=Software Development/Source Code
+	use_category_default=yes
 
 text/x-ksh
 	can_be_executable=TRUE
@@ -2033,9 +2033,9 @@ text/xml
 	short_list_component_iids_for_novice_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1,OAFIID:nautilus_text_view:fa466311-17c1-435c-8231-c9fc434b6437
 	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1,OAFIID:nautilus_text_view:fa466311-17c1-435c-8231-c9fc434b6437
 	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus_mozilla_content_view:1ee70717-57bf-4079-aae5-922abdd576b1,OAFIID:nautilus_text_view:fa466311-17c1-435c-8231-c9fc434b6437
-	short_list_application_ids_for_novice_user_level=mozilla
-	short_list_application_ids_for_intermediate_user_level=mozilla
-	short_list_application_ids_for_advanced_user_level=mozilla
+	short_list_application_ids_for_novice_user_level=epiphany,galeon,mozilla
+	short_list_application_ids_for_intermediate_user_level=epiphany,galeon,mozilla
+	short_list_application_ids_for_advanced_user_level=epiphany,galeon,mozilla
 	_category=Documents/Extended Markup Language (XML)
 	use_category_default=yes
 
