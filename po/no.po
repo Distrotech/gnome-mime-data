@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs 0.6.0.0\n"
 "POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-11-14 16:53+0100\n"
+"PO-Revision-Date: 2001-12-02 17:33+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <no@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr "CPIO-arkiv (gzip-pakket)"
 
 #: gnome-vfs.keys.in.h:25
 msgid "Commodore 64 Audio"
-msgstr ""
+msgstr "Commodore 64-lyd"
 
 #: gnome-vfs.keys.in.h:26
 msgid "DCL script"
