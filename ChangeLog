@@ -1,3 +1,10 @@
+2001-11-11  jacob berkman  <jacob@ximian.com>
+
+	* configure.in: remove all the gnome stuff, since we don't need
+	any gnome things
+
+	* Makefile.am: use intltool
+
 2001-11-09  Seth Nickell  <snickell@stanford.edu>
 
 	* Makefile.am:
