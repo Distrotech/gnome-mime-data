@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data VERSION\n"
-"POT-Creation-Date: 2002-05-01 11:26+0200\n"
-"PO-Revision-Date: 2002-05-03 17:36-0400\n"
+"POT-Creation-Date: 2002-05-30 05:18+0200\n"
+"PO-Revision-Date: 2002-05-30 17:01+0700\n"
 "Last-Translator: pclouds <pclouds@gmx.net>\n"
 "Language-Team: GnomeVI <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,7 @@ msgstr "Font Adobe FrameMaker"
 
 #: gnome-vfs.keys.in.h:8
 msgid "Adobe font metrics"
-msgstr ""
+msgstr "Đơn vị đo font Adobe"
 
 #: gnome-vfs.keys.in.h:9
 msgid "Andrew Toolkit inset"
@@ -155,7 +155,7 @@ msgstr "Mã nguồn Emacs Lisp"
 
 #: gnome-vfs.keys.in.h:36
 msgid "Enlightenment theme"
-msgstr ""
+msgstr "Theme Englightenment"
 
 #: gnome-vfs.keys.in.h:37
 msgid "FLC animation"
@@ -238,9 +238,8 @@ msgid "HTML page"
 msgstr "Trang HTML"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "Mã nguồn C"
+msgstr "Mã nguồn Haskell"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -324,16 +323,15 @@ msgstr "Đối tượng LightWave"
 
 #: gnome-vfs.keys.in.h:78
 msgid "LightWave scene"
-msgstr ""
+msgstr "Cảnh LightWave"
 
 #: gnome-vfs.keys.in.h:79
 msgid "Linux PSF console font"
 msgstr "Font console Linux PSF"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "Mã nguồn Fortran"
+msgstr "Mã nguồn Haskell thuần túy"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -404,9 +402,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Tài liệu MS PowerPoint"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Phim MS"
+msgstr "Phim Microsoft WMV"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -433,43 +430,43 @@ msgid "ODA document"
 msgstr "Tài liệu ODA"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
+msgid "OpenOffice.org Impress presentation"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
+msgid "OpenOffice.org Impress presentation template"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "Tài Liệu OpenOffice Math"
+msgid "OpenOffice.org Math document"
+msgstr "Tài liệu Toán OpenOffice"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "Văn bản OpenOffice Writer"
+msgid "OpenOffice.org Writer document"
+msgstr "Tài liệu OpenOffice"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
+msgid "OpenOffice.org Writer global document"
 msgstr "Tài liệu chung OpenOffice Writer"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
+msgid "OpenOffice.org Writer template"
 msgstr "Mẫu OpenOffice Writer"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
+msgid "OpenOffice.org drawing"
 msgstr "Bản vẽ OpenOffice"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
+msgid "OpenOffice.org drawing template"
 msgstr "Mẫu bản vẽ OpenOffice"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
+msgid "OpenOffice.org spreadsheet"
 msgstr "Bảng tính OpenOffice"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
+msgid "OpenOffice.org spreadsheet template"
 msgstr "Mẫu bảng tính OpenOffice"
 
 #: gnome-vfs.keys.in.h:115
@@ -742,7 +739,7 @@ msgstr "Font TeX"
 
 #: gnome-vfs.keys.in.h:182
 msgid "TeX font metrics"
-msgstr ""
+msgstr "Đơn vị đo font TeX"
 
 #: gnome-vfs.keys.in.h:183
 msgid "TeXInfo document"
@@ -834,11 +831,11 @@ msgstr "active server page"
 
 #: gnome-vfs.keys.in.h:205
 msgid "address card"
-msgstr ""
+msgstr "thẻ địa chỉ"
 
 #: gnome-vfs.keys.in.h:206
 msgid "application launcher"
-msgstr ""
+msgstr "bộ phóng ứng dụng"
 
 #: gnome-vfs.keys.in.h:207
 msgid "ar archive"
@@ -858,11 +855,11 @@ msgstr "tập tin sao lưu"
 
 #: gnome-vfs.keys.in.h:211
 msgid "basic audio"
-msgstr ""
+msgstr "âm thanh cơ bản"
 
 #: gnome-vfs.keys.in.h:212
 msgid "bibliography record"
-msgstr ""
+msgstr "bản ghi thư mục"
 
 #: gnome-vfs.keys.in.h:213
 msgid "binary program"
@@ -882,7 +879,7 @@ msgstr "tập tin lịch"
 
 #: gnome-vfs.keys.in.h:217
 msgid "calendar or event document"
-msgstr ""
+msgstr "lịch/tài liệu sự kiện"
 
 #: gnome-vfs.keys.in.h:218
 msgid "character device"
@@ -890,7 +887,7 @@ msgstr "thiết bị Character"
 
 #: gnome-vfs.keys.in.h:219
 msgid "comma-separated text document"
-msgstr ""
+msgstr "tài liệu ngăn cách bằng dấu phẩy"
 
 #: gnome-vfs.keys.in.h:220
 msgid "compound document"
@@ -910,7 +907,7 @@ msgstr "tập tin thông tin thư mục"
 
 #: gnome-vfs.keys.in.h:224
 msgid "document type definition"
-msgstr ""
+msgstr "tài liệu định nghĩa kiểu (DTD)"
 
 #: gnome-vfs.keys.in.h:225
 msgid "email headers"
@@ -926,7 +923,7 @@ msgstr "Thông điệp mã hóa"
 
 #: gnome-vfs.keys.in.h:228
 msgid "enriched text document"
-msgstr ""
+msgstr "tài liệu enriched text"
 
 #: gnome-vfs.keys.in.h:229
 msgid "folder"
@@ -946,15 +943,15 @@ msgstr "trợ giúp"
 
 #: gnome-vfs.keys.in.h:233
 msgid "mail delivery report"
-msgstr ""
+msgstr "báo cáo gửi thư"
 
 #: gnome-vfs.keys.in.h:234
 msgid "mail disposition report"
-msgstr ""
+msgstr "báo cáo bố trí thư"
 
 #: gnome-vfs.keys.in.h:235
 msgid "mail system report"
-msgstr ""
+msgstr "báo cáo hệ thống thư"
 
 #: gnome-vfs.keys.in.h:236
 msgid "makefile"
@@ -970,15 +967,15 @@ msgstr "sổ tay (nén)"
 
 #: gnome-vfs.keys.in.h:239
 msgid "memory dump"
-msgstr ""
+msgstr "kết xuất bộ nhớ"
 
 #: gnome-vfs.keys.in.h:240
 msgid "message digest"
-msgstr ""
+msgstr "tóm tắt thông điệp"
 
 #: gnome-vfs.keys.in.h:241
 msgid "message in several formats"
-msgstr ""
+msgstr "thông điệp"
 
 #: gnome-vfs.keys.in.h:242
 msgid "multi-part message"
@@ -990,7 +987,7 @@ msgstr "pipe định danh"
 
 #: gnome-vfs.keys.in.h:244
 msgid "object code"
-msgstr ""
+msgstr "mã đối tượng"
 
 #: gnome-vfs.keys.in.h:245
 msgid "ogg audio"
@@ -1006,12 +1003,11 @@ msgstr "văn bản thô"
 
 #: gnome-vfs.keys.in.h:248
 msgid "profiler results"
-msgstr ""
+msgstr "kết quả profiler"
 
 #: gnome-vfs.keys.in.h:249
-#, fuzzy
 msgid "python byte code"
-msgstr "Mã nguồn Python"
+msgstr "Mã byte Python"
 
 #: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
@@ -1023,7 +1019,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:252
 msgid "rich text document"
-msgstr ""
+msgstr "tài liệu rich text"
 
 #: gnome-vfs.keys.in.h:253
 msgid "search results"
@@ -1035,7 +1031,7 @@ msgstr "thư viện dùng chung"
 
 #: gnome-vfs.keys.in.h:255
 msgid "shell archive"
-msgstr ""
+msgstr "kho lưu shell"
 
 #: gnome-vfs.keys.in.h:256
 msgid "shell script"
@@ -1051,7 +1047,7 @@ msgstr "socket"
 
 #: gnome-vfs.keys.in.h:259
 msgid "software author credits"
-msgstr ""
+msgstr "danh sách tác giả phần mềm"
 
 #: gnome-vfs.keys.in.h:260
 msgid "software installation instructions"
@@ -1063,7 +1059,7 @@ msgstr "giấy phép dùng phần mềm"
 
 #: gnome-vfs.keys.in.h:262
 msgid "source code patch"
-msgstr ""
+msgstr "patch mã nguồn"
 
 #: gnome-vfs.keys.in.h:263
 msgid "style sheet"
@@ -1075,7 +1071,7 @@ msgstr "liên kết tượng trưng"
 
 #: gnome-vfs.keys.in.h:265
 msgid "tab-separated text document"
-msgstr ""
+msgstr "tài liệu text ngăn cách bằng tab"
 
 #: gnome-vfs.keys.in.h:266
 msgid "tar archive"
@@ -1091,7 +1087,7 @@ msgstr "kho lưu tar (nén gzip)"
 
 #: gnome-vfs.keys.in.h:269
 msgid "theme"
-msgstr ""
+msgstr "theme"
 
 #: gnome-vfs.keys.in.h:270
 msgid "troff document"
@@ -1099,15 +1095,15 @@ msgstr "tài liệu troff"
 
 #: gnome-vfs.keys.in.h:271
 msgid "troff me input document"
-msgstr ""
+msgstr "tài liệu nhập troff me"
 
 #: gnome-vfs.keys.in.h:272
 msgid "troff mm input document"
-msgstr ""
+msgstr "tài liệu nhập troff mm"
 
 #: gnome-vfs.keys.in.h:273
 msgid "troff ms input document"
-msgstr ""
+msgstr "tài liệu nhập troff ms"
 
 #: gnome-vfs.keys.in.h:274
 msgid "unknown type"
