@@ -5,14 +5,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-08-13 09:08+0200\n"
-"PO-Revision-Date: 2002-08-14 10:47GMT+0020\n"
-"Last-Translator: Pēteris Krišjānis <peteris.krisjanis@os.lv>\n"
+"POT-Creation-Date: 2002-08-19 05:04+0200\n"
+"PO-Revision-Date: 2002-08-19 21:24+0200\n"
+"Last-Translator: Peteris Krisjanis <peteris.krisjanis@os.lv>\n"
 "Language-Team: Latvian <ll10nt@os.lv>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.5\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -200,7 +199,7 @@ msgstr "Dokumenti/TeX"
 
 #: gnome-vfs.keys.in.h:47
 msgid "Documents/Text Markup"
-msgstr ""
+msgstr "Dokumenti/Teksta Markup"
 
 #: gnome-vfs.keys.in.h:48
 msgid "Documents/Vector Graphics"
@@ -720,7 +719,7 @@ msgstr "RPM pakotne"
 
 #: gnome-vfs.keys.in.h:177
 msgid "Raw Gray Sample"
-msgstr ""
+msgstr "Raw Gray Paraugs"
 
 #: gnome-vfs.keys.in.h:178
 msgid "RealAudio document"
