@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
 "POT-Creation-Date: 2003-01-06 05:59+0100\n"
-"PO-Revision-Date: 2003-01-25 18:41+EDT\n"
+"PO-Revision-Date: 2003-02-03 10:16+EDT\n"
 "Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
 "Language-Team: Amharic <locales@geez.org>\n"
 "MIME-Version: 1.0\n"
@@ -285,7 +285,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:68
 msgid "GNU mail message"
-msgstr "የGNU የኢሜል መልእክት"
+msgstr "የGNU የኢሜል መልዕክት"
 
 #: gnome-vfs.keys.in.h:69
 msgid "GTK configuration"
@@ -513,7 +513,7 @@ msgstr "የMathML ሰነድ"
 
 #: gnome-vfs.keys.in.h:125
 msgid "Message"
-msgstr "መልእክት"
+msgstr "መልዕክት"
 
 #: gnome-vfs.keys.in.h:126
 msgid "Microsoft Excel spreadsheet"
@@ -629,7 +629,7 @@ msgstr "የPGP ቁልፍ"
 
 #: gnome-vfs.keys.in.h:154
 msgid "PGP message"
-msgstr "የPGP መልእክት"
+msgstr "የPGP መልዕክት"
 
 #: gnome-vfs.keys.in.h:155
 msgid "PGP signature"
@@ -945,7 +945,7 @@ msgstr "የTruevision Targa ምስል"
 
 #: gnome-vfs.keys.in.h:233
 msgid "USENET news message"
-msgstr "የUSENET ዜና መልእክት"
+msgstr "የUSENET ዜና መልዕክት"
 
 #: gnome-vfs.keys.in.h:234
 msgid "Unidata netCDF document"
