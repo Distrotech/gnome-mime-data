@@ -174,7 +174,7 @@
 0	string		.RMF					audio/x-pn-realaudio
 8	string		WAVE					audio/x-wav
 8	string		WAV\ 					audio/x-wav
-8	string		CDXA					video/mpeg
+0	string		RIFFxxxxCDXA &0xffffffff00000000ffffffff	video/mpeg
 0	string		RIFF					audio/x-riff
 0	string		OggS					application/ogg
 0	string		pnm:\/\/				audio/x-real-audio

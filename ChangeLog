@@ -1,5 +1,10 @@
 2003-12-22  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs-mime-magic: better heuristics to detect RIFF CDXA video
+	types (Closes: #129780)
+
+2003-12-22  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic: matching on "<title" brings too many false
 	positive (HTML vs. XML) (Closes: #111234)
 
