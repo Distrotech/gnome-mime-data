@@ -1,0 +1,1001 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mime-data\n"
+"POT-Creation-Date: 2003-02-04 01:07-0800\n"
+"PO-Revision-Date: 2003-01-10 14:50-0300\n"
+"Last-Translator: Kshitij <obsession@enet.com.np>\n"
+"Language-Team: Nepali <info@mpp.org.np>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "3D Studio image"
+msgstr "% थ्रि डि स्टुडिओ चित्र"
+
+msgid "AIFC audio"
+msgstr "%ए आई यफ सी ध्वनी"
+
+msgid "AIFF audio"
+msgstr "%ए आई यफ सी ध्वनी"
+
+msgid "ANIM animation"
+msgstr "ए एन आई एम एनिमेसन"
+
+msgid "AVI video"
+msgstr "% ‍ए भी आई भिडियो"
+
+msgid "AbiWord document"
+msgstr "% ए बि आई वर्ड कागजात"
+
+msgid "Adobe FrameMaker font"
+msgstr "%एडोब फ्रेम मेकर फन्ट"
+
+msgid "Adobe font metrics"
+msgstr "%एडोब फन्ट मेट्रिक्स"
+
+msgid "Andrew Toolkit inset"
+msgstr "%एन्ड्रिऊ टुलकिट इनसेट"
+
+msgid "ApplixWare Graphics image"
+msgstr "%एपलिक्सवेर चित्र"
+
+msgid "Applixware Words document"
+msgstr "%एपलिक्सवेर वर्ड कागजात "
+
+msgid "Applixware spreadsheet"
+msgstr "%एपलिक्सवेर स्प्रेडशिट"
+
+msgid "Audio"
+msgstr "% ध्वनि"
+
+msgid "AutoCAD image"
+msgstr "%अटो क्याड चित्र"
+
+msgid "BCPIO document"
+msgstr "% बि सि पि आई ओ कागजात"
+
+msgid "BDF font"
+msgstr "बि डि यफ फन्ट"
+
+msgid "C shell script"
+msgstr "%सि शेल छन्द"
+
+msgid "C source code"
+msgstr "%सि सोर्स कोड"
+
+msgid "C source code header"
+msgstr "%सि सोर्स कोड हेडर"
+
+msgid "C++ source code"
+msgstr "%सि‍‍++ सोर्स कोड हेडर"
+
+msgid "CGI program"
+msgstr "%सि जि आई प्रोगराम"
+
+msgid "CGM image"
+msgstr "सि जि यम चित्र %"
+
+msgid "CMU raster image"
+msgstr "सि यम यु रेस्टर चित्र%"
+
+msgid "CPIO archive"
+msgstr "सि पि आई ओ आर्काईभ%"
+
+msgid "CPIO archive (gzip-compressed)"
+msgstr "सि पि आई ओ आर्काईभ% (जि जिप कम्प्रेस्ड)"
+
+msgid "Commodore 64 Audio"
+msgstr "कम्मोडोर ६४ ध्वनि%"
+
+msgid "DCL script"
+msgstr "डि सि एल छन्द%"
+
+msgid "DOS font"
+msgstr "डस फन्ट%"
+
+msgid "DOS/Windows program"
+msgstr "डस विन्डो प्रोगराम%"
+
+msgid "DSSSL document"
+msgstr "डि यस यस यस एल कागजात%"
+
+msgid "DXF vector graphic"
+msgstr "डि यफ यक्स भेक्टर ग्राफिक%"
+
+msgid "Debian package"
+msgstr "डेबियन प्याकेज %"
+
+msgid "Device Independant Bitmap"
+msgstr "ईन्डिपेन्डेन्ट बिटम्याप डिभाईस%"
+
+msgid "Dia diagram"
+msgstr "डिआ चित्र%"
+
+msgid "Digital Imaging and Communications in Medicine image"
+msgstr "डिजिटल ईमेजिङ्ग र मेडिसिन ईमेज को संचार%"
+
+msgid "Digital Moving Picture Exchange"
+msgstr "डिजिटल चल चित्र आदान-प्रदान%"
+
+msgid "Documents"
+msgstr "कागजातहरु%"
+
+msgid "Documents/Diagram"
+msgstr "कागजातहरु/चित्र%"
+
+msgid "Documents/Extended Markup Language (XML)"
+msgstr "कागजातहरु/ऐक्सटेन्डेड मार्कअप लय्याङ्गवेज%"
+
+msgid "Documents/Numeric"
+msgstr "कागजातहरु/न्युमेरीक%"
+
+msgid "Documents/Plain Text"
+msgstr "कागजातहरु/सादा अक्षर"
+
+msgid "Documents/Presentation"
+msgstr "कागजातहरु/प्रस्तुतिकरण%"
+
+msgid "Documents/Project Management"
+msgstr "कागजातहरु/कार्य ब्यवस्थापन%"
+
+msgid "Documents/Published Materials"
+msgstr "कागजातहरु/निस्केका चिजबिज%"
+
+msgid "Documents/Spreadsheet"
+msgstr "कागजातहरु/सप्रेडशिट%"
+
+msgid "Documents/TeX"
+msgstr "कागजातहरु/टेक्स"
+
+msgid "Documents/Text Markup"
+msgstr "कागजातहरु/टेक्सट मार्कअप%"
+
+msgid "Documents/Vector Graphics"
+msgstr "कागजातहरु/भेक्टर ग्राफिक्स"
+
+msgid "Documents/Word Processor"
+msgstr "कागजातहरु/वर्ड प्रोसेसर "
+
+msgid "Documents/World Wide Web"
+msgstr "कागजातहरु/वर्लड वाईड वेब"
+
+msgid "Dolby Digital audio"
+msgstr "डल्बी डिजिटल ध्वनि"
+
+msgid "Dreamcast rom"
+msgstr "ड्रिमकास्ट रोम"
+
+msgid "Emacs Lisp source code"
+msgstr "ईम्येक्स लिस्प सोर्स कोड"
+
+msgid "Enlightenment theme"
+msgstr "एनलाटमेन्ट थिम"
+
+msgid "FLAC audio"
+msgstr "यफ एल ऐ सि ध्वनि"
+
+msgid "FLC animation"
+msgstr "यफ एल  सि ऐनिमेसन"
+
+msgid "FLI animation"
+msgstr "यफ एल आई ऐनिमेसन"
+
+msgid "FastTracker II audio"
+msgstr "फास्ट ट्रयाकर II अडियो"
+
+msgid "FlashPix Image"
+msgstr "फल्यास पिक्स चित्र"
+
+msgid "Flexible Image Transport System"
+msgstr "फ्लेक्सिबल ईमेज ट्रान्सपोर्ट सिस्टम"
+
+msgid "Fortran source code"
+msgstr "फोर्टट्रान सोर्स कोड"
+
+msgid "FrameMaker interchange document"
+msgstr "फ्रेममेकर ईन्टरचेन्ज कागजात"
+
+msgid "G3 fax image"
+msgstr "जि३ फ्याक्स चित्र"
+
+msgid "GIF image"
+msgstr "जि आई यफ चित्र"
+
+msgid "GIMP document"
+msgstr "जि आई यम पि कागजात"
+
+msgid "GMC link"
+msgstr "जि यम सि लिंक"
+
+msgid "GNU Oleo Spreadsheet"
+msgstr "जि यन यु ओ लिओ सप्रेडशिट"
+
+msgid "GNU mail message"
+msgstr "जि यन यु  मेल सन्देश"
+
+msgid "GTK configuration"
+msgstr "जि टि के कन्फिगरेसन"
+
+msgid "Game Boy rom"
+msgstr "गेम ब्वाई रोम"
+
+msgid "Genesis rom"
+msgstr "जेनिसिस रोम"
+
+msgid "Glade project"
+msgstr "ग्लेड प्रोजेक्ट"
+
+msgid "GnuCash Workbook"
+msgstr "ग्नु क्यास वर्कबुक"
+
+msgid "Gnumeric spreadsheet"
+msgstr "ग्नुमेरिक सप्रेडशिट"
+
+msgid "Gtktalog Catalogue"
+msgstr "जिटिकटा लग क्याटलग"
+
+msgid "HDF document"
+msgstr "यच डि यफ कागजात"
+
+msgid "HTML page"
+msgstr "यच टि यम यल पेज"
+
+msgid "Haskell source code"
+msgstr "हेस्केल सोर्स कोड"
+
+msgid "IDL document"
+msgstr "आई डि यल कागजात"
+
+msgid "IEF image"
+msgstr "आई ई यफ चित्र"
+
+msgid "IFF image"
+msgstr "आई यफ यफ चित्र"
+
+msgid "ILBM image"
+msgstr "आई यल बि यम चित्र"
+
+msgid "ISI video"
+msgstr "आई यस आई भिडिओ"
+
+msgid "ISO image"
+msgstr "आई यस ओ चित्र"
+
+msgid "Images"
+msgstr "चित्रहरु"
+
+msgid "Impulse Tracker audio"
+msgstr "ईम्पल्स ट्रयाकर ध्वनि"
+
+msgid "Information"
+msgstr "सुचना"
+
+msgid "Information/Calendar"
+msgstr "सुचना/क्यालेन्डर"
+
+msgid "Information/Financial"
+msgstr "सुचना/आर्थिक"
+
+msgid "JBuilder Project"
+msgstr "जे बिल्डर प्रोजेक्ट"
+
+msgid "JPEG image"
+msgstr "जे पि ई जि चित्र"
+
+msgid "Java byte code"
+msgstr "जाभा बाईट कोड"
+
+msgid "Java source code"
+msgstr "जाभा सोर्स कोड"
+
+msgid "KDE application details"
+msgstr "के डि ई एप्लिकेसन बिबरण"
+
+msgid "KIllustrator document"
+msgstr "के आई ईल्लसट्रेटर कागजात"
+
+msgid "KPresenter presentation"
+msgstr "के प्रेजेन्टर प्रेजेन्टेसन"
+
+msgid "KSpread spreadsheet"
+msgstr "के स्प्रेड स्प्रेडशिट"
+
+msgid "KWord document"
+msgstr "के वर्ड कागजात"
+
+msgid "Korn shell script"
+msgstr "कर्न शेल स्कृप्ट"
+
+msgid "LHA archive"
+msgstr "यल यच ए  आर्काईभ"
+
+msgid "LHARC archive"
+msgstr "यल यच ए आर सि आर्काईभ"
+
+msgid "LIBGRX font"
+msgstr "एल आई बी जि आर एक्स लिपी"
+
+msgid "LightWave object"
+msgstr "लाईट वेभ बस्तु"
+
+msgid "LightWave scene"
+msgstr "लाईट वेभ सिन"
+
+msgid "Linux PSF console font"
+msgstr "लिनक्स पि एस एफ कन्सोल लिपी"
+
+msgid "Literate haskell source code"
+msgstr "लिटरेट हेस्केल सोर्स कोड"
+
+msgid "Lotus 1-2-3 spreadsheet"
+msgstr "लोटस १-२-३ स्प्रेडशिट"
+
+msgid "LyX Document"
+msgstr "एल वाई एक्स कागजात"
+
+msgid "MIDI audio"
+msgstr "मि डि ध्वनि"
+
+msgid "MOD audio"
+msgstr "एम ओ डि ध्वनि"
+
+msgid "MP3 audio"
+msgstr "एम पि थ्रि ध्वनि"
+
+msgid "MP3 audio playlist"
+msgstr "एम पि थ्रि प्ले लिस्ट"
+
+msgid "MPEG audio"
+msgstr "एम पि ई जि ध्वनि"
+
+msgid "MPEG video"
+msgstr "एम पि ई जि भिडिओ"
+
+msgid "MS ASF video"
+msgstr "एम एस ए एस एफ भिडिओ "
+
+msgid "MS video"
+msgstr "एम एस भिडिओ"
+
+msgid "MSX rom"
+msgstr "एम एस यक्स रोम"
+
+msgid "MacBinary file"
+msgstr "म्याक बाईनरि फाईल"
+
+msgid "Macintosh AppleDouble-encoded file"
+msgstr "म्यासिन्थोस एप्पल डबल ईन्कोडेड फाईल"
+
+msgid "Macintosh BinHex-encoded file"
+msgstr "म्यासिन्थोस बिन हेक्स ईन्कोडेड फाईल "
+
+msgid "Macintosh StuffIt archive"
+msgstr "म्यासिन्थोस स्टफ ईट आर्काईभ"
+
+msgid "Macromedia Flash file"
+msgstr "म्याकरोमिडिया फ्लयास फाईल"
+
+msgid "Magick image format"
+msgstr "म्याजिक चित्र फरम्याट"
+
+msgid "MathML document"
+msgstr "म्याथ एम एल कागजात"
+
+msgid "Message"
+msgstr "सन्देश"
+
+msgid "Microsoft Excel spreadsheet"
+msgstr "माइक्रोसफ्ट एक्सेल स्प्रेडशिटl"
+
+msgid "Microsoft PowerPoint document"
+msgstr "माइक्रोसफ्ट पावर प्वाईन्ट कागजात"
+
+msgid "Microsoft WMV video"
+msgstr "माइक्रोसफ्ट डब्लु एम भि भिडिओ"
+
+msgid "Microsoft Word document"
+msgstr "माइक्रोसफ्ट वर्ड कागजात"
+
+msgid "Microsoft video"
+msgstr "माइक्रोसफ्ट भिडिओ"
+
+msgid "NES rom"
+msgstr "एन ई एस रोम"
+
+msgid "Nautilus link"
+msgstr "नाऊटिलस लिंक"
+
+msgid "Nintendo64 rom"
+msgstr "निन्टेन्डो ६४ रोम"
+
+msgid "ODA document"
+msgstr "ओ डि ए कागजात"
+
+msgid "OpenOffice.org Impress presentation"
+msgstr "ओपन अफिस.ओ आर जि ईम्प्रेस प्रेजेन्टेसन"
+
+msgid "OpenOffice.org Impress presentation template"
+msgstr "ओपन अफिस.ओ आर जि ईम्प्रेस प्रेजेन्टेसन टेमप्लेट"
+
+msgid "OpenOffice.org Math document"
+msgstr "ओपन अफिस.ओ आर जि म्याथ कागजात"
+
+msgid "OpenOffice.org Writer document"
+msgstr "ओपन अफिस.ओ आर जि राईटर कागजात"
+
+msgid "OpenOffice.org Writer global document"
+msgstr "ओपन अफिस.ओ आर जि राईटर ग्लोबल कागजात"
+
+msgid "OpenOffice.org Writer template"
+msgstr "ओपन अफिस.ओ आर जि राईटर टेमप्लेट"
+
+msgid "OpenOffice.org drawing"
+msgstr "ओपन अफिस.ओ आर जि चित्रबनाऊ"
+
+msgid "OpenOffice.org drawing template"
+msgstr "ओपन अफिस.ओ आर जि चित्रबनाऊने टेमप्लेट "
+
+msgid "OpenOffice.org spreadsheet"
+msgstr "ओपन अफिस.ओ आर जि स्प्रेडशिट"
+
+msgid "OpenOffice.org spreadsheet template"
+msgstr "ओपन अफिस.ओ आर जि स्प्रेडशिट टेमप्लेट"
+
+msgid "OpenType font"
+msgstr " खुल्ला लिपि"
+
+msgid "PBM image"
+msgstr "पि बि एम चित्र"
+
+msgid "PC Paintbrush image"
+msgstr "पि सि पेन्टब्रश चित्र"
+
+msgid "PCF font"
+msgstr "पि सि एफ लिपि"
+
+msgid "PDF document"
+msgstr "पि डि एफ कागजात"
+
+msgid "PEF program"
+msgstr "पि ई एफ प्रोगराम"
+
+msgid "PGM image"
+msgstr "पि जि एम चित्र"
+
+msgid "PGN chess game"
+msgstr "पि जि एम चेस खेल"
+
+msgid "PGP keys"
+msgstr "पि जि पि साँचोहरु"
+
+msgid "PGP message"
+msgstr "पि जि पि सन्देश"
+
+msgid "PGP signature"
+msgstr "पि जि पि हस्ताक्षर"
+
+msgid "PGP-encrypted file"
+msgstr "पि जि पि एनक्रिप्टेड फाईल"
+
+msgid "PHP script"
+msgstr "पि एच पि स्कृप्ट"
+
+msgid "PICT image"
+msgstr "पि आई सि टि चित्र"
+
+msgid "PNG image"
+msgstr "पि एन जि चित्र"
+
+msgid "PNM image"
+msgstr "पि एन एम चित्र "
+
+msgid "PPM image"
+msgstr "पि पि एम चित्र"
+
+msgid "Packages"
+msgstr "प्याकेजहरु"
+
+msgid "Palm OS database"
+msgstr "पाल्म ओ एस डाटाबेस"
+
+msgid "Palm Pixmap image"
+msgstr "पाल्म पिक्सम्याप चित्र"
+
+msgid "Perl script"
+msgstr "पर्ल स्कृप्ट"
+
+msgid "Photo CD image"
+msgstr "फोटो सि डी चित्र"
+
+msgid "Photoshop document"
+msgstr "फोटोशप कागजात"
+
+msgid "Playlist"
+msgstr "बजाऊने लिस्ट"
+
+msgid "PostScript Type 1 font"
+msgstr "पोस्ट स्कृप्ट टाईप १ लिपि"
+
+msgid "PostScript document"
+msgstr "पोस्ट स्कृप्ट कागजात"
+
+msgid "Project Plan"
+msgstr "प्रोजेक्ट प्लान"
+
+msgid "Python source code"
+msgstr "पाईथन सोर्स कोड"
+
+msgid "QuickTime movie"
+msgstr "क्विक टाईम फिल्म"
+
+msgid "Quicken document"
+msgstr "क्विकन कागजात"
+
+msgid "Quicken for Windows document"
+msgstr "विनडोज को लागी क्विकन कागजात"
+
+msgid "RAR archive"
+msgstr "आर ए आर आर्काईभ"
+
+msgid "README document"
+msgstr "मलाई पढनुहोस कागजात "
+
+msgid "RGB image"
+msgstr "आर जि बि चित्र"
+
+msgid "RIFF audio"
+msgstr "आर आई एफ एफ ध्वनि"
+
+msgid "RPM package"
+msgstr "आर पि एम प्याकेज"
+
+msgid "Raw Gray Sample"
+msgstr "र ग्रे नमुना"
+
+msgid "RealAudio document"
+msgstr "रियल अडियो कागजात  "
+
+msgid "RealAudio/Video document"
+msgstr "रियल अडियो/भिडिओ कागजात "
+
+msgid "RealVideo video"
+msgstr "रियल भिडिओ भिडिओ "
+
+msgid "S/MIME file"
+msgstr "एस/एम आई एम ई फाईल"
+
+msgid "S/MIME signature"
+msgstr "एस/एम आई एम ई हस्ताक्षर"
+
+msgid "SGI video"
+msgstr "एस जि आई भिडिओ"
+
+msgid "SGML document"
+msgstr "एस जि एम एल कागजात"
+
+msgid "SHOUTcast Playlist"
+msgstr "शाऊट कास्ट बजाऊने लिस्ट"
+
+msgid "SMIL script"
+msgstr "एस एम आई एल स्कृपट"
+
+msgid "SMS or Game Gear rom"
+msgstr "एस एम एस अथवा गेम गियर रोम"
+
+msgid "SQL code"
+msgstr "एस क्यु एल कोड"
+
+msgid "SUN Rasterfile"
+msgstr "सन रास्टर फाईल"
+
+msgid "SV4 CPIO archive"
+msgstr "एस भि ४ सि पि आई ओ आर्काईभ"
+
+msgid "SV4 CPIP archive (with CRC)"
+msgstr "एस भि ४ सि पि आई पि(सि आर सि सहित)" 
+
+msgid "SVG art"
+msgstr "एस भि जि आर्ट"
+
+msgid "Scheme source code"
+msgstr "स्किम सोर्स कोड"
+
+msgid "Scream Tracker 3 audio"
+msgstr "स्क्रिम ट्रयाकर ३ ध्वनि"
+
+msgid "Scream Tracker audio"
+msgstr "स्क्रिम ट्रयाकर ध्वनि"
+
+msgid "Scream Tracker instrument"
+msgstr "स्क्रिम ट्रयाकर बाद्यबादन"
+
+msgid "Security"
+msgstr "सुरक्षा"
+
+msgid "Setext document"
+msgstr "छानिएको कागजात"
+
+msgid "Silicon Graphics Image"
+msgstr "सिलिकन ग्राफिक्स चित्र"
+
+msgid "Software Development"
+msgstr "सफ्टवेर बिकास"
+
+msgid "Software Development/ROM Images"
+msgstr "सफ्टवेर बिकास/रोम चित्र"
+
+msgid "Software Development/Source Code"
+msgstr "सफ्टवेर बिकास/सोर्स कोड"
+
+msgid "Speech document"
+msgstr "स्पिच कागजात"
+
+msgid "Speedo font"
+msgstr "स्पिडो लिपि"
+
+msgid "Spreadsheet Interchange document"
+msgstr "सप्रेडशिट ईन्टरचेन्ज कागजात"
+
+msgid "Stampede package"
+msgstr "स्टयाम्पेड प्याकेज"
+
+msgid "StarCalc spreadsheet"
+msgstr "स्टारक्याल्क सप्रेडशिट"
+
+msgid "StarChart chart"
+msgstr "स्टारचार्ट चार्ट "
+
+msgid "StarDraw drawing"
+msgstr "स्टारड्र ड्रईंग"
+
+msgid "StarImpress presentation"
+msgstr "स्टारलमप्रेस प्रस्तुति"
+
+msgid "StarMail file"
+msgstr "स्टार मेल फाईलl"
+
+msgid "StarMath document"
+msgstr "स्टार म्याथ कागजात"
+
+msgid "StarOffice extended metafile image"
+msgstr "स्टार अफिस ऐक्सटेन्डेड मेटा फाईल"
+
+msgid "StarWriter document"
+msgstr "स्टार राईटर कागजात"
+
+msgid "Sun mu-law audio"
+msgstr "सन मु-लअ ध्वनि"
+
+msgid "SunOS News font"
+msgstr "सन ओ एस न्युज लिपि"
+
+msgid "System"
+msgstr "सिस्टम"
+
+msgid "TIFF image"
+msgstr "टि आई एफ एफ चित्र"
+
+msgid "TarGA image"
+msgstr "टारगा चित्र"
+
+msgid "Tcl script"
+msgstr "टि सि एल सकृप्टl"
+
+msgid "TeX document"
+msgstr "टेक्स कागजात"
+
+msgid "TeX dvi document"
+msgstr "टेक्स डि भि आई कागजातi"
+
+msgid "TeX font"
+msgstr "टेक्स लिपि"
+
+msgid "TeX font metrics"
+msgstr "टेक्सलिपि मेट्रिक्स "
+
+msgid "TeXInfo document"
+msgstr "टेक्स ईन्फो कागजात"
+
+msgid "ToutDoux document"
+msgstr "टाऊट डाऊक्स कागजात"
+
+msgid "TrueType font"
+msgstr "ट्रऊ टाईप लिपि"
+
+msgid "Truevision Targa image"
+msgstr "ट्रऊ भिजन टारगा चित्र"
+
+msgid "USENET news message"
+msgstr "युजनेट न्युज सन्देश"
+
+msgid "Unidata netCDF document"
+msgstr "युनिडेटा नेट सि डि एफ कागजात"
+
+msgid "User Interface"
+msgstr "प्रयोगकर्ता को लागि"
+
+msgid "User Interface/Fonts"
+msgstr "प्रयोगकर्ता को लागि/लिपि"
+
+msgid "V font"
+msgstr "भि लिपि"
+
+msgid "VOC audio"
+msgstr "भि ओ सि ध्वनि"
+
+msgid "VRML document"
+msgstr "भि आर एम एल कागजातL"
+
+msgid "Video"
+msgstr "भिडिओ"
+
+msgid "Vivo video"
+msgstr "भिभो भिडिओ"
+
+msgid "WAIS source code"
+msgstr "वेस सोर्स कोड"
+
+msgid "Wavelet video"
+msgstr "वेभलेट भिडिओt"
+
+msgid "Windows bitmap image"
+msgstr "विन्डोज बिटम्याप चित्र"
+
+msgid "Windows icon image"
+msgstr "विन्डोज आईकन चित्र "
+
+msgid "Windows metafile graphics"
+msgstr "विन्डोज मेटाफाईल ग्राफिक्स"
+
+msgid "WordPerfect document"
+msgstr "वर्ड पर्फेक्ट कागजात"
+
+msgid "X bitmap image"
+msgstr "एक्स बिटम्याप चित्र "
+
+msgid "X window image"
+msgstr "एक्स विन्डो चित्र"
+
+msgid "XML document"
+msgstr "एक्स एम एल कागजात"
+
+msgid "XPM image"
+msgstr "एक्स पि एम चित्र"
+
+msgid "Xbase database"
+msgstr "एक्सबेस डेटाबेस"
+
+msgid "Z shell script"
+msgstr "जेड शेल स्कृप्ट"
+
+msgid "active server page"
+msgstr "एक्टिभ सर्भर पेज"
+
+msgid "address card"
+msgstr "ठेगाना कार्ड"
+
+msgid "application launcher"
+msgstr "एप्लिकेशन लन्चर"
+
+msgid "ar archive"
+msgstr "एर आर्काईभ"
+
+msgid "arj archive"
+msgstr "ए आर जे आर्काईभ"
+
+msgid "authors list"
+msgstr "लेखकको लिस्ट"
+
+msgid "backup file"
+msgstr "ब्याकअप फाईल"
+
+msgid "basic audio"
+msgstr "बेसिक अडिओ"
+
+msgid "bibliography record"
+msgstr "बिब्लोग्राफि रेकर्ड"
+
+msgid "binary program"
+msgstr "बाईनरि प्रोगराम"
+
+msgid "block device"
+msgstr "ब्लक डिभाईस"
+
+msgid "bzip-compressed file"
+msgstr "बि जिप कम्प्रेस्ड फाईल"
+
+msgid "calendar file"
+msgstr "क्यालेन्डर फाईल"
+
+msgid "calendar or event document"
+msgstr "क्यालेन्डर अथवा ईभेन्ट कागजात"
+
+msgid "character device"
+msgstr "क्यारेक्टर डिभाईस"
+
+msgid "comma-separated text document"
+msgstr "कमा सेपरेटेड टेक्ट कागजात"
+
+msgid "compound document"
+msgstr "कम्पाऊण्ड कागजात"
+
+msgid "compress-compressed file"
+msgstr "कम्प्रेस-कम्प्रेस्ड फाईल "
+
+msgid "compressed GIMP document"
+msgstr "कम्प्रेस्ड जि आई एम पि कागजात"
+
+msgid "directory information file"
+msgstr "डाईरेक्टरिको सुचना दिने फाईल"
+
+msgid "document type definition"
+msgstr "डक्युमेन्ट टाईप डेफिनेसन"
+
+msgid "email headers"
+msgstr "ई-मेल हेडरस"
+
+msgid "email message/mailbox"
+msgstr "ई-मेल सन्देश/चिठ्ठी बाकस"
+
+msgid "encrypted message"
+msgstr "एनकृप्टेड सन्देश"
+
+msgid "enriched text document"
+msgstr "एनरिचड टेक्सट कागजात"
+
+msgid "folder"
+msgstr "फोल्डर"
+
+msgid "gtar archive"
+msgstr "जि टि ए आर आर्काईभ"
+
+msgid "gzip-compressed file"
+msgstr "जि जिप कम्प्रेस्ड फाईल"
+
+msgid "help page"
+msgstr "सहयोग पाना"
+
+msgid "mail delivery report"
+msgstr "मेल पुर्याएको रिपोर्ट"
+
+msgid "mail disposition report"
+msgstr "मेल डिस्पोजिसन रिपोर्ट"
+
+msgid "mail system report"
+msgstr "मेल सिस्टम रिपोर्ट"
+
+msgid "makefile"
+msgstr "फाईल बनाऊने"
+
+msgid "manual page"
+msgstr "म्यानुअल पाना"
+
+msgid "manual page (compressed)"
+msgstr "म्यानुअल पाना(कम्प्रेस्ड)"
+
+msgid "memory dump"
+msgstr "मेमोरि डम्प"
+
+msgid "message digest"
+msgstr "मेसेज डाईजेस्ट"
+
+msgid "message in several formats"
+msgstr "बिभिन्न फरम्याट मा सन्देश"
+
+msgid "multi-part message"
+msgstr "मल्टि पार्ट सन्देश "
+
+msgid "named pipe"
+msgstr "नेम्ड पाईप"
+
+msgid "object code"
+msgstr "अब्जेक्ट कोड"
+
+msgid "ogg audio"
+msgstr "अग ध्वनि"
+
+msgid "partial email message"
+msgstr "टुक्रा ई-मेल सन्देश"
+
+msgid "plain text document"
+msgstr "सादा टेक्सट कागजात"
+
+msgid "profiler results"
+msgstr "प्रोफाईलर रिजल्ट"
+
+msgid "python byte code"
+msgstr "पाईथन बाईट कोड"
+
+msgid "reference to remote file"
+msgstr "रेफरेन्स टु रिमोट फाईल"
+
+msgid "rejected patch file"
+msgstr "अस्विकृत प्याच फाईल"
+
+msgid "rich text document"
+msgstr "रिच टेक्सट कागजात"
+
+msgid "search results"
+msgstr "खोजिएको फल"
+
+msgid "shared library"
+msgstr "बांडिएको लाईब्रेरी"
+
+msgid "shell archive"
+msgstr "शेल आर्काईभ"
+
+msgid "shell script"
+msgstr "शेल स्कृप्ट"
+
+msgid "signed message"
+msgstr "हस्ताक्षरित सन्देश"
+
+msgid "socket"
+msgstr "सकेट"
+
+msgid "software author credits"
+msgstr "सफ्टवेर अथर क्रेडिट्स"
+
+msgid "software installation instructions"
+msgstr "सफ्टवेर ईन्सटलगर्न ईन्ट्रक्सन"
+
+msgid "software license terms"
+msgstr "सफ्टवेर लाईसेन्स टर्मस"
+
+msgid "source code patch"
+msgstr "सोर्स कोड प्याच"
+
+msgid "style sheet"
+msgstr "स्टाईल शिट"
+
+msgid "symbolic link"
+msgstr "सिम्बोलिक लिंक"
+
+msgid "tab-separated text document"
+msgstr "ट्याबले छुट्याईएको टेक्सट कागजात"
+
+msgid "tar archive"
+msgstr "टार आर्काइभ"
+
+msgid "tar archive (bzip2-compressed)"
+msgstr "टार आर्काइभ(बिजिप२- कम्प्रेस्ड)"
+
+msgid "tar archive (gzip-compressed)"
+msgstr "टार आर्काइभ(जिप- कम्प्रेस्ड)"
+
+msgid "theme"
+msgstr "थिम"
+
+msgid "troff document"
+msgstr "ट्रोफ कागजात "
+
+msgid "troff me input document"
+msgstr "ट्रोफ एम ई ईनपुट कागजात"
+
+msgid "troff mm input document"
+msgstr "ट्रोफ एम एम ईनपुट कागजात"
+
+msgid "troff ms input document"
+msgstr "ट्रोफ एम एस ईनपुट कागजात"
+
+msgid "unknown type"
+msgstr "थाहा नभएको खालको"
+
+msgid "ustar archive"
+msgstr "उस्टrर आर्काइभ"
+
+msgid "wave audio"
+msgstr "ध्वनि तरंग"
+
+msgid "web folder"
+msgstr "वेब फोल्डर"
+
+msgid "xfig vector graphic"
+msgstr "एक्स एफ आई जि भेक्टर ग्राफिक"
+
+msgid "zip archive"
+msgstr "जिप आर्काइभ"
+
+msgid "zoo archive"
+msgstr "जु आर्काइभ"
