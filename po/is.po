@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: Samuel Jon Gunnarsson <sammi@techattack.nu>\n"
 "Language-Team: Icelandic <gnome@techattack.nu>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -56,11 +56,11 @@ msgstr "Adobe FrameMaker letur"
 
 #: gnome-vfs.keys.in.h:11
 msgid "Adobe font metrics"
-msgstr ""
+msgstr "Adobe leturupplýsingar"
 
 #: gnome-vfs.keys.in.h:12
 msgid "Andrew Toolkit inset"
-msgstr ""
+msgstr "Andrew Toolkit inset"
 
 #: gnome-vfs.keys.in.h:13
 msgid "Application launcher"
@@ -87,7 +87,6 @@ msgid "Ar archive"
 msgstr "Ar skráarsafn"
 
 #: gnome-vfs.keys.in.h:19
-#, fuzzy
 msgid "Assembly source code"
 msgstr "Smalamálsfrumkóði"
 
@@ -121,10 +120,9 @@ msgstr "Basic hljóðskrá"
 
 #: gnome-vfs.keys.in.h:27
 msgid "Bibliography record"
-msgstr ""
+msgstr "Uppflettiorðafærsla"
 
 #: gnome-vfs.keys.in.h:28
-#, fuzzy
 msgid "Binary program"
 msgstr "Tvíundarforrit"
 
@@ -134,7 +132,7 @@ msgstr "Blender skrá"
 
 #: gnome-vfs.keys.in.h:30
 msgid "Block device"
-msgstr "Blokkeining"
+msgstr "Blokkartæki"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Bzip2 compressed file"
@@ -142,16 +140,15 @@ msgstr "Bzip2 þjöppuð skrá"
 
 #: gnome-vfs.keys.in.h:32
 msgid "C shell script"
-msgstr "C skjeljar forskrift"
+msgstr "C skjeljarforrit"
 
 #: gnome-vfs.keys.in.h:33
 msgid "C source code"
 msgstr "C frumkóði"
 
 #: gnome-vfs.keys.in.h:34
-#, fuzzy
 msgid "C source code header"
-msgstr "C frumkóðahaus"
+msgstr "C frumkóðahausaskrá"
 
 #: gnome-vfs.keys.in.h:35
 msgid "C++ source code"
@@ -166,7 +163,6 @@ msgid "CGM image"
 msgstr "CGM mynd"
 
 #: gnome-vfs.keys.in.h:38
-#, fuzzy
 msgid "CMU raster image"
 msgstr "CMU rastamynd"
 
@@ -248,19 +244,19 @@ msgstr "Dia teikning"
 
 #: gnome-vfs.keys.in.h:58
 msgid "Digital Imaging and Communications in Medicine image"
-msgstr ""
+msgstr "Digital Imaging and Communications í lyfjafræði"
 
 #: gnome-vfs.keys.in.h:59
 msgid "Digital Moving Picture Exchange image"
-msgstr ""
+msgstr "Digital Moving Picture skiptiskrá"
 
 #: gnome-vfs.keys.in.h:60
 msgid "Directory information file"
-msgstr "Möppu upplýsingaskrá"
+msgstr "Möppuupplýsingaskrá"
 
 #: gnome-vfs.keys.in.h:61
 msgid "Document type definition"
-msgstr "skráarskilgreining"
+msgstr "Skráarskilgreining"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Documents"
@@ -272,12 +268,11 @@ msgstr "SKjöl/Teikning"
 
 #: gnome-vfs.keys.in.h:64
 msgid "Documents/Extended Markup Language (XML)"
-msgstr ""
+msgstr "Skjöl/Extended Markup málið (XML)"
 
 #: gnome-vfs.keys.in.h:65
-#, fuzzy
 msgid "Documents/Numeric"
-msgstr "Skjöl/Numeric"
+msgstr "Skjöl/Töluleg"
 
 #: gnome-vfs.keys.in.h:66
 msgid "Documents/Plain Text"
@@ -293,7 +288,7 @@ msgstr "Skjöl/Verkefnastjórnun"
 
 #: gnome-vfs.keys.in.h:69
 msgid "Documents/Published Materials"
-msgstr ""
+msgstr "Skjöl/Útgefið efni"
 
 #: gnome-vfs.keys.in.h:70
 msgid "Documents/Spreadsheet"
@@ -305,7 +300,7 @@ msgstr "Skjöl/TeX"
 
 #: gnome-vfs.keys.in.h:72
 msgid "Documents/Text Markup"
-msgstr ""
+msgstr "Skjöl/Texti"
 
 #: gnome-vfs.keys.in.h:73
 msgid "Documents/Vector Graphics"
@@ -313,11 +308,11 @@ msgstr "Skjöl/Vektorgrafík"
 
 #: gnome-vfs.keys.in.h:74
 msgid "Documents/Word Processor"
-msgstr ""
+msgstr "Skjöl/Ritvinnsla"
 
 #: gnome-vfs.keys.in.h:75
 msgid "Documents/World Wide Web"
-msgstr ""
+msgstr "Skjöl/Vefurinn"
 
 #: gnome-vfs.keys.in.h:76
 msgid "Dolby Digital audio"
@@ -389,7 +384,7 @@ msgstr "Fortran frumkóði"
 
 #: gnome-vfs.keys.in.h:93
 msgid "FrameMaker interchange document"
-msgstr ""
+msgstr "FrameMaker skiptiskrá"
 
 #: gnome-vfs.keys.in.h:94
 msgid "G3 fax image"
@@ -561,7 +556,7 @@ msgstr "KWord skjal"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Korn shell script"
-msgstr "Korn skjeljarforskrift"
+msgstr "Korn skjeljarforrit"
 
 #: gnome-vfs.keys.in.h:137
 msgid "LHA archive"
@@ -585,7 +580,7 @@ msgstr "LightWave sena"
 
 #: gnome-vfs.keys.in.h:142
 msgid "Linux PSF console font"
-msgstr ""
+msgstr "Linux PSF stjórnskjáaletur"
 
 #: gnome-vfs.keys.in.h:143
 msgid "Literate haskell source code"
@@ -661,11 +656,11 @@ msgstr "Magick myndaform"
 
 #: gnome-vfs.keys.in.h:161
 msgid "Mail delivery report"
-msgstr ""
+msgstr "Póstflutningskvittun"
 
 #: gnome-vfs.keys.in.h:162
 msgid "Mail disposition report"
-msgstr ""
+msgstr "Póstkvittun"
 
 #: gnome-vfs.keys.in.h:163
 msgid "Mail system report"
@@ -673,15 +668,15 @@ msgstr "Póstkerfisskýrsla"
 
 #: gnome-vfs.keys.in.h:164
 msgid "Makefile"
-msgstr "Make skrá"
+msgstr "Make-skrá"
 
 #: gnome-vfs.keys.in.h:165
 msgid "Manual page"
-msgstr "Manual síða"
+msgstr "Handbókarsíða"
 
 #: gnome-vfs.keys.in.h:166
 msgid "Manual page (compressed)"
-msgstr "Manual síða (þjöppuð)"
+msgstr "Handbókarsíða (þjöppuð)"
 
 #: gnome-vfs.keys.in.h:167
 msgid "Master System or Game Gear ROM"
@@ -693,19 +688,19 @@ msgstr "MathML skjal"
 
 #: gnome-vfs.keys.in.h:169
 msgid "Memory dump"
-msgstr "Minnis demba"
+msgstr "Minnisdemba"
 
 #: gnome-vfs.keys.in.h:170
 msgid "Message"
-msgstr "Skilaboð"
+msgstr "Skeyti"
 
 #: gnome-vfs.keys.in.h:171
 msgid "Message digest"
-msgstr ""
+msgstr "Summuskeyti"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Message in several formats"
-msgstr ""
+msgstr "Skeyti á mörgum sniðum"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Microsoft Excel spreadsheet"
@@ -741,7 +736,7 @@ msgstr "Mozilla bókamerkjaskrá"
 
 #: gnome-vfs.keys.in.h:181
 msgid "Multi-part message"
-msgstr ""
+msgstr "Marghlutaskeyti"
 
 #: gnome-vfs.keys.in.h:182
 msgid "NES ROM"
@@ -772,7 +767,6 @@ msgid "ODA document"
 msgstr "ODA skjal"
 
 #: gnome-vfs.keys.in.h:189
-#, fuzzy
 msgid "Object code"
 msgstr "Millikóði"
 
@@ -798,7 +792,7 @@ msgstr "OpenOffice.org Writer skjal"
 
 #: gnome-vfs.keys.in.h:195
 msgid "OpenOffice.org Writer global document"
-msgstr ""
+msgstr "OpenOffice.org Writer víðvært skjal"
 
 #: gnome-vfs.keys.in.h:196
 msgid "OpenOffice.org Writer template"
@@ -902,7 +896,7 @@ msgstr "Palm Pixmap mynd"
 
 #: gnome-vfs.keys.in.h:221
 msgid "Partial email message"
-msgstr ""
+msgstr "Hluti af tölvupóstskeyti"
 
 #: gnome-vfs.keys.in.h:222
 msgid "Pascal source code"
@@ -1094,15 +1088,15 @@ msgstr "Samnýttur Prentari"
 
 #: gnome-vfs.keys.in.h:269
 msgid "Shared library"
-msgstr ""
+msgstr "Deilt aðgerðasafn"
 
 #: gnome-vfs.keys.in.h:270
 msgid "Shell archive"
-msgstr ""
+msgstr "Skeljarsafnskrá"
 
 #: gnome-vfs.keys.in.h:271
 msgid "Shell script"
-msgstr "Skjeljar forskrift"
+msgstr "Skjeljarforrit"
 
 #: gnome-vfs.keys.in.h:272
 msgid "Signed message"
@@ -1154,7 +1148,7 @@ msgstr "Speedo letur"
 
 #: gnome-vfs.keys.in.h:284
 msgid "Spreadsheet Interchange document"
-msgstr ""
+msgstr "Skiptiskjal fyrir töflureikna"
 
 #: gnome-vfs.keys.in.h:285
 msgid "Stampede package"
@@ -1186,7 +1180,7 @@ msgstr "StarMath skjal"
 
 #: gnome-vfs.keys.in.h:292
 msgid "StarOffice extended metafile image"
-msgstr ""
+msgstr "StarOffice myndskrá"
 
 #: gnome-vfs.keys.in.h:293
 msgid "StarWriter document"
@@ -1194,7 +1188,7 @@ msgstr "StarWriter skjal"
 
 #: gnome-vfs.keys.in.h:294
 msgid "Style sheet"
-msgstr ""
+msgstr "Stílsíða"
 
 #: gnome-vfs.keys.in.h:295
 msgid "Sun mu-law audio"
@@ -1226,7 +1220,7 @@ msgstr "Tar skráarsafn"
 
 #: gnome-vfs.keys.in.h:302
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "Tar skráarsafn(Bzip2 þjappað)"
+msgstr "Tar skráarsafn (Bzip2 þjappað)"
 
 #: gnome-vfs.keys.in.h:303
 msgid "Tar archive (Gzip-compressed)"
@@ -1254,7 +1248,7 @@ msgstr "TeX letur"
 
 #: gnome-vfs.keys.in.h:309
 msgid "TeX font metrics"
-msgstr ""
+msgstr "TeX leturupplýsingar"
 
 #: gnome-vfs.keys.in.h:310
 msgid "TeXInfo document"
@@ -1398,7 +1392,7 @@ msgstr "Yacc málfræðikóði"
 
 #: gnome-vfs.keys.in.h:345
 msgid "Z shell script"
-msgstr "Z skeljar forskrift"
+msgstr "Z skeljarforrit"
 
 #: gnome-vfs.keys.in.h:346
 msgid "Zip archive"
@@ -1419,4 +1413,3 @@ msgstr "iPod hugbúnaður"
 #: gnome-vfs.keys.in.h:350
 msgid "xfig vector graphic"
 msgstr "xfig vektorgrafík"
-
