@@ -1,17 +1,18 @@
+# translation of es.po to Spanish
 # translation of gnome-mime-data.HEAD to Spanish
 # GNOME-mime-data Spanish translation file.
 # Copyright © 2000,2002,2003 Free Software Foundation, Inc.
 # Manuel de Vega Barreiro <barreiro@arrakis.es>, 2000.
 # Mauricio Araya Polo <mauricio@eazel.com>, 2001.
 # Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2002-2003.
-# Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2003.
+# Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2003, 2004.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-01-01 20:12+0100\n"
-"PO-Revision-Date: 2004-01-01 20:12+0100\n"
+"PO-Revision-Date: 2004-03-06 18:43+0100\n"
 "Last-Translator: Francisco Javier F. Serrador <serrador@cvs.gnome.org>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +94,7 @@ msgstr "Hoja de cálculo de Applixware"
 
 #: gnome-vfs.keys.in.h:19
 msgid "Ar archive"
-msgstr "Paquete ar"
+msgstr "Paquete Ar"
 
 #: gnome-vfs.keys.in.h:20
 msgid "Assembly source code"
@@ -1145,7 +1146,7 @@ msgstr "Paquete de shell"
 
 #: gnome-vfs.keys.in.h:282
 msgid "Shell script"
-msgstr "Sript de shell"
+msgstr "Script de shell"
 
 #: gnome-vfs.keys.in.h:283
 msgid "Signed message"
@@ -1313,7 +1314,7 @@ msgstr "Documento de ToutDoux"
 
 #: gnome-vfs.keys.in.h:324
 msgid "Troff document"
-msgstr "Documento troff"
+msgstr "Documento Troff"
 
 #: gnome-vfs.keys.in.h:325
 msgid "Troff me input document"
@@ -1357,7 +1358,7 @@ msgstr "Interfaz de usuario/Tipografías"
 
 #: gnome-vfs.keys.in.h:335
 msgid "Ustar archive"
-msgstr "Paquete ustar"
+msgstr "Paquete Ustar"
 
 #: gnome-vfs.keys.in.h:336
 msgid "V font"
@@ -1511,3 +1512,4 @@ msgstr "Archivo de gráficos vectoriales xfig"
 
 #~ msgid "M3 audio URL"
 #~ msgstr "URL para audio M3"
+
