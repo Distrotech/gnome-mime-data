@@ -1,3 +1,8 @@
+2002-02-06  Larry Ewing  <lewing@ximian.com>
+
+	* gnome-vfs.applications: use gimp-remote --new rather than just
+	gimp so that calls don't start multiple gimp instances.
+
 2002-02-01  Michael Meeks  <michael@ximian.com>
 
 	* gnome-vfs.keys.in: replace EOG with image-viewer.
