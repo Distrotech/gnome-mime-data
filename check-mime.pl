@@ -80,6 +80,7 @@ print "Reading gnome-vfs.keys.in.\n";
    "can_be_executable",
    "_category",
    "default_action_type",
+   "default_application_id",
    "icon_filename",
    "open",
    "short_list_application_ids_for_advanced_user_level",

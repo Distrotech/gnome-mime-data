@@ -1,5 +1,11 @@
 2003-08-29  Bastien Nocera  <hadess@hadess.net>
 
+	* check-mime.pl: add default_application_id as an expected key
+	* gnome-vfs.keys.in: revert some change from the previous commit
+	to not remove Marco's changes
+
+2003-08-29  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.applications:
 	* gnome-vfs.keys.in: fix a bunch of warnings from check-mime.pl,
 	add eog and the image view as a handler for image/x-ico mime-types
