@@ -1,14 +1,14 @@
 # gnome mime data eesti keele tõlge
 # Copyright (C) 2002 Free Software Foundation, Inc.
 # Ilmar Kerm <ikerm@hot.ee>, 2002.
-# Tõivo Leedjärv <leedjarv@interest.ee>, 2002.
+# Tõivo Leedjärv <toivo@linux.ee>, 2002.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-06-12 00:45-0700\n"
-"PO-Revision-Date: 2002-03-02 03:58+0200\n"
-"Last-Translator: Tõivo Leedjärv <leedjarv@interest.ee>\n"
+"POT-Creation-Date: 2002-07-07 17:46+0300\n"
+"PO-Revision-Date: 2002-07-07 17:47+0300\n"
+"Last-Translator: Tõivo Leedjärv <toivo@linux.ee>\n"
 "Language-Team: Estonian <gnome-et@linux.ee>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -239,9 +239,8 @@ msgid "HTML page"
 msgstr "HTML leht"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "C lähtekood"
+msgstr "Haskell lähtekood"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -285,7 +284,7 @@ msgstr "Java lähtekood"
 
 #: gnome-vfs.keys.in.h:68
 msgid "KDE application details"
-msgstr ""
+msgstr "KDE rakenduse info"
 
 #: gnome-vfs.keys.in.h:69
 msgid "KIllustrator document"
@@ -332,9 +331,8 @@ msgid "Linux PSF console font"
 msgstr "Linux PSF konsooli kirjatüüp"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "Fortran lähtekood"
+msgstr "Literate haskell lähtekood"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -405,9 +403,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Microsoft PowerPoint dokument"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Microsoft video"
+msgstr "Microsoft WMV video"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
@@ -434,63 +431,52 @@ msgid "ODA document"
 msgstr "ODA dokument"
 
 #: gnome-vfs.keys.in.h:105
-#, fuzzy
 msgid "OpenOffice.org Impress presentation"
-msgstr "OpenOffice Impress presentatsioon"
+msgstr "OpenOffice.org Impress presentatsioon"
 
 #: gnome-vfs.keys.in.h:106
-#, fuzzy
 msgid "OpenOffice.org Impress presentation template"
-msgstr "OpenOffice Impress presentatsiooni mall"
+msgstr "OpenOffice.org Impress presentatsiooni mall"
 
 #: gnome-vfs.keys.in.h:107
-#, fuzzy
 msgid "OpenOffice.org Math document"
-msgstr "OpenOffice Math dokument"
+msgstr "OpenOffice.org Math dokument"
 
 #: gnome-vfs.keys.in.h:108
-#, fuzzy
 msgid "OpenOffice.org Writer document"
-msgstr "OpenOffice Writer dokument"
+msgstr "OpenOffice.org Writer dokument"
 
 #: gnome-vfs.keys.in.h:109
-#, fuzzy
 msgid "OpenOffice.org Writer global document"
-msgstr "OpenOffice Writer globaaldokument"
+msgstr "OpenOffice.org Writer globaaldokument"
 
 #: gnome-vfs.keys.in.h:110
-#, fuzzy
 msgid "OpenOffice.org Writer template"
-msgstr "OpenOffice Writer mall"
+msgstr "OpenOffice.org Writer mall"
 
 #: gnome-vfs.keys.in.h:111
-#, fuzzy
 msgid "OpenOffice.org drawing"
-msgstr "OpenOffice joonistus"
+msgstr "OpenOffice.org joonistus"
 
 #: gnome-vfs.keys.in.h:112
-#, fuzzy
 msgid "OpenOffice.org drawing template"
-msgstr "OpenOffice joonistuse mall"
+msgstr "OpenOffice.org joonistuse mall"
 
 #: gnome-vfs.keys.in.h:113
-#, fuzzy
 msgid "OpenOffice.org spreadsheet"
-msgstr "OpenOffice arvutustabel"
+msgstr "OpenOffice.org arvutustabel"
 
 #: gnome-vfs.keys.in.h:114
-#, fuzzy
 msgid "OpenOffice.org spreadsheet template"
-msgstr "OpenOffice arvutustabeli mall"
+msgstr "OpenOffice.org arvutustabeli mall"
 
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
 msgstr "PBM pilt"
 
 #: gnome-vfs.keys.in.h:116
-#, fuzzy
 msgid "PC Paintbrush image"
-msgstr "CMU rasterpilt"
+msgstr "PC Paintbrush pilt"
 
 #: gnome-vfs.keys.in.h:117
 msgid "PCF font"
@@ -533,9 +519,8 @@ msgid "PHP script"
 msgstr "PHP skript"
 
 #: gnome-vfs.keys.in.h:127
-#, fuzzy
 msgid "PICT image"
-msgstr "XPM pilt"
+msgstr "PICT pilt"
 
 #: gnome-vfs.keys.in.h:128
 msgid "PNG image"
@@ -558,18 +543,16 @@ msgid "Perl script"
 msgstr "Perl skript"
 
 #: gnome-vfs.keys.in.h:133
-#, fuzzy
 msgid "Photo CD image"
-msgstr "AutoCAD pilt"
+msgstr "Foto CD pilt"
 
 #: gnome-vfs.keys.in.h:134
 msgid "Photoshop document"
 msgstr "Photoshop dokument"
 
 #: gnome-vfs.keys.in.h:135
-#, fuzzy
 msgid "Playlist"
-msgstr "MP3 helifaili mängunimekiri"
+msgstr ""
 
 #: gnome-vfs.keys.in.h:136
 msgid "PostScript Type 1 font"
@@ -581,7 +564,7 @@ msgstr "PostScript dokument"
 
 #: gnome-vfs.keys.in.h:138
 msgid "Project Plan"
-msgstr ""
+msgstr "Projektiplaan"
 
 #: gnome-vfs.keys.in.h:139
 msgid "Python source code"
@@ -620,9 +603,8 @@ msgid "RPM package"
 msgstr "RPM pakett"
 
 #: gnome-vfs.keys.in.h:148
-#, fuzzy
 msgid "RealAudio document"
-msgstr "PN RealAudio dokument"
+msgstr "RealAudio dokument"
 
 #: gnome-vfs.keys.in.h:149
 msgid "RealAudio/Video document"
@@ -870,7 +852,7 @@ msgstr "aadressikaart"
 
 #: gnome-vfs.keys.in.h:210
 msgid "application launcher"
-msgstr ""
+msgstr "rakenduse käivitaja"
 
 #: gnome-vfs.keys.in.h:211
 msgid "ar archive"
@@ -890,7 +872,7 @@ msgstr "varufail"
 
 #: gnome-vfs.keys.in.h:215
 msgid "basic audio"
-msgstr ""
+msgstr "tavaline audio"
 
 #: gnome-vfs.keys.in.h:216
 msgid "bibliography record"
@@ -1041,9 +1023,8 @@ msgid "profiler results"
 msgstr ""
 
 #: gnome-vfs.keys.in.h:253
-#, fuzzy
 msgid "python byte code"
-msgstr "Python lähtekood"
+msgstr "pythoni baitkood"
 
 #: gnome-vfs.keys.in.h:254
 msgid "reference to remote file"
