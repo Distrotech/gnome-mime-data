@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-12-28 04:03+0100\n"
-"PO-Revision-Date: 2003-12-28 13:27+0100\n"
+"POT-Creation-Date: 2003-12-30 20:06+0100\n"
+"PO-Revision-Date: 2003-12-30 22:21+0100\n"
 "Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -726,8 +726,8 @@ msgid "MathML document"
 msgstr "Dokument MathML"
 
 #: gnome-vfs.keys.in.h:178
-msgid "Matroska video file"
-msgstr "Soubor videa Matroska"
+msgid "Matroska video"
+msgstr "Video Matroska"
 
 #: gnome-vfs.keys.in.h:179
 msgid "Memory dump"
