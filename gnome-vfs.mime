@@ -380,6 +380,9 @@ audio/x-mp3
 audio/x-mpegurl
 	ext: m3u
 
+audio/x-ms-asx
+	ext: asx
+
 audio/x-real-audio
 	ext: rm ra ram
 

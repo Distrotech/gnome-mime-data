@@ -1035,6 +1035,10 @@ audio/x-mpegurl
 	short_list_application_ids_for_advanced_user_level=xmms-no-uris,freeamp-no-uris
 	_category=Audio
 
+audio/x-ms-asx
+	_description=Playlist
+	_category=Audio
+
 # also application/vnd.rn-realmedia, audio/x-real-audio
 audio/x-pn-realaudio
 	_description=RealAudio document
