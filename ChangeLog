@@ -1,3 +1,7 @@
+2003-02-28  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic: added magic for Philips MPEG-4 files
+
 2003-02-22  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: detect ASF videos by content

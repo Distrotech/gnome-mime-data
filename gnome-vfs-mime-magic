@@ -57,6 +57,7 @@
 4	string		mdat					video/quicktime
 8	string		mp42					video/quicktime
 12	string		mdat					video/quicktime
+36	string		mdat					video/quicktime
 0	belong		0x3026b275				video/x-ms-asf
 0	string		MThd					audio/x-midi
 0	string		IMPM					audio/x-it
