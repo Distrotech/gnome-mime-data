@@ -1,3 +1,8 @@
+2003-01-09  Alex Duggan  <aldug@gnome.org>
+
+	* AUTHORS: added Seth Nickell to AUTHORS file,
+	fixes #100790
+
 2002-01-07  Naba Kumar  <naba@gnome.org>
 
 	* configure.in: Added hi (hindi) in ALL_LINGUAS
