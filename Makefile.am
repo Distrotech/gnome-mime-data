@@ -7,7 +7,7 @@ NULL=
 
 keys_in_files = gnome-vfs.keys.in
 keys_files = $(keys_in_files:.keys.in=.keys)
-@INTLTOOL_KEYS_RULE@
+@XML_I18N_MERGE_KEYS_RULE@
 
 mimedir = $(datadir)/mime-info
 mime_DATA = $(keys_files) gnome-vfs.mime

@@ -1,5 +1,18 @@
 2001-11-09  Seth Nickell  <snickell@stanford.edu>
 
+	* Makefile.am:
+
+	Remove @INTLTOOL_KEYS_RULE@ since we are using XML_I18N_TOOLS
+	stuff instead for compatibility with GNOME1.
+	Use XML_I18N_MERGE_KEYS_RULE instead.
+	
+	* configure.in:
+
+	Finish making work on GNOME1. Should work on both GNOME1 and
+	GNOME2 now.
+
+2001-11-09  Seth Nickell  <snickell@stanford.edu>
+
 	* configure.in:
 
 	Steps towards build on GNOME1 platform as well as GNOME2.
