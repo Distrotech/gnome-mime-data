@@ -1,3 +1,13 @@
+2002-06-19  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+
+	Nasty hack to allow XMMS and FreeAmp to only handle
+	MP3 files over http: (not playlists).
+
+	Patch from Ben Liblit.
+
 2002-06-17  Yanko Kaneti  <yaneti@declera.com>
 
 	* configure.in: (ALL_LINGUAS) Added Bulgarian (bg).

@@ -995,9 +995,9 @@ audio/x-mp3-playlist
 	_description=MP3 audio playlist
 	icon_filename=i-music
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xmms,freeamp
-	short_list_application_ids_for_intermediate_user_level=xmms,freeamp
-	short_list_application_ids_for_advanced_user_level=xmms,freeamp
+	short_list_application_ids_for_novice_user_level=xmms-no-uris,freeamp-no-uris
+	short_list_application_ids_for_intermediate_user_level=xmms-no-uris,freeamp-no-uris
+	short_list_application_ids_for_advanced_user_level=xmms-no-uris,freeamp-no-uris
 	category=Audio
 
 # also audio/x-mp3
@@ -1013,9 +1013,9 @@ audio/x-mpeg
 audio/x-mpegurl
 	_description=Playlist
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=xmms,freeamp
-	short_list_application_ids_for_intermediate_user_level=xmms,freeamp
-	short_list_application_ids_for_advanced_user_level=xmms,freeamp
+	short_list_application_ids_for_novice_user_level=xmms-no-uris,freeamp-no-uris
+	short_list_application_ids_for_intermediate_user_level=xmms-no-uris,freeamp-no-uris
+	short_list_application_ids_for_advanced_user_level=xmms-no-uris,freeamp-no-uris
 	category=Audio
 
 # also application/vnd.rn-realmedia, audio/x-real-audio

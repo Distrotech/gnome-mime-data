@@ -93,7 +93,15 @@ freeamp
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=http,file
-	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,audio/x-mpegurl,audio/x-wav
+	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,audio/x-wav
+
+freeamp-no-uris
+	command=freeamp
+	name=FreeAmp (No URI's)
+	can_open_multiple_files=true
+	expects_uris=false
+	requires_terminal=false
+	mime_types=audio/x-mp3-playlist,audio/x-mpegurl
 
 galeon
 	command=galeon
@@ -506,7 +514,15 @@ xmms
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=http,ftp,file
-	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,audio/x-mpegurl,audio/x-wav,audio/x-riff
+	mime_types=audio/x-mp3,audio/x-mpeg,application/x-ogg,audio/x-wav,audio/x-riff
+
+xmms-no-uris
+	command=xmms
+	name=X Multimedia System (No URI's)
+	can_open_multiple_files=true
+	expects_uris=false
+	requires_terminal=false
+	mime_types=audio/x-mp3-playlist,audio/x-mpegurl
 
 xmps
 	command=xmps
