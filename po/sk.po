@@ -5,14 +5,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.6.2.0\n"
-"POT-Creation-Date: 2001-12-11 15:58+0100\n"
-"PO-Revision-Date: 2001-12-07 21:13CET\n"
+"POT-Creation-Date: 2002-01-08 13:44+0100\n"
+"PO-Revision-Date: 2002-01-08 13:44CET\n"
 "Last-Translator: Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>\n"
-"Language-Team: Slovak <sk-i18n@linux.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-2\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 0.9.5\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -807,8 +807,8 @@ msgid "email headers"
 msgstr "e-mailové hlavièky"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "e-mailová správa"
+msgid "email message/mailbox"
+msgstr "e-mailová správa/prieèinok"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
@@ -1021,3 +1021,4 @@ msgstr "archív zip"
 #: gnome-vfs.keys.in.h:252
 msgid "zoo archive"
 msgstr "archív zoo"
+
