@@ -5,6 +5,10 @@
 # Conventions used in this file are described in detail in
 # gnome-vfs/doc/mime-descriptions-guidelines.txt.
 
+*/*
+	can_be_executable=TRUE
+	_description=unknown type
+
 application/andrew-inset
 	_category=Documents
 	_description=Andrew Toolkit inset

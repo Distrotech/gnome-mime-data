@@ -1,3 +1,9 @@
+2002-10-06  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in: fix all the warnings from check-mime.pl
+	* gnome-vfs.mime: added TODO as text/x-readme
+
 2002-09-30  Marco Pesenti Gritti  <marco@it.gnome.org>
 
 	* gnome-vfs.keys.in: Add audio/mpeg entry and rename audio/x-mpeg
