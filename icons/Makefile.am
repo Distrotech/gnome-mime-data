@@ -97,6 +97,7 @@ icon_DATA =\
 	gnome-pack-rpm.png \
 	gnome-package.png \
 	gnome-tex.png \
+	gnome-text-abiword.png \
 	gnome-text-html.png \
 	gnome-text-plain.png \
 	gnome-text-x-authors.png \

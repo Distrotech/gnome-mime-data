@@ -1,3 +1,11 @@
+2002-02-07  Seth Nickell  <snickell@stanford.edu>
+
+	* icons/Makefile.am:
+	* icons/gnome-text-abiword.png:
+
+	Add an AbiWord icon. Should be replaced with an icon
+	that is "in theme" though.
+	
 2002-02-06  Larry Ewing  <lewing@ximian.com>
 
 	* gnome-vfs.applications: use gimp-remote --new rather than just
