@@ -1,3 +1,7 @@
+2001-11-05  Darin Adler  <darin@bentspoon.com>
+
+	* configure.in: Remove some commented-out old stuff.
+
 2001-11-02  jacob berkman  <jacob@ximian.com>
 
 	* configure.in: glib's Makefile.in.in expects GETTEXT_PACKAGE to
