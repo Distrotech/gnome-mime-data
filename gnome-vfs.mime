@@ -169,7 +169,7 @@ application/x-cpio
 	ext: cpio
 
 application/x-cpio-compressed
-	regex: \.cpio\.gz$
+	regex,2: \.cpio\.gz$
 
 application/x-dc-rom
 	ext: dc
