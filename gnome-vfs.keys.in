@@ -298,7 +298,7 @@ application/x-gmc-link
 	_description=GMC link
 
 application/x-gnome-app-info
-	_description=GNOME application details
+	_description=application launcher
 
 application/x-gnucash
 	_description=GnuCash Workbook
