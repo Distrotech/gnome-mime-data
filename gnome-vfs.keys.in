@@ -1170,6 +1170,10 @@ audio/x-ms-asx
 	_description=Playlist
 	_category=Audio
 
+audio/x-ms-wax
+	_description=Playlist
+	_category=Audio
+
 # also application/vnd.rn-realmedia, audio/x-real-audio
 audio/x-pn-realaudio
 	_description=RealAudio document

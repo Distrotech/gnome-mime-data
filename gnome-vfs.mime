@@ -414,7 +414,7 @@ audio/x-mpegurl
 	ext: m3u
 
 audio/x-ms-asx
-	ext: asx
+	ext: asx wax
 
 audio/x-pn-realaudio
 	ext: ram
@@ -445,7 +445,6 @@ audio/x-xi
 
 audio/x-xm
 	ext: xm XM
-
 
 image/bmp
 	ext: bmp
