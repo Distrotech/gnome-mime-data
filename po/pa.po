@@ -1,27 +1,25 @@
-# translation of gnome-mime-data.pa.po to Punjabi
-# translation of gnome-mime-data.hi.po to Punjabi
-# Copyright (C) 2004 Free Software Foundation, Inc.
 # Amanpreet Singh Alam <amanliunx@netscapet.net>, 2004
-#
+# 
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: punlinux\n"
+"Project-Id-Version: gnome-mime-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-03-04 17:14+0530\n"
-"PO-Revision-Date: 2004-02-02 15:28+0530\n"
+"PO-Revision-Date: 2004-06-18 09:10+0530\n"
 "Last-Translator: Amanpreet Singh Alam <amanlinux@netscape.net>\n"
-"Language-Team: KBST Punjab <kbstpunjab@netscape.net>\n"
+"Language-Team: Punjabi <punlinux-i18n@lists.sourceforge.>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "2D chemical structure"
-msgstr "2ਡੀ ਰਸਾਣਇਕ ਢਾਂਚਾ"
+msgstr "੨ਡੀ ਰਸਾਣਇਕ ਢਾਂਚਾ"
 
 #: gnome-vfs.keys.in.h:2
 msgid "3D Studio image"
-msgstr "੩ ਆਮੀ ਸੁਟੀਡਿਉ ਚਿਤਰ"
+msgstr "੩ ਆਮੀ ਸੁਟੀਡਿਉ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:3
 msgid "AIFC audio"
@@ -73,15 +71,15 @@ msgstr "ਕਾਰਜ ਸੁਰੂਆਤੀ"
 
 #: gnome-vfs.keys.in.h:15
 msgid "ApplixWare Graphics image"
-msgstr "ApplixWare ਗ੍ਰਾਫਿਕਸ ਚਿਤਰ"
+msgstr "ApplixWare ਗਰਾਫਿਕਸ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:16
 msgid "Applixware Words document"
-msgstr "Applixware ਸ਼ਬਦਕਾਰ ਦਸਤਾਵੇਜ਼"
+msgstr "Applixware ਸ਼ਬਦਕਾਰ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:17
 msgid "Applixware presentation"
-msgstr "Applixware ਪੇਸ਼ਕਾਰੀ"
+msgstr "Applixware ਪੇਸ਼ਕਾਰੀ"
 
 #: gnome-vfs.keys.in.h:18
 msgid "Applixware spreadsheet"
@@ -105,7 +103,7 @@ msgstr "ਲੇਖਕਾਂ ਦੀ ਸੂਚੀ"
 
 #: gnome-vfs.keys.in.h:23
 msgid "AutoCAD image"
-msgstr "ਆਟੋਕੈਡ ਚਿਤਰ"
+msgstr "ਆਟੋਕੈਡ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:24
 msgid "BCPIO document"
@@ -117,7 +115,7 @@ msgstr "BDF ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:26
 msgid "Backup file"
-msgstr "ਬੈਕਅਪ ਫਾਇਲ"
+msgstr "ਬੈਕਅੱਪ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:27
 msgid "Basic audio"
@@ -149,7 +147,7 @@ msgstr "bzip ਸੰਕੁਚਿਤ  ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:34
 msgid "C shell script"
-msgstr "C ਸੈਲ ਸਕ੍ਰਿਪਟ"
+msgstr "C ਸੈਲ ਸਕਰਿਪਟ"
 
 #: gnome-vfs.keys.in.h:35
 msgid "C source code"
@@ -165,15 +163,15 @@ msgstr "C++  ਸੋਰਸ ਕੋਡ"
 
 #: gnome-vfs.keys.in.h:38
 msgid "CGI program"
-msgstr "CGI ਪ੍ਰੋਗਰਾਮ"
+msgstr "CGI ਪਰੋਗਰਾਮ"
 
 #: gnome-vfs.keys.in.h:39
 msgid "CGM image"
-msgstr "CGM ਚਿਤਰ"
+msgstr "CGM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:40
 msgid "CMU raster image"
-msgstr "CMU ਰਾਸਟਰ ਚਿਤਰ"
+msgstr "CMU ਰਾਸਟਰ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:41
 msgid "CPIO archive"
@@ -209,7 +207,7 @@ msgstr "Commodore ੬੪ ਆਡੀਉ"
 
 #: gnome-vfs.keys.in.h:49
 msgid "Compound document"
-msgstr "ਮਿਸ਼ਰਿਤ ਦਸਤਾਵੇਜ਼"
+msgstr "ਮਿਸ਼ਰਿਤ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:50
 msgid "Compress-compressed file"
@@ -221,15 +219,15 @@ msgstr "ਸੰਕੁਚਿਤ GIMP ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:52
 msgid "Corel Draw drawing"
-msgstr "ਕੋਰਲ ਡਰਾ ਚਿਤਰਕਲਾ"
+msgstr "ਕੋਰਲ ਡਰਾ ਚਿੱਤਰਕਲਾ"
 
 #: gnome-vfs.keys.in.h:53
 msgid "Crystalline structure model"
-msgstr "ਕ੍ਰਿਸਟਲਾਈਨ ਢਾਚਾ ਨਮੂਨਾ"
+msgstr "ਕਰਿਸਟਲਾਈਨ ਢਾਂਚਾ ਨਮੂਨਾ"
 
 #: gnome-vfs.keys.in.h:54
 msgid "DCL script"
-msgstr "DCL ਸਕ੍ਰਿਪਟ"
+msgstr "DCL ਸਕਿਰਪੱਟ"
 
 #: gnome-vfs.keys.in.h:55
 msgid "DOS font"
@@ -237,7 +235,7 @@ msgstr "DOS ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:56
 msgid "DOS/Windows program"
-msgstr "ਡੋਸ/ਵਿੰਡੋ ਪ੍ਰੋਗਰਾਮ"
+msgstr "ਡੋਸ/ਵਿੰਡੋ ਪਰੋਗਰਾਮ"
 
 #: gnome-vfs.keys.in.h:57
 msgid "DSSSL document"
@@ -249,7 +247,7 @@ msgstr "DV ਵੀਡਿਉ"
 
 #: gnome-vfs.keys.in.h:59
 msgid "DXF vector graphic"
-msgstr "DXF ਵੈਕਟਰ ਗ੍ਰਾਫਿਕ"
+msgstr "DXF ਵੈਕਟਰ ਗਰਾਫਿਕ"
 
 #: gnome-vfs.keys.in.h:60
 msgid "Debian package"
@@ -257,19 +255,19 @@ msgstr "ਡੈਬੀਅਨ ਪੈਕਜ"
 
 #: gnome-vfs.keys.in.h:61
 msgid "Device Independant Bitmap"
-msgstr "ਯੰਤਰ ਨਾ-ਨਿਰਭਰ ਚਿਤਰ"
+msgstr "ਯੰਤਰ ਨਾ-ਨਿਰਭਰ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:62
 msgid "Dia diagram"
-msgstr "Dia ਸ਼ਕਲ"
+msgstr "Dia ਸ਼ਕਲ"
 
 #: gnome-vfs.keys.in.h:63
 msgid "Digital Imaging and Communications in Medicine image"
-msgstr "Medicine ਚਿਤਰ ਵਿਚ ਡਿਜੀਟਲ ਚਿਤਰਨ ਅਤੇ ਸੰਚਾਰ"
+msgstr "Medicine ਚਿੱਤਰ ਵਿਚ ਡਿਜੀਟਲ ਚਿੱਤਰਨ ਅਤੇ ਸੰਚਾਰ"
 
 #: gnome-vfs.keys.in.h:64
 msgid "Digital Moving Picture Exchange image"
-msgstr "ਡਿਜੀਟਲ ਮੂਵੀਇੰਗ ਪਿਕਚਰ ਐਕਸਚੇਜ ਚਿਤਰ"
+msgstr "ਡਿਜੀਟਲ ਮੂਵੀਇੰਗ ਪਿਕਚਰ ਐਕਸਚੇਜ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:65
 msgid "Directory information file"
@@ -277,11 +275,11 @@ msgstr "ਡਾਇਕਰੈਕਟਰੀ ਸੂਚਨਾ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:66
 msgid "DjVu image"
-msgstr "DjVu ਚਿਤਰ"
+msgstr "DjVu ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:67
 msgid "Document type definition"
-msgstr "ਦਸਤਾਵੇਜ਼ ਦੀ ਕਿਸਮ ਦੀ ਪ੍ਰੀਭਾਸ਼ਾ"
+msgstr "ਦਸਤਾਵੇਜ਼ ਦੀ ਕਿਸਮ ਦੀ ਪਰੀਭਾਸ਼ਾ"
 
 #: gnome-vfs.keys.in.h:68
 msgid "Documents"
@@ -289,7 +287,7 @@ msgstr "ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:69
 msgid "Documents/Diagram"
-msgstr "ਦਸਤਾਵੇਜ਼/ਸ਼ਕਲ"
+msgstr "ਦਸਤਾਵੇਜ਼/ਸ਼ਕਲ"
 
 #: gnome-vfs.keys.in.h:70
 msgid "Documents/Extended Markup Language (XML)"
@@ -305,11 +303,11 @@ msgstr "ਦਸਤਾਵੇਜ਼/ਸਾਫ ਪਾਠ"
 
 #: gnome-vfs.keys.in.h:73
 msgid "Documents/Presentation"
-msgstr "ਦਸਤਾਵੇਜ਼/ਪੇਸ਼ਕਾਰੀ"
+msgstr "ਦਸਤਾਵੇਜ਼/ਪੇਸ਼ਕਾਰੀ"
 
 #: gnome-vfs.keys.in.h:74
 msgid "Documents/Project Management"
-msgstr "ਦਸਤਾਵੇਜ਼/ਪ੍ਰੋਜੈਕਟ ਪ੍ਰਬੰਧਨ (ਮੈਨਜੇਮੈਟ)"
+msgstr "ਦਸਤਾਵੇਜ਼/ਪਰੋਜੈਕਟ ਪਰਬੰਧਨ (ਮੈਨਜੇਮੈਟ)"
 
 #: gnome-vfs.keys.in.h:75
 msgid "Documents/Published Materials"
@@ -325,15 +323,15 @@ msgstr "ਦਸਤਾਵੇਜ਼/ਟਕਸ"
 
 #: gnome-vfs.keys.in.h:78
 msgid "Documents/Text Markup"
-msgstr "ਦਸਤਾਵੇਜ਼/ਪਾਠ "
+msgstr "ਦਸਤਾਵੇਜ਼/ਪਾਠ"
 
 #: gnome-vfs.keys.in.h:79
 msgid "Documents/Vector Graphics"
-msgstr "ਦਸਤਾਵੇਜ਼/ਵੈਕਟਰ ਗ੍ਰਾਫਿਕਸ਼"
+msgstr "ਦਸਤਾਵੇਜ਼/ਵੈਕਟਰ ਗਰਾਫਿਕਸ਼"
 
 #: gnome-vfs.keys.in.h:80
 msgid "Documents/Word Processor"
-msgstr "ਦਸਤਾਵੇਜ਼/ਸ਼ਬਦਕਾਰ"
+msgstr "ਦਸਤਾਵੇਜ਼/ਸ਼ਬਦਕਾਰ"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Documents/World Wide Web"
@@ -353,11 +351,11 @@ msgstr "Emacs Lisp ਸੋਰਸ ਕੋਡ"
 
 #: gnome-vfs.keys.in.h:85
 msgid "Email headers"
-msgstr "ਈ-ਪਤਰ ਦਾ ਸਿਰਲੇਖ"
+msgstr "ਈ-ਪੱਤਰ ਦਾ ਸਿਰਲੇਖ"
 
 #: gnome-vfs.keys.in.h:86
 msgid "Email message/mailbox"
-msgstr "ਈ-ਪਤਰ ਸੁਨੇਹਾ/ ਪਤਰ ਪਟਾਰੀ"
+msgstr "ਈ-ਪਤਰ ਸੁਨੇਹਾ/ ਪੱਤਰ ਪਟਾਰੀ"
 
 #: gnome-vfs.keys.in.h:87
 msgid "Encrypted message"
@@ -373,7 +371,7 @@ msgstr "ਇੰਰਿਚ ਪਾਠ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:90
 msgid "Epiphany bookmarks file"
-msgstr "Epiphany ਬੁਕਮਾਰਕ ਫਾਇਲ"
+msgstr "Epiphany ਬੁੱਕਮਾਰਕ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:91
 msgid "FLAC audio"
@@ -393,11 +391,11 @@ msgstr "ਫਾਸਟ ਟਰੈਕਰ II ਆਡੀਉ"
 
 #: gnome-vfs.keys.in.h:95
 msgid "FlashPix Image"
-msgstr "FlashPix ਚਿਤਰ"
+msgstr "FlashPix ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:96
 msgid "Flexible Image Transport System"
-msgstr "Flexible ਚਿਤਰ ਟਰਾਂਸਪੋਰਟ ਸਿਸਟਮ"
+msgstr "Flexible ਚਿੱਤਰ ਟਰਾਂਸਪੋਰਟ ਸਿਸਟਮ"
 
 #: gnome-vfs.keys.in.h:97
 msgid "Folder"
@@ -413,11 +411,11 @@ msgstr "FrameMaker ਆਪਸੀ ਬਦਲਣਯੋਗ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:100
 msgid "G3 fax image"
-msgstr "ਜੀ੩ ਫੈਕਸ ਚਿਤਰ"
+msgstr "ਜੀ੩ ਫੈਕਸ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:101
 msgid "GIF image"
-msgstr "ਜੀ ਆਈ ਐਫ ਚਿਤਰ"
+msgstr "ਜੀ ਆਈ ਐਫ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:102
 msgid "GIMP document"
@@ -437,7 +435,7 @@ msgstr "ਜੀ ਐਨ ਯੂ -ਉਲੀਉ ਸਾਰਨੀ"
 
 #: gnome-vfs.keys.in.h:106
 msgid "GNU mail message"
-msgstr "ਜੀ ਐਨ ਯੂ  ਪਤਰ ਸੁਨੇਹਾ"
+msgstr "ਜੀ ਐਨ ਯੂ  ਪੱਤਰ ਸੁਨੇਹਾ"
 
 #: gnome-vfs.keys.in.h:107
 msgid "GTK configuration"
@@ -449,15 +447,15 @@ msgstr "ਗੇਮ ਬਾਏ ਰੋਮ"
 
 #: gnome-vfs.keys.in.h:109
 msgid "Genesis ROM"
-msgstr "ਜੀਨੀਸ਼ ਰੋਮ"
+msgstr "ਜੀਨੀਸ਼ ਰੋਮ"
 
 #: gnome-vfs.keys.in.h:110
 msgid "Glade project"
-msgstr "ਗਲੇਡ ਪ੍ਰੋਜੈਕਟ"
+msgstr "ਗਲੇਡ ਪਰੋਜੈਕਟ"
 
 #: gnome-vfs.keys.in.h:111
 msgid "GnuCash workbook"
-msgstr "ਗਨੋਕੈਸ਼ ਵਹੀ"
+msgstr "ਗਨੋਕੈਸ਼ ਵਹੀ"
 
 #: gnome-vfs.keys.in.h:112
 msgid "Gnumeric spreadsheet"
@@ -497,15 +495,15 @@ msgstr "IDL ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:121
 msgid "IEF image"
-msgstr "IEF ਚਿਤਰ"
+msgstr "IEF ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:122
 msgid "IFF image"
-msgstr "IFF ਚਿਤਰ"
+msgstr "IFF ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:123
 msgid "ILBM image"
-msgstr "ILBM ਚਿਤਰ"
+msgstr "ILBM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:124
 msgid "ISI video"
@@ -517,7 +515,7 @@ msgstr "ਆਈਐਸਓ ਨਕਲ"
 
 #: gnome-vfs.keys.in.h:126
 msgid "Images"
-msgstr "ਚਿਤਰ"
+msgstr "ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:127
 msgid "Impulse Tracker audio"
@@ -545,7 +543,7 @@ msgstr "ਜੇਬਿਲਡਰ ਪ੍ਰੋਜੈਕਟ"
 
 #: gnome-vfs.keys.in.h:133
 msgid "JPEG image"
-msgstr "JPEG ਚਿਤਰ"
+msgstr "JPEG ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:134
 msgid "Java byte code"
@@ -573,7 +571,7 @@ msgstr "KIllustrator ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:140
 msgid "KPresenter presentation"
-msgstr "ਕੇਪਰੀਜੈਨਟਰ ਪੇਸ਼ਕਾਰੀ"
+msgstr "ਕੇਪਰੀਜੈਨਟਰ ਪੇਸ਼ਕਾਰੀ"
 
 #: gnome-vfs.keys.in.h:141
 msgid "KSpread spreadsheet"
@@ -585,7 +583,7 @@ msgstr "ਕੇਵਰਡ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:143
 msgid "Korn shell script"
-msgstr "ਕਰੋਨ ਸੈਲ ਸਕ੍ਰਿਪਟ"
+msgstr "ਕਰੋਨ ਸੈਲ ਸਕਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:144
 msgid "LHA archive"
@@ -609,7 +607,7 @@ msgstr "ਲਾਈਟਵੇਵ ਸੀਨ"
 
 #: gnome-vfs.keys.in.h:149
 msgid "Linux PSF console font"
-msgstr "ਲਾਈਨੈਕਸ ਪੀਐਸਐਫ ਕੰਨਸੋਲ ਅਖਰ"
+msgstr "ਲਾਈਨੈਕਸ ਪੀਐਸਐਫ ਕੰਨਸੋਲ ਅੱਖਰ"
 
 #: gnome-vfs.keys.in.h:150
 msgid "Literate haskell source code"
@@ -685,23 +683,23 @@ msgstr "ਮਾਈਕਰੋਮੀਡਿਆ ਫਲੈਸ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:168
 msgid "MagicPoint presentation"
-msgstr "ਮੈਜੀਕਪਾਇਉਟ ਪੇਸ਼ਕਾਰੀ"
+msgstr "ਮੈਜੀਕਪਾਇਉਟ ਪੇਸ਼ਕਾਰੀ"
 
 #: gnome-vfs.keys.in.h:169
 msgid "Magick image format"
-msgstr "Magick ਚਿਤਰ ਫਾਰਮਿਟ"
+msgstr "Magick ਚਿੱਤਰ ਫਾਰਮਿਟ"
 
 #: gnome-vfs.keys.in.h:170
 msgid "Mail delivery report"
-msgstr "ਪੁਜਣ ਦੀ ਰਿਪੋਰਟ ਦਾ ਪਤਰ ਭੇਜੋ"
+msgstr "ਪੁੱਜਣ ਦੀ ਰਿਪੋਰਟ ਦਾ ਪੱਤਰ ਭੇਜੋ"
 
 #: gnome-vfs.keys.in.h:171
 msgid "Mail disposition report"
-msgstr "ਨਾ ਪੁਜਣ ਦੀ ਰਿਪੋਰਟ ਦਾ ਪਤਰ ਭੇਜੋ"
+msgstr "ਨਾ ਪੁੱਜਣ ਦੀ ਰਿਪੋਰਟ ਦਾ ਪੱਤਰ ਭੇਜੋ"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Mail system report"
-msgstr "ਮਸ਼ੀਨੀ ਰਿਪੋਰਟ ਦਾ ਪਤਰ ਭੇਜੋ"
+msgstr "ਮਸ਼ੀਨੀ ਰਿਪੋਰਟ ਦਾ ਪੱਤਰ ਭੇਜੋ"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Makefile"
@@ -745,7 +743,7 @@ msgstr "ਸੁਨੇਹਾ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ"
 
 #: gnome-vfs.keys.in.h:183
 msgid "Microsoft Excel spreadsheet"
-msgstr "ਮਾਈਕਰੋਸਾਫਟ ਐਕਸ਼ਲ ਸਾਰਨੀ"
+msgstr "ਮਾਈਕਰੋਸਾਫਟ ਐਕਸ਼ਲ ਸਾਰਨੀ"
 
 #: gnome-vfs.keys.in.h:184
 msgid "Microsoft PowerPoint document"
@@ -773,11 +771,11 @@ msgstr "Monkey ਆਡੀਉ"
 
 #: gnome-vfs.keys.in.h:190
 msgid "Mozilla bookmarks file"
-msgstr "ਮੋਜੀਲਾ ਬੁਕਮਾਰਕ ਫਾਇਲ"
+msgstr "ਮੋਜੀਲਾ ਬੁੱਕਮਾਰਕ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:191
 msgid "Multi-part message"
-msgstr "ਕਈ ਹਿਸਿਆਂ ਵਾਲਾ ਸੁਨੇਹਾ"
+msgstr "ਕਈ ਹਿੱਸਿਆਂ ਵਾਲਾ ਸੁਨੇਹਾ"
 
 #: gnome-vfs.keys.in.h:192
 msgid "NES ROM"
@@ -789,11 +787,11 @@ msgstr "ਨਾਉ ਪਾਇਪ"
 
 #: gnome-vfs.keys.in.h:194
 msgid "Nautilus link"
-msgstr "ਨਾਟਿਲਸ ਸੰਬੰਧ"
+msgstr "ਨਾਟਲਿਸ ਸੰਬੰਧ"
 
 #: gnome-vfs.keys.in.h:195
 msgid "Netscape bookmarks file"
-msgstr "ਨੈਟਸਕੇਪ ਬੁਕਮਾਰਕ ਫਾਇਲ"
+msgstr "ਨੈਟਸਕੇਪ ਬੁੱਕਮਾਰਕ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:196
 msgid "Nintendo64 ROM"
@@ -821,11 +819,11 @@ msgstr "ogg ਸੰਗੀਤ"
 
 #: gnome-vfs.keys.in.h:202
 msgid "OpenOffice.org Impress presentation"
-msgstr "ਓਪਨਆਫਿਸ ਐਮਪਿਰਸ ਪੇਸ਼ਕਾਰੀ"
+msgstr "ਓਪਨਆਫਿਸ ਐਮਪਿਰਸ ਪੇਸ਼ਕਾਰੀ"
 
 #: gnome-vfs.keys.in.h:203
 msgid "OpenOffice.org Impress presentation template"
-msgstr "ਓਪਨਆਫਿਸ ਐਮਪਰਿਸ ਪੇਸ਼ਕਾਰੀ ਨਮੂਨਾ"
+msgstr "ਓਪਨਆਫਿਸ ਐਮਪਰਿਸ ਪੇਸ਼ਕਾਰੀ ਨਮੂਨਾ"
 
 #: gnome-vfs.keys.in.h:204
 msgid "OpenOffice.org Math document"
@@ -833,15 +831,15 @@ msgstr "ਓਪਨਆਫਿਸ ਗਣਿਤ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:205
 msgid "OpenOffice.org Writer document"
-msgstr "ਓਪਨਆਫਿਸ ਸ਼ਬਦਕਾਰ ਦਸਤਾਵੇਜ਼"
+msgstr "ਓਪਨਆਫਿਸ ਸ਼ਬਦਕਾਰ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:206
 msgid "OpenOffice.org Writer global document"
-msgstr "ਓਪਨਆਫਿਸ ਸ਼ਬਦਕਾਰ ਸਮੂਹਿਕ ਦਸਤਾਵੇਜ਼"
+msgstr "ਓਪਨਆਫਿਸ ਸ਼ਬਦਕਾਰ ਸਮੂਹਿਕ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:207
 msgid "OpenOffice.org Writer template"
-msgstr "ਓਪਨਆਫਿਸ ਸ਼ਬਦਕਾਰ ਨਮੂਨਾ"
+msgstr "ਓਪਨਆਫਿਸ ਸ਼ਬਦਕਾਰ ਨਮੂਨਾ"
 
 #: gnome-vfs.keys.in.h:208
 msgid "OpenOffice.org drawing"
@@ -865,11 +863,11 @@ msgstr "ਓਪਨ ਟਾਇਪ ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:213
 msgid "PBM image"
-msgstr "PBM ਚਿਤਰ"
+msgstr "PBM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:214
 msgid "PC Paintbrush image"
-msgstr "PC ਪੇਟਬਰਸ਼ ਚਿਤਰ"
+msgstr "PC ਪੇਟਬਰੱਸ਼ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:215
 msgid "PCF font"
@@ -885,7 +883,7 @@ msgstr "PEF ਕਾਰਜ"
 
 #: gnome-vfs.keys.in.h:218
 msgid "PGM image"
-msgstr "PGM ਚਿਤਰ"
+msgstr "PGM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:219
 msgid "PGN chess game"
@@ -909,23 +907,23 @@ msgstr "PGP-ਉਲਝਾਉ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:224
 msgid "PHP script"
-msgstr "PHP ਸਕ੍ਰਿਪਟ"
+msgstr "PHP ਸਕਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:225
 msgid "PICT image"
-msgstr "PICT ਚਿਤਰ"
+msgstr "PICT ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:226
 msgid "PNG image"
-msgstr "PNG ਚਿਤਰ"
+msgstr "PNG ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:227
 msgid "PNM image"
-msgstr "PNM ਚਿਤਰ"
+msgstr "PNM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:228
 msgid "PPM image"
-msgstr "PPM ਚਿਤਰ"
+msgstr "PPM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:229
 msgid "Packages"
@@ -937,11 +935,11 @@ msgstr "Palm OS ਡਾਟਾਬੇਸ"
 
 #: gnome-vfs.keys.in.h:231
 msgid "Palm Pixmap image"
-msgstr "ਪਾਮ ਪੈਕਸਮੈਪ ਚਿਤਰ"
+msgstr "ਪਾਮ ਪੈਕਸਮੈਪ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:232
 msgid "Partial email message"
-msgstr "ਅਧੂਰਾ ਈ-ਪਤਰ ਸੁਨੇਹਾ"
+msgstr "ਅਧੂਰਾ ਈ-ਪੱਤਰ ਸੁਨੇਹਾ"
 
 #: gnome-vfs.keys.in.h:233
 msgid "Pascal source code"
@@ -949,15 +947,15 @@ msgstr "ਪਾਸਕਲ ਸੋਰਸ ਕੋਡ"
 
 #: gnome-vfs.keys.in.h:234
 msgid "Perl script"
-msgstr "ਪਰਲ ਸਕ੍ਰਿਪਟ"
+msgstr "ਪਰਲ ਸਕਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:235
 msgid "Photo CD image"
-msgstr "ਫੋਟੋ ਸੀਡੀ ਚਿਤਰ"
+msgstr "ਫੋਟੋ ਸੀਡੀ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:236
 msgid "Photoshop document"
-msgstr "ਫੋਟੋਸੋਂਪ ਚਿਤਰ"
+msgstr "ਫੋਟੋਸੋਂਪ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:237
 msgid "Plain text document"
@@ -969,11 +967,11 @@ msgstr "ਸੂਚੀ"
 
 #: gnome-vfs.keys.in.h:239
 msgid "PostScript Type 1 font"
-msgstr "ਪੋਸਟਸਕ੍ਰਿਪਟ ਟਾਇਪ ੧ ਫੋਟ"
+msgstr "ਪੋਸਟਸਕਿਰੱਪਟ ਟਾਇਪ ੧ ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:240
 msgid "PostScript document"
-msgstr "ਪੋਸਟਸਕ੍ਰਿਪਟ ਦਸਤਾਵੇਜ਼"
+msgstr "ਪੋਸਟਸਕਿਰੱਪਟ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:241
 msgid "Profiler results"
@@ -981,7 +979,7 @@ msgstr "ਪਰੋਫਾੲਲਿਰ ਨਤੀਜੇ"
 
 #: gnome-vfs.keys.in.h:242
 msgid "Project Plan"
-msgstr "ਪ੍ਰੋਜੈਕਟ ਸਕੀਮ"
+msgstr "ਪਰੋਜੈਕਟ ਸਕੀਮ"
 
 #: gnome-vfs.keys.in.h:243
 msgid "Python byte code"
@@ -1013,7 +1011,7 @@ msgstr "README ਕਾਗਜਾਤ"
 
 #: gnome-vfs.keys.in.h:250
 msgid "RGB image"
-msgstr "RGB ਚਿਤਰ"
+msgstr "RGB ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:251
 msgid "RIFF audio"
@@ -1073,7 +1071,7 @@ msgstr "SHOUTcast ਸੰਗੀਤ ਸੂਚੀ"
 
 #: gnome-vfs.keys.in.h:265
 msgid "SMIL script"
-msgstr "SMIL ਸਕ੍ਰਿਪਟ"
+msgstr "SMIL ਸਕਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:266
 msgid "SQL code"
@@ -1081,7 +1079,7 @@ msgstr "ਐਸਐਲਿਕਉ ਕੋਡ"
 
 #: gnome-vfs.keys.in.h:267
 msgid "SUN Rasterfile"
-msgstr "ਸਨ ਰਾਸ਼ਟਰ ਫਾਇਲ"
+msgstr "ਸਨ ਰਾਸ਼ਟਰ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:268
 msgid "SV4 CPIO archive"
@@ -1121,7 +1119,7 @@ msgstr "ਖੋਜ ਨਤੀਜਾ"
 
 #: gnome-vfs.keys.in.h:277
 msgid "Security"
-msgstr "ਸੁਰਖਿਆ"
+msgstr "ਸੁਰੱਖਿਆ"
 
 #: gnome-vfs.keys.in.h:278
 msgid "Setext document"
@@ -1133,7 +1131,7 @@ msgstr "ਸਾਝਾਂ ਛਾਪਾ"
 
 #: gnome-vfs.keys.in.h:280
 msgid "Shared library"
-msgstr "ਸਾਂਝੀ ਲਾਇਬ੍ਰੇਰੀ"
+msgstr "ਸਾਂਝੀ ਲਾਇਬਰੇਰੀ"
 
 #: gnome-vfs.keys.in.h:281
 msgid "Shell archive"
@@ -1141,7 +1139,7 @@ msgstr "ਸੈਲ ਅਭਿਲੇਖ"
 
 #: gnome-vfs.keys.in.h:282
 msgid "Shell script"
-msgstr "ਸੈਲ ਸਕ੍ਰਿਪਟ"
+msgstr "ਸੈਲ ਸਕਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:283
 msgid "Signed message"
@@ -1149,7 +1147,7 @@ msgstr "ਦਸਤਖਤੀ ਸੁਨੇਹਾ"
 
 #: gnome-vfs.keys.in.h:284
 msgid "Silicon Graphics image"
-msgstr "ਸਿਲੀਕਾਨ ਗ੍ਰਾਫਿਕਸ ਚਿਤਰ"
+msgstr "ਸਿਲੀਕਾਨ ਗਰਾਫਿਕਸ ਚਿਤਰ"
 
 #: gnome-vfs.keys.in.h:285
 msgid "Socket"
@@ -1161,7 +1159,7 @@ msgstr "ਸਾਫਟਵੇਅਰ ਵਿਕਾਸ"
 
 #: gnome-vfs.keys.in.h:287
 msgid "Software Development/ROM Images"
-msgstr "ਸਾਫਟਵੇਅਰ ਵਿਕਾਸ/ ਰੋਮ ਪ੍ਰਤੀਬਿੰਬ"
+msgstr "ਸਾਫਟਵੇਅਰ ਵਿਕਾਸ/ ਰੋਮ ਪ੍ਤੀਬਿੰਬ"
 
 #: gnome-vfs.keys.in.h:288
 msgid "Software Development/Source Code"
@@ -1177,7 +1175,7 @@ msgstr "ਸਾਫਟਵੇਅਰ ਇੰਨਸਟਾਲ ਲਈ ਹਦਾਇਤਾ
 
 #: gnome-vfs.keys.in.h:291
 msgid "Software license terms"
-msgstr "ਸਾਫਟਵੇਅਰ ਲਾਈਸੈਸ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+msgstr "ਸਾਫਟਵੇਅਰ ਲਾਈਸੈਸ ਦੀਆਂ ਸ਼ਰਤਾਂ"
 
 #: gnome-vfs.keys.in.h:292
 msgid "Source code patch"
@@ -1185,7 +1183,7 @@ msgstr "ਸੋਰਸ ਕੋਡ ਪੈਚ"
 
 #: gnome-vfs.keys.in.h:293
 msgid "Speech document"
-msgstr "ਭਾਸ਼ਣ ਦਸਤਾਵੇਜ਼"
+msgstr "ਭਾਸ਼ਣ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:294
 msgid "Speedo font"
@@ -1213,7 +1211,7 @@ msgstr "ਸਟਾਰ ਡਰਾਇੰਗ"
 
 #: gnome-vfs.keys.in.h:300
 msgid "StarImpress presentation"
-msgstr "ਸਟਾਰਇੰਮਪਰੈਸ ਪੇਸ਼ਕਾਰੀ"
+msgstr "ਸਟਾਰਇੰਮਪਰੈਸ ਪੇਸ਼ਕਾਰੀ"
 
 #: gnome-vfs.keys.in.h:301
 msgid "StarMail file"
@@ -1225,7 +1223,7 @@ msgstr "ਸਟਾਰਮੈਥ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:303
 msgid "StarOffice extended metafile image"
-msgstr "ਸਟਾਰਆਫਿਸ ਐਕਸ ਟੈਡ ਮੈਟਾਫਾਇਲ ਚਿਤਰ"
+msgstr "ਸਟਾਰਆਫਿਸ ਐਕਸ ਟੈਡ ਮੈਟਾਫਾਇਲ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:304
 msgid "StarWriter document"
@@ -1245,11 +1243,11 @@ msgstr "ਸਨਉਸ ਨਿਊਜ ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:308
 msgid "Symbolic link"
-msgstr "ਚਿੰਨ੍ਹ ਸਬੰਧਿਤ"
+msgstr "ਚਿੰਨ੍ਰ ਸਬੰਧਿਤ"
 
 #: gnome-vfs.keys.in.h:309
 msgid "System"
-msgstr "ਮਸ਼ੀਨ(ਸਿਸਟਮ)"
+msgstr "ਮਸ਼ੀਨ(ਸਿਸਟਮ)"
 
 #: gnome-vfs.keys.in.h:310
 msgid "TIFF image"
@@ -1273,11 +1271,11 @@ msgstr "tar ਅਭਿਲੇਖ (gzip-ਸੰਕੁਚਿਤ)"
 
 #: gnome-vfs.keys.in.h:315
 msgid "TarGA image"
-msgstr "TarGA ਚਿਤਰ"
+msgstr "TarGA ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:316
 msgid "Tcl script"
-msgstr "Tcl ਸਕ੍ਰਿਪਟ"
+msgstr "Tcl ਸਜਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:317
 msgid "TeX document"
@@ -1313,15 +1311,15 @@ msgstr "troff ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:325
 msgid "Troff me input document"
-msgstr "troff ਮੀ ਇੰਨਪੁਟ ਦਸਤਾਵੇਜ਼"
+msgstr "troff ਮੀ ਇੰਨਪੁੱਟ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:326
 msgid "Troff mm input document"
-msgstr "troff ਮਿਮੀ ਇੰਨਪੁਟ ਦਸਤਾਵੇਜ਼"
+msgstr "troff ਮਿਮੀ ਇੰਨਪੁੱਟ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:327
 msgid "Troff ms input document"
-msgstr "troff ਐਮਐਸ ਇੰਨਪੁਟ ਦਸਤਾਵੇਜ਼"
+msgstr "troff ਐਮਐਸ ਇੰਨਪੁੱਟ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:328
 msgid "TrueType font"
@@ -1329,7 +1327,7 @@ msgstr "TrueType ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:329
 msgid "Truevision Targa image"
-msgstr "Truevision Targa ਚਿਤਰ"
+msgstr "Truevision Targa ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:330
 msgid "USENET news message"
@@ -1345,11 +1343,11 @@ msgstr "ਅਣਪਛਾਤੀ ਕਿਸਮ"
 
 #: gnome-vfs.keys.in.h:333
 msgid "User Interface"
-msgstr "ਖੁਲਾ ਦਰ"
+msgstr "ਖੁੱਲਾ ਦਰ"
 
 #: gnome-vfs.keys.in.h:334
 msgid "User Interface/Fonts"
-msgstr "ਖੁਲਾ ਦਰ/ ਫੋਟ"
+msgstr "ਖੁੱਲਾ ਦਰ/ ਫੋਟ"
 
 #: gnome-vfs.keys.in.h:335
 msgid "Ustar archive"
@@ -1397,15 +1395,15 @@ msgstr "ਵੈਬ ਫੋਲਡਰ"
 
 #: gnome-vfs.keys.in.h:346
 msgid "Windows bitmap image"
-msgstr "ਵਿੰਡੋ ਬਿਟਮੈਪ ਚਿਤਰ"
+msgstr "ਵਿੰਡੋ ਬਿਟਮੈਪ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:347
 msgid "Windows icon image"
-msgstr "ਵਿੰਡੋ ਆਈਕਾਨ ਚਿਤਰ"
+msgstr "ਵਿੰਡੋ ਆਈਕਾਨ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:348
 msgid "Windows metafile graphics"
-msgstr "ਵਿੰਡੋ ਮੈਟਾਫਾਇਲ ਗ੍ਰਾਫਿਕਸ"
+msgstr "ਵਿੰਡੋ ਮੈਟਾਫਾਇਲ ਗਰਾਫਿਕਸ"
 
 #: gnome-vfs.keys.in.h:349
 msgid "WordPerfect document"
@@ -1413,15 +1411,15 @@ msgstr "ਵਰਡਪਰਫੈਕਟ ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:350
 msgid "X bitmap image"
-msgstr "X ਬਿਟਮੈਪ ਚਿਤਰ"
+msgstr "X ਬਿਟਮੈਪ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:351
 msgid "X window image"
-msgstr "X ਵਿੰਡੋ ਚਿਤਰ"
+msgstr "X ਵਿੰਡੋ ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:352
 msgid "XBEL bookmarks file"
-msgstr "XBEL ਬੁਕਮਾਰਕ ਫਾਇਲ"
+msgstr "XBEL ਬੁੱਕਮਾਰਕ ਫਾਇਲ"
 
 #: gnome-vfs.keys.in.h:353
 msgid "XML document"
@@ -1429,7 +1427,7 @@ msgstr "XML ਦਸਤਾਵੇਜ਼"
 
 #: gnome-vfs.keys.in.h:354
 msgid "XPM image"
-msgstr "XPM ਚਿਤਰ"
+msgstr "XPM ਚਿੱਤਰ"
 
 #: gnome-vfs.keys.in.h:355
 msgid "Xbase database"
@@ -1441,7 +1439,7 @@ msgstr "ਯਾਸਸ ਵਿਆਕਰਨ ਸੋਰਸ ਕੋਡ"
 
 #: gnome-vfs.keys.in.h:357
 msgid "Z shell script"
-msgstr "Z ਸੈਲ ਸਕ੍ਰਿਪਟ"
+msgstr "Z ਸੈਲ ਸਜਿਰੱਪਟ"
 
 #: gnome-vfs.keys.in.h:358
 msgid "Zip archive"
@@ -1461,4 +1459,4 @@ msgstr "iPod ਸਾਫਟਵੇਅਰ"
 
 #: gnome-vfs.keys.in.h:362
 msgid "xfig vector graphic"
-msgstr "xfig ਵੈਕਟਰ ਗ੍ਰਾਫਿਕਸ"
+msgstr "xfig ਵੈਕਟਰ ਗਰਾਫਿਕਸ"
