@@ -1031,6 +1031,17 @@ application/x-xbase
 	_category=Information
 	use_category_default=yes
 
+application/x-zip
+	_description=Zip archive
+	icon_filename=gnome-compressed
+	vfs_method=zip
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
+	_category=Packages
+	use_category_default=yes
+
 application/x-zip-compressed
 	_description=Zip archive
 	icon_filename=gnome-compressed
@@ -1768,6 +1779,17 @@ multipart/report
 multipart/signed
 	_description=Signed message
 	_category=Message
+
+multipart/x-zip
+	_description=Zip archive
+	icon_filename=gnome-compressed
+	vfs_method=zip
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=file-roller
+	short_list_application_ids_for_intermediate_user_level=file-roller
+	short_list_application_ids_for_advanced_user_level=file-roller
+	_category=Packages
+	use_category_default=yes
 
 text/*
 	default_action_type=component

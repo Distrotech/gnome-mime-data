@@ -1,5 +1,9 @@
 2003-12-22  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.keys.in: add more aliases for .zip files (Closes: #129510)
+
+2003-12-22  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic:
 	* gnome-vfs.applications:
 	* gnome-vfs.keys.in:
