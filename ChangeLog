@@ -1,3 +1,10 @@
+2002-11-10  Alexander Kirillov  <kirillov@math.sunysb.edu>
+
+	* icons/gnome-application-x-dvi.png: new file, copied from
+	Ximian-South theme (fixes bug 94945)
+	* icons/Makefile.am: added   gnome-application-x-dvi.png
+	
+
 2002-11-08  Thomas Vander Stichele <thomas at apestaart dot org>
 
         * gnome-vfs-mime-magic:

@@ -34,6 +34,7 @@ icon_DATA =\
 	gnome-application-x-dc-rom.png \
 	gnome-application-x-deb.png \
 	gnome-application-x-dia-diagram.png \
+	gnome-application-x-dvi.png \
 	gnome-application-x-e-theme.png \
 	gnome-application-x-flac.png \
 	gnome-application-x-font-sunos-news.png \
