@@ -436,7 +436,7 @@ image/png
 	ext: png
 
 image/svg
-	ext: svg
+	ext: svg svgz
 
 image/tiff
 	ext: tif tiff

@@ -1,5 +1,10 @@
 2003-02-01  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.mime: added svgz as a possible extension for SVG files
+	(reported by Christian Schaller, following additions to librsvg)
+
+2003-02-01  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic: CDXA RIFF data is MPEG video (Closes: #104930)
 
 2003-01-22  Christian Rose  <menthos@menthos.com>
