@@ -72,6 +72,7 @@
 20      string		\375\304\247\334			application/x-zoo
 0	string		StuffIt\ 				application/x-stuffit
 11	string		must\ be\ converted\ with\ BinHex	application/mac-binhex40
+102	string		mBIN					application/x-macbinary
 4	string		gtktalog\ 				application/x-gtktalog
 0	string		diff\ 					text/x-patch
 0	string		Index:					text/x-patch

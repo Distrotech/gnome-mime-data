@@ -680,6 +680,10 @@ application/x-lhz
 	category=Packages
 	use_category_default=yes
 
+application/x-macbinary
+	category=Packages
+	_description=MacBinary file
+
 application/x-mif
 	_description=FrameMaker interchange document
 	category=Documents/Word Processor
@@ -1914,6 +1918,14 @@ x-directory/search
 	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus_file_manager_search_list_view:b186e381-198e-43cf-9c46-60b6bb35db0b
 	category=Information
 
+x-directory/vfolder-desktop
+	_description=folder
+	default_action_type=component
+	short_list_component_iids=OAFIID:Nautilus_File_Manager_Icon_View,OAFIID:Nautilus_File_Manager_List_View,OAFIID:Nautilus_Music_View
+	short_list_component_iids_for_novice_user_level=OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058,OAFIID:nautilus_file_manager_list_view:521e489d-0662-4ad7-ac3a-832deabe111c,OAFIID:nautilus_music_view:9456b5d2-60a8-407f-a56e-d561e1821391:OAFIID
+	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058,OAFIID:nautilus_file_manager_list_view:521e489d-0662-4ad7-ac3a-832deabe111c,OAFIID:nautilus_music_view:9456b5d2-60a8-407f-a56e-d561e1821391
+	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058,OAFIID:nautilus_file_manager_list_view:521e489d-0662-4ad7-ac3a-832deabe111c,OAFIID:nautilus_music_view:9456b5d2-60a8-407f-a56e-d561e1821391
+
 x-directory/webdav
 	_description=web folder
 	default_action_type=component
@@ -1944,14 +1956,6 @@ x-directory/webdav-prefer-directory
 	short_list_application_ids_for_intermediate_user_level=mozilla
 	short_list_application_ids_for_advanced_user_level=mozilla
 	category=System
-
-x-directory/vfolder-desktop
-	_description=folder
-	default_action_type=component
-	short_list_component_iids=OAFIID:Nautilus_File_Manager_Icon_View,OAFIID:Nautilus_File_Manager_List_View,OAFIID:Nautilus_Music_View
-	short_list_component_iids_for_novice_user_level=OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058,OAFIID:nautilus_file_manager_list_view:521e489d-0662-4ad7-ac3a-832deabe111c,OAFIID:nautilus_music_view:9456b5d2-60a8-407f-a56e-d561e1821391:OAFIID
-	short_list_component_iids_for_intermediate_user_level=OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058,OAFIID:nautilus_file_manager_list_view:521e489d-0662-4ad7-ac3a-832deabe111c,OAFIID:nautilus_music_view:9456b5d2-60a8-407f-a56e-d561e1821391
-	short_list_component_iids_for_advanced_user_level=OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058,OAFIID:nautilus_file_manager_list_view:521e489d-0662-4ad7-ac3a-832deabe111c,OAFIID:nautilus_music_view:9456b5d2-60a8-407f-a56e-d561e1821391
 
 x-special/device-block
 	_description=block device

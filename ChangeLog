@@ -1,3 +1,10 @@
+2002-07-12  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in: Added MacBinaryII file types
+	fix warning about the position of the vfolder-desktop mime-type in
+	gnome-vfs.keys.in
+
 2002-07-02  Peteris Krisjanis <pecisk@inbox.lv>
 
 	* configure.in: (ALL_LINGUAS) added Latvian (lv) support.
