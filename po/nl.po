@@ -3,9 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-mime-data\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-07-07 12:49+0200\n"
-"PO-Revision-Date: 2003-05-30 16:05+0100\n"
+"POT-Creation-Date: 2003-07-21 20:21+0200\n"
+"PO-Revision-Date: 2003-07-21 21:46+0100\n"
 "Last-Translator: Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -125,9 +124,8 @@ msgid "Binary program"
 msgstr "Binair programma"
 
 #: gnome-vfs.keys.in.h:29
-#, fuzzy
 msgid "Blender file"
-msgstr "Kalenderbestand"
+msgstr "Blenderbestand"
 
 #: gnome-vfs.keys.in.h:30
 msgid "Block device"
@@ -646,9 +644,8 @@ msgid "Macromedia Flash file"
 msgstr "Macromedia Flash bestand"
 
 #: gnome-vfs.keys.in.h:159
-#, fuzzy
 msgid "MagicPoint presentation"
-msgstr "KPresenter presentatie"
+msgstr "Magicpoint presentatie"
 
 #: gnome-vfs.keys.in.h:160
 msgid "Magick image format"
