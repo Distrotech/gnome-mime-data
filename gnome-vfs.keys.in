@@ -1103,6 +1103,9 @@ audio/prs.sid
 	icon_filename=i-music
 	_category=Audio
 
+audio/vnd.rn-realaudio
+	_category=Audio
+
 audio/x-aifc
 	_description=AIFC audio
 	_category=Audio
@@ -1205,6 +1208,12 @@ audio/x-ms-wax
 	_description=Playlist
 	_category=Audio
 
+audio/x-pn-aiff
+	_category=Audio
+
+audio/x-pn-au
+	_category=Audio
+
 # also application/vnd.rn-realmedia, audio/x-real-audio
 audio/x-pn-realaudio
 	_description=RealAudio document
@@ -1212,6 +1221,12 @@ audio/x-pn-realaudio
 	short_list_application_ids_for_novice_user_level=realplayer
 	short_list_application_ids_for_intermediate_user_level=realplayer
 	short_list_application_ids_for_advanced_user_level=realplayer
+	_category=Audio
+
+audio/x-pn-wav
+	_category=Audio
+
+audio/x-pn-windows-acm
 	_category=Audio
 
 # also audio/x-pn-realaudio, application/vnd.rn-realmedia
@@ -1412,6 +1427,12 @@ image/vnd.dwg
 
 image/vnd.dxf
 	_description=DXF vector graphic
+	_category=Images
+
+image/vnd.rn-realflash
+	_category=Images
+
+image/vnd.rn-realpix
 	_category=Images
 
 image/x-3ds
@@ -2191,6 +2212,9 @@ video/msvideo
 video/quicktime
 	_description=QuickTime movie
 	default_action_type=application
+	_category=Video
+
+video/vnd.rn-realvideo
 	_category=Video
 
 video/vnd.vivo
