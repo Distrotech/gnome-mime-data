@@ -1,3 +1,9 @@
+2003-08-29  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in: fix a bunch of warnings from check-mime.pl,
+	add eog and the image view as a handler for image/x-ico mime-types
+
 2003-08-25  Marco Pesenti Gritti  <marco@gnome.org>
 
 	* gnome-vfs.keys.in:
