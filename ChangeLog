@@ -1,3 +1,8 @@
+2004-06-24  Frederic Crozat  <fcrozat@mandrakesoft.com>
+
+	* gnome-vfs.applications: fix gvim command and name (were 
+	swapped).
+
 2004-05-29  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in:

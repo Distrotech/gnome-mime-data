@@ -236,8 +236,8 @@ gv
 	mime_types=application/pdf,application/postscript
 
 gvim
-	command=gvim
-	name=gvim -c ":cd %:p:h"
+	command=gvim -c ":cd %:p:h"
+	name=gvim 
 	can_open_multiple_files=false
 	expects_uris=false
 	requires_terminal=false
