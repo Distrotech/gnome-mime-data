@@ -1,3 +1,8 @@
+2003-05-23  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: add the application/x-smb-printer mime-type
+	for the new SMB method
+
 2003-05-22  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs-mime-magic: remove false positives detection with help

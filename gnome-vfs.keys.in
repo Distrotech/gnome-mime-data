@@ -902,6 +902,11 @@ application/x-slp
 	_description=Stampede package
 	_category=Packages
 
+application/x-smb-printer
+	_description=Shared Printer
+	icon_filename=i-printer
+	_category=Information
+
 application/x-smil
 	_description=SMIL script
 	_category=Documents
