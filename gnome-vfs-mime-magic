@@ -73,9 +73,9 @@
 0	string		8BPS\ \ \000\000\000\000 &0xffffffff0000ffffffff image/x-psd
 0	string		#LyX					text/x-lyx
 
-# Desktop file support - slightly wrong, since comments can be before 
-# the [Desktop Entry] line in the current spec - probably should fix 
-# desktop entry spec to allow this 
+# Desktop file support - slightly wrong, since comments can be before
+# the [Desktop Entry] line in the current spec - probably should fix
+# desktop entry spec to allow this
 0:32   string          [Desktop\ Entry]                        application/x-gnome-app-info
 
 # special Nautilus link type

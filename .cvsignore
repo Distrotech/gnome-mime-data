@@ -1,7 +1,3 @@
-*.la
-*.lo
-.deps
-.libs
 ABOUT-NLS
 Makefile
 Makefile.in
@@ -17,13 +13,10 @@ config.sub
 configure
 gnome-mime-data.spec
 install-sh
-intl
 libtool
 ltconfig
 ltmain.sh
 missing
-mkinstalldirs
-sgml
 stamp-h
 stamp-h.in
 gnome-mime-data-2.0.pc
@@ -33,3 +26,4 @@ intltool-merge
 intltool-merge.in
 intltool-update
 intltool-update.in
+gnome-vfs.keys

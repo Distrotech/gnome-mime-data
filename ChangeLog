@@ -1,3 +1,15 @@
+2001-11-02  Darin Adler  <darin@bentspoon.com>
+
+	* .cvsignore: Ignore gnome-vfs.keys. Don't bother
+	ignoring things that just aren't here.
+	* gnome-vfs-mime-magic: Remove some spaces to make
+	check-mime.pl happy.
+	* gnome-vfs.keys.in: Remove file type extensions from
+	all icon filenames for clarity. Remove all icon filenames
+	that exactly match the MIME type. We only need an explicit
+	mention of the filename if it's not "gnome-<type>", where
+	"<type>" is the MIME type with the "/" replaced by "-".
+
 2001-11-02  Seth Nickell  <snickell@stanford.edu>
 
 	* gnome-vfs-mime-magic:
