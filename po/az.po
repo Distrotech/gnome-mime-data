@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.0\n"
 "POT-Creation-Date: 2003-02-04 04:59+0100\n"
-"PO-Revision-Date: 2003-02-21 15:22+0200\n"
+"PO-Revision-Date: 2003-02-22 09:28+0200\n"
 "Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
 "Language-Team: Azerbaijani Turkic <C@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -151,11 +151,11 @@ msgstr "Dia diaqramı"
 
 #: gnome-vfs.keys.in.h:35
 msgid "Digital Imaging and Communications in Medicine image"
-msgstr ""
+msgstr "Tibb şəklindəki Dijital Rəsm və Rabitə"
 
 #: gnome-vfs.keys.in.h:36
 msgid "Digital Moving Picture Exchange"
-msgstr ""
+msgstr "Hərəkətli Dijital Şəkil Dəyişdirilməsi"
 
 #: gnome-vfs.keys.in.h:37
 msgid "Documents"
