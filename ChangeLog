@@ -1,3 +1,20 @@
+2002-03-16  Seth Nickell  <snickell@stanford.edu>
+
+	* configure.in:
+
+	Up the version number to 1.0.5.
+	
+	* gnome-vfs-mime-magic:
+
+	Add magic for detecting libraries and core files, from
+	Havard Wigtil (sorry, the character didn't want to stick
+	in the file correctly :-)
+	
+	* gnome-vfs.keys.in:
+
+	Better descriptions for .m3u files and for RealMedia
+	files.
+	
 2002-03-16  Wang Jian  <lark@linux.net.cn>
 
 	* configure.in: Added "zh_CN" to ALL_LINGUAS.

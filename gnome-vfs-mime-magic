@@ -35,6 +35,8 @@
 # misidentified.
 
 0	string		%PDF-					application/pdf
+0	string		\177ELF\ \ \ \ \ \ \ \ \ \ \ \ \004 &0xffffffff000000000000000000000000ff application/x-core-file
+0	string		\177ELF\ \ \ \ \ \ \ \ \ \ \ \ \003 &0xffffffff000000000000000000000000ff application/x-shared-library
 0	string		\177ELF					application/x-executable-binary
 
 # Disable zip because detecting StarOffice files correctly is more imporant in the release
