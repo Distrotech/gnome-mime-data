@@ -1037,6 +1037,9 @@ application/x-xbase
 	_category=Information
 	use_category_default=yes
 
+application/x-xbel
+	_description=XBEL bookmarks file
+
 application/x-zip
 	_description=Zip archive
 	icon_filename=gnome-compressed
@@ -1062,9 +1065,6 @@ application/x-zip-compressed
 application/x-zoo
 	_description=Zoo archive
 	_category=Packages
-
-application/xbel
-	_description=XBEL bookmarks file
 
 application/zip
 	_description=Zip archive

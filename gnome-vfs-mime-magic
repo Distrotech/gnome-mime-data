@@ -123,8 +123,8 @@
 # xpm rule needs to go before text/x-c
 0	string		/*\ XPM\ */				image/x-xpixmap
 
-0:64	string		\<!DOCTYPE\ xbel			application/xbel
-0:192	string		\<xbel					application/xbel
+0:64	string		\<!DOCTYPE\ xbel			application/x-xbel
+0:192	string		\<xbel					application/x-xbel
 0:64	string		\<!DOCTYPE\ NETSCAPE-Bookmark-file-1\>	application/x-mozilla-bookmarks
 0:64	string		\<!DOCTYPE\ NETSCAPE-Bookmark-file-1\>	application/x-netscape-bookmarks
 0:64	string		\<ephy_bookmarks			application/x-epiphany-bookmarks
