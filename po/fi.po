@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
-"POT-Creation-Date: 2002-04-23 12:45-0400\n"
-"PO-Revision-Date: 2002-03-19 23:55+0200\n"
+"POT-Creation-Date: 2002-04-23 20:28+0300\n"
+"PO-Revision-Date: 2002-04-24 23:20+0300\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "C-komentotulkkiskripti"
 
 #: gnome-vfs.keys.in.h:17
 msgid "C source code"
-msgstr "C lähdekoodi"
+msgstr "C-lähdekoodi"
 
 #: gnome-vfs.keys.in.h:18
 msgid "C source code header"
@@ -240,9 +240,8 @@ msgid "HTML page"
 msgstr "HTML-sivu"
 
 #: gnome-vfs.keys.in.h:57
-#, fuzzy
 msgid "Haskell source code"
-msgstr "C lähdekoodi"
+msgstr "Haskell-lähdekoodi"
 
 #: gnome-vfs.keys.in.h:58
 msgid "IDL document"
@@ -333,9 +332,8 @@ msgid "Linux PSF console font"
 msgstr "Linux PSF -konsolikirjasin"
 
 #: gnome-vfs.keys.in.h:80
-#, fuzzy
 msgid "Literate haskell source code"
-msgstr "Fortran-lähdekoodi"
+msgstr "Literate haskell -lähdekoodi"
 
 #: gnome-vfs.keys.in.h:81
 msgid "Lotus 1-2-3 spreadsheet"
@@ -406,9 +404,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Microsoft PowerPoint -asiakirja"
 
 #: gnome-vfs.keys.in.h:98
-#, fuzzy
 msgid "Microsoft WMV video"
-msgstr "Microsoft-video"
+msgstr "Microsoft WMV -video"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Microsoft Word document"
