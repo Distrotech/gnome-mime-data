@@ -1,3 +1,7 @@
+2003-01-17  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.mime: added pps suffix for PowerPoint files
+
 2003-01-09  Alex Duggan  <aldug@gnome.org>
 
 	* AUTHORS: added Seth Nickell to AUTHORS file,

@@ -63,7 +63,7 @@ application/vnd.ms-excel
 	ext: xls xla xlt xlc xld
 
 application/vnd.ms-powerpoint
-	ext: ppt
+	ext: ppt pps
 
 # StarOffice 5.x document types
 application/vnd.stardivision.calc
