@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.0\n"
-"POT-Creation-Date: 2002-05-01 11:26+0200\n"
+"POT-Creation-Date: 2002-05-07 23:18-0700\n"
 "PO-Revision-Date: 2002-05-01 11:42MET\n"
 "Last-Translator: Pablo Saratxaga <pablo@mandrakesoft.com>\n"
 "Language-Team: Walon <linux-wa@chanae.alphanet.ch>\n"
@@ -1132,4 +1132,3 @@ msgstr "årtchive ZIP (sipotcheye)"
 #: gnome-vfs.keys.in.h:280
 msgid "zoo archive"
 msgstr "årtchive ZOO (sipotcheye)"
-

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs CVS HEAD\n"
-"POT-Creation-Date: 2002-04-23 12:45-0400\n"
+"POT-Creation-Date: 2002-05-07 23:18-0700\n"
 "PO-Revision-Date: 2001-03-05 18:20+00:00\n"
 "Last-Translator: Andras Timar <timar@gnome.hu>\n"
 "Language-Team: Hungarian <hu@gnome.hu>\n"
@@ -567,586 +567,595 @@ msgid "PostScript document"
 msgstr "PostScript dokumentum"
 
 #: gnome-vfs.keys.in.h:135
+msgid "Project Plan"
+msgstr ""
+
+#: gnome-vfs.keys.in.h:136
 msgid "Python source code"
 msgstr "Python forráskód"
 
-#: gnome-vfs.keys.in.h:136
+#: gnome-vfs.keys.in.h:137
 msgid "QuickTime movie"
 msgstr "QuickTime film"
 
-#: gnome-vfs.keys.in.h:137
+#: gnome-vfs.keys.in.h:138
 msgid "Quicken document"
 msgstr "Quicken dokumentum"
 
-#: gnome-vfs.keys.in.h:138
+#: gnome-vfs.keys.in.h:139
 msgid "Quicken for Windows document"
 msgstr "Quicken for Windows dokumentum"
 
-#: gnome-vfs.keys.in.h:139
+#: gnome-vfs.keys.in.h:140
 msgid "RAR archive"
 msgstr "RAR archívum"
 
-#: gnome-vfs.keys.in.h:140
+#: gnome-vfs.keys.in.h:141
 msgid "README document"
 msgstr "README dokumentum"
 
-#: gnome-vfs.keys.in.h:141
+#: gnome-vfs.keys.in.h:142
 msgid "RGB image"
 msgstr "RGB kép"
 
-#: gnome-vfs.keys.in.h:142
+#: gnome-vfs.keys.in.h:143
 msgid "RIFF audio"
 msgstr "RIFF kép"
 
-#: gnome-vfs.keys.in.h:143
+#: gnome-vfs.keys.in.h:144
 msgid "RPM package"
 msgstr "RPM csomag"
 
-#: gnome-vfs.keys.in.h:144
+#: gnome-vfs.keys.in.h:145
 #, fuzzy
 msgid "RealAudio document"
 msgstr "PN RealAudio dokumentum"
 
-#: gnome-vfs.keys.in.h:145
+#: gnome-vfs.keys.in.h:146
 msgid "RealAudio/Video document"
 msgstr "RealAudio/Video dokumentum"
 
-#: gnome-vfs.keys.in.h:146
+#: gnome-vfs.keys.in.h:147
 msgid "RealVideo video"
 msgstr "RealVideo video"
 
-#: gnome-vfs.keys.in.h:147
+#: gnome-vfs.keys.in.h:148
 msgid "S/MIME file"
 msgstr "S/MIME fájl"
 
-#: gnome-vfs.keys.in.h:148
+#: gnome-vfs.keys.in.h:149
 msgid "S/MIME signature"
 msgstr "S/MIME aláírás"
 
-#: gnome-vfs.keys.in.h:149
+#: gnome-vfs.keys.in.h:150
 msgid "SGI video"
 msgstr "SGI video"
 
-#: gnome-vfs.keys.in.h:150
+#: gnome-vfs.keys.in.h:151
 msgid "SGML document"
 msgstr "SGML dokumentum"
 
-#: gnome-vfs.keys.in.h:151
+#: gnome-vfs.keys.in.h:152
 msgid "SMIL script"
 msgstr "SMIL szkript"
 
-#: gnome-vfs.keys.in.h:152
+#: gnome-vfs.keys.in.h:153
 msgid "SMS or Game Gear rom"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:153
+#: gnome-vfs.keys.in.h:154
 msgid "SQL code"
 msgstr "SQL kód"
 
-#: gnome-vfs.keys.in.h:154
+#: gnome-vfs.keys.in.h:155
 msgid "SV4 CPIO archive"
 msgstr "SV4 CPIO archívum"
 
-#: gnome-vfs.keys.in.h:155
+#: gnome-vfs.keys.in.h:156
 msgid "SV4 CPIP archive (with CRC)"
 msgstr "SV4 CPIP archívum (CRC-vel)"
 
-#: gnome-vfs.keys.in.h:156
+#: gnome-vfs.keys.in.h:157
 msgid "SVG art"
 msgstr "SVG rajz"
 
-#: gnome-vfs.keys.in.h:157
+#: gnome-vfs.keys.in.h:158
 msgid "Scheme source code"
 msgstr "Scheme forráskód"
 
-#: gnome-vfs.keys.in.h:158
+#: gnome-vfs.keys.in.h:159
 msgid "Scream Tracker 3 audio"
 msgstr "Scream Tracker 3 hang"
 
-#: gnome-vfs.keys.in.h:159
+#: gnome-vfs.keys.in.h:160
 msgid "Scream Tracker audio"
 msgstr "Scream Tracker hang"
 
-#: gnome-vfs.keys.in.h:160
+#: gnome-vfs.keys.in.h:161
 msgid "Scream Tracker instrument"
 msgstr "Scream Tracker hangszer"
 
-#: gnome-vfs.keys.in.h:161
+#: gnome-vfs.keys.in.h:162
 msgid "Setext document"
 msgstr "Setext dokumentum"
 
-#: gnome-vfs.keys.in.h:162
+#: gnome-vfs.keys.in.h:163
 msgid "Speech document"
 msgstr "Speech dokumentum"
 
-#: gnome-vfs.keys.in.h:163
+#: gnome-vfs.keys.in.h:164
 msgid "Speedo font"
 msgstr "Speedo betûkészlet"
 
-#: gnome-vfs.keys.in.h:164
+#: gnome-vfs.keys.in.h:165
 msgid "Spreadsheet Interchange document"
 msgstr "Spreadsheet Interchange dokumentum"
 
-#: gnome-vfs.keys.in.h:165
+#: gnome-vfs.keys.in.h:166
 msgid "Stampede package"
 msgstr "Stampede csomag"
 
-#: gnome-vfs.keys.in.h:166
+#: gnome-vfs.keys.in.h:167
 #, fuzzy
 msgid "StarCalc spreadsheet"
 msgstr "StarOffice munkafüzet"
 
-#: gnome-vfs.keys.in.h:167
+#: gnome-vfs.keys.in.h:168
 msgid "StarChart chart"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:168
+#: gnome-vfs.keys.in.h:169
 msgid "StarDraw drawing"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:169
+#: gnome-vfs.keys.in.h:170
 #, fuzzy
 msgid "StarImpress presentation"
 msgstr "StarOffice prezentáció"
 
-#: gnome-vfs.keys.in.h:170
+#: gnome-vfs.keys.in.h:171
 msgid "StarMail file"
 msgstr ""
 
-#: gnome-vfs.keys.in.h:171
+#: gnome-vfs.keys.in.h:172
 #, fuzzy
 msgid "StarMath document"
 msgstr "MathML dokumentum"
 
-#: gnome-vfs.keys.in.h:172
+#: gnome-vfs.keys.in.h:173
 #, fuzzy
 msgid "StarWriter document"
 msgstr "StarOffice Writer dokumentum"
 
-#: gnome-vfs.keys.in.h:173
+#: gnome-vfs.keys.in.h:174
 msgid "Sun mu-law audio"
 msgstr "Sun µ-law hang"
 
-#: gnome-vfs.keys.in.h:174
+#: gnome-vfs.keys.in.h:175
 msgid "SunOS News font"
 msgstr "SunOS News betûkészlet"
 
-#: gnome-vfs.keys.in.h:175
+#: gnome-vfs.keys.in.h:176
 msgid "TIFF image"
 msgstr "TIFF kép"
 
-#: gnome-vfs.keys.in.h:176
+#: gnome-vfs.keys.in.h:177
 msgid "TarGA image"
 msgstr "TarGA kép"
 
-#: gnome-vfs.keys.in.h:177
+#: gnome-vfs.keys.in.h:178
 msgid "Tcl script"
 msgstr "Tcl szkript"
 
-#: gnome-vfs.keys.in.h:178
+#: gnome-vfs.keys.in.h:179
 msgid "TeX document"
 msgstr "TeX dokumentum"
 
-#: gnome-vfs.keys.in.h:179
+#: gnome-vfs.keys.in.h:180
 msgid "TeX dvi document"
 msgstr "TeX dvi dokumentum"
 
-#: gnome-vfs.keys.in.h:180
+#: gnome-vfs.keys.in.h:181
 msgid "TeX font"
 msgstr "TeX betûkészlet"
 
-#: gnome-vfs.keys.in.h:181
+#: gnome-vfs.keys.in.h:182
 msgid "TeX font metrics"
 msgstr "TeX betûmetrika"
 
-#: gnome-vfs.keys.in.h:182
+#: gnome-vfs.keys.in.h:183
 msgid "TeXInfo document"
 msgstr "TeXInfo dokumentum"
 
-#: gnome-vfs.keys.in.h:183
+#: gnome-vfs.keys.in.h:184
 msgid "ToutDoux document"
 msgstr "ToutDoux dokumentum"
 
-#: gnome-vfs.keys.in.h:184
+#: gnome-vfs.keys.in.h:185
 msgid "TrueType font"
 msgstr "TrueType betûkészlet"
 
-#: gnome-vfs.keys.in.h:185
+#: gnome-vfs.keys.in.h:186
 msgid "USENET news message"
 msgstr "USENET hírcsoportbeli üzenet"
 
-#: gnome-vfs.keys.in.h:186
+#: gnome-vfs.keys.in.h:187
 msgid "Unidata netCDF document"
 msgstr "Unidata netCDF dokumentum"
 
-#: gnome-vfs.keys.in.h:187
+#: gnome-vfs.keys.in.h:188
 msgid "V font"
 msgstr "V betûkészlet"
 
-#: gnome-vfs.keys.in.h:188
+#: gnome-vfs.keys.in.h:189
 msgid "VOC audio"
 msgstr "VOC hang"
 
-#: gnome-vfs.keys.in.h:189
+#: gnome-vfs.keys.in.h:190
 msgid "VRML document"
 msgstr "VRML dokumentum"
 
-#: gnome-vfs.keys.in.h:190
+#: gnome-vfs.keys.in.h:191
 msgid "Vivo video"
 msgstr "Vivo video"
 
-#: gnome-vfs.keys.in.h:191
+#: gnome-vfs.keys.in.h:192
 msgid "WAIS source code"
 msgstr "WAIS forráskód"
 
-#: gnome-vfs.keys.in.h:192
+#: gnome-vfs.keys.in.h:193
 msgid "Wavelet video"
 msgstr "Wavelet video"
 
-#: gnome-vfs.keys.in.h:193
+#: gnome-vfs.keys.in.h:194
 msgid "Windows bitmap image"
 msgstr "Windows bitmap kép"
 
-#: gnome-vfs.keys.in.h:194
+#: gnome-vfs.keys.in.h:195
 msgid "Windows icon image"
 msgstr "Windows ikon"
 
-#: gnome-vfs.keys.in.h:195
+#: gnome-vfs.keys.in.h:196
 msgid "Windows metafile graphics"
 msgstr "Windows metafile grafika"
 
-#: gnome-vfs.keys.in.h:196
+#: gnome-vfs.keys.in.h:197
 msgid "WordPerfect document"
 msgstr "WordPerfect dokumentum"
 
-#: gnome-vfs.keys.in.h:197
+#: gnome-vfs.keys.in.h:198
 msgid "X bitmap image"
 msgstr "X bitmap kép"
 
-#: gnome-vfs.keys.in.h:198
+#: gnome-vfs.keys.in.h:199
 msgid "X window image"
 msgstr "X window kép"
 
-#: gnome-vfs.keys.in.h:199
+#: gnome-vfs.keys.in.h:200
 msgid "XML document"
 msgstr "XML dokumentum"
 
-#: gnome-vfs.keys.in.h:200
+#: gnome-vfs.keys.in.h:201
 msgid "XPM image"
 msgstr "XPM kép"
 
-#: gnome-vfs.keys.in.h:201
+#: gnome-vfs.keys.in.h:202
 msgid "Xbase database"
 msgstr "Xbase adatbázis"
 
-#: gnome-vfs.keys.in.h:202
+#: gnome-vfs.keys.in.h:203
 #, fuzzy
 msgid "Z shell script"
 msgstr "C shell parancsfájl"
 
-#: gnome-vfs.keys.in.h:203
+#: gnome-vfs.keys.in.h:204
 msgid "active server page"
 msgstr "active server page"
 
-#: gnome-vfs.keys.in.h:204
+#: gnome-vfs.keys.in.h:205
 msgid "address card"
 msgstr "címjegyzékkártya"
 
-#: gnome-vfs.keys.in.h:205
+#: gnome-vfs.keys.in.h:206
 #, fuzzy
 msgid "application launcher"
 msgstr "Alkalmazás neve:"
 
-#: gnome-vfs.keys.in.h:206
+#: gnome-vfs.keys.in.h:207
 msgid "ar archive"
 msgstr "ar archívum"
 
-#: gnome-vfs.keys.in.h:207
+#: gnome-vfs.keys.in.h:208
 msgid "arj archive"
 msgstr "arj archívum"
 
-#: gnome-vfs.keys.in.h:208
+#: gnome-vfs.keys.in.h:209
 msgid "authors list"
 msgstr "szerzõk listája"
 
-#: gnome-vfs.keys.in.h:209
+#: gnome-vfs.keys.in.h:210
 msgid "backup file"
 msgstr "biztonsági mentés"
 
-#: gnome-vfs.keys.in.h:210
+#: gnome-vfs.keys.in.h:211
 msgid "basic audio"
 msgstr "egyszerû hang"
 
-#: gnome-vfs.keys.in.h:211
+#: gnome-vfs.keys.in.h:212
 msgid "bibliography record"
 msgstr "bibliográfiabejegyés"
 
-#: gnome-vfs.keys.in.h:212
+#: gnome-vfs.keys.in.h:213
 msgid "binary program"
 msgstr "bináris program"
 
-#: gnome-vfs.keys.in.h:213
+#: gnome-vfs.keys.in.h:214
 msgid "block device"
 msgstr "blokkos eszköz"
 
-#: gnome-vfs.keys.in.h:214
+#: gnome-vfs.keys.in.h:215
 msgid "bzip-compressed file"
 msgstr "bzip-pel tömörített fájl"
 
-#: gnome-vfs.keys.in.h:215
+#: gnome-vfs.keys.in.h:216
 msgid "calendar file"
 msgstr "naptárfájl"
 
-#: gnome-vfs.keys.in.h:216
+#: gnome-vfs.keys.in.h:217
 msgid "calendar or event document"
 msgstr "naptár vagy esemény típusú dokumentum"
 
-#: gnome-vfs.keys.in.h:217
+#: gnome-vfs.keys.in.h:218
 msgid "character device"
 msgstr "karakteres eszköz"
 
-#: gnome-vfs.keys.in.h:218
+#: gnome-vfs.keys.in.h:219
 msgid "comma-separated text document"
 msgstr "vesszõkkel elválasztott szöveg"
 
-#: gnome-vfs.keys.in.h:219
+#: gnome-vfs.keys.in.h:220
 msgid "compound document"
 msgstr "összetett dokumentum"
 
-#: gnome-vfs.keys.in.h:220
+#: gnome-vfs.keys.in.h:221
 msgid "compress-compressed file"
 msgstr "compress-szel tömörített fájl"
 
-#: gnome-vfs.keys.in.h:221
+#: gnome-vfs.keys.in.h:222
 msgid "compressed GIMP document"
 msgstr "tömörített GIMP dokumentum"
 
-#: gnome-vfs.keys.in.h:222
+#: gnome-vfs.keys.in.h:223
 msgid "directory information file"
 msgstr "könyvtár-információs fájl"
 
-#: gnome-vfs.keys.in.h:223
+#: gnome-vfs.keys.in.h:224
 msgid "document type definition"
 msgstr "dokumentumtípus definíciója"
 
-#: gnome-vfs.keys.in.h:224
+#: gnome-vfs.keys.in.h:225
 msgid "email headers"
 msgstr "levélfejléc"
 
-#: gnome-vfs.keys.in.h:225
+#: gnome-vfs.keys.in.h:226
 #, fuzzy
 msgid "email message/mailbox"
 msgstr "elektronikus levél"
 
-#: gnome-vfs.keys.in.h:226
+#: gnome-vfs.keys.in.h:227
 msgid "encrypted message"
 msgstr "titkosított üzenet"
 
-#: gnome-vfs.keys.in.h:227
+#: gnome-vfs.keys.in.h:228
 msgid "enriched text document"
 msgstr "enriched text dokumentum"
 
-#: gnome-vfs.keys.in.h:228
+#: gnome-vfs.keys.in.h:229
 msgid "folder"
 msgstr "mappa"
 
-#: gnome-vfs.keys.in.h:229
+#: gnome-vfs.keys.in.h:230
 msgid "gtar archive"
 msgstr "gtar archívum"
 
-#: gnome-vfs.keys.in.h:230
+#: gnome-vfs.keys.in.h:231
 msgid "gzip-compressed file"
 msgstr "gzip-pel tömörített fájl"
 
-#: gnome-vfs.keys.in.h:231
+#: gnome-vfs.keys.in.h:232
 msgid "help page"
 msgstr "súgó"
 
-#: gnome-vfs.keys.in.h:232
+#: gnome-vfs.keys.in.h:233
 msgid "mail delivery report"
 msgstr "jelentés levélkézbesítésrõl"
 
-#: gnome-vfs.keys.in.h:233
+#: gnome-vfs.keys.in.h:234
 msgid "mail disposition report"
 msgstr "jelentés levélkidobásról"
 
-#: gnome-vfs.keys.in.h:234
+#: gnome-vfs.keys.in.h:235
 msgid "mail system report"
 msgstr "levelezõrendszer jelentése"
 
-#: gnome-vfs.keys.in.h:235
+#: gnome-vfs.keys.in.h:236
 msgid "makefile"
 msgstr "makefile"
 
-#: gnome-vfs.keys.in.h:236
+#: gnome-vfs.keys.in.h:237
 msgid "manual page"
 msgstr "kézikönyvoldal"
 
-#: gnome-vfs.keys.in.h:237
+#: gnome-vfs.keys.in.h:238
 msgid "manual page (compressed)"
 msgstr "kézikönyvoldal (tömörített)"
 
-#: gnome-vfs.keys.in.h:238
+#: gnome-vfs.keys.in.h:239
 msgid "memory dump"
 msgstr "memóriatartalom"
 
-#: gnome-vfs.keys.in.h:239
+#: gnome-vfs.keys.in.h:240
 msgid "message digest"
 msgstr "ömlesztett üzenet"
 
-#: gnome-vfs.keys.in.h:240
+#: gnome-vfs.keys.in.h:241
 msgid "message in several formats"
 msgstr "többféle formátumú üzenet"
 
-#: gnome-vfs.keys.in.h:241
+#: gnome-vfs.keys.in.h:242
 msgid "multi-part message"
 msgstr "többrészes üzenet"
 
-#: gnome-vfs.keys.in.h:242
+#: gnome-vfs.keys.in.h:243
 msgid "named pipe"
 msgstr "névvel rendelkezõ csõvezeték"
 
-#: gnome-vfs.keys.in.h:243
+#: gnome-vfs.keys.in.h:244
 msgid "object code"
 msgstr "tárgykód"
 
-#: gnome-vfs.keys.in.h:244
+#: gnome-vfs.keys.in.h:245
 msgid "ogg audio"
 msgstr "ogg hang"
 
-#: gnome-vfs.keys.in.h:245
+#: gnome-vfs.keys.in.h:246
 msgid "partial email message"
 msgstr "részleges elektronikus levél"
 
-#: gnome-vfs.keys.in.h:246
+#: gnome-vfs.keys.in.h:247
 msgid "plain text document"
 msgstr "egyszerû szöveg"
 
-#: gnome-vfs.keys.in.h:247
+#: gnome-vfs.keys.in.h:248
 msgid "profiler results"
 msgstr "profiler eredmények"
 
-#: gnome-vfs.keys.in.h:248
+#: gnome-vfs.keys.in.h:249
+#, fuzzy
+msgid "python byte code"
+msgstr "Python forráskód"
+
+#: gnome-vfs.keys.in.h:250
 msgid "reference to remote file"
 msgstr "hivatkozás távoli fájlra"
 
-#: gnome-vfs.keys.in.h:249
+#: gnome-vfs.keys.in.h:251
 msgid "rejected patch file"
 msgstr "visszautasított patch fájl"
 
-#: gnome-vfs.keys.in.h:250
+#: gnome-vfs.keys.in.h:252
 msgid "rich text document"
 msgstr "rich text dokumentum"
 
-#: gnome-vfs.keys.in.h:251
+#: gnome-vfs.keys.in.h:253
 msgid "search results"
 msgstr "keresési eredmények"
 
-#: gnome-vfs.keys.in.h:252
+#: gnome-vfs.keys.in.h:254
 msgid "shared library"
 msgstr "osztott programkönyvtár"
 
-#: gnome-vfs.keys.in.h:253
+#: gnome-vfs.keys.in.h:255
 msgid "shell archive"
 msgstr "shell archívum"
 
-#: gnome-vfs.keys.in.h:254
+#: gnome-vfs.keys.in.h:256
 msgid "shell script"
 msgstr "parancsfájl"
 
-#: gnome-vfs.keys.in.h:255
+#: gnome-vfs.keys.in.h:257
 msgid "signed message"
 msgstr "aláírt üzenet"
 
-#: gnome-vfs.keys.in.h:256
+#: gnome-vfs.keys.in.h:258
 msgid "socket"
 msgstr "illesztõpont"
 
-#: gnome-vfs.keys.in.h:257
+#: gnome-vfs.keys.in.h:259
 msgid "software author credits"
 msgstr "szoftver szerzõinek felsorolása"
 
-#: gnome-vfs.keys.in.h:258
+#: gnome-vfs.keys.in.h:260
 msgid "software installation instructions"
 msgstr "szoftvertelepítési leírás"
 
-#: gnome-vfs.keys.in.h:259
+#: gnome-vfs.keys.in.h:261
 msgid "software license terms"
 msgstr "szoftver felhasználási szerzõdése"
 
-#: gnome-vfs.keys.in.h:260
+#: gnome-vfs.keys.in.h:262
 msgid "source code patch"
 msgstr "forráskód patch"
 
-#: gnome-vfs.keys.in.h:261
+#: gnome-vfs.keys.in.h:263
 msgid "style sheet"
 msgstr "stíluslap"
 
-#: gnome-vfs.keys.in.h:262
+#: gnome-vfs.keys.in.h:264
 msgid "symbolic link"
 msgstr "szimbolikus link"
 
-#: gnome-vfs.keys.in.h:263
+#: gnome-vfs.keys.in.h:265
 msgid "tab-separated text document"
 msgstr "tabulátorokkal elválasztott szöveg"
 
-#: gnome-vfs.keys.in.h:264
+#: gnome-vfs.keys.in.h:266
 msgid "tar archive"
 msgstr "tar archívum"
 
-#: gnome-vfs.keys.in.h:265
+#: gnome-vfs.keys.in.h:267
 msgid "tar archive (bzip2-compressed)"
 msgstr "tar archívum (bzip2-vel tömörített)"
 
-#: gnome-vfs.keys.in.h:266
+#: gnome-vfs.keys.in.h:268
 msgid "tar archive (gzip-compressed)"
 msgstr "tar archívum (gzip-pel tömörített)"
 
-#: gnome-vfs.keys.in.h:267
+#: gnome-vfs.keys.in.h:269
 msgid "theme"
 msgstr "téma"
 
-#: gnome-vfs.keys.in.h:268
+#: gnome-vfs.keys.in.h:270
 msgid "troff document"
 msgstr "troff dokumentum"
 
-#: gnome-vfs.keys.in.h:269
+#: gnome-vfs.keys.in.h:271
 msgid "troff me input document"
 msgstr "troff me input dokumentum"
 
-#: gnome-vfs.keys.in.h:270
+#: gnome-vfs.keys.in.h:272
 msgid "troff mm input document"
 msgstr "troff mm input dokumentum"
 
-#: gnome-vfs.keys.in.h:271
+#: gnome-vfs.keys.in.h:273
 msgid "troff ms input document"
 msgstr "troff ms input dokumentum"
 
-#: gnome-vfs.keys.in.h:272
+#: gnome-vfs.keys.in.h:274
 msgid "unknown type"
 msgstr "ismeretlen típus"
 
-#: gnome-vfs.keys.in.h:273
+#: gnome-vfs.keys.in.h:275
 msgid "ustar archive"
 msgstr "ustar archívum"
 
-#: gnome-vfs.keys.in.h:274
+#: gnome-vfs.keys.in.h:276
 msgid "wave audio"
 msgstr "wave hang"
 
-#: gnome-vfs.keys.in.h:275
+#: gnome-vfs.keys.in.h:277
 msgid "web folder"
 msgstr "webmappa"
 
-#: gnome-vfs.keys.in.h:276
+#: gnome-vfs.keys.in.h:278
 msgid "xfig vector graphic"
 msgstr "xfig vektorgrafika"
 
-#: gnome-vfs.keys.in.h:277
+#: gnome-vfs.keys.in.h:279
 msgid "zip archive"
 msgstr "zip archívum"
 
-#: gnome-vfs.keys.in.h:278
+#: gnome-vfs.keys.in.h:280
 msgid "zoo archive"
 msgstr "zoo archívum"
 
