@@ -2,15 +2,17 @@
 # Copyright (C) 2000 Free Software Foundation, Inc.
 # Dennis Smit <synap@area101.penguin.nl>, 2000.
 # Mendel Mobach <mendel@mobach.nl>, 2000.
+# Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>, 2001.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: Gnome-vfs\n"
-"POT-Creation-Date: 2001-12-16 06:14-0500\n"
-"PO-Revision-Date: 2001-12-16 22:42+0100\n"
-"Last-Translator: Mendel Mobach <mendel@mobach.nl>\n"
+"Project-Id-Version: Gnome-mime-data\n"
+"POT-Creation-Date: 2001-12-18 06:16-0500\n"
+"PO-Revision-Date: 2001-12-18 14:37+0100\n"
+"Last-Translator: Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=iso-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: gnome-vfs.keys.in.h:1
@@ -114,9 +116,8 @@ msgid "Commodore 64 Audio"
 msgstr "Commodore 64 Audio"
 
 #: gnome-vfs.keys.in.h:26
-#, fuzzy
 msgid "DCL script"
-msgstr "Beschrijving"
+msgstr "DCL script"
 
 #: gnome-vfs.keys.in.h:27
 msgid "DOS font"
@@ -191,9 +192,8 @@ msgid "GMC link"
 msgstr "GMC link"
 
 #: gnome-vfs.keys.in.h:45
-#, fuzzy
 msgid "GNOME application details"
-msgstr "Bewerk de applicatielijst"
+msgstr "Gnome programmadetails"
 
 #: gnome-vfs.keys.in.h:46
 msgid "GNU Oleo Spreadsheet"
@@ -268,9 +268,8 @@ msgid "Java source code"
 msgstr "Java broncode"
 
 #: gnome-vfs.keys.in.h:64
-#, fuzzy
 msgid "KDE application details"
-msgstr "Bewerk de applicatielijst"
+msgstr "KDE programmadetails"
 
 #: gnome-vfs.keys.in.h:65
 msgid "KIllustrator document"
@@ -465,9 +464,8 @@ msgid "Palm OS database"
 msgstr "Palm OS database"
 
 #: gnome-vfs.keys.in.h:113
-#, fuzzy
 msgid "Perl script"
-msgstr "Beschrijving"
+msgstr "Perl script"
 
 #: gnome-vfs.keys.in.h:114
 msgid "Photoshop document"
@@ -526,9 +524,8 @@ msgid "RealVideo video"
 msgstr "RealVideo video"
 
 #: gnome-vfs.keys.in.h:128
-#, fuzzy
 msgid "S/MIME file"
-msgstr "Mime-type"
+msgstr "S/MIME bestand"
 
 #: gnome-vfs.keys.in.h:129
 msgid "S/MIME signature"
@@ -799,18 +796,16 @@ msgid "compressed GIMP document"
 msgstr "gecomprimeerd GIMP document"
 
 #: gnome-vfs.keys.in.h:196
-#, fuzzy
 msgid "directory information file"
-msgstr "Directory is niet leeg"
+msgstr "map informatiebestand"
 
 #: gnome-vfs.keys.in.h:197
 msgid "document type definition"
 msgstr "documenttype definitie"
 
 #: gnome-vfs.keys.in.h:198
-#, fuzzy
 msgid "email headers"
-msgstr "Ongeldige header '%s'"
+msgstr "e-mail header"
 
 #: gnome-vfs.keys.in.h:199
 msgid "email message"
@@ -929,9 +924,8 @@ msgid "shell archive"
 msgstr "shell archief"
 
 #: gnome-vfs.keys.in.h:228
-#, fuzzy
 msgid "shell script"
-msgstr "Beschrijving"
+msgstr "Shell script"
 
 #: gnome-vfs.keys.in.h:229
 msgid "signed message"
@@ -1002,9 +996,8 @@ msgid "troff ms input document"
 msgstr "troff ms invoerdocument"
 
 #: gnome-vfs.keys.in.h:246
-#, fuzzy
 msgid "unknown type"
-msgstr "Onbekend proces ID %d"
+msgstr "onbekend type"
 
 #: gnome-vfs.keys.in.h:247
 msgid "ustar archive"
