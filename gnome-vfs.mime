@@ -65,6 +65,45 @@ application/vnd.ms-excel
 application/vnd.ms-powerpoint
 	ext: ppt
 
+# StarOffice 5.x document types
+application/vnd.stardivision.calc
+	ext: sdc
+application/vnd.stardivision.chart
+	ext: sds
+application/vnd.stardivision.draw
+	ext: sda
+application/vnd.stardivision.impress
+	ext: sdd sdp
+application/vnd.stardivision.mail
+	ext: smd
+application/vnd.stardivision.math
+	ext: smf
+application/vnd.stardivision.writer
+	ext: sdw vor sgl
+
+# OpenOffice 6.x document types
+application/vnd.sun.xml.calc
+	ext: sxc
+application/vnd.sun.xml.calc.template
+	ext: stc
+application/vnd.sun.xml.draw
+	ext: sxd
+application/vnd.sun.xml.draw.template
+	ext: std
+application/vnd.sun.xml.impress
+	ext: sxi
+application/vnd.sun.xml.impress.template
+	ext: sti
+application/vnd.sun.xml.math
+	ext: sxm
+application/vnd.sun.xml.writer
+	ext: sxw
+application/vnd.sun.xml.writer.global
+	ext: sxg
+application/vnd.sun.xml.writer.template
+	ext: stw
+
+
 application/x-abiword
 	ext: abw
 
@@ -245,15 +284,6 @@ application/x-shockwave-flash
 
 application/x-smil
 	ext: smil smi sml
-
-application/x-staroffice-presentation
-	ext: sdd
-
-application/x-staroffice-spreadsheet
-	ext: sdc
-
-application/x-staroffice-words
-	ext: sdw
 
 application/x-sv4cpio
 	ext: sv4cpio

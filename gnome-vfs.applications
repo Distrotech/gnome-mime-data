@@ -4,7 +4,7 @@ abiword
 	can_open_multiple_files=true
 	expects_uris=false
 	requires_terminal=false
-	mime_types=text/*,text/abiword,application/rtf,application/msword
+	mime_types=text/*,text/abiword,application/x-abiword,application/rtf,application/msword
 
 acroread
 	command=acroread
@@ -267,7 +267,7 @@ kword
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=file,http,ftp
-	mime_types=application/x-kword,text/abiword,application/msword
+	mime_types=application/x-kword,text/abiword,application/x-abiword,application/msword
 
 lpr
 	command=lpr
@@ -417,7 +417,7 @@ staroffice
 	can_open_multiple_files=true
 	expects_uris=false
 	requires_terminal=false
-	mime_types=application/x-staroffice-presentation,application/x-staroffice-spreadsheet,application/x-staroffice-words,text/abiword,application/vnd.ms-excel,application/rtf,application/msword,application/vnd.ms-powerpoint
+	mime_types=text/abiword,application/x-abiword,application/vnd.ms-excel,application/rtf,application/msword,application/vnd.ms-powerpoint,application/vnd.stardivision.calc,application/vnd.stardivision.chart,application/vnd.stardivision.draw,application/vnd.stardivision.impress,application/vnd.stardivision.mail,application/vnd.stardivision.math,application/vnd.stardivision.writer,application/vnd.sun.xml.calc,application/vnd.sun.xml.calc.template,application/vnd.sun.xml.draw,application/vnd.sun.xml.draw.template,application/vnd.sun.xml.impress,application/vnd.sun.xml.impress.template,application/vnd.sun.xml.math,application/vnd.sun.xml.writer,application/vnd.sun.xml.writer.global,application/vnd.sun.xml.writer.template
 
 vi
 	command=vi

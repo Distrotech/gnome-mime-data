@@ -132,6 +132,163 @@ application/vnd.rn-realmedia
 	category=Video
 	use_category_default=no
 
+application/vnd.stardivision.calc
+	_description=StarCalc spreadsheet
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Spreadsheet
+	use_category_default=yes
+
+application/vnd.stardivision.chart
+	_description=StarChart chart
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.stardivision.draw
+	_description=StarDraw drawing
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.stardivision.impress
+	_description=StarImpress presentation
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Presentation
+	use_category_default=yes
+
+application/vnd.stardivision.mail
+	_description=StarMail file
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.stardivision.math
+	_description=StarMath document
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.stardivision.writer
+	_description=StarWriter document
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Word Processor
+	use_category_default=yes
+
+
+
+application/vnd.sun.xml.calc
+	_description=OpenOffice spreadsheet
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Spreadsheet
+	use_category_default=yes
+
+application/vnd.sun.xml.calc.template
+	_description=OpenOffice spreadsheet template
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Spreadsheet
+	use_category_default=yes
+
+application/vnd.sun.xml.draw
+	_description=OpenOffice drawing
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.sun.xml.draw.template
+	_description=OpenOffice drawing template
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.sun.xml.impress
+	_description=OpenOffice Impress presentation
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Presentation
+	use_category_default=yes
+
+application/vnd.sun.xml.impress.template
+	_description=OpenOffice Impress presentation template
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Presentation
+	use_category_default=yes
+
+application/vnd.sun.xml.math
+	_description=OpenOffice Math document
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents
+	use_category_default=no
+
+application/vnd.sun.xml.writer
+	_description=OpenOffice Writer document
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Word Processor
+	use_category_default=yes
+
+application/vnd.sun.xml.writer.global
+	_description=OpenOffice Writer global document
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Word Processor
+	use_category_default=yes
+
+application/vnd.sun.xml.writer.template
+	_description=OpenOffice Writer template
+	default_action_type=application
+	short_list_application_ids_for_novice_user_level=staroffice
+	short_list_application_ids_for_intermediate_user_level=staroffice
+	short_list_application_ids_for_advanced_user_level=staroffice
+	category=Documents/Word Processor
+	use_category_default=yes
+
+
+
 # also text/abiword
 application/x-abiword
 	_description=AbiWord document
@@ -567,34 +724,6 @@ application/x-slp
 
 application/x-smil
 	_description=SMIL script
-
-application/x-staroffice-presentation
-	_description=StarOffice presentation
-	default_action_type=application
-	short_list_application_ids_for_novice_user_level=staroffice
-	short_list_application_ids_for_intermediate_user_level=staroffice
-	short_list_application_ids_for_advanced_user_level=staroffice
-	category=Documents/Presentation
-	use_category_default=yes
-
-application/x-staroffice-spreadsheet
-	_description=StarOffice spreadsheet
-	icon_filename=i-spreadsheet
-	default_action_type=application
-	short_list_application_ids_for_novice_user_level=staroffice
-	short_list_application_ids_for_intermediate_user_level=staroffice
-	short_list_application_ids_for_advanced_user_level=staroffice
-	category=Documents/Spreadsheet
-	use_category_default=no
-
-application/x-staroffice-words
-	_description=StarOffice Writer document
-	default_action_type=application
-	short_list_application_ids_for_novice_user_level=staroffice
-	short_list_application_ids_for_intermediate_user_level=staroffice
-	short_list_application_ids_for_advanced_user_level=staroffice
-	category=Documents/Word Processor
-	use_category_default=no
 
 application/x-stuffit
 	_description=Macintosh StuffIt archive

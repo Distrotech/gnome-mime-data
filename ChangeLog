@@ -1,5 +1,15 @@
 2002-02-21  Seth Nickell  <snickell@stanford.edu>
 
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime:
+
+	Add a huge hoarde of StarOffice and OpenOffice document types
+	as specified by: 
+	http://framework.openoffice.org/documentation/mimetypes/mimetypes.html
+	
+2002-02-21  Seth Nickell  <snickell@stanford.edu>
+
 	* gnome-vfs-mime-magic:
 
 	Temporarily disable "zip" magic. Its more important to
