@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2002-05-17 21:20+0200\n"
-"PO-Revision-Date: 2002-05-17 21:10+0200\n"
+"POT-Creation-Date: 2002-05-21 18:23+0200\n"
+"PO-Revision-Date: 2002-05-21 18:23+0200\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -433,44 +433,44 @@ msgid "ODA document"
 msgstr "ODA-dokument"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
-msgstr "OpenOffice Impress-presentation"
+msgid "OpenOffice.org Impress presentation"
+msgstr "OpenOffice.org Impress-presentation"
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
-msgstr "OpenOffice Impress-presentationsmall"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "OpenOffice.org Impress-presentationsmall"
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "OpenOffice Math-dokument"
+msgid "OpenOffice.org Math document"
+msgstr "OpenOffice.org Math-dokument"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "OpenOffice Writer-dokument"
+msgid "OpenOffice.org Writer document"
+msgstr "OpenOffice.org Writer-dokument"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
-msgstr "OpenOffice Writer-globaldokument"
+msgid "OpenOffice.org Writer global document"
+msgstr "OpenOffice.org Writer-globaldokument"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
-msgstr "OpenOffice Writer-mall"
+msgid "OpenOffice.org Writer template"
+msgstr "OpenOffice.org Writer-mall"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
-msgstr "OpenOffice-teckning"
+msgid "OpenOffice.org drawing"
+msgstr "OpenOffice.org-teckning"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
-msgstr "OpenOffice-teckningsmall"
+msgid "OpenOffice.org drawing template"
+msgstr "OpenOffice.org-teckningsmall"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
-msgstr "OpenOffice-kalkylblad"
+msgid "OpenOffice.org spreadsheet"
+msgstr "OpenOffice.org-kalkylblad"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
-msgstr "OpenOffice-kalkylbladsmall"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "OpenOffice.org-kalkylbladsmall"
 
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
