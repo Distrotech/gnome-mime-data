@@ -137,6 +137,9 @@ application/x-backup
 application/x-bcpio
 	ext: bcpio
 
+application/x-bittorrent
+	ext: torrent
+
 application/x-blender
 	ext: blender blend BLEND
 
@@ -476,6 +479,9 @@ image/svg
 image/tiff
 	ext: tif tiff
 
+image/vnd.djvu
+	ext: djvu djv
+
 image/vnd.dwg
 	ext: dwg
 
@@ -500,9 +506,6 @@ image/x-compressed-xcf
 
 image/x-dcm
 	ext: dcm
-
-image/vnd.djvu
-	ext: djvu djv
 
 image/x-emf
 	ext: emf

@@ -1371,6 +1371,10 @@ image/tiff
 	short_list_application_ids_for_advanced_user_level=eog,electric_eyes,gimp
 	_category=Images
 
+image/vnd.djvu
+	_description=DjVu image
+	_category=Images
+
 image/vnd.dwg
 	_description=AutoCAD image
 	_category=Images
@@ -1423,10 +1427,6 @@ image/x-dcm
 
 image/x-dib
 	_description=Device Independant Bitmap
-	_category=Images
-
-image/vnd.djvu
-	_description=DjVu image
 	_category=Images
 
 image/x-dpx

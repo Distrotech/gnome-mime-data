@@ -1,5 +1,11 @@
 2003-12-09  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: run check-mime.pl, run check-mime.pl,
+	whip self, whip self, add bittorrent mime-type
+
+2003-12-09  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic:
 	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: add DjVu support as image/x.djvu
