@@ -508,3 +508,10 @@ xpdf
 	expects_uris=false
 	requires_terminal=false
 	mime_types=application/pdf
+
+wine
+	command=wine
+	name=Wine
+	can_open_multiple_files=false
+	expects_uris=false
+	mime_types=application/x-ms-dos-executable

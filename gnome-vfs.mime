@@ -246,6 +246,9 @@ application/x-lhz
 application/x-mif
 	ext: mif
 
+application/x-ms-dos-executable
+	ext: exe
+
 application/x-msx-rom
 	ext: msx
 
@@ -656,7 +659,7 @@ video/quicktime
 	ext: mov qt
 
 video/x-anim
-	regex: *.anim[1-9j]
+	regex: \.anim[1-9j]$
 
 video/x-flc
 	ext: flc
