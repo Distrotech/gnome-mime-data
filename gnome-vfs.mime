@@ -711,7 +711,7 @@ text/x-tcl
 	ext: tcl
 
 text/x-tex
-	ext: tex cls sty
+	ext: tex cls sty ltx
 
 text/x-texinfo
 	ext: texi texinfo

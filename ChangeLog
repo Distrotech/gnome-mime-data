@@ -1,5 +1,10 @@
 2003-05-05  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.mime: added "ltx" extension for LaTeX files (patch by
+	Ross Burton <r.burton@180sw.com>) (Closes: #107197)
+
+2003-05-05  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs-mime-magic:
 	* gnome-vfs.applications:
 	* gnome-vfs.keys.in:
