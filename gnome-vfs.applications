@@ -46,6 +46,14 @@ display
 	requires_terminal=false
 	mime_types=image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/x-xpixmap,image/x-bmp,image/x-png,image/x-portable-anymap,image/x-portable-bitmap,image/x-portable-graymap,image/x-portable-pixmap
 
+dpkg
+	command=dpkg -i
+	name=Install Package (dpkg)
+	can_open_multiple_files=true
+	expects_uris=false
+	requires_terminal=true
+	mime_types=application/x-deb
+
 electric_eyes
 	command=ee
 	name=Electric Eyes

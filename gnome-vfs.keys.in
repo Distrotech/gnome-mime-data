@@ -219,6 +219,9 @@ application/x-csh
 application/x-deb
 	_description=Debian package
 	icon_filename=gnome-pack-deb
+	short_list_application_ids_for_novice_user_level=dpkg
+	short_list_application_ids_for_intermediate_user_level=dpkg
+	short_list_application_ids_for_advanced_user_level=dpkg
 
 application/x-dia-diagram
 	_description=Dia diagram

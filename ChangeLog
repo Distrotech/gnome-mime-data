@@ -1,5 +1,12 @@
 2001-12-01  Seth Nickell  <snickell@stanford.edu>
 
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+
+	Add dpkg for installing Debian packages
+	
+2001-12-01  Seth Nickell  <snickell@stanford.edu>
+
 	* gnome-vfs-mime-magic:
 	* gnome-vfs.keys.in:
 	* gnome-vfs.mime:
