@@ -1,11 +1,11 @@
-# Limburgish translation of Yelp.
+# Limburgish translation of gnome-mime-data.
 # 2003
 # Mathieu van Woerkom <mathieu.brabants.org>, 2003.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-mime-data\n"
-"POT-Creation-Date: 2003-05-26 18:03+0200\n"
+"POT-Creation-Date: 2003-05-28 20:22+0200\n"
 "PO-Revision-Date: 2003-05-20 14:41+0000\n"
 "Last-Translator: Mathieu van Woerkom <mathieu.brabants.org>\n"
 "Language-Team: Limburgish <li.org>\n"
@@ -30,7 +30,6 @@ msgid "ANIM animation"
 msgstr "ANIM animasie"
 
 #: gnome-vfs.keys.in.h:5
-#, fuzzy
 msgid "ARJ archive"
 msgstr "RAR arsjief"
 
@@ -43,14 +42,12 @@ msgid "AbiWord document"
 msgstr "AbiWord dokkemènt"
 
 #: gnome-vfs.keys.in.h:8
-#, fuzzy
 msgid "Active Server page"
-msgstr "aktieve ServerPagina"
+msgstr "Aktieve ServerPagina"
 
 #: gnome-vfs.keys.in.h:9
-#, fuzzy
 msgid "Address card"
-msgstr "adreskaart"
+msgstr "Adreskaart"
 
 #: gnome-vfs.keys.in.h:10
 msgid "Adobe FrameMaker font"
@@ -65,9 +62,8 @@ msgid "Andrew Toolkit inset"
 msgstr "Andrew Toolkit inset"
 
 #: gnome-vfs.keys.in.h:13
-#, fuzzy
 msgid "Application launcher"
-msgstr "toepassing sjtarter"
+msgstr "Toepassing sjtarter"
 
 #: gnome-vfs.keys.in.h:14
 msgid "ApplixWare Graphics image"
@@ -78,18 +74,16 @@ msgid "Applixware Words document"
 msgstr "Applixware Words dokkemènt"
 
 #: gnome-vfs.keys.in.h:16
-#, fuzzy
 msgid "Applixware presentation"
-msgstr "Applixware spreadsheet"
+msgstr "Applixware presentasie"
 
 #: gnome-vfs.keys.in.h:17
 msgid "Applixware spreadsheet"
 msgstr "Applixware spreadsheet"
 
 #: gnome-vfs.keys.in.h:18
-#, fuzzy
 msgid "Ar archive"
-msgstr "ar arsjief"
+msgstr "Ar arsjief"
 
 #: gnome-vfs.keys.in.h:19
 msgid "Assembly source code"
@@ -101,7 +95,7 @@ msgstr "Audio"
 
 #: gnome-vfs.keys.in.h:21
 msgid "Authors list"
-msgstr "outäörslies"
+msgstr "Outäörslies"
 
 #: gnome-vfs.keys.in.h:22
 msgid "AutoCAD image"
@@ -116,9 +110,8 @@ msgid "BDF font"
 msgstr "BDF booksjtaaftiep"
 
 #: gnome-vfs.keys.in.h:25
-#, fuzzy
 msgid "Backup file"
-msgstr "reserfbesjtandj (backup)"
+msgstr "Reserfbesjtandj (backup)"
 
 #: gnome-vfs.keys.in.h:26
 msgid "Basic audio"
@@ -137,7 +130,6 @@ msgid "Block device"
 msgstr "Blok-apperaat"
 
 #: gnome-vfs.keys.in.h:30
-#, fuzzy
 msgid "Bzip2 compressed file"
 msgstr "bzip-gekómprimeerd besjtandj"
 
@@ -210,9 +202,8 @@ msgid "Compressed GIMP document"
 msgstr "Gekomprimeerd GIMP dokkemènt"
 
 #: gnome-vfs.keys.in.h:48
-#, fuzzy
 msgid "Corel Draw drawing"
-msgstr "StarDraw teikening"
+msgstr "CorelDraw teikene"
 
 #: gnome-vfs.keys.in.h:49
 msgid "DCL script"
@@ -443,18 +434,16 @@ msgid "Gnumeric spreadsheet"
 msgstr "Gnumeric spreadsheet"
 
 #: gnome-vfs.keys.in.h:106
-#, fuzzy
 msgid "Gtar archive"
-msgstr "tar arsjief"
+msgstr "Gtar arsjief"
 
 #: gnome-vfs.keys.in.h:107
 msgid "Gtktalog Catalogue"
 msgstr "Gtktalog Katteloog"
 
 #: gnome-vfs.keys.in.h:108
-#, fuzzy
 msgid "Gzip-compressed file"
-msgstr "gzip-gekomprimeerd besjtandj"
+msgstr "Gzip-gekomprimeerd besjtandj"
 
 #: gnome-vfs.keys.in.h:109
 msgid "HDF document"
@@ -469,9 +458,8 @@ msgid "Haskell source code"
 msgstr "Haskell bronkood"
 
 #: gnome-vfs.keys.in.h:112
-#, fuzzy
 msgid "Help page"
-msgstr "hulp pagina"
+msgstr "hulppagina"
 
 #: gnome-vfs.keys.in.h:113
 msgid "IDL document"
@@ -598,7 +586,6 @@ msgid "Lotus 1-2-3 spreadsheet"
 msgstr "Lotus 1-2-3 spreadsheet"
 
 #: gnome-vfs.keys.in.h:144
-#, fuzzy
 msgid "LyX document"
 msgstr "LyX Dokkemènt"
 
@@ -659,24 +646,20 @@ msgid "Magick image format"
 msgstr "Magick aafbiljing"
 
 #: gnome-vfs.keys.in.h:159
-#, fuzzy
 msgid "Mail delivery report"
-msgstr "e-mail lieveringsreport"
+msgstr "E-mail lieveringsreport"
 
 #: gnome-vfs.keys.in.h:160
-#, fuzzy
 msgid "Mail disposition report"
-msgstr "e-mail besjikbaarheidsreport"
+msgstr "E-mail besjikbaarheidsreport"
 
 #: gnome-vfs.keys.in.h:161
-#, fuzzy
 msgid "Mail system report"
-msgstr "e-mail systeemreport"
+msgstr "E-mail systeemreport"
 
 #: gnome-vfs.keys.in.h:162
-#, fuzzy
 msgid "Makefile"
-msgstr "Maakbesjtandj (veur kompileren)"
+msgstr "Maakbesjtandj"
 
 #: gnome-vfs.keys.in.h:163
 msgid "Manual page"
@@ -688,7 +671,7 @@ msgstr "Handjleijing (gekomprimeerd)"
 
 #: gnome-vfs.keys.in.h:165
 msgid "Master System or Game Gear ROM"
-msgstr "SMS of Game Gear ROM"
+msgstr "SMS of GameGear ROM"
 
 #: gnome-vfs.keys.in.h:166
 msgid "MathML document"
@@ -719,9 +702,8 @@ msgid "Microsoft PowerPoint document"
 msgstr "Microsoft PowerPoint dokkemènt"
 
 #: gnome-vfs.keys.in.h:173
-#, fuzzy
 msgid "Microsoft WMV playlist"
-msgstr "Microsoft WMV video"
+msgstr "Microsoft WMV aafsjpeellies"
 
 #: gnome-vfs.keys.in.h:174
 msgid "Microsoft WMV video"
@@ -764,28 +746,24 @@ msgid "Netscape bookmarks file"
 msgstr "Netscape bokelègker besjtandj"
 
 #: gnome-vfs.keys.in.h:184
-#, fuzzy
 msgid "Nintendo64 ROM"
 msgstr "Nintendo64 ROM"
 
 #: gnome-vfs.keys.in.h:185
-#, fuzzy
 msgid "Nullsoft video"
-msgstr "Microsoft video"
+msgstr "Nullsoft video"
 
 #: gnome-vfs.keys.in.h:186
 msgid "ODA document"
 msgstr "ODA dokkemènt"
 
 #: gnome-vfs.keys.in.h:187
-#, fuzzy
 msgid "Object code"
 msgstr "Objek kood"
 
 #: gnome-vfs.keys.in.h:188
-#, fuzzy
 msgid "Ogg audio"
-msgstr "ogg audio"
+msgstr "Ogg audio"
 
 #: gnome-vfs.keys.in.h:189
 msgid "OpenOffice.org Impress presentation"
@@ -912,9 +890,8 @@ msgid "Partial email message"
 msgstr "gedeiltelijk e-mail berich"
 
 #: gnome-vfs.keys.in.h:220
-#, fuzzy
 msgid "Pascal source code"
-msgstr "Java bronkood"
+msgstr "Pascal bronkood"
 
 #: gnome-vfs.keys.in.h:221
 msgid "Perl script"
@@ -929,7 +906,6 @@ msgid "Photoshop document"
 msgstr "Photoshop dokkemènt"
 
 #: gnome-vfs.keys.in.h:224
-#, fuzzy
 msgid "Plain text document"
 msgstr "Sumpel teksbesjtandj"
 
@@ -946,18 +922,16 @@ msgid "PostScript document"
 msgstr "PostScript dokkemènt"
 
 #: gnome-vfs.keys.in.h:228
-#, fuzzy
 msgid "Profiler results"
-msgstr "profiler rizzeltate"
+msgstr "Profiler rizzeltate"
 
 #: gnome-vfs.keys.in.h:229
 msgid "Project Plan"
 msgstr "Projek Plan"
 
 #: gnome-vfs.keys.in.h:230
-#, fuzzy
 msgid "Python byte code"
-msgstr "python byte kood"
+msgstr "Python byte kood"
 
 #: gnome-vfs.keys.in.h:231
 msgid "Python source code"
@@ -1012,19 +986,16 @@ msgid "RealVideo video"
 msgstr "RealVideo video"
 
 #: gnome-vfs.keys.in.h:244
-#, fuzzy
 msgid "Reference to remote file"
-msgstr "verwiezing nao neet-lokaal besjtandj"
+msgstr "Verwiezing nao neet-lokaal besjtandj"
 
 #: gnome-vfs.keys.in.h:245
-#, fuzzy
 msgid "Rejected patch file"
-msgstr "neet-geaksepteerd patchbesjtandj"
+msgstr "Neet-geaksepteerd patchbesjtandj"
 
 #: gnome-vfs.keys.in.h:246
-#, fuzzy
 msgid "Rich text document"
-msgstr "verriek teksdokkemènt"
+msgstr "Verriek teksdokkemènt"
 
 #: gnome-vfs.keys.in.h:247
 msgid "S/MIME file"
@@ -1043,7 +1014,6 @@ msgid "SGML document"
 msgstr "SGML dokkemènt"
 
 #: gnome-vfs.keys.in.h:251
-#, fuzzy
 msgid "SHOUTcast playlist"
 msgstr "SHOUTcast Aafsjpeellies"
 
@@ -1052,7 +1022,6 @@ msgid "SMIL script"
 msgstr "SMIL skrip"
 
 #: gnome-vfs.keys.in.h:253
-#, fuzzy
 msgid "SQL code"
 msgstr "SQL kood"
 
@@ -1093,9 +1062,8 @@ msgid "Scream Tracker instrument"
 msgstr "Scream Tracker instermènt"
 
 #: gnome-vfs.keys.in.h:263
-#, fuzzy
 msgid "Search results"
-msgstr "zeukrizzeltate"
+msgstr "Zeukrizzeltate"
 
 #: gnome-vfs.keys.in.h:264
 msgid "Security"
@@ -1106,9 +1074,8 @@ msgid "Setext document"
 msgstr "Setext dokkemènt"
 
 #: gnome-vfs.keys.in.h:266
-#, fuzzy
 msgid "Shared Printer"
-msgstr "Gedeilde bibeleteek"
+msgstr "Gedeilde printer"
 
 #: gnome-vfs.keys.in.h:267
 msgid "Shared library"
@@ -1147,24 +1114,20 @@ msgid "Software Development/Source Code"
 msgstr "Software-ontwikkeling/Bronkood"
 
 #: gnome-vfs.keys.in.h:276
-#, fuzzy
 msgid "Software author credits"
 msgstr "software outäörs"
 
 #: gnome-vfs.keys.in.h:277
-#, fuzzy
 msgid "Software installation instructions"
-msgstr "software installasie instruksies"
+msgstr "Software installasie instruksies"
 
 #: gnome-vfs.keys.in.h:278
-#, fuzzy
 msgid "Software license terms"
-msgstr "software lisensie aafsjpraok"
+msgstr "Software lisensie regele"
 
 #: gnome-vfs.keys.in.h:279
-#, fuzzy
 msgid "Source code patch"
-msgstr "bronkood patch"
+msgstr "Bronkood patch"
 
 #: gnome-vfs.keys.in.h:280
 msgid "Speech document"
@@ -1227,9 +1190,8 @@ msgid "SunOS News font"
 msgstr "SunOS Nuuts booksjtaaftiep"
 
 #: gnome-vfs.keys.in.h:295
-#, fuzzy
 msgid "Symbolic link"
-msgstr "symbolisse link"
+msgstr "Symbolisse link"
 
 #: gnome-vfs.keys.in.h:296
 msgid "System"
@@ -1240,24 +1202,20 @@ msgid "TIFF image"
 msgstr "TIFF aafbiljing"
 
 #: gnome-vfs.keys.in.h:298
-#, fuzzy
 msgid "Tab-separated text document"
-msgstr "tab-gesjeije teksdokkemènt"
+msgstr "Tab-gesjeije teksdokkemènt"
 
 #: gnome-vfs.keys.in.h:299
-#, fuzzy
 msgid "Tar archive"
-msgstr "ar arsjief"
+msgstr "Tar arsjief"
 
 #: gnome-vfs.keys.in.h:300
-#, fuzzy
 msgid "Tar archive (Bzip2-compressed)"
-msgstr "tar arsjief (bzip2-gekomprimeerd)"
+msgstr "Tar arsjief (bzip2-gekomprimeerd)"
 
 #: gnome-vfs.keys.in.h:301
-#, fuzzy
 msgid "Tar archive (Gzip-compressed)"
-msgstr "tar arsjief (gzip-gekomprimeerd)"
+msgstr "Tar arsjief (gzip-gekomprimeerd)"
 
 #: gnome-vfs.keys.in.h:302
 msgid "TarGA image"
@@ -1289,7 +1247,7 @@ msgstr "TeXInfo dokkemènt"
 
 #: gnome-vfs.keys.in.h:309
 msgid "Theme"
-msgstr "tema"
+msgstr "Tema"
 
 #: gnome-vfs.keys.in.h:310
 msgid "ToutDoux document"
@@ -1328,7 +1286,6 @@ msgid "Unidata netCDF document"
 msgstr "Unidata netCDF dokkemènt"
 
 #: gnome-vfs.keys.in.h:319
-#, fuzzy
 msgid "Unknown type"
 msgstr "Ónbekènd tiep"
 
@@ -1341,7 +1298,6 @@ msgid "User Interface/Fonts"
 msgstr "Gebroekersinterface/Booksjtaaftiepes"
 
 #: gnome-vfs.keys.in.h:322
-#, fuzzy
 msgid "Ustar archive"
 msgstr "Ustar arsjief"
 
@@ -1359,7 +1315,7 @@ msgstr "VRML dokkemènt"
 
 #: gnome-vfs.keys.in.h:326
 msgid "Video"
-msgstr "video"
+msgstr "Video"
 
 #: gnome-vfs.keys.in.h:327
 msgid "Vivo video"
@@ -1370,16 +1326,14 @@ msgid "WAIS source code"
 msgstr "WAIS bronkood"
 
 #: gnome-vfs.keys.in.h:329
-#, fuzzy
 msgid "Wave audio"
-msgstr "wave audio"
+msgstr "Wave audio"
 
 #: gnome-vfs.keys.in.h:330
 msgid "Wavelet video"
 msgstr "Wavelet video"
 
 #: gnome-vfs.keys.in.h:331
-#, fuzzy
 msgid "Web folder"
 msgstr "Webmap"
 
@@ -1433,7 +1387,7 @@ msgstr "Z shell skrip"
 
 #: gnome-vfs.keys.in.h:344
 msgid "Zip archive"
-msgstr "zip arsjief"
+msgstr "Zip arsjief"
 
 #: gnome-vfs.keys.in.h:345
 msgid "Zoo archive"
@@ -1451,7 +1405,6 @@ msgstr "iPod software"
 msgid "xfig vector graphic"
 msgstr "xfig vektoraafbiljing"
 
-#, fuzzy
 #~ msgid "GNOME theme package"
 #~ msgstr "GNOME temapakket"
 
@@ -1464,24 +1417,20 @@ msgstr "xfig vektoraafbiljing"
 #~ msgid "NES rom"
 #~ msgstr "NES rom"
 
-#, fuzzy
 #~ msgid "Software Development/ROM image"
-#~ msgstr "Software-ontwikkeling/ROM dump"
+#~ msgstr "Software-ontwikkeling/ROM aafbiljing"
 
-#, fuzzy
 #~ msgid "Software Development/Source"
-#~ msgstr "Software-ontwikkeling/Bronkood"
+#~ msgstr "Software-ontwikkeling/Bron"
 
-#, fuzzy
 #~ msgid "Yacc source file"
-#~ msgstr "Java bronkood"
+#~ msgstr "Yacc bronbesjtandj"
 
 #~ msgid "arj archive"
 #~ msgstr "arj arsjief"
 
-#, fuzzy
 #~ msgid "audio"
-#~ msgstr "Audio"
+#~ msgstr "audio"
 
 #~ msgid "gtar archive"
 #~ msgstr "gtar arsjief"
