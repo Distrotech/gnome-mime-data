@@ -231,12 +231,12 @@
 0	string		Received:				message/rfc822
 0	string		[playlist]				audio/x-scpls
 0	string		[Reference]				video/x-ms-asf
-0	string		fLaC					application/x-flac
 32769	string		CD001					application/x-iso-image
 37633	string		CD001					application/x-iso-image
 32776	string		CDROM					application/x-iso-image
 0       string          OTTO                                    application/x-font-otf
 54	string		S\ T\ O\ P				application/x-ipod-firmware
+0:160	string		fLaC					application/x-flac
 0:160	string		ID3					audio/mpeg
 0:512	string		\x00\x00\x01\xba			video/mpeg
 0	string		BLENDER					application/x-blender
