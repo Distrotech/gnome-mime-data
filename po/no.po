@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs 0.6.0.0\n"
-"POT-Creation-Date: 2001-12-01 23:42-0800\n"
-"PO-Revision-Date: 2001-12-02 17:33+0100\n"
+"POT-Creation-Date: 2002-01-27 12:11+0100\n"
+"PO-Revision-Date: 2002-01-27 12:11+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <no@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -806,8 +806,8 @@ msgid "email headers"
 msgstr "e-posthode"
 
 #: gnome-vfs.keys.in.h:199
-msgid "email message"
-msgstr "e-postmelding"
+msgid "email message/mailbox"
+msgstr "e-postmelding/postboks"
 
 #: gnome-vfs.keys.in.h:200
 msgid "encrypted message"
