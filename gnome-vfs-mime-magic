@@ -218,4 +218,4 @@
 37633	string		CD001					application/x-iso-image
 32776	string		CDROM					application/x-iso-image
 0       string          OTTO                                    application/x-font-otf
-
+54	string		S\ T\ O\ P				application/x-ipod-firmware
