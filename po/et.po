@@ -4,14 +4,16 @@
 # Ilmar Kerm <ikerm@hot.ee>, 2002.
 # Tõivo Leedjärv <toivo@linux.ee>, 2002, 2003.
 # Priit Laes <amd@tt.ee>, 2004.
+# Aarne Männik, 2004
 #
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2004-08-06 11:45+0200\n"
-"PO-Revision-Date: 2004-08-13 12:35+0300\n"
-"Last-Translator: Priit Laes <amd@tt.ee>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-11-13 12:02+0100\n"
+"PO-Revision-Date: 2004-11-14 12:31+0300\n"
+"Last-Translator: Aarne Männik\n"
 "Language-Team: Estonian <gnome-et@linux.ee>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +21,7 @@ msgstr ""
 
 #: gnome-vfs.keys.in.h:1
 msgid "2D chemical structure"
-msgstr ""
+msgstr "2D keemiline struktuur"
 
 #: gnome-vfs.keys.in.h:2
 msgid "3D Studio image"
@@ -67,7 +69,7 @@ msgstr "Adobe kirjatüübi meetrika"
 
 #: gnome-vfs.keys.in.h:13
 msgid "Andrew Toolkit inset"
-msgstr ""
+msgstr "Andrew Toolkit lisa"
 
 #: gnome-vfs.keys.in.h:14
 msgid "Application launcher"
@@ -134,9 +136,8 @@ msgid "Binary program"
 msgstr "Binaarprogramm"
 
 #: gnome-vfs.keys.in.h:30
-#, fuzzy
 msgid "BitTorrent seed file"
-msgstr "Bzip2 pakitud fail"
+msgstr "BitTorrenti külvifail"
 
 #: gnome-vfs.keys.in.h:31
 msgid "Blender file"
@@ -200,7 +201,7 @@ msgstr "Märkseade"
 
 #: gnome-vfs.keys.in.h:46
 msgid "Cinelerra editing sheet"
-msgstr ""
+msgstr "Cinelerra töötlusleht"
 
 #: gnome-vfs.keys.in.h:47
 msgid "Comma-separated text document"
@@ -228,7 +229,7 @@ msgstr "Corel Draw joonistus"
 
 #: gnome-vfs.keys.in.h:53
 msgid "Crystalline structure model"
-msgstr ""
+msgstr "Crystalline'i struktuurimudel"
 
 #: gnome-vfs.keys.in.h:54
 msgid "DCL script"
@@ -272,7 +273,7 @@ msgstr "DICOM pilt"
 
 #: gnome-vfs.keys.in.h:64
 msgid "Digital Moving Picture Exchange image"
-msgstr ""
+msgstr "Digital Moving Picture Exchange pilt"
 
 #: gnome-vfs.keys.in.h:65
 msgid "Directory information file"
@@ -300,7 +301,7 @@ msgstr "Dokumendid/Laiendatud märgendikeel (XML)"
 
 #: gnome-vfs.keys.in.h:71
 msgid "Documents/Numeric"
-msgstr ""
+msgstr "Dokumendid/Numbriline"
 
 #: gnome-vfs.keys.in.h:72
 msgid "Documents/Plain Text"
@@ -400,7 +401,7 @@ msgstr "FlashPix pilt"
 
 #: gnome-vfs.keys.in.h:96
 msgid "Flexible Image Transport System"
-msgstr ""
+msgstr "FITS andmeformaat"
 
 #: gnome-vfs.keys.in.h:97
 msgid "Folder"
@@ -696,15 +697,15 @@ msgstr "Magick pildivorming"
 
 #: gnome-vfs.keys.in.h:170
 msgid "Mail delivery report"
-msgstr ""
+msgstr "Posti kohaletoimetamise raport"
 
 #: gnome-vfs.keys.in.h:171
 msgid "Mail disposition report"
-msgstr ""
+msgstr "Postikorralduse raport"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Mail system report"
-msgstr ""
+msgstr "Postisüsteemi raport"
 
 #: gnome-vfs.keys.in.h:173
 msgid "Makefile"
@@ -1028,7 +1029,7 @@ msgstr "RPM pakett"
 
 #: gnome-vfs.keys.in.h:253
 msgid "Raw Gray Sample"
-msgstr ""
+msgstr "Raw Gray Sample (GRAY) formaat"
 
 #: gnome-vfs.keys.in.h:254
 msgid "RealAudio document"
