@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data 1.0.1\n"
-"POT-Creation-Date: 2003-01-26 02:04+0200\n"
-"PO-Revision-Date: 2003-01-26 02:03+0200\n"
+"POT-Creation-Date: 2003-01-26 02:49+0200\n"
+"PO-Revision-Date: 2003-01-26 02:46+0200\n"
 "Last-Translator: Pauli Virtanen <pauli.virtanen@hut.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -42,7 +42,7 @@ msgstr "AbiWord-asiakirja"
 
 #: gnome-vfs.keys.in.h:7
 msgid "Adobe FrameMaker font"
-msgstr "Adobe FrameMaker -kirjasin"
+msgstr "Adobe FrameMaker -kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:8
 msgid "Adobe font metrics"
@@ -78,11 +78,11 @@ msgstr "BCPIO-asiakirja"
 
 #: gnome-vfs.keys.in.h:16
 msgid "BDF font"
-msgstr "BDF-kirjasin"
+msgstr "BDF-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:17
 msgid "C shell script"
-msgstr "C-komentotulkkiskripti"
+msgstr "Csh-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:18
 msgid "C source code"
@@ -110,11 +110,11 @@ msgstr "CMU-rasterikuva"
 
 #: gnome-vfs.keys.in.h:24
 msgid "CPIO archive"
-msgstr "CPIO-paketti"
+msgstr "CPIO-arkisto"
 
 #: gnome-vfs.keys.in.h:25
 msgid "CPIO archive (gzip-compressed)"
-msgstr "CPIO-paketti (gzip-pakattu)"
+msgstr "CPIO-arkisto (gzip-tiivistetty)"
 
 #: gnome-vfs.keys.in.h:26
 msgid "Commodore 64 Audio"
@@ -122,11 +122,11 @@ msgstr "Commodore 64 -ääni"
 
 #: gnome-vfs.keys.in.h:27
 msgid "DCL script"
-msgstr "DCL-skripti"
+msgstr "DCL-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:28
 msgid "DOS font"
-msgstr "DOS-kirjasin"
+msgstr "DOS-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:29
 msgid "DOS/Windows program"
@@ -154,7 +154,7 @@ msgstr "Dia-kaavio"
 
 #: gnome-vfs.keys.in.h:35
 msgid "Digital Imaging and Communications in Medicine image"
-msgstr "Digital Imaging ja Communications in Medicine -kuva"
+msgstr "Digital Imaging and Communications in Medicine -kuva"
 
 #: gnome-vfs.keys.in.h:36
 msgid "Digital Moving Picture Exchange"
@@ -218,7 +218,7 @@ msgstr "Asiakirjat/WWW"
 
 #: gnome-vfs.keys.in.h:51
 msgid "Dolby Digital audio"
-msgstr "Dolby-digitaaliääni"
+msgstr "Dolby Digital -ääni"
 
 #: gnome-vfs.keys.in.h:52
 msgid "Dreamcast rom"
@@ -410,7 +410,7 @@ msgstr "KWord-asiakirja"
 
 #: gnome-vfs.keys.in.h:99
 msgid "Korn shell script"
-msgstr "Korn-komentotulkkiskripti"
+msgstr "Ksh-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:100
 msgid "LHA archive"
@@ -422,7 +422,7 @@ msgstr "LHARC-paketti"
 
 #: gnome-vfs.keys.in.h:102
 msgid "LIBGRX font"
-msgstr "LIBGRX-kirjasin"
+msgstr "LIBGRX-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:103
 msgid "LightWave object"
@@ -434,7 +434,7 @@ msgstr "LightWave-näkymä"
 
 #: gnome-vfs.keys.in.h:105
 msgid "Linux PSF console font"
-msgstr "Linux PSF -konsolikirjasin"
+msgstr "Linux PSF -konsolikirjasinlaji"
 
 #: gnome-vfs.keys.in.h:106
 msgid "Literate haskell source code"
@@ -594,7 +594,7 @@ msgstr "OpenOffice.org-taulukkomalli"
 
 #: gnome-vfs.keys.in.h:145
 msgid "OpenType font"
-msgstr "OpenType-kirjasin"
+msgstr "OpenType-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:146
 msgid "PBM image"
@@ -606,7 +606,7 @@ msgstr "PC Paintbrush -kuva"
 
 #: gnome-vfs.keys.in.h:148
 msgid "PCF font"
-msgstr "PCF-kirjasin"
+msgstr "PCF-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:149
 msgid "PDF document"
@@ -642,7 +642,7 @@ msgstr "PGP-salattu tiedosto"
 
 #: gnome-vfs.keys.in.h:157
 msgid "PHP script"
-msgstr "PHP-skripti"
+msgstr "PHP-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:158
 msgid "PICT image"
@@ -674,7 +674,7 @@ msgstr "Palm Pixmap -kuva"
 
 #: gnome-vfs.keys.in.h:165
 msgid "Perl script"
-msgstr "Perl-skripti"
+msgstr "Perl-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:166
 msgid "Photo CD image"
@@ -690,7 +690,7 @@ msgstr "Soittolista"
 
 #: gnome-vfs.keys.in.h:169
 msgid "PostScript Type 1 font"
-msgstr "PostScript tyypin 1 kirjasin"
+msgstr "PostScript Type 1 -kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:170
 msgid "PostScript document"
@@ -774,11 +774,11 @@ msgstr "SHOUTcast-soittolista"
 
 #: gnome-vfs.keys.in.h:190
 msgid "SMIL script"
-msgstr "SMIL-skripti"
+msgstr "SMIL-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:191
 msgid "SMS or Game Gear rom"
-msgstr "SMS tai Game Gear -ROM"
+msgstr "SMS- tai Game Gear -ROM"
 
 #: gnome-vfs.keys.in.h:192
 msgid "SQL code"
@@ -790,11 +790,11 @@ msgstr "SUN-rasterikuva"
 
 #: gnome-vfs.keys.in.h:194
 msgid "SV4 CPIO archive"
-msgstr "SV4 CPIO -paketti"
+msgstr "SV4 CPIO -arkisto"
 
 #: gnome-vfs.keys.in.h:195
 msgid "SV4 CPIP archive (with CRC)"
-msgstr "SV4 CPIP -paketti (CRC mukana)"
+msgstr "SV4 CPIP -arkisto (CRC mukana)"
 
 #: gnome-vfs.keys.in.h:196
 msgid "SVG art"
@@ -846,7 +846,7 @@ msgstr "Puheasiakirja"
 
 #: gnome-vfs.keys.in.h:208
 msgid "Speedo font"
-msgstr "Speedo-kirjasin"
+msgstr "Speedo-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:209
 msgid "Spreadsheet Interchange document"
@@ -894,7 +894,7 @@ msgstr "Sun µ-law -ääni"
 
 #: gnome-vfs.keys.in.h:220
 msgid "SunOS News font"
-msgstr "SunOS News -kirjasin"
+msgstr "SunOS News -kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:221
 msgid "System"
@@ -910,7 +910,7 @@ msgstr "TarGA-kuva"
 
 #: gnome-vfs.keys.in.h:224
 msgid "Tcl script"
-msgstr "Tcl-skripti"
+msgstr "Tcl-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:225
 msgid "TeX document"
@@ -922,7 +922,7 @@ msgstr "TeX DVI -asiakirja"
 
 #: gnome-vfs.keys.in.h:227
 msgid "TeX font"
-msgstr "TeX-kirjasin"
+msgstr "TeX-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:228
 msgid "TeX font metrics"
@@ -938,7 +938,7 @@ msgstr "ToutDoux-asiakirja"
 
 #: gnome-vfs.keys.in.h:231
 msgid "TrueType font"
-msgstr "TrueType-kirjasin"
+msgstr "TrueType-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:232
 msgid "Truevision Targa image"
@@ -962,7 +962,7 @@ msgstr "Käyttöliittymä/Kirjasinlajit"
 
 #: gnome-vfs.keys.in.h:237
 msgid "V font"
-msgstr "V-kirjasin"
+msgstr "V-kirjasinlaji"
 
 #: gnome-vfs.keys.in.h:238
 msgid "VOC audio"
@@ -1026,7 +1026,7 @@ msgstr "Xbase-tietokanta"
 
 #: gnome-vfs.keys.in.h:253
 msgid "Z shell script"
-msgstr "Z-komentotulkkiskripti"
+msgstr "Zsh-komentotiedosto"
 
 #: gnome-vfs.keys.in.h:254
 msgid "active server page"
@@ -1042,7 +1042,7 @@ msgstr "sovelluskäynnistin"
 
 #: gnome-vfs.keys.in.h:257
 msgid "ar archive"
-msgstr "ar-paketti"
+msgstr "ar-arkisto"
 
 #: gnome-vfs.keys.in.h:258
 msgid "arj archive"
@@ -1074,7 +1074,7 @@ msgstr "lohkolaite"
 
 #: gnome-vfs.keys.in.h:265
 msgid "bzip-compressed file"
-msgstr "bzip-pakattu tiedosto"
+msgstr "bzip-tiivistetty tiedosto"
 
 #: gnome-vfs.keys.in.h:266
 msgid "calendar file"
@@ -1098,11 +1098,11 @@ msgstr "yhdisteasiakirja"
 
 #: gnome-vfs.keys.in.h:271
 msgid "compress-compressed file"
-msgstr "compress-pakattu tiedosto"
+msgstr "compress-tiivistetty tiedosto"
 
 #: gnome-vfs.keys.in.h:272
 msgid "compressed GIMP document"
-msgstr "pakattu GIMP-asiakirja"
+msgstr "tiivistetty GIMP-asiakirja"
 
 #: gnome-vfs.keys.in.h:273
 msgid "directory information file"
@@ -1134,11 +1134,11 @@ msgstr "hakemisto"
 
 #: gnome-vfs.keys.in.h:280
 msgid "gtar archive"
-msgstr "gtar-paketti"
+msgstr "gtar-arkisto"
 
 #: gnome-vfs.keys.in.h:281
 msgid "gzip-compressed file"
-msgstr "gzip-pakattu tiedosto"
+msgstr "gzip-tiivistetty tiedosto"
 
 #: gnome-vfs.keys.in.h:282
 msgid "help page"
@@ -1166,7 +1166,7 @@ msgstr "manuaalisivu"
 
 #: gnome-vfs.keys.in.h:288
 msgid "manual page (compressed)"
-msgstr "manuaalisivu (pakattu)"
+msgstr "manuaalisivu (tiivistetty)"
 
 #: gnome-vfs.keys.in.h:289
 msgid "memory dump"
@@ -1238,7 +1238,7 @@ msgstr "shell-paketti"
 
 #: gnome-vfs.keys.in.h:306
 msgid "shell script"
-msgstr "komentotulkkiskripti"
+msgstr "komentojonotiedosto"
 
 #: gnome-vfs.keys.in.h:307
 msgid "signed message"
@@ -1250,7 +1250,7 @@ msgstr "pistoke"
 
 #: gnome-vfs.keys.in.h:309
 msgid "software author credits"
-msgstr "kiitos ohjelman tekijöille"
+msgstr "kiitokset ohjelman tekijöille"
 
 #: gnome-vfs.keys.in.h:310
 msgid "software installation instructions"
@@ -1274,19 +1274,19 @@ msgstr "symbolinen linkki"
 
 #: gnome-vfs.keys.in.h:315
 msgid "tab-separated text document"
-msgstr "sarkaimilla eroteltu teksi"
+msgstr "sarkaimilla eroteltu teksti"
 
 #: gnome-vfs.keys.in.h:316
 msgid "tar archive"
-msgstr "tar-paketti"
+msgstr "tar-arkisto"
 
 #: gnome-vfs.keys.in.h:317
 msgid "tar archive (bzip2-compressed)"
-msgstr "tar-paketti (bzip2-pakattu)"
+msgstr "tar-arkisto (bzip2-tiivistetty)"
 
 #: gnome-vfs.keys.in.h:318
 msgid "tar archive (gzip-compressed)"
-msgstr "tar-pakettu (gzip-pakattu)"
+msgstr "tar-arkisto (gzip-tiivistetty)"
 
 #: gnome-vfs.keys.in.h:319
 msgid "theme"
@@ -1314,7 +1314,7 @@ msgstr "tuntematon tyyppi"
 
 #: gnome-vfs.keys.in.h:325
 msgid "ustar archive"
-msgstr "ustar-paketti"
+msgstr "ustar-arkisto"
 
 #: gnome-vfs.keys.in.h:326
 msgid "wave audio"
