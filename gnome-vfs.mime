@@ -726,7 +726,7 @@ video/x-fli
 	ext: fli
 
 video/x-ms-asf
-	ext: asf asx
+	ext: asf
 
 video/x-ms-wmv
 	ext: wmv

@@ -1,5 +1,9 @@
 2002-10-25  Bastien Nocera  <hadess@hadess.net>
 
+	* gnome-vfs.mime: asx isn't asf
+
+2002-10-25  Bastien Nocera  <hadess@hadess.net>
+
 	* gnome-vfs.keys.in:
 	* gnome-vfs.mime: add Microsoft ASX playlist format's mimetype
 
