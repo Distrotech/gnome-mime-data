@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.6.2.0\n"
-"POT-Creation-Date: 2002-03-26 13:45+0100\n"
+"POT-Creation-Date: 2002-03-28 06:24-0800\n"
 "PO-Revision-Date: 2002-03-26 13:45+0100\n"
 "Last-Translator: Stanislav Višňovský <visnovsky@nenya.ms.mff.cuni.cz>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -1116,4 +1116,3 @@ msgstr "archív zoo"
 
 #~ msgid "M3 audio URL"
 #~ msgstr "M3 zvukové URL"
-
