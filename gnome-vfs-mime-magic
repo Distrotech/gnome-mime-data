@@ -228,6 +228,7 @@
 0	string		FWS					application/x-shockwave-flash
 0	string		NSVf					video/x-nsv
 0	string		BMxxxx\000\000 &0xffff00000000ffff	image/bmp
+0	string		AT&TFORM				image/vnd.djvu
 0	string		Return-Path:				message/rfc822
 0	string		Path:					message/news
 0	string		Xref:					message/news

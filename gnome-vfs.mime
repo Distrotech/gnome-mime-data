@@ -501,6 +501,9 @@ image/x-compressed-xcf
 image/x-dcm
 	ext: dcm
 
+image/vnd.djvu
+	ext: djvu djv
+
 image/x-emf
 	ext: emf
 

@@ -1425,6 +1425,10 @@ image/x-dib
 	_description=Device Independant Bitmap
 	_category=Images
 
+image/vnd.djvu
+	_description=DjVu image
+	_category=Images
+
 image/x-dpx
 	_description=Digital Moving Picture Exchange image
 	_category=Images
