@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2003-01-20 02:07+0100\n"
-"PO-Revision-Date: 2003-01-20 02:07+0100\n"
+"POT-Creation-Date: 2003-01-31 17:56+0100\n"
+"PO-Revision-Date: 2003-01-31 17:56+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -438,7 +438,7 @@ msgstr "Linux PSF-konsolltypsnitt"
 
 #: gnome-vfs.keys.in.h:106
 msgid "Literate haskell source code"
-msgstr "Bokstavlig Haskell-källkod"
+msgstr "Literate Haskell-källkod"
 
 #: gnome-vfs.keys.in.h:107
 msgid "Lotus 1-2-3 spreadsheet"
