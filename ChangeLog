@@ -1,3 +1,9 @@
+2003-12-27  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: add Matroska support as application/x-matroska
+
 2003-12-26  Bastien Nocera  <hadess@hadess.net>
 
 	* gnome-vfs.keys.in:

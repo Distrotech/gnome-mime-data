@@ -789,6 +789,11 @@ application/x-magicpoint
 	_category=Documents/Presentation
 	use_category_default=yes
 
+application/x-matroska
+	_description=Matroska video file
+	default_action_type=application
+	_category=Video
+
 application/x-mif
 	_description=FrameMaker interchange document
 	_category=Documents/Word Processor

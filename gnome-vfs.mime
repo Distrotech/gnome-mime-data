@@ -279,6 +279,9 @@ application/x-lhz
 application/x-magicpoint
 	ext: mgp
 
+application/x-matroska
+	ext: mkv mka mks
+
 application/x-mif
 	ext: mif
 
