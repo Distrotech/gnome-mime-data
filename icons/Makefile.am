@@ -147,6 +147,7 @@ icon_DATA =\
 	gnome-x-troff-man.png \
 	i-blockdev.png \
 	i-cdrom.png \
+	i-cdrom-audio.png \
 	i-chardev.png \
 	i-core.png \
 	i-executable.png \
