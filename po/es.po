@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-vfs\n"
-"POT-Creation-Date: 2002-05-16 23:12+0200\n"
-"PO-Revision-Date: 2002-05-17 23:49GMT\n"
+"POT-Creation-Date: 2002-05-26 01:15+0200\n"
+"PO-Revision-Date: 2002-05-26 00:26GMT\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: español <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -432,44 +432,44 @@ msgid "ODA document"
 msgstr "Documento ODA"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
-msgstr "Presentación de OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation"
+msgstr "Presentación de OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
-msgstr "Presentación de OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "Plantilla de presentación de OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "Documento Math de OpenOffice"
+msgid "OpenOffice.org Math document"
+msgstr "Documento Math de OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "Documento de OpenOffice Writer"
+msgid "OpenOffice.org Writer document"
+msgstr "Documento de OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
-msgstr "Documento global de OpenOffice Writer"
+msgid "OpenOffice.org Writer global document"
+msgstr "Documento global de OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
-msgstr "Plantilla de OpenOffice Writer"
+msgid "OpenOffice.org Writer template"
+msgstr "Plantilla de OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
-msgstr "Dibujo de OpenOffice"
+msgid "OpenOffice.org drawing"
+msgstr "Dibujo de OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
-msgstr "Plantilla de dibujo de OpenOffice"
+msgid "OpenOffice.org drawing template"
+msgstr "Plantilla de dibujo de OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
-msgstr "Hoja de cálculo de OpenOffice"
+msgid "OpenOffice.org spreadsheet"
+msgstr "Hoja de cálculo de OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
-msgstr "Plantilla de hoja de calculo OpenOffice"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "Plantilla de hoja de calculo OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
