@@ -977,7 +977,7 @@ message/partial
 	_description=partial email message
 
 message/rfc822
-	_description=email message
+	_description=email message/mailbox
 
 message/x-gnu-rmail
 	_description=GNU mail message

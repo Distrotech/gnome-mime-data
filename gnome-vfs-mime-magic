@@ -172,3 +172,9 @@
 0	string		\x36\x04				application/x-font-linux-psf
 0	string		FWS					application/x-shockwave-flash
 0	string		BMxxxx\000\000 &0xffff00000000ffff	image/bmp
+0	string		Return-Path:				message/rfc822
+0	string		Path:					message/news
+0	string		Xref:					message/news
+0	string		From:					message/rfc822
+0	string		Article					message/news
+0	string		Received:				message/rfc822

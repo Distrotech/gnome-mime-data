@@ -439,8 +439,6 @@ image/x-xpixmap
 image/x-xwindowdump
 	ext: xwd
 
-
-
 message/x-gnu-rmail
 	regex: ^RMAIL$
 
