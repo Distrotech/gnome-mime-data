@@ -68,6 +68,7 @@ icon_DATA =\
 	gnome-audio-ulaw.png \
 	gnome-audio-x-aiff.png \
 	gnome-audio-x-bmx.png \
+	gnome-audio-x-it.png \
 	gnome-audio-x-mod.png \
 	gnome-audio-x-pn-realaudio.png \
 	gnome-audio-x-s3m.png \

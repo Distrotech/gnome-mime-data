@@ -869,6 +869,7 @@ audio/x-aiffc
 
 audio/x-it
 	_description=Impulse Tracker audio
+	icon_filename=gnome-audio-x-it
 
 audio/x-midi
 	_description=MIDI audio
