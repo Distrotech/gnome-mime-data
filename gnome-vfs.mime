@@ -286,7 +286,7 @@ application/x-netcdf
 	ext: cdf nc
 
 application/x-object-file
-	ext: o
+	ext: o lo
 
 application/x-oleo
 	ext: oleo

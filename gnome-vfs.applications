@@ -66,6 +66,7 @@ emacs
 	command=emacs
 	name=GNU Emacs
 	can_open_multiple_files=true
+	startup_notify=true
 	expects_uris=false
 	requires_terminal=false
 	mime_types=text/*,text/html,text/plain,text/x-c,text/x-c++,text/x-c-header,text/x-perl
@@ -83,6 +84,7 @@ file-roller
 	command=file-roller
 	name=File-roller
 	can_open_multiple_files=true
+	startup_notify=true
 	expects_uris=false
 	requires_terminal=false
 	mime_types=application/x-bzip,application/x-bzip-compressed-tar,application/x-arj,application/x-compress,application/x-compressed-tar,application/x-gtar,application/x-gzip,application/x-lha,application/x-lhz,application/x-tar,application/zip,application/x-rar-compressed,application/x-rar
@@ -91,6 +93,7 @@ file-roller-pack
 	command=file-roller --add
 	name=File Roller
 	can_open_multiple_files=true
+	startup_notify=true
 	expects_uris=false
 	requires_terminal=false
 	mime_types=*/*
@@ -116,6 +119,7 @@ galeon
 	command=galeon
 	name=Galeon
 	can_open_multiple_files=false
+	startup_notify=true
 	expects_uris=true
 	requires_terminal=false
 	supported_uri_schemes=file,http,ftp
@@ -134,6 +138,7 @@ ggv
 	command=ggv
 	name=ggv
 	can_open_multiple_files=false
+	startup_notify=true
 	expects_uris=false
 	requires_terminal=false
 	mime_types=application/pdf,application/postscript
