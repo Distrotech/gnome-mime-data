@@ -97,9 +97,9 @@ application/vnd.ms-excel
 	_description=Microsoft Excel spreadsheet
 	icon_filename=i-spreadsheet
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=staroffice,gnumeric,applix
-	short_list_application_ids_for_intermediate_user_level=staroffice,gnumeric,applix
-	short_list_application_ids_for_advanced_user_level=staroffice,gnumeric,applix
+	short_list_application_ids_for_novice_user_level=gnumeric,staroffice,applix
+	short_list_application_ids_for_intermediate_user_level=gnumeric,staroffice,applix
+	short_list_application_ids_for_advanced_user_level=gnumeric,staroffice,applix
 
 application/vnd.ms-powerpoint
 	_description=Microsoft PowerPoint document
@@ -129,9 +129,9 @@ application/x-applix-spreadsheet
 	_description=Applixware spreadsheet
 	icon_filename=i-spreadsheet
 	default_action_type=application
-	short_list_application_ids_for_novice_user_level=applix
-	short_list_application_ids_for_intermediate_user_level=applix
-	short_list_application_ids_for_advanced_user_level=applix
+	short_list_application_ids_for_novice_user_level=applix,gnumeric
+	short_list_application_ids_for_intermediate_user_level=applix,gnumeric
+	short_list_application_ids_for_advanced_user_level=applix,gnumeric
 
 application/x-applix-word
 	_description=Applixware Words document
