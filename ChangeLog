@@ -2,6 +2,12 @@
 
 	* gnome-vfs.keys.in:
 
+	Make AbiWord the default application for Word files.
+
+2001-11-02  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.keys.in:
+
 	Make Gnumeric the default application for Excel files.
 
 2001-11-01  Seth Nickell  <snickell@stanford.edu>
