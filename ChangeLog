@@ -1,3 +1,9 @@
+2003-09-10  Bastien Nocera  <hadess@hadess.net>
+
+	* configure.in: pump up to 2.4.0
+	* gnome-vfs.keys.in: make x-directory/smb-share use a component
+	as the default handler (fixes smb browsing)
+
 2003-09-01  Christian Rose  <menthos@menthos.com>
 
 	* configure.in: Added "ne" to ALL_LINGUAS.
