@@ -1,19 +1,21 @@
+# translation of sk.po to Slovak
 # Slovak translation of sk.po
 # gnome-mime-data sk.po
 # Copyright (C) 2000-2002 Free Software Foundation, Inc.
 # Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>, 2000-2002.
+# Stanislav Višňovský <visnovsky@nenya.ms.mff.cuni.cz>, 2002
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: sk\n"
-"POT-Creation-Date: 2002-05-11 16:05+0200\n"
-"PO-Revision-Date: 2002-05-11 16:06+0200\n"
-"Last-Translator: Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>\n"
+"POT-Creation-Date: 2002-05-24 15:08+0200\n"
+"PO-Revision-Date: 2002-05-24 15:09+0200\n"
+"Last-Translator: Stanislav Višňovský <visnovsky@nenya.ms.mff.cuni.cz>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0beta1\n"
+"X-Generator: KBabel 1.0beta2\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -432,44 +434,44 @@ msgid "ODA document"
 msgstr "dokument ODA"
 
 #: gnome-vfs.keys.in.h:105
-msgid "OpenOffice Impress presentation"
-msgstr "prezentácia OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation"
+msgstr "prezentácia OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:106
-msgid "OpenOffice Impress presentation template"
-msgstr "šablóna prezentácia OpenOffice Impress"
+msgid "OpenOffice.org Impress presentation template"
+msgstr "šablóna prezentácie OpenOffice.org Impress"
 
 #: gnome-vfs.keys.in.h:107
-msgid "OpenOffice Math document"
-msgstr "dokument OpenOffice Math"
+msgid "OpenOffice.org Math document"
+msgstr "dokument OpenOffice.org Math"
 
 #: gnome-vfs.keys.in.h:108
-msgid "OpenOffice Writer document"
-msgstr "dokument OpenOffice Writer"
+msgid "OpenOffice.org Writer document"
+msgstr "dokument OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:109
-msgid "OpenOffice Writer global document"
-msgstr "globálny dokument OpenOffice Writer"
+msgid "OpenOffice.org Writer global document"
+msgstr "globálny dokument OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:110
-msgid "OpenOffice Writer template"
-msgstr "šablóna OpenOffice Writer"
+msgid "OpenOffice.org Writer template"
+msgstr "šablóna OpenOffice.org Writer"
 
 #: gnome-vfs.keys.in.h:111
-msgid "OpenOffice drawing"
-msgstr "kresba OpenOffice"
+msgid "OpenOffice.org drawing"
+msgstr "kresba OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:112
-msgid "OpenOffice drawing template"
-msgstr "šablóna kresby OpenOffice"
+msgid "OpenOffice.org drawing template"
+msgstr "šablóna kresby OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:113
-msgid "OpenOffice spreadsheet"
-msgstr "tabuľka OpenOffice"
+msgid "OpenOffice.org spreadsheet"
+msgstr "tabuľka OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:114
-msgid "OpenOffice spreadsheet template"
-msgstr "šablóna tabuľky OpenOffice"
+msgid "OpenOffice.org spreadsheet template"
+msgstr "šablóna tabuľky OpenOffice.org"
 
 #: gnome-vfs.keys.in.h:115
 msgid "PBM image"
