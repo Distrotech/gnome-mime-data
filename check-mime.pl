@@ -78,7 +78,7 @@ print "Reading gnome-vfs.keys.in.\n";
 @expected_keys =
   (
    "can_be_executable",
-   "category",
+   "_category",
    "default_action_type",
    "icon_filename",
    "open",

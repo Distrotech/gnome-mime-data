@@ -1,3 +1,10 @@
+2002-08-17  Bastien Nocera  <hadess@hadess.net>
+
+	* gnome-vfs.keys.in: added gimp as a possible application for g3fax,
+	pcx, targa and xwd images
+	* check-mime.pl: s/category/_category/ so the script doesn't print
+	boatloads of useless warnings about Jody's change
+
 2002-08-07  Jody Goldberg <jody@gnome.org>
 
 	* gnome-vfs.keys.in : now that 2.0.1 is locked we can mark the

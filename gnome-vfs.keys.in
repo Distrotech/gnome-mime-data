@@ -1111,6 +1111,9 @@ image/cgm
 image/g3fax
 	_description=G3 fax image
 	_category=Images
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
 
 image/gif
 	_description=GIF image
@@ -1303,9 +1306,9 @@ image/x-palm
 
 image/x-pcx
 	_description=PC Paintbrush image
-	short_list_application_ids_for_novice_user_level=openoffice,staroffice
-	short_list_application_ids_for_intermediate_user_level=openoffice,staroffice
-	short_list_application_ids_for_advanced_user_level=openoffice,staroffice
+	short_list_application_ids_for_novice_user_level=openoffice,staroffice,gimp
+	short_list_application_ids_for_intermediate_user_level=openoffice,staroffice,gimp
+	short_list_application_ids_for_advanced_user_level=openoffice,staroffice,gimp
 
 image/x-photo-cd
 	_description=Photo CD image
@@ -1416,6 +1419,9 @@ image/x-sun-raster
 image/x-tga
 	_description=TarGA image
 	icon_filename=gnome-image-tga
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
 	_category=Images
 
 image/x-wmf
@@ -1467,6 +1473,9 @@ image/x-xpixmap
 image/x-xwindowdump
 	_description=X window image
 	icon_filename=gnome-image-xwd
+	short_list_application_ids_for_novice_user_level=gimp
+	short_list_application_ids_for_intermediate_user_level=gimp
+	short_list_application_ids_for_advanced_user_level=gimp
 	_category=Images
 
 message/delivery-status
