@@ -153,6 +153,9 @@ application/x-cpio
 application/x-cpio-compressed
 	regex: \.cpio\.gz$
 
+application/x-dc-rom
+	ext: dc
+
 application/x-deb
 	ext: deb
 
@@ -185,6 +188,12 @@ application/x-font-ttf
 
 application/x-font-type1
 	ext: pfa pfb
+
+application/x-gameboy-rom
+	ext: gb
+
+application/x-genesis-rom
+	ext: gen md
 
 application/x-glade
 	ext: glade
@@ -237,6 +246,15 @@ application/x-lhz
 application/x-mif
 	ext: mif
 
+application/x-msx-rom
+	ext: msx
+
+application/x-n64-rom
+	ext: n64
+
+application/x-nes-rom
+	ext: nes
+
 application/x-netcdf
 	ext: cdf nc
 
@@ -284,6 +302,9 @@ application/x-shockwave-flash
 
 application/x-smil
 	ext: smil smi sml
+
+application/x-sms-rom
+	ext: sms gg
 
 application/x-sv4cpio
 	ext: sv4cpio

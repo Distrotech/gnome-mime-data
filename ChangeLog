@@ -1,3 +1,28 @@
+2002-02-27  Bastien Nocera  <hadess@hadess.net>
+
+	reviewed by: Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs-mime-magic:
+	* gnome-vfs.applications:
+	* gnome-vfs.keys.in:
+	* gnome-vfs.mime: added ROM filetypes,
+	gtktalog, zsh, binhex and stuffit. Added file-roller as the default
+	program for archives.
+	* icons/gnome-application-x-dc-rom.png:
+	* icons/gnome-application-x-gameboy-rom.png:
+	* icons/gnome-application-x-genesis-rom.png:
+	* icons/gnome-application-x-gtktalog.png:
+	* icons/gnome-application-x-msx-rom.png:
+	* icons/gnome-application-x-n64-rom.png:
+	* icons/gnome-application-x-nes-rom.png:
+	* icons/gnome-application-x-sms-rom.png:
+	* icons/gnome-application-x-stuffit.png:
+	* icons/gnome-text-x-patch.png:
+	* icons/gnome-text-x-perl.png:
+	* icons/gnome-text-x-zsh.png:
+	* icons/gnome-text-xml.png: added some (!) icons
+	by jimmac
+
 2002-02-25  Hasbullah Bin Pit <sebol@ikhlas.com>
 
 	* configure.in: Added Malay (ms)to ALL_LINGUAS.

@@ -67,7 +67,11 @@
 2	string		-lh4-					application/x-lha
 2	string		-lh5-					application/x-lha
 20      string		\375\304\247\334			application/x-zoo
+0	string		StuffIt\ 				application/x-stuffit
+11	string		must\ be\ converted\ with\ BinHex	application/mac-binhex40
+4	string		gtktalog\ 				application/x-gtktalog
 0	string		diff\ 					text/x-patch
+0	string		Index:					text/x-patch
 0	string		***\ 					text/x-patch
 0	string		Only\ in\ 				text/x-patch
 0	string		Common\ subdirectories:\ 		text/x-patch
@@ -112,6 +116,7 @@
 0	string		#!/bin/csh				text/x-csh
 0	string		#!/bin/ksh				text/x-ksh
 0	string		#!/bin/perl				text/x-perl
+0	string		#!/bin/zsh				text/x-zsh
 1:16	string		/bin/sh					text/x-sh
 1:16	string		/bin/bash				text/x-sh
 1:16	string		/bin/csh				text/x-csh
