@@ -1,3 +1,10 @@
+2002-05-23  Seth Nickell  <snickell@stanford.edu>
+
+	* gnome-vfs.mime:
+
+	Add cls and sty extensions to TeX type (x-tex). Probably should be
+	split into LaTex types post string freeze.
+	
 2002-05-20  Jaka Mocnik  <jaka@gnu.org>
 
 	* gnome-vfs.keys.in: added GGV control component iids for

@@ -632,7 +632,7 @@ text/x-tcl
 	ext: tcl
 
 text/x-tex
-	ext: tex
+	ext: tex cls sty
 
 text/x-texinfo
 	ext: texi texinfo
