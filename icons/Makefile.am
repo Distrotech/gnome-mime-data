@@ -150,6 +150,7 @@ icon_DATA =\
 	i-cdrom-audio.png \
 	i-chardev.png \
 	i-core.png \
+	i-dvd.png \
 	i-executable.png \
 	i-fifo.png \
 	i-floppy.png \
