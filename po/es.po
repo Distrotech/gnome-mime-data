@@ -1,21 +1,21 @@
-# translation of gnome-mime-data to spanish
-# Spanish translation.
-# Copyright (C) 2000,2002,2003 Free Software Foundation, Inc.
+# GNOME-mime-data Spanish translation file.
+# Copyright © 2000,2002,2003 Free Software Foundation, Inc.
 # Manuel de Vega Barreiro <barreiro@arrakis.es>, 2000.
 # Mauricio Araya Polo <mauricio@eazel.com>, 2001.
-# Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2002
+# Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2002-2003.
+#
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-mime-data\n"
-"POT-Creation-Date: 2003-03-29 19:21+0100\n"
-"PO-Revision-Date: 2003-01-10 14:50-0300\n"
+"POT-Creation-Date: 2003-03-29 20:14+0100\n"
+"PO-Revision-Date: 2003-03-29 21:12-0300\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.1\n"
+"X-Generator: KBabel 0.9.6\n"
 
 #: gnome-vfs.keys.in.h:1
 msgid "3D Studio image"
@@ -55,7 +55,7 @@ msgstr "Inserción de toolkit Andrew"
 
 #: gnome-vfs.keys.in.h:10
 msgid "Apple ipod firmware"
-msgstr ""
+msgstr "Firmware del ipod de Apple"
 
 #: gnome-vfs.keys.in.h:11
 msgid "ApplixWare Graphics image"
@@ -71,12 +71,11 @@ msgstr "Hoja de cálculo de Applix"
 
 #: gnome-vfs.keys.in.h:14
 msgid "Assembler Code"
-msgstr ""
+msgstr "Código de assembler"
 
 #: gnome-vfs.keys.in.h:15
-#, fuzzy
 msgid "Assembler source code"
-msgstr "Código fuente en Scheme"
+msgstr "Código fuente de assembler"
 
 #: gnome-vfs.keys.in.h:16
 msgid "Audio"
@@ -295,9 +294,8 @@ msgid "GMC link"
 msgstr "Enlace de GMC"
 
 #: gnome-vfs.keys.in.h:70
-#, fuzzy
 msgid "GNOME theme package"
-msgstr "Paquete Stampede"
+msgstr "Paquete de tema para GNOME"
 
 #: gnome-vfs.keys.in.h:71
 msgid "GNU Oleo Spreadsheet"
@@ -404,9 +402,8 @@ msgid "Java byte code"
 msgstr "Código binario JAVA"
 
 #: gnome-vfs.keys.in.h:97
-#, fuzzy
 msgid "Java jar archive"
-msgstr "Archivo ar"
+msgstr "Archivo jar de Java"
 
 #: gnome-vfs.keys.in.h:98
 msgid "Java source code"
@@ -562,7 +559,7 @@ msgstr "Vídeo de Microsoft"
 
 #: gnome-vfs.keys.in.h:136
 msgid "Monkey Media lossless codec"
-msgstr ""
+msgstr "Codec lossless media de Monkey"
 
 #: gnome-vfs.keys.in.h:137
 msgid "NES rom"
@@ -701,9 +698,8 @@ msgid "Palm Pixmap image"
 msgstr "Imagen pixmap de palm"
 
 #: gnome-vfs.keys.in.h:171
-#, fuzzy
 msgid "Pascal source code"
-msgstr "Código fuente Java"
+msgstr "Código fuente de Pascal"
 
 #: gnome-vfs.keys.in.h:172
 msgid "Perl script"
@@ -870,12 +866,10 @@ msgid "Software Development/ROM Images"
 msgstr "Desarrollo de software/Imágenes ROM"
 
 #: gnome-vfs.keys.in.h:213
-#, fuzzy
 msgid "Software Development/ROM image"
-msgstr "Desarrollo de software/Imágenes ROM"
+msgstr "Desarrollo de software/Imagen ROM"
 
 #: gnome-vfs.keys.in.h:214
-#, fuzzy
 msgid "Software Development/Source"
 msgstr "Desarrollo de software/Código fuente"
 
@@ -1068,9 +1062,8 @@ msgid "Xbase database"
 msgstr "Base de datos Xbase"
 
 #: gnome-vfs.keys.in.h:262
-#, fuzzy
 msgid "Yacc source file"
-msgstr "Código fuente Java"
+msgstr "Código fuente de Yacc"
 
 #: gnome-vfs.keys.in.h:263
 msgid "Z shell script"
@@ -1097,9 +1090,8 @@ msgid "arj archive"
 msgstr "Archivo arj"
 
 #: gnome-vfs.keys.in.h:269
-#, fuzzy
 msgid "audio"
-msgstr "Audio"
+msgstr "audio"
 
 #: gnome-vfs.keys.in.h:270
 msgid "authors list"
@@ -1391,3 +1383,4 @@ msgstr "Archivo zoo"
 
 #~ msgid "M3 audio URL"
 #~ msgstr "URL para audio M3"
+
