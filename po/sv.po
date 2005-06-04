@@ -1236,7 +1236,7 @@ msgstr "StarWriter-dokument"
 
 #: gnome-vfs.keys.in.h:305
 msgid "Style sheet"
-msgstr "Stilmall"
+msgstr "Formatmall"
 
 #: gnome-vfs.keys.in.h:306
 msgid "Sun mu-law audio"
