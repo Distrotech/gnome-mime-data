@@ -1,3 +1,7 @@
+2006-12-14  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* configure.in: Commit forgotten version bump.
+
 2006-04-17  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* configure.in: Remove obsolete entry for no_NO
