@@ -1,6 +1,6 @@
 SUBDIRS = man po
 
-pkgconfigdir = $(libdir)/pkgconfig
+pkgconfigdir = $(datadir)/pkgconfig
 pkgconfig_DATA = gnome-mime-data-2.0.pc
 
 NULL=

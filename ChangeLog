@@ -1,3 +1,9 @@
+2007-04-03  Bastien Nocera  <hadess@hadess.net>
+
+	* Makefile.am: install the pkgconfig file in $(datadir)
+	so the package can be noarch
+	* configure.in: release 2.18.0
+
 2006-12-14  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* configure.in: Commit forgotten version bump.
